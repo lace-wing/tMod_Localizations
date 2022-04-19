@@ -1,5 +1,16 @@
 Mods: {
-	ExampleMod: {
+	MythMod:{
+		Common:{
+			WarWhipGTooltip: No summon tag damage\nYour summons will focus struck enemies
+			WhipGTooltip:  summon tag damage\nYour summons will focus struck enemies
+			ClubGTooltip: Spin to strike enemies
+		}
+		ItemName:{
+
+		}
+
+	}
+	/*ExampleMod: {
 		Config: {
 			ItemHeader: Items
 			
@@ -99,5 +110,5 @@ Mods: {
 				HateNPC: "I hate all the loud noises caused by {NPCName} and his explosives! I just want peace and quiet."
 			}
 		}
-	}
+	}*/
 }
