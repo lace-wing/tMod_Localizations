@@ -1,0 +1,42 @@
+Mods: {
+	MythMod: {
+		Common: {
+			WarWhipGTooltip :
+				'''
+				无召唤标记伤害
+				你的召唤物将集中攻击被击中的敌人
+				'''
+			WhipGTooltip :
+				'''
+				召唤标记伤害
+				你的召唤物将集中攻击被击中的敌人
+				'''
+			ClubGTooltip : 旋转挥舞以攻击敌人
+			Acytaea : 雅思塔亚
+
+		}
+
+		NPCName: {
+
+		}
+
+		RecipeConditions: {
+
+		}
+
+		ItemName:
+		{
+			AshBone : 烬中白骨
+		}
+		
+		ItemTooltip:
+		{
+			AshBone :
+				'''
+				无召唤标记伤害
+				你的召唤物将集中打击被击中的敌人
+				命中时爆出数根伤害性的的白骨并使敌人衰老,削弱其攻防
+				'''
+		}
+	}
+}
