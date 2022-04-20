@@ -1,6 +1,18 @@
 Mods: {
 	MythMod: {
 		Common: {
+            WarWhipGTooltip :
+				'''
+				No summon tag damage
+				Your summons will focus struck enemies
+				'''
+			WhipGTooltip :
+				'''
+				 summon tag damage
+				Your summons will focus struck enemies
+				'''
+			ClubGTooltip : Spin to strike enemies
+			Acytaea : Acytaea
 
 		}
 
