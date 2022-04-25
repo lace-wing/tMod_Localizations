@@ -6,13 +6,23 @@ Mods: {
 				无召唤标记伤害
 				你的召唤物将集中攻击被击中的敌人
 				'''
+				#{$Mods.MythMod.Common.WarWhipGTooltip}
 			WhipGTooltip :
 				'''
 				召唤标记伤害
 				你的召唤物将集中攻击被击中的敌人
 				'''
+				#{$Mods.MythMod.Common.WhipGTooltip}
 			ClubGTooltip : 旋转挥舞以攻击敌人
+			#{$Mods.MythMod.Common.ClubGTooltip}
 			Acytaea : 雅思塔亚
+			#{$Mods.MythMod.Common.Acytaea}
+			ExcluWeapon : 专属武器
+			#{$Mods.MythMod.Common.ExcluWeapon}
+			MythWeapon : 神话武器
+			#{$Mods.MythMod.Common.MythWeapon}
+			LegendWeapon : 传说武器
+			#{$Mods.MythMod.Common.LegendWeapon}
 
 		}
 
@@ -27,16 +37,185 @@ Mods: {
 		ItemName:
 		{
 			AshBone : 烬中白骨
+			BoneFeatherMagic : 白骨羽箭
+			CloudBall : 云团
+			CloudGun : 云导炮
+			ComingGhost : 诡弑
+			CyanFrost : 青霜剑
+			FeatherMagic : 羽箭
+			FireFeatherMagic : 烈焰羽箭
+			FreezeFeatherMagic : 寒冰羽箭
+			GoldRoundYoyo : "金边球"
+			Hepuyuan : "和璞鸢"
+			SilveralGun : "银猎之狐Fx01"
+			SilveralRifle : "银影幽豹Ct01"
+			Sunflower : "向日飞盘"
+			ThunderFlower : "雷之花"
+			World : "世界"
+			XmaxWhip : "圣诞树鞭"
+			BloodGoldBlade : "暗金屠杀"
+			BloodLightCyanFlame : "血光青炎"
+			BlueRain : "雨落蓝池"
+			ChaosCurrent : "混沌爆流"
+			DarknessFan : "幻蝶萤火扇"
+			FrozenStormPine : "冰凌雪松"
+			GelPowerGun : "啫喱充能器"
+			LaserWhip : "激光鞭"
+			MachineFit : "统帅之拳"
+			MachineSkeGun : "杀戮之轮"
+			RainbowLight : "天赐神光"
+			SilenceMirror : "寂镜"
+			ThornBomb : "刺球炸弹"
+			ToothBow : "獠牙巨弓"
+			ToothSpear : "血龙脊"
+			TrapYoyo : "机关球"
+			BlueGel : "湛蓝凝晶"
+			BlueTorchFlower : "翠蓝冰炬"
+			CorruptEye : "鳞甲诅咒眼"
+			CyanBranch : "一束天青"
+			CyanPedal : "四瓣琉璃"
+			DarkHat : "罂粟花坠饰"
+			DukeTooth : "公爵之牙"
+			FlameBorageBadge : "黑萤苣之章"
+			GoldLiquidPupil : "僭越之眼"
+			GoldRound : "金盏轮盘"
+			GreenGel : "森绿凝晶"
+			HotPinkCrown : "活化郁金香"
+			JungleVitamin : "丛林维生素"
+			LightPurplePen : "紫豪中山兔"
+			ManyWhiteFlower : "白星锦球"
+			MothEye : "魔蛾之眼"
+			Odd8Ring : "诡8指环"
+			OrangeCrown : "坚韧郁金香"
+			OrangeStick : "坚橙狼尾"
+			PinkFourPedal : "四命轮回"
+			PurpleBall : "紫绣球吊坠"
+			PurpleReedHalo : "紫苇花冠"
+			RedGel : "血红凝晶"
+			RedTriangle : "三尖红狐"
+			SilverCupFlower : "皇家酒杯"
+			SilverWing : "银翼之章"
+			ThreeColorCrown : "三色花环"
+			TuskLace : "獠牙项链"
+			WalnutClip : "胡桃夹子"
+			WhiteCrown : "希望之花"
+			WhitePedal : "光纱之瓣"
+			WhiteWoodFlower : "银耳花"
+			WindMoveSeed : "风动之种"
+			YellowBellFlower : "金簇铃兰"
 		}
 		
 		ItemTooltip:
 		{
 			AshBone :
 				'''
-				无召唤标记伤害
-				你的召唤物将集中打击被击中的敌人
+				{$Mods.MythMod.Common.WarWhipGTooltip}
 				命中时爆出数根伤害性的的白骨并使敌人衰老,削弱其攻防
 				'''
+			BoneFeatherMagic : 射出穿透性骨羽，使命中的敌人衰老，削弱其攻防
+			CloudGun : 发射云团
+			ComingGhost : 随机抽取幸运怪物受到袭击
+			FeatherMagic : '我爱鸟妖♥'
+			FireFeatherMagic : 射出爆燃羽毛
+			FreezeFeatherMagic : 射出冰封羽毛
+			GoldRoundYoyo : "留下跟踪的金圈轨迹"
+			Hepuyuan : "{$Mods.MythMod.Common.ExcluWeapon}\n左键突刺,右键打桩\n你不应该得到它\n致敬<原神>"
+			SilveralGun : "命中后移速和伤害提升5%,持续5秒"
+			SilveralRifle : "命中后移速和伤害提升5%,持续5秒"
+			Sunflower : "葵花打造的武器,拥有象征希望的色彩"
+			ThunderFlower : "射出雷暴球\n'射弹太多了！'"
+			World : "在鼠标处召唤“世界”，召唤时右键以在跟随与斩击模式间切换\n'整片大地的力量,归结于此...'"
+			XmaxWhip : "{$Mods.MythMod.Common.WarWhipGTooltip}\n击中敌人时爆出伤害性的彩灯\n'比圣诞树剑好太多'"
+			BloodGoldBlade : "{$Mods.MythMod.Common.MythWeapon}\n向四周释放灵液刃\n弑神之刃,沾染了众神之血"
+			BloodLightCyanFlame : "{$Mods.MythMod.Common.LegendWeapon}\n交替掷出激光旋刃和咒火旋刃\n'它们本应是双子魔眼的武器,幸好你救出了机械师'"
+			BlueRain : "{$Mods.MythMod.Common.LegendWeapon}\n长按右键蓄力重击\n雨滴为保持纯净抗拒与海水融合,最终在深海的乱流中汇聚成这个形状"
+			ChaosCurrent : "{$Mods.MythMod.Common.LegendWeapon}\n发射一团扰乱神经的乱流\n无视无敌帧\n'造成大量神经损伤！'"
+			DarknessFan : "{$Mods.MythMod.Common.LegendWeapon}\n无召唤标记伤害\n你的召唤物将集中打击敌人\n无召唤标记伤害\n你的召唤物将集中打击被扇子击中的敌人\n以扇子和幻蝶打击敌人，右键扔出扇子\n扇子本体施加幻蝶之印(可叠加), 每层使幻蝶造成的伤害提高10%\n层数上限随共鸣层数增长\n'蕴含着被巨蛾吞噬的灵魂'"
+			GelPowerGun : "{$Mods.MythMod.Common.LegendWeapon}\n以凝胶作为弹药\n射出弹性凝胶团\n前3次弹射释放小团弹力凝胶\n'弹弹弹，弹走毁灭者'"
+			LaserWhip : "{$Mods.MythMod.Common.LegendWeapon}\n{$Mods.MythMod.Common.WarWhipGTooltip}\n命中敌人有概率生成临时召唤物激光虫并施加激光标记\n有激光标记的敌人受到的伤害增加50%，受到的暴击伤害增加25%\n'传说中有的蠕虫可以使它们的激光连成一线'"
+			MachineFit : "{$Mods.MythMod.Common.LegendWeapon}\n无情的灭杀之拳\n命中敌人后分裂成5发追踪导弹\n'利用好它的手，而不是头"
+			MachineSkeGun : "{$Mods.MythMod.Common.MythWeapon}\n连续射击以发射额外子弹\n'钢铁骷髅未来得及的终极杀器'"
+			RainbowLight : "{$Mods.MythMod.Common.LegendWeapon}\n可以蓄力，不造成伤害\n选择并释放七种光罩之一，不占用Buff栏位\n[c/FF0000:红]:提升暴击\n[c/FF8E00:橙]:提升防御\n[c/FFFF00:黄]:提升攻击\n[c/00FF00:绿]:加速恢复生命\n[c/00FFFF:青]:增加闪避\n[c/0000FF:蓝]:迅速回复法力\n[c/B600FF:紫]:加快速度\n效果强度由伤害决定,暴击翻倍\n'你要负起责任来啊！'"
+			SilenceMirror : "{$Mods.MythMod.Common.MythWeapon}\n右键在血色镜与寂魂之间切换\n连击以提升伤害\n超脱凡尘之外便再无争战"
+			ThornBomb : "{$Mods.MythMod.Common.LegendWeapon}\n交替掷出双色炸弹\n'砰砰炸弹！'"
+			ToothBow : "{$Mods.MythMod.Common.LegendWeapon}\n射击时产生齿箭\n右键聚集齿箭\n'它能掌控其它牙齿'"
+			ToothSpear : "{$Mods.MythMod.Common.MythWeapon}\n右键冲刺，有8秒冷却\n共鸣缩减冷却\n'去吧,效仿上古的勇士,拿它屠龙'"
+			TrapYoyo : "{$Mods.MythMod.Common.LegendWeapon}\n每1.5秒产生一个虚幻的光球\n凑够5个光球按下右键可以释放太阳粒子流\n'结构精巧,是太阳崇拜者万年来的智慧结晶'"
+			BlueGel : "增加30魔力上限和4魔力回复\n史莱姆的尸体通常会化作一滩水,但有的凝结了起来"
+			BlueTorchFlower : "增加20魔力上限\n命中敌人回复2魔力,有0.2秒冷却\n'火炬花的一个变种'"
+			CorruptEye : "5防御\n增加4%暴击率\n免疫咒火\n受伤时释放咒火\n'即便它的主人已经死了,它仍充满着对敌人的诅咒'"
+			CyanBranch : "受击后10秒增加8闪避能力\n'它十分坚硬，但也很脆弱'"
+			CyanPedal : "闪避能力增加4\n'少的那一瓣化作你的勇气'"
+			DarkHat : "暴击率增加4%,暴击伤害增加12%\n'除用于战斗和装饰不建议使用'"
+			DukeTooth : "增加12盔甲穿透力\n'还好猪鲨不是濒危物种...只要有松露虫'"
+			FlameBorageBadge : "-12防御\n伤害增加18%\n'受到那只巨蛾怒气的影响,你的攻击变得更加狂野'"
+			GoldLiquidPupil : "你的攻击无视敌人35%的防御\n受伤之后生成灵液之环,持续12秒,不可叠加\n灵液之环生成时造成高额伤害\n持续伤害环上的敌人\n对环内的敌人施加灵液"
+			GoldRound : "7防御\n伤害增加7%\n'传统的泰拉人通常配戴它来保持健康'"
+			GreenGel : "生命上限增加30,生命回复增加4\n'研究显示绿史莱姆通常比蓝史莱姆更具生命力'"
+			HotPinkCrown : "暴击伤害增加(最大生命值*5%)%\n'经过风之精华的催化,它将对生命力做出反应'"
+			JungleVitamin : "生命上限增加50\n'在潮湿,危险的丛林中可以给予巨大的帮助'"
+			LightPurplePen : "近战伤害、近战暴击率和近战攻速各增加6%\n'没有任何兔子在制作过程中受到伤害'"
+			ManyWhiteFlower : "近战攻速增加8%\n部分射弹的速度*118%\n'你不想让这些神奇又可爱的花被损坏'"
+			MothEye : "召唤栏位增加1\n召唤伤害增加6%\n'复眼精妙的结构使你着魔'"
+			Odd8Ring : "造成的伤害增加8点\n'神秘的遗物,机理不明,似乎与某种数学崇拜有关'"
+			OrangeCrown : "防御力+(最大生命值*3%)%\n'埃俄罗斯祝福过的郁金香,结构强度出奇的高'"
+			OrangeStick : "受击后3秒获得5防御力和击退免疫\n'与大多数草不同,它在狂风中坚挺而不折腰'"
+			PinkFourPedal : "最大生命值增加40\n'据说受伤的动物会去吃它来疗伤...事实确实如此,但好像对人效果不大'"
+			PurpleBall : "命中身周的敌人会释放紫色花瓣爆炸\n花瓣伤害随攻击的伤害增加\n有0.5秒冷却\n'愤怒紫绣球'"
+			PurpleReedHalo : "生命上限增加30\n魔力上限增加40\n'好闻又好看'"
+			RedGel : "暴击率增加6%\n暴击伤害增加9%\n'有的史莱姆也被神之血的力量所影响了,即使它们没有血液'"
+			RedTriangle : "暴击伤害增加18%\n'在泰拉文化中,这是一种具有攻击性的形状'"
+			SilverCupFlower : "8防御\n生命上限增加20\n'曾有一位残暴的国王真的尝试拿它当酒杯,他一滴也没喝上'"
+			SilverWing : "暴击伤害增加8%\n若3秒没有使用武器则伤害增加40%\n'聚集你灵魂的力量'"
+			ThreeColorCrown : "击中敌人后随机获得以下三种效果之一,持续7秒\n红:伤害增加22%，暴击率增加11%\n紫:免疫绝大多数减益效果\n蓝:魔力上限增加300\n有30秒CD\n'求别太幸运'"
+			TuskLace : "盔甲穿透增加5\n伤害和暴击增加5%\n'一颗獠牙被人从某只猛兽嘴里打了下来,你又敲下了上面的一小部分'"
+			WalnutClip : "暴击伤害增加16%\n低于半血后伤害增加(半血血量-当前血量)%\n'除了夹碎胡桃和螃蟹,它还能夹碎敌人'"
+			WhiteCrown : "奔跑速度增加(生命上限*0.2%)\n'一枝素白的郁金香，像是在悼念某人'"
+			WhitePedal : "闪避能力增加2\n暴击率增加4%\n'它是如此轻薄'"
+			WhiteWoodFlower : "召唤栏位增加2\n'奇妙的共生关系'"
+			YellowBellFlower : "伤害增加(20%防御力)%\n'稀有又好看'"
+		}
+
+		BuffName : 
+		{
+			BanTransport : "现实之锁"
+			CorruptMothBuff : "小黑蛾"
+			Freeze : "冰封"
+			Freeze2 : "冰封Ⅱ"
+			LaserWormBuff : "激光虫"
+			MoonAndFragrans : "花开冠月"
+			MoonAndFragransII : "一树金秋"
+			MoonAndFragransIII : "金流遍野"
+			OnMoth : "幻蝶印"
+			BlueImmune : "蓝色火焰免疫"
+			BrownImmune : "棕色火焰免疫"
+			GreenImmune : "绿色火焰免疫"
+			PinkImmune : "粉色火焰免疫"
+			PurpleImmune : "紫色火焰免疫"
+			RedImmune : "红色火焰免疫"
+			WhiteImmune : "白色火焰免疫"
+			YellowImmune : "黄色火焰免疫"
+		}
+
+		BuffDescription : 
+		{
+			BanTransport : "你不能传送！"
+			CorruptMothBuff : "小黑蛾将为你而战"
+			Freeze : ""
+			Freeze2 : ""
+			LaserWormBuff : "激光虫将为你而战"
+			MoonAndFragrans : "有花又月,等你归来\n伤害提升25%, 暴击提升15%, 总伤害乘数生效两次"
+			MoonAndFragransII : "有花又月,等你归来\n伤害提升50%, 暴击提升30%, 总伤害乘数生效三次"
+			MoonAndFragransIII : "有花又月,等你归来\n伤害提升75%, 暴击提升45%, 总伤害乘数生效四次"
+			OnMoth : "受到更多来自幻蝶的伤害"
+			BlueImmune : "花火幻魂心的蓝色火焰无法伤害到你"
+			BrownImmune : "花火幻魂心的棕色火焰无法伤害到你"
+			GreenImmune : "花火幻魂心的绿色火焰无法伤害到你"
+			PinkImmune : "花火幻魂心的粉色火焰无法伤害到你"
+			PurpleImmune : "花火幻魂心的紫色火焰无法伤害到你"
+			RedImmune : "花火幻魂心的红色火焰无法伤害到你"
+			WhiteImmune : "花火幻魂心的白色火焰无法伤害到你"
+			YellowImmune : "花火幻魂心的黄色火焰无法伤害到你"
 		}
 	}
 }

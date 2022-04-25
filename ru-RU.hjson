@@ -1,18 +1,22 @@
-Mods: {
+﻿Mods: {
 	MythMod: {
 		Common: {
-            WarWhipGTooltip :
+			WarWhipGTooltip :
 				'''
-				No summon tag damage
-				Your summons will focus struck enemies
+				Урон от метки призыва отсутствует
+				ваш призыв будет фокусироваться на пораженных врагах
 				'''
+				#{$Mods.MythMod.Common.WarWhipGTooltip}
 			WhipGTooltip :
 				'''
 				 summon tag damage
 				Your summons will focus struck enemies
 				'''
+				#{$Mods.MythMod.Common.WhipGTooltip}
 			ClubGTooltip : Spin to strike enemies
+			#{$Mods.MythMod.Common.ClubGTooltip}
 			Acytaea : Acytaea
+			#{$Mods.MythMod.Common.Acytaea}
 
 		}
 
@@ -27,16 +31,44 @@ Mods: {
 		ItemName:
 		{
 			AshBone : Раздробленные Кости
+			BoneFeatherMagic : Книга костяного пера
+			CloudBall : Облачный кластер
+			CloudGun : Облачная пушка
+			ComingGhost : Деформированный клинок
+			CyanFrost : Морозно-голубой клинок
+			FeatherMagic : Книга перьев
+			FireFeatherMagic : Книга пылающего пера
+			FreezeFeatherMagic : Книга ледяного пера
+			GoldRoundYoyo : "Золотой тур"
+			Hepuyuan : "Нефритовый коршун"
+			SilveralGun : "Охотник на лис Fx01"
+			SilveralRifle : "Серебряная Тень Ct 01"
+			Sunflower : "Диск-подсолнух"
+			ThunderFlower : "Цветок света"
+			World : "Мир"
+			XmaxWhip : "Хлыст Рождественской елки"
 		}
 
 		ItemTooltip:
 		{
 			AshBone :
 				'''
-				Урон от метки призыва отсутствует
-				ваш призыв будет фокусироваться на пораженных врагах
+				{$Mods.MythMod.Common.WarWhipGTooltip}
 				Наносит несколько повреждений костям и поражая старением врагов, ослабляет их атаку и защиту
 				'''
+			BoneFeatherMagic : Стреляет пронзающими костяными перьями, поражая старением врагов, ослабляют их атаку и защиту
+			CloudGun : Запускает облачные кластеры
+			ComingGhost : Атакует случайного врага поблизости
+			FeatherMagic : "'Я люблю гарпий♥'"
+			FireFeatherMagic : Стреляет взрывными перьями
+			FreezeFeatherMagic : Стреляет обледеняющими перьями
+			GoldRoundYoyo : "Оставляет след из самонаводящихся золотых колец"
+			SilveralGun : "на 5% увеличена скорость передвижения и урон после попадания во врагов"
+			SilveralRifle : "на 5% увеличена скорость передвижения и урон после попадания во врагов"
+			Sunflower : "Оружие, сделанное из подсолнухов, имеет цвет надежды"
+			ThunderFlower : "Стреляет грозовыми шарами \n'Слишком много снарядов!'"
+			World : "Призывает 'Мир' на курсоре, щелкните правой кнопкой мыши, когда он вызывается, чтобы переключиться между режимом следования и режимом разреза\n 'Здесь собрана сила всей земли...'"
+			XmaxWhip : "{$Mods.MythMod.Common.WarWhipGTooltip}\nНаносит урон рождественским огням при попадании во врагов \n 'Намного лучше, чем меч Рождественской елки'"
 		}
 	}
 }
