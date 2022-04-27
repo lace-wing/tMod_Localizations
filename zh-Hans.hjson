@@ -124,6 +124,14 @@ Mods: {
 			FixCoinSpeed1 : "附魔币 移速Ⅰ"
 			FixCoinSpeed2 : "附魔币 移速Ⅱ"
 			FixCoinSpeed3 : "附魔币 移速Ⅲ"
+			BloodyTuskTrophy : "鲜血獠牙纪念章"
+			CorruptMothTrophy : "腐檀巨蛾纪念章"
+			MothRelic : "腐檀巨蛾圣物"
+			TuskRelic : "鲜血獠牙圣物"
+			CorruptMothTreasureBag : "宝藏袋(腐檀巨蛾)"
+			CursedJawbone : "诅咒颌骨"
+			EvilCocoon : "魔茧"
+			TuskTreasureBag : "宝藏袋(鲜血獠牙)"
 		}
 		
 		ItemTooltip:

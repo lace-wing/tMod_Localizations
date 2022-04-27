@@ -125,6 +125,14 @@ Mods: {
 			FixCoinSpeed1 : "Enchanted Coin Movement SpeedⅠ"
 			FixCoinSpeed2 : "Enchanted Coin Movement SpeedⅡ"
 			FixCoinSpeed3 : "Enchanted Coin Movement SpeedⅢ"
+			BloodyTuskTrophy : "The Tusk Trophy"
+			CorruptMothTrophy : "Corrupted Moth Trophy"
+			MothRelic : "Corrupted Moth Relic"
+			TuskRelic : "The Tusk Relic"
+			CorruptMothTreasureBag : "Treasure Bag(Corrupted Moth)"
+			CursedJawbone : "Cursed Jawbone"
+			EvilCocoon : "Magical Cocoon"
+			TuskTreasureBag : "Treasure Bag(The Tusk)"
 		}
 
 		ItemTooltip :
