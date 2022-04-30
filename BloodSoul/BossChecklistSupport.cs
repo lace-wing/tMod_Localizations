@@ -20,16 +20,31 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
                 bossCheckList.Call(
                     "AddBoss",//添加boss
                     2.5f,//时期 克眼后
-                    ModContent.NPCType<NPCs.Bosses.Uang>(),//npc
+                    ModContent.NPCType<NPCs.Bosses.PhantomUang.Uang>(),//npc
                     this,//本Mod
                     "$Mods.BloodSoul.NPCName.Uang",//获取命名
                     () => BloodSoulSystem.downedUang,//检测击败
-                    ModContent.ItemType<Items.StarProof>(),//召唤物
-                    new List<int>(0),//没有收藏品
-                    new List<int>(0),//添加普通掉落物
+                    ModContent.ItemType<Items.Phantom.PhantomBait>(),//召唤物
+                    new List<int> { ModContent.ItemType<Mount.Uang.UangEgg>() },
+                    new List<int> { ModContent.ItemType<Items.BossBag.UangBossBag>() },//添加普通掉落物
                     "$Mods.BloodSoul.BossSpawnInfo.Uang",//召唤条件
                     "$Mods.BloodSoul.Introduce.Uang",//介绍
                     "BloodSoul/Images/donwedUangImages"//图片
+                    );
+
+                bossCheckList.Call(
+                    "AddBoss",//添加boss
+                    3.3f,//时期 邪恶Boss后,1
+                    ModContent.NPCType<NPCs.Bosses.RockSnake.RockSnakeHead>(),//npc
+                    this,//本Mod
+                    "$Mods.BloodSoul.NPCName.RockSnake",//获取命名
+                    () => BloodSoulSystem.downedRockSnake,//检测击败
+                    ModContent.ItemType<Items.花岗岩彩石>(),//召唤物
+                    new List<int> (0),
+                    new List<int> { ModContent.ItemType<Items.BossBag.RockSnakeBossBag>() },//添加普通掉落物
+                    "$Mods.BloodSoul.BossSpawnInfo.RockSnake",//召唤条件
+                    "$Mods.BloodSoul.Introduce.RockSnake",//介绍
+                    "BloodSoul/Images/donwedRockSnakeImages"//图片
                     );
 
                 bossCheckList.Call(
@@ -67,7 +82,7 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
                     5.7f,//时期 血眼后
                     ModContent.NPCType<NPCs.Bosses.SharaIshvalda.SharaIshvaldaBody>(),//npc
                     this,//本Mod
-                    "$Mods.BloodSoul.NPCName.SharaIshvaldaBody",//获取血眼的命名
+                    "$Mods.BloodSoul.NPCName.SharaIshvaldaBody",//获取弟弟龙的命名
                     () => BloodSoulSystem.SharaIshvalda,//检测击败
                     ModContent.ItemType<Items.DifferentWorld2>(),//召唤物
                     new List<int>(0),//没有收藏品
@@ -79,7 +94,22 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
 
                 bossCheckList.Call(
                     "AddBoss",//添加boss
-                    13.5f,//时期 月总前
+                    8.7f,//时期 史皇后7
+                    ModContent.NPCType<NPCs.Bosses.Tidespirit.Tideboss>(),//npc
+                    this,//本Mod
+                    "$Mods.BloodSoul.NPCName.TideSpirit",//获取命名
+                    () => BloodSoulSystem.downedTideSpirit,//检测击败
+                    ModContent.ItemType<Items.TurbulentWater>(),//召唤物
+                    new List<int> (0),
+                    new List<int> { ModContent.ItemType<Items.BossBag.TideSpiritBossBag>() },//添加普通掉落物
+                    "$Mods.BloodSoul.BossSpawnInfo.TideSpirit",//召唤条件
+                    "$Mods.BloodSoul.Introduce.TideSpirit",//介绍
+                    "BloodSoul/Images/donwedTideSpiritImages"//图片
+                    );
+
+                bossCheckList.Call(
+                    "AddBoss",//添加boss
+                    16.5f,//时期 教徒后
                     ModContent.NPCType<NPCs.Bosses.TheStarGazer.StarGazerBoss>(),//npc
                     this,//本Mod
                     "$Mods.BloodSoul.NPCName.StarGazerBoss",//获取命名

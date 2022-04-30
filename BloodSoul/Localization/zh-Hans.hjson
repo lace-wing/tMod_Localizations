@@ -29,13 +29,25 @@ Mods:
 		BossSpawnInfo:
 		{
 			GelSpider : "干爆史莱姆王，然后在夜晚拿它尸体的一部分去挑衅它的护卫"
-			StarGazerBoss : "使用星之证来证明你有资格挑战他"
+			StarGazerBoss : "使用星之证来证明你有资格挑战他\n他不会让月球领主降临，除非你能使他“回心转意”"
+			Uang : "在幻灵地使用幻灵饵食吸引它"
+			RockSnake : "使用一块奇异的花岗石召唤"
+			TideSpirit : "在海洋环境激活汹涌之水"
+			SharaIshvaldaBody : "在沙漠使用观星者给的一份契约"
+			BloodCrystalEye : "它是英灵剑的死敌，带上那把剑，用血眼魔心吸引它前来"
+			HolyLightSword : "一把蕴含着堕落英灵的剑，堕魂红晶会很适合它"
 		}
 
 		NPCName:
 		{
 			GelSpider : "凝繆毒蛛"
 			StarGazerBoss : "观星者"
+			Uang : "幻灵独角仙"
+			RockSnake : "撼地蛇"
+			TideSpirit : "潮涌之灵"
+			SharaIshvaldaBody : "天地煌啼龙"
+			BloodCrystalEye : "血晶魔眼"
+			HolyLightSword : "英灵剑"
 		}
 
 		RecipeConditions:

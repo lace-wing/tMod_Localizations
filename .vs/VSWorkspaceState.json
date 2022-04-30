@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BloodSoul",
+    "\\BloodSoul\\Bosses",
     "\\BloodSoul\\Localization"
   ],
+  "SelectedNode": "\\BloodSoul\\Bosses\\SaintGoldDetector",
   "PreviewInSolutionExplorer": false
 }
