@@ -19,21 +19,6 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
 
                 bossCheckList.Call(
                     "AddBoss",//添加boss
-                    2.5f,//时期 克眼后
-                    ModContent.NPCType<NPCs.Bosses.Uang>(),//npc
-                    this,//本Mod
-                    "$Mods.BloodSoul.NPCName.Uang",//获取命名
-                    () => BloodSoulSystem.downedUang,//检测击败
-                    ModContent.ItemType<Items.StarProof>(),//召唤物
-                    new List<int>(0),//没有收藏品
-                    new List<int>(0),//添加普通掉落物
-                    "$Mods.BloodSoul.BossSpawnInfo.Uang",//召唤条件
-                    "$Mods.BloodSoul.Introduce.Uang",//介绍
-                    "BloodSoul/Images/donwedUangImages"//图片
-                    );
-
-                bossCheckList.Call(
-                    "AddBoss",//添加boss
                     5.5f,//时期 骷髅王后
                     ModContent.NPCType<NPCs.Bosses.HolyLightSwords.HolyLightSword>(),//npc
                     this,//本Mod
