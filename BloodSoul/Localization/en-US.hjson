@@ -1,0 +1,74 @@
+Mods:
+{
+	BloodSoul:
+	{
+		NPCName:
+		{
+
+		}
+
+		MapObject:
+		{
+
+		}
+
+
+		Common:
+		{
+			WarWhipGTooltip :
+				'''
+				No summon tag damage
+				Your summons will focus struck enemies
+				'''
+				#{$Mods.BloodSoul.Common.WarWhipGTooltip}
+			WhipGTooltip :
+				'''
+				 summon tag damage
+				Your summons will focus struck enemies
+				'''
+				#{$Mods.BloodSoul.Common.WhipGTooltip}
+			ClubGTooltip : Spin to strike enemies
+			#{$Mods.BloodSoul.Common.ClubGTooltip}
+			ExcluWeapon : Exclusive weapon
+			#{$Mods.BloodSoul.Common.ExcluWeapon}
+			MythWeapon : Mythical weapon
+			#{$Mods.BloodSoul.Common.MythWeapon}
+			LegendWeapon : Legendary weapon
+			#{$Mods.BloodSoul.Common.LegendWeapon}
+
+		}
+
+		ItemName: 
+		{
+			
+		}
+
+		ItemTooltip :
+		{
+			
+		}
+		ProjectileName:
+		{
+
+		}
+
+		BuffName : 
+		{
+			
+		}
+		BuffDescription : 
+		{
+			
+		}
+
+		RecipeConditions:
+		{
+
+		}
+
+		Bestiary:
+		{
+
+		}
+	}
+}

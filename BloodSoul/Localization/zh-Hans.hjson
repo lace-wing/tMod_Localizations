@@ -1,0 +1,67 @@
+Mods:
+{
+	BloodSoul:
+	{
+		Common: {
+			WarWhipGTooltip :
+				'''
+				无召唤标记伤害
+				你的召唤物将集中攻击被击中的敌人
+				'''
+				#{$Mods.BloodSoul.Common.WarWhipGTooltip}
+			WhipGTooltip :
+				'''
+				召唤标记伤害
+				你的召唤物将集中攻击被击中的敌人
+				'''
+				#{$Mods.BloodSoul.Common.WhipGTooltip}
+			ClubGTooltip : 旋转挥舞以攻击敌人
+			#{$Mods.BloodSoul.Common.ClubGTooltip}
+			ExcluWeapon : 专属武器
+			#{$Mods.BloodSoul.Common.ExcluWeapon}
+			MythWeapon : 神话武器
+			#{$Mods.BloodSoul.Common.MythWeapon}
+			LegendWeapon : 传说武器
+			#{$Mods.BloodSoul.Common.LegendWeapon}
+
+		}
+
+		BossSpawnInfo:
+		{
+			GelSpider : "干爆史莱姆王，然后在夜晚拿它尸体的一部分去挑衅它的护卫"
+			StarGazerBoss : "使用星之证来证明你有资格挑战他"
+		}
+
+		NPCName:
+		{
+			GelSpider : "凝繆毒蛛"
+			StarGazerBoss : "观星者"
+
+		}
+
+		RecipeConditions:
+		{
+
+		}
+
+		ItemName:
+		{
+			
+		}
+		
+		ItemTooltip:
+		{
+			
+		}
+
+		BuffName : 
+		{
+			
+		}
+
+		BuffDescription : 
+		{
+			
+		}
+	}
+}
