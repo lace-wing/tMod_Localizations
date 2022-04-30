@@ -65,13 +65,13 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
                 bossCheckList.Call(
                     "AddBoss",//添加boss
                     13.5f,//时期 月总后
-                    ModContent.NPCType<StarGazerBoss>(),//npc
+                    ModContent.NPCType<NPCs.Bosses.TheStarGazer.StarGazerBoss>(),//npc
                     this,//本Mod
                     "$Mods.BloodSoul.NPCName.StarGazerBoss",//获取命名
-                    () => BloodSoulSystem.downedStarGazerBoss,//检测击败
+                    () => BloodSoulSystem.downedStarGazer,//检测击败
                     ModContent.ItemType<Items.StarProof>(),//召唤物
                     new List<int>(0),//没有收藏品
-                    new List<int> { ModContent.ItemType<Items.BossBag.StarGazerBossBossBag>() },//添加普通掉落物
+                    new List<int>(0)//添加普通掉落物
                     "$Mods.BloodSoul.BossSpawnInfo.StarGazerBoss",//召唤条件
                     "$Mods.BloodSoul.Introduce.StarGazerBoss",//介绍
                     "BloodSoul/Images/donwedStarGazerBossImages"//图片
