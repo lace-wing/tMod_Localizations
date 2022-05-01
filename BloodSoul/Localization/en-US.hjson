@@ -2,10 +2,6 @@ Mods:
 {
 	BloodSoul:
 	{
-		NPCName:
-		{
-
-		}
 
 		MapObject:
 		{
@@ -36,6 +32,32 @@ Mods:
 			LegendWeapon : Legendary weapon
 			#{$Mods.BloodSoul.Common.LegendWeapon}
 
+		}
+
+		BossSpawnInfo:
+		{
+			GelSpider : "Slay King Slime, then provoke its guard using a part of its dead body at night time"
+			StarGazerBoss : "Use Star Certificate to proof that you are worthy\nHe will not let Moon Lord be awoken, unless you can 'change his mind'"
+			Uang : "Attract it using Phantom Bait in Phantom biome"
+			RockSnake : "Use a strange granite to summon"
+			TideSpirit : "Activate Turbulent Water in Ocean biome"
+			SharaIshvaldaBody : "Use a contract in desert"
+			BloodCrystalEye : "Ancient Holy Sword is its foe, take that sword and use Sanguine Eye's Demon Core"
+			HolyLightSword : "Degenerating Ruby would fit this sword which contains fallen souls"
+			DarkStarLord : "Let the Dark Star fall at night time"
+		}
+
+		NPCName:
+		{
+			GelSpider : "Poisonous Gelatin Spider"
+			StarGazerBoss : "Stargazer"
+			Uang : "Phantom Uang"
+			RockSnake : "Rocky Snake"
+			TideSpirit : "Spirit of Tide"
+			SharaIshvaldaBody : "Shara Ishvalda"
+			BloodCrystalEye : "Sanguine Eye"
+			HolyLightSword : "Ancient Holy Sword"
+			DarkStarLord : "Dark Star Lord"
 		}
 
 		ItemName: 

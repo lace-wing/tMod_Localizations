@@ -31,6 +31,7 @@ namespace BloodSoul
         public static bool downedUang;
         public static bool downedRockSnake;
         public static bool downedTideSpirit;
+        public static bool downedDarkStarLord;
         public override void SaveWorldData(TagCompound tag)
         {
             if (downedHolyLightSword)
@@ -81,6 +82,10 @@ namespace BloodSoul
             {
                 tag["downedTideSpirit"] = true;
             }
+            if (downedDarkStarLord)
+            {
+                tag["downedDarkStarLord"] = true;
+            }
         }
         public override void OnWorldLoad()
         {
@@ -97,6 +102,7 @@ namespace BloodSoul
             downedUang = false;
             downedRockSnake = false;
             downedTideSpirit = false;
+            downedDarkStarLord = false;
         }
         public override void OnWorldUnload()
         {
@@ -113,6 +119,7 @@ namespace BloodSoul
             downedUang = false;
             downedRockSnake = false;
             downedTideSpirit= false;
+            downedDarkStarLord= false;
         }
         public override void NetSend(BinaryWriter writer)
         {
@@ -130,6 +137,7 @@ namespace BloodSoul
             flags2[0] = downedUang;
             flags2[1] = downedRockSnake;
             flags2[2] = downedTideSpirit;
+            flags2[3] = downedDarkStarLord;
             writer.Write(flags2);
         }
         public override void NetReceive(BinaryReader reader)
@@ -147,6 +155,7 @@ namespace BloodSoul
             downedUang = flags2[0];
             downedRockSnake = flags2[1];
             downedTideSpirit = flags2[2];
+            downedDarkStarLord = flags2[3];
         }
         public override void LoadWorldData(TagCompound tag)
         {
@@ -162,6 +171,7 @@ namespace BloodSoul
             downedUang = tag.ContainsKey("downedUang");
             downedRockSnake = tag.ContainsKey("downedRockSnake");
             downedTideSpirit = tag.ContainsKey("downedTidespirit");
+            downedDarkStarLord = tag.ContainsKey("downedDarkStarLord");
         }
         public override void Load()
         {

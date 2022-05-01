@@ -109,6 +109,21 @@ if (ModLoader.HasMod("BossChecklist"))//如果有那个mod
 
                 bossCheckList.Call(
                     "AddBoss",//添加boss
+                    14.5f,//时期 石后5
+                    ModContent.NPCType<NPCs.Bosses.DarkStarLords.DarkStarLord>(),//npc
+                    this,//本Mod
+                    "$Mods.BloodSoul.NPCName.DarkStarLord",//获取命名
+                    () => BloodSoulSystem.downedDarkStarLord,//检测击败
+                    ModContent.ItemType<Items.DarkStarCrystal>(),//召唤物
+                    new List<int> (0),
+                    new List<int> { ModContent.ItemType<Items.BossBag.DarkStarLordBossBag>() },//添加普通掉落物
+                    "$Mods.BloodSoul.BossSpawnInfo.DarkStarLord",//召唤条件
+                    "$Mods.BloodSoul.Introduce.DarkStarLord",//介绍
+                    "BloodSoul/Images/donwedDarkStarLordImages"//图片
+                    );
+
+                bossCheckList.Call(
+                    "AddBoss",//添加boss
                     16.5f,//时期 教徒后
                     ModContent.NPCType<NPCs.Bosses.TheStarGazer.StarGazerBoss>(),//npc
                     this,//本Mod

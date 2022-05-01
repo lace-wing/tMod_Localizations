@@ -36,6 +36,7 @@ Mods:
 			SharaIshvaldaBody : "在沙漠使用观星者给的一份契约"
 			BloodCrystalEye : "它是英灵剑的死敌，带上那把剑，用血眼魔心吸引它前来"
 			HolyLightSword : "一把蕴含着堕落英灵的剑，堕魂红晶会很适合它"
+			DarkStarLord : "在夜晚让暗星降临"
 		}
 
 		NPCName:
@@ -48,6 +49,7 @@ Mods:
 			SharaIshvaldaBody : "天地煌啼龙"
 			BloodCrystalEye : "血晶魔眼"
 			HolyLightSword : "英灵剑"
+			DarkStarLord : "暗星领主"
 		}
 
 		RecipeConditions:
