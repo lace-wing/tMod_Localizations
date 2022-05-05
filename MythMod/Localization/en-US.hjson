@@ -442,32 +442,32 @@ Mods: {
 			FragransMagic : Don't be lonely when moon and fragrans bright, breeze and moon still.
 			FragransSpear : Don't be lonely when moon and fragrans bright, breeze and moon still.
 			FragransStaff : Don't be lonely when moon and fragrans bright, breeze and moon still.
-			BlackWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			BloodClub : {$Mods.MythMod.Common.ClubGT}
-			BloodLiquidClub : {$Mods.MythMod.Common.ClubGT}
-			CactusClub : {$Mods.MythMod.Common.ClubGT}
-			CobaltClub : {$Mods.MythMod.Common.ClubGT}
-			ColdWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			CopperClub : {$Mods.MythMod.Common.ClubGT}
-			CorruptClub : {$Mods.MythMod.Common.ClubGT}
-			CrystalClub : {$Mods.MythMod.Common.ClubGT}
-			CurseClub : {$Mods.MythMod.Common.ClubGT}
-			DarkWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			GoldClub : {$Mods.MythMod.Common.ClubGT}
-			IronClub : {$Mods.MythMod.Common.ClubGT}
-			LeadClub : {$Mods.MythMod.Common.ClubGT}
-			LeafClub : {$Mods.MythMod.Common.ClubGT}
-			MeteorClub : {$Mods.MythMod.Common.ClubGT}
-			MithrilClub : {$Mods.MythMod.Common.ClubGT}
-			MountainCuClub : {$Mods.MythMod.Common.ClubGT}
-			PalladiumClub : {$Mods.MythMod.Common.ClubGT}
-			PalmWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			PearlWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			PlatinumClub : {$Mods.MythMod.Common.ClubGT}
-			RedWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			RefinedClub : {$Mods.MythMod.Common.ClubGT}
-			SilverClub : {$Mods.MythMod.Common.ClubGT}
-			SpikeClub : {$Mods.MythMod.Common.ClubGT}
+			BlackWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			BloodClub : "{$Mods.MythMod.Common.ClubGT}"
+			BloodLiquidClub : "{$Mods.MythMod.Common.ClubGT}"
+			CactusClub : "{$Mods.MythMod.Common.ClubGT}"
+			CobaltClub : "{$Mods.MythMod.Common.ClubGT}"
+			ColdWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			CopperClub : "{$Mods.MythMod.Common.ClubGT}"
+			CorruptClub : "{$Mods.MythMod.Common.ClubGT}"
+			CrystalClub : "{$Mods.MythMod.Common.ClubGT}"
+			CurseClub : "{$Mods.MythMod.Common.ClubGT}"
+			DarkWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			GoldClub : "{$Mods.MythMod.Common.ClubGT}"
+			IronClub : "{$Mods.MythMod.Common.ClubGT}"
+			LeadClub : "{$Mods.MythMod.Common.ClubGT}"
+			LeafClub : "{$Mods.MythMod.Common.ClubGT}"
+			MeteorClub : "{$Mods.MythMod.Common.ClubGT}"
+			MithrilClub : "{$Mods.MythMod.Common.ClubGT}"
+			MountainCuClub : "{$Mods.MythMod.Common.ClubGT}"
+			PalladiumClub : "{$Mods.MythMod.Common.ClubGT}"
+			PalmWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			PearlWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			PlatinumClub : "{$Mods.MythMod.Common.ClubGT}"
+			RedWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			RefinedClub : "{$Mods.MythMod.Common.ClubGT}"
+			SilverClub : "{$Mods.MythMod.Common.ClubGT}"
+			SpikeClub : "{$Mods.MythMod.Common.ClubGT}"
 			StarDancer : 
 				'''
 				{$Mods.MythMod.Common.ClubGT}

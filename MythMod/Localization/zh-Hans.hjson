@@ -443,41 +443,41 @@ Mods: {
 			ToothKnfe : ""
 			ToothMagicBall : ""
 			ToothStaff : 释放拔地而起的獠牙刺
-			BlackWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			BloodClub : {$Mods.MythMod.Common.ClubGT}
-			BloodLiquidClub : {$Mods.MythMod.Common.ClubGT}
-			CactusClub : {$Mods.MythMod.Common.ClubGT}
-			CobaltClub : {$Mods.MythMod.Common.ClubGT}
-			ColdWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			CopperClub : {$Mods.MythMod.Common.ClubGT}
-			CorruptClub : {$Mods.MythMod.Common.ClubGT}
-			CrystalClub : {$Mods.MythMod.Common.ClubGT}
-			CurseClub : {$Mods.MythMod.Common.ClubGT}
-			DarkWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			GoldClub : {$Mods.MythMod.Common.ClubGT}
-			IronClub : {$Mods.MythMod.Common.ClubGT}
-			LeadClub : {$Mods.MythMod.Common.ClubGT}
-			LeafClub : {$Mods.MythMod.Common.ClubGT}
-			MeteorClub : {$Mods.MythMod.Common.ClubGT}
-			MithrilClub : {$Mods.MythMod.Common.ClubGT}
-			MountainCuClub : {$Mods.MythMod.Common.ClubGT}
-			PalladiumClub : {$Mods.MythMod.Common.ClubGT}
-			PalmWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			PearlWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			PlatinumClub : {$Mods.MythMod.Common.ClubGT}
-			RedWoodenClub : {$Mods.MythMod.Common.ClubGT}
-			RefinedClub : {$Mods.MythMod.Common.ClubGT}
-			SilverClub : {$Mods.MythMod.Common.ClubGT}
-			SpikeClub : {$Mods.MythMod.Common.ClubGT}
+			BlackWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			BloodClub : "{$Mods.MythMod.Common.ClubGT}"
+			BloodLiquidClub : "{$Mods.MythMod.Common.ClubGT}"
+			CactusClub : "{$Mods.MythMod.Common.ClubGT}"
+			CobaltClub : "{$Mods.MythMod.Common.ClubGT}"
+			ColdWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			CopperClub : "{$Mods.MythMod.Common.ClubGT}"
+			CorruptClub : "{$Mods.MythMod.Common.ClubGT}"
+			CrystalClub : "{$Mods.MythMod.Common.ClubGT}"
+			CurseClub : "{$Mods.MythMod.Common.ClubGT}"
+			DarkWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			GoldClub : "{$Mods.MythMod.Common.ClubGT}"
+			IronClub : "{$Mods.MythMod.Common.ClubGT}"
+			LeadClub : "{$Mods.MythMod.Common.ClubGT}"
+			LeafClub : "{$Mods.MythMod.Common.ClubGT}"
+			MeteorClub : "{$Mods.MythMod.Common.ClubGT}"
+			MithrilClub : "{$Mods.MythMod.Common.ClubGT}"
+			MountainCuClub : "{$Mods.MythMod.Common.ClubGT}"
+			PalladiumClub : "{$Mods.MythMod.Common.ClubGT}"
+			PalmWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			PearlWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			PlatinumClub : "{$Mods.MythMod.Common.ClubGT}"
+			RedWoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			RefinedClub : "{$Mods.MythMod.Common.ClubGT}"
+			SilverClub : "{$Mods.MythMod.Common.ClubGT}"
+			SpikeClub : "{$Mods.MythMod.Common.ClubGT}"
 			StarDancer : 
 				'''
 				{$Mods.MythMod.Common.ClubGT}
 				降下坠星打击附近敌人
 				'''
-			TinClub : {$Mods.MythMod.Common.ClubGT}
-			TitaniumClub : {$Mods.MythMod.Common.ClubGT}
-			TungstenClub : {$Mods.MythMod.Common.ClubGT}
-			WoodenClub : {$Mods.MythMod.Common.ClubGT}
+			TinClub : "{$Mods.MythMod.Common.ClubGT}"
+			TitaniumClub : "{$Mods.MythMod.Common.ClubGT}"
+			TungstenClub : "{$Mods.MythMod.Common.ClubGT}"
+			WoodenClub : "{$Mods.MythMod.Common.ClubGT}"
 		}
 
 		BuffName : 
