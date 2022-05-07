@@ -2,10 +2,9 @@ Mods:
 {
 	BloodSoul:
 	{
-		NPCName:
-		{
+		
 
-		}
+
 
 		MapObject:
 		{
@@ -36,6 +35,17 @@ Mods:
 			LegendWeapon : Legendary weapon
 			#{$Mods.BloodSoul.Common.LegendWeapon}
 
+		}
+
+		BossSpawnInfo:
+		{
+			ApostleOfDeath : "The Inverted Cross Necklace will not protect you from damage, instead it brings death"
+		}
+
+
+		NPCName:
+		{
+			ApostleOfDeath : "Apostle of Death"
 		}
 
 		ItemName: 

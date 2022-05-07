@@ -28,14 +28,12 @@ Mods:
 
 		BossSpawnInfo:
 		{
-			GelSpider : "干爆史莱姆王，然后在夜晚拿它尸体的一部分去挑衅它的护卫"
-			StarGazerBoss : "使用星之证来证明你有资格挑战他"
+			ApostleOfDeath : "倒十字项链不会保护你免受伤害，相反它带来死亡"
 		}
 
 		NPCName:
 		{
-			GelSpider : "凝繆毒蛛"
-			StarGazerBoss : "观星者"
+			ApostleOfDeath : "死亡使者"
 		}
 
 		RecipeConditions:
