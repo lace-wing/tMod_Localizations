@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\BloodErosion",
+    "\\BloodErosion\\Bosses\\ApostleOfDeath",
+    "\\BloodErosion\\BossSummonItems",
+    "\\BloodErosion\\BossSummonItems\\ApostleOfDeaths",
+    "\\BloodErosion\\Localization",
     "\\BloodSoul",
     "\\BloodSoul\\Bosses",
-    "\\BloodSoul\\Bosses\\HolyLightSwords",
-    "\\BloodSoul\\Localization"
+    "\\BloodSoul\\Localization",
+    "\\MythMod\\Localization"
   ],
-  "SelectedNode": "\\BloodSoul\\Bosses\\HolyLightSwords\\HolySwordFS.cs",
+  "SelectedNode": "\\BloodSoul\\BossChecklistSupport.cs",
   "PreviewInSolutionExplorer": false
 }
