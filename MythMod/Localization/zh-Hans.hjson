@@ -15,6 +15,8 @@ Mods: {
 				#{$Mods.MythMod.Common.WhipGT}
 			ClubGT : 旋转挥舞以攻击敌人
 			#{$Mods.MythMod.Common.ClubGT}
+			RapierGT : Right click and hold to charge an invincibility dash with high damage
+			#{$Mods.MythMod.Common.RapierGT}
 			NoAmmoConsum : 不消耗弹药
 			#{$Mods.MythMod.Common.NoAmmoConsum}
 			Acytaea : 雅思塔亚
@@ -234,6 +236,26 @@ Mods: {
 			YellowDynastyShingles : 黄王朝瓦
 			DiscordBallF1 : 混沌晶球·天穹古道
 			LiftLamp : 电梯指示灯
+			TestItem : 木制升降梯
+			EkandaBrick : 埃坎达砖
+			Guding : 埃坎达合金
+			NoFlawsDream : 无瑕梦境
+			Origin : 纯洁蓝宝石
+			DurableAxe : 坚固的斧头
+			ElectricHeatingPlate : 电热板斧
+			BrokenPick : 破损的镐子
+			BloodGoldBayonet : 血金刺剑
+			DreamStar : 梦晨星
+			EternalNight : 永夜西洋刺剑
+			GoldenStabbingSword : 金刺剑
+			IronStabbingSword : 铁刺剑
+			LeadStabbingSword : 铅刺剑
+			PlatinumStabbingSword : 铂金刺剑
+			PrisonFireBayonet : 狱火刺剑
+			RottenGoldBayonet : 暗影刺剑
+			SilverStabbingSword : 银刺剑
+			VegetationBayonet : 草木刺剑
+			TDMT : 陨雷之劫
 		}
 		
 		ItemTooltip:
@@ -478,6 +500,27 @@ Mods: {
 			TitaniumClub : "{$Mods.MythMod.Common.ClubGT}"
 			TungstenClub : "{$Mods.MythMod.Common.ClubGT}"
 			WoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			LiftLamp : ""
+			TestItem : ""
+			EkandaBrick : ""
+			Guding : ""
+			NoFlawsDream : ""
+			Origin : 传说中珍贵的起源之石
+			DurableAxe : ""
+			ElectricHeatingPlate : ""
+			BrokenPick : ""
+			BloodGoldBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			DreamStar : "{$Mods.MythMod.Common.RapierGT}"
+			EternalNight : "{$Mods.MythMod.Common.RapierGT}"
+			GoldenStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			IronStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			LeadStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			PlatinumStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			PrisonFireBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			RottenGoldBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			SilverStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			VegetationBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			TDMT : "{$Mods.MythMod.Common.RapierGT}"
 		}
 
 		BuffName : 

@@ -24,6 +24,8 @@ Mods: {
 				#{$Mods.MythMod.Common.WhipGT}
 			ClubGT : Spin to strike enemies
 			#{$Mods.MythMod.Common.ClubGT}
+			RapierGT : Right click and hold to charge an invincibility dash with high damage
+			#{$Mods.MythMod.Common.RapierGT}
 			NoAmmoConsum : Does not consum ammo
 			#{$Mods.MythMod.Common.NoAmmoConsum}
 			Acytaea : Acytaea
@@ -233,6 +235,26 @@ Mods: {
 			YellowDynastyShingles : Yellow Dynasty Shingles
 			DiscordBallF1 : Discord Crystal Ball · The Ancient Path
 			LiftLamp : Lift Indicator
+			TestItem : Wooden Lift
+			EkandaBrick : Ekanda Brick
+			Guding : Ekanda Alloy
+			NoFlawsDream : Flawless Dream
+			Origin : Pure Sapphire
+			DurableAxe : Durable Axe
+			ElectricHeatingPlate : Electric Heating Axe
+			BrokenPick : Broken Pickaxe
+			BloodGoldBayonet : Crimson Rapier
+			DreamStar : Star of Dream
+			EternalNight : Eternal Night Rapier
+			GoldenStabbingSword : Gold Rapier
+			IronStabbingSword : Iran Rapier
+			LeadStabbingSword : Lead Rapier
+			PlatinumStabbingSword : Platinum Rapier
+			PrisonFireBayonet : Molten Rapier
+			RottenGoldBayonet : Corrupted Rapier
+			SilverStabbingSword : Silver Rapier
+			VegetationBayonet : Rapier of Grass
+			TDMT : Catastrophic Lightning
 		}
 
 		ItemTooltip :
@@ -473,6 +495,31 @@ Mods: {
 				{$Mods.MythMod.Common.ClubGT}
 				Launches falling stars to strike nearby enemies
 				'''
+			TinClub : "{$Mods.MythMod.Common.ClubGT}"
+			TitaniumClub : "{$Mods.MythMod.Common.ClubGT}"
+			TungstenClub : "{$Mods.MythMod.Common.ClubGT}"
+			WoodenClub : "{$Mods.MythMod.Common.ClubGT}"
+			LiftLamp : ""
+			TestItem : ""
+			EkandaBrick : ""
+			Guding : ""
+			NoFlawsDream : ""
+			Origin : Invaluable gem of origin in tales
+			DurableAxe : ""
+			ElectricHeatingPlate : ""
+			BrokenPick : ""
+			BloodGoldBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			DreamStar : "{$Mods.MythMod.Common.RapierGT}"
+			EternalNight : "{$Mods.MythMod.Common.RapierGT}"
+			GoldenStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			IronStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			LeadStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			PlatinumStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			PrisonFireBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			RottenGoldBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			SilverStabbingSword : "{$Mods.MythMod.Common.RapierGT}"
+			VegetationBayonet : "{$Mods.MythMod.Common.RapierGT}"
+			TDMT : "{$Mods.MythMod.Common.RapierGT}"
 		}
 		ProjectileName: {
 

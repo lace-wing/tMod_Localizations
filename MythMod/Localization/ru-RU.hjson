@@ -1,22 +1,32 @@
 ﻿Mods: {
 	MythMod: {
 		Common: {
-			WarWhipGTooltip :
+			WarWhipGT :
 				'''
-				Урон от метки призыва отсутствует
-				ваш призыв будет фокусироваться на пораженных врагах
+				No summon tag damage
+				Your summons will focus struck enemies
 				'''
-				#{$Mods.MythMod.Common.WarWhipGTooltip}
-			WhipGTooltip :
+				#{$Mods.MythMod.Common.WarWhipGT}
+			WhipGT :
 				'''
 				 summon tag damage
 				Your summons will focus struck enemies
 				'''
-				#{$Mods.MythMod.Common.WhipGTooltip}
-			ClubGTooltip : Spin to strike enemies
-			#{$Mods.MythMod.Common.ClubGTooltip}
+				#{$Mods.MythMod.Common.WhipGT}
+			ClubGT : Spin to strike enemies
+			#{$Mods.MythMod.Common.ClubGT}
+			RapierGT : Right click and hold to charge an invincibility dash with high damage
+			#{$Mods.MythMod.Common.RapierGT}
+			NoAmmoConsum : Does not consum ammo
+			#{$Mods.MythMod.Common.NoAmmoConsum}
 			Acytaea : Acytaea
 			#{$Mods.MythMod.Common.Acytaea}
+			ExcluWeapon : Exclusive weapon
+			#{$Mods.MythMod.Common.ExcluWeapon}
+			MythWeapon : Mythical weapon
+			#{$Mods.MythMod.Common.MythWeapon}
+			LegendWeapon : Legendary weapon
+			#{$Mods.MythMod.Common.LegendWeapon}
 
 		}
 
