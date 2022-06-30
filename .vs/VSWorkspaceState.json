@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BloodErosion\\BossSummonItems\\ApostleOfDeaths",
     "\\Everglow",
     "\\Everglow\\Localization"
   ],
-  "SelectedNode": "\\Everglow\\Localization\\en-US.hjson",
+  "SelectedNode": "\\Everglow\\Localization\\ru-RU.hjson",
   "PreviewInSolutionExplorer": false
 }
