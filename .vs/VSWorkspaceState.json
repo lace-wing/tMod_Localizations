@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BloodErosion",
-    "\\BloodErosion\\Bosses\\ApostleOfDeath",
-    "\\BloodErosion\\BossSummonItems",
     "\\BloodErosion\\BossSummonItems\\ApostleOfDeaths",
-    "\\BloodErosion\\Localization",
-    "\\BloodSoul",
-    "\\BloodSoul\\Bosses",
-    "\\BloodSoul\\Localization",
-    "\\MythMod\\Localization"
+    "\\Everglow",
+    "\\Everglow\\Localization"
   ],
-  "SelectedNode": "\\BloodSoul\\BossChecklistSupport.cs",
+  "SelectedNode": "\\Everglow\\Localization\\en-US.hjson",
   "PreviewInSolutionExplorer": false
 }
