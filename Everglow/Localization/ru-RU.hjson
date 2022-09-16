@@ -36,14 +36,16 @@
 			#{$Mods.Everglow.Common.LegendWeapon}
 
 			#世界系统WorldGen
-			WorldSystem:{
-				WorldCreate_Def : "Генерация Мира""
-				WorldEnter_Def : "Вхождение в Мир""
+			WorldSystem:
+			{
+				WorldCreate_Def : "Генерация Мира"
+				WorldEnter_Def : "Вхождение в Мир"
 				BuildMothCave : "Генерация Кокона"
 			}
 
 			#食物系统FoodSystem
-			FoodSystem:{
+			FoodSystem:
+			{
 				CannotEat : "Ты сыт"
 				CannotDrink : "Тебе не хочется пить"
 			}
@@ -231,29 +233,39 @@
 			DiscordBallF1 : Discord Crystal Ball · The Ancient Path
 			LiftLamp : Lift Indicator
 			TestItem : Деревянный Подъемник
-			EkandaBrick : Кирпич Эканда
-			Guding : Сплав Эканда
-			NoFlawsDream : Безупречная Мечта
-			Origin : Чистый сапфир
+			EkandaBrick : Ekanda Brick
+			Guding : Ekanda Alloy
+			NoFlawsDream : Flawless Dream
+			Origin : Pure Sapphire
 			DurableAxe : Прочный Топор
-			ElectricHeatingPlate : Электронагревательный топор
+			ElectricHeatingPlate : Electric Heating Axe
 			BrokenPick : Сломанная кирка
 			BloodGoldBayonet : Багряная рапира
 			DreamStar : Звезда мечты
-			EternalNight : Рапира Вечной Ночи
+			EternalNight : Eternal Night Rapier
 			GoldenStabbingSword : Золотая рапира
 			IronStabbingSword : Железная рапира
 			LeadStabbingSword : Свинцовая рапира
 			PlatinumStabbingSword : Платиновая рапира
 			PrisonFireBayonet : Литая рапира
-			RottenGoldBayonet : Искаженная Рапира
+			RottenGoldBayonet : Corrupted Rapier
 			SilverStabbingSword : Серебряная рапира
 			VegetationBayonet : Травинистая рапира
 			TDMT : Катастрофическая молния
+			CrystalSkull : Crystal Skull
+
+			#流萤系列物品
+			GlowBeadGun : "Glowing Railgun"
+
+			#Glow Wood Furniture
+			
+			#Music Boxes
+			GlowWoodMusicBox : Glow Wood Music Box (The Firefly)
+
 
 			#食物系统物品
-			BloodGlucoseMonitor : "Монитор уровня глюкозы в крови"
-			OsmoticPressureMonitor : "Монитор Осмотического давления"
+			BloodGlucoseMonitor : "Blood Glucose Monitor"
+			OsmoticPressureMonitor : "Osmotic Pressure Monitor"
 		}
 
 		ItemTooltip:
@@ -503,6 +515,23 @@
 			SilverStabbingSword : "{$Mods.Everglow.Common.RapierGT}"
 			VegetationBayonet : "{$Mods.Everglow.Common.RapierGT}"
 			TDMT : "{$Mods.Everglow.Common.RapierGT}"
+			CrystalSkull : 
+				'''
+				Unleashes the true power of vanilla and Everglow magic books
+				As the fruit of wisdom of the Wizards, most of the runes that were written on magic tomes are complex and unreadable.
+				However, when you use this crystal skull which was designed by the Witch-king and imbued with the power of true sight,
+				even the most ignorat apprentice can easily understand the wisdom of ancient wizards.
+				'''
+
+			#流萤系列物品
+			GlowBeadGun : 
+				'''
+				Hold attack to charge
+				Shoots a series of explosive glowing beads
+				'''
+
+			#Music Boxes
+			GlowWoodMusicBox : "Plays 'Setnour6 - Within the Giant Cocoon (身陷巨茧)'"
 
 			#食物系统物品
 			BloodGlucoseMonitor : "Display hunger information"
@@ -713,12 +742,35 @@
 			TeacupBuff : "Greatly increased mana regen, magic damage and magic crit chance\n'Fragrant'"
 			TropicalSmoothieBuff : "Greatly increased magic damage and magic crit chance, your mana cost is reduced to 1\n'Tropical storm'"
 		}
+		MapEntry :
+		{
+			FireflyTree : "Firefly Tree"
+		}
 		Config:
 		{
+			Header:
+			{
+				TextureReplace : "Texture Configurations"
+				AudioReplace : "Audio Configurations"
+			}
 			TextureReplace:
 			{
-				Label: "Texture-replacing mode"
-				Tooltip: "Choose your preferred texture group to replace"
+				Label : "Texture-replacing mode"
+				Tooltip : "Choose your preferred texture group to replace\nOptions: Terraria, Eternal Resolve, Myth"
+			}
+			ItemPickSoundReplace:
+			{
+				Label : "New pickup and inventory sounds"
+			}
+			MothAudioReplace:
+			{
+				Label : "Corrupted Moth's Theme Song"
+				Tooltip : "Choose your preferred Corrupted Moth theme music to replace\nOptions: Original Theme, Alternate Theme, Old Theme\nThis setting won't take effect if the Corrupted Moth is currently alive"
+			}
+			TuskAudioReplace:
+			{
+				Label : "(NOT IMPLEMENTED) The Tusk's Theme Song"
+				Tooltip : "Choose your preferred Bloody Tusk theme music to replace\nOptions: Original Theme, Old Theme\nThis setting won't take effect if The Tusk is currently alive\nNOTE: This config is not fully set up yet and therefore does not work at the moment"
 			}
 		}
 		InfoDisplay:
