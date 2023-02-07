@@ -1,0 +1,546 @@
+Mods.EEMod:
+{
+  BuffName:
+  {
+    ARBuff: Aquatic Reinforcment
+    BabyHydrosBuff: Baby Hydros
+    LobsterbikeBuff: Lobsterbike
+    SurfboardBuff: Surfboard
+    ThermalHealing: Thermal Healing
+    Vex: Vex
+    WaterPressure: Water Pressure
+  }
+  BuffDescription:
+  {
+    ARBuff: Pog
+    BabyHydrosBuff: The Baby Hydros fights for you
+    LobsterbikeBuff: Only for REAL men B)
+    SurfboardBuff: Surf's up, duuuude!
+    ThermalHealing: The warmth of the thermal vents heals you
+    Vex: +5% damage and +5% crit chance
+    WaterPressure: The water pressure is crushing in
+  }
+  BiomeName.SurfaceReefs: Surface Reefs
+  ItemName:
+  {
+    AccursedAmulet: Accursed Amulet
+    CoralEarring: Coral Earring
+    FrozenGauntlet: Frozen Gauntlet
+    GlowshroomBuckler: Glowshroom Buckler
+    HallowedDivingGear: Hallowed Diving Gear
+    InterstellarKelpBud: Interstellar Kelp Bud
+    IronBoots: Iron Boots
+    Jetstriders: Jetstriders
+    RedVelvetCape: Red Velvet Cape
+    WaterDragonsScale: Water Dragon's Scale
+    AquamarineBreastplate: Aquamarine Breastplate
+    AquamarineHelmet: Aquamarine Helmet
+    AquamarineLeggings: Aquamarine Greaves
+    CoconutHat: Coconut Hat
+    DalantiniumGreathelm: Dalantinium Greathelm
+    DalantiniumGreaves: Dalantinium Greaves
+    DalantiniumHood: Dalantinium Hood
+    DalantiniumHornedGreathelm: Dalantinium Horned Greathelm
+    DalantiniumMask: Dalantinium Mask
+    DalantiniumPlatemail: Dalantinium Platemail
+    ExitiumsHead: Exitium's Head
+    ExitiumsPants: Exitium's Pants
+    ExitiumsShirt: Exitium's Suit
+    YodaCloak: Yoda Cloak
+    YodaMask: Yoda Mask
+    YodaPants: Yoda Pants
+    FlowerJellyHat: Flower Jelly Hat
+    KelpweaverBody: Kelpweaver Body
+    KelpweaverHead: Kelpweaver Head
+    KelpweaverLegs: Kelpweaver Legs
+    StormKnightBreastplate: Storm Knight's Breastplate
+    StormKnightCrest: Storm Knight's Crest
+    StormKnightLeggings: Storm Knight's Leggings
+    TropicalWoodBoots: Tropical Wood Boots
+    TropicalWoodChestplate: Tropical Wood Chestplate
+    TropicalWoodHelmet: Tropical Wood Helmet
+    Conch: Dev Conch
+    CoconutMilk: Coconut Milk
+    KelpberryShake: Kelpberry Shake
+    Sushi: Sushi
+    VexingPotion: Vexing Potion
+    AquamarineDye: Aquamarine Dye
+    HydrosDye: Hydros Dye
+    SynthwaveDye: Synthwave Dye
+    Barracuda: Barracuda
+    BlueTang: Blue Tang
+    Coralfin: Coralfin
+    GlitteringPearlfish: Glittering Pearlfish
+    Ironfin: Ironfin
+    LunaJellyItem: Luna Jelly
+    ReeftailMinnow: Reeftail Minnow
+    Spiritfish: Spiritfish
+    FishermansLog: Fisherman's Log
+    SailorsPole: Sailor's Pole
+    Glider: Glider
+    MantaRayGlider: Manta Ray Glider
+    Paraglider: Paraglider
+    KelpvineCannon: Kelpvine Cannon
+    Aquamarine: Aquamarine
+    BrokenDuelistsBlade: Broken Duelist's Blade
+    Coconut: Coconut
+    HydrosScales: Hydros Scales
+    Kelp: Kelp
+    Kelpberries: Kelpberries
+    Orange: Orange
+    TropicalWoodItem: Tropical Wood
+    MessageInABottle: Message in a Bottle
+    LobsterbikeKeys: Lobsterbike Keys
+    Surfboard: Surfboard
+    ClamBanner: Clam Banner
+    CoconutCrabBanner: Coconut Crab Banner
+    CoconutSpiderBanner: Coconut Spider Banner
+    GiantSquidBanner: Giant Squid Banner
+    LunaJellyBanner: Luna Jelly Banner
+    ManoWarBanner: Mano War Banner
+    SeahorseBanner: Seahorse Banner
+    SeaSlugBanner: Sea Slug Banner
+    SmallClamBanner: Small Clam Banner
+    ToxicPufferBanner: Toxic Puffer Banner
+    Brimstone: Brimstone
+    CoralSand: Coral Sand
+    Coralsandstone: Coralsandstone
+    DarkGemsand: Dark Gemsand
+    DarkGemsandstone: Dark Gemsandstone
+    AirHockeyTable: Air Hockey Table
+    CoralChest: Coral Chest
+    GemsandChest: Gemsand Chest
+    LivingWoodCrate: Living Wood Crate
+    Moyai: Moyai
+    Net: Net
+    Cat: Cat
+    Cave1: Cave
+    CrownedKing: Crowned King
+    Island1: Island
+    Island2: Island
+    Island3: Island
+    Island4: Island
+    Moon: Moon
+    Mountain1: Mountain
+    MountainsOfDestiny: Mountains of Destiny
+    Murdog: Portrait of a Dog
+    OSPainting: Trillion Dollar Company
+    Rainforest1: Rainforest
+    Snowfield: Snowfield
+    Sunthwave: Sunthwave
+    HydrosTrophy: Hydros Trophy
+    OmenTrophy: Omen Trophy
+    WoodenShipsWheel: Wooden Ship's Wheel
+    ZipPylon: Zip-Pylon
+    Gemsand: Gemsand
+    Gemsandstone: Gemsandstone
+    KelpLeaf: Kelpleaf Block
+    LightGemsand: Light Gemsand
+    LightGemsandstone: Light Gemsandstone
+    DalantiniumBar: Dalantinium Bar
+    DalantiniumOre: Dalantinium Ore
+    LythenBar: Lythen Bar
+    LythenOre: Lythen Ore
+    RustyPipe: Rusty Pipe
+    RustyPlating: Rusty Plating
+    ScorchedGemsand: Scorched Gemsand
+    CoralSandWall: Coralsand Wall
+    DarkGemsandstoneWall: Dark Gemsandstone Wall
+    DarkGemsandWall: Dark Gemsand Wall
+    GemsandstoneWall: Gemsandstone Wall
+    GemsandWall: Gemsand Wall
+    LightGemsandstoneWall: Light Gemsandstone Wall
+    LightGemsandWall: Light Gemsand Wall
+    IronCannonball: Iron Cannonball
+    LeadCannonball: Lead Cannonball
+    MeteorCannonball: Meteor Cannonball
+    CryoCannon: Cryo Cannon
+    SteelCannon: Steel Cannon
+    TreasureFigurehead: Treasure Claw
+    WoodenFigurehead: Wooden Figurehead
+    Telescope: Telescope
+    TennisBall: Tennis Ball
+    TennisRacket: Tennis Racket
+    Terracket: Terracket
+    DalantiniumHamaxe: Dalantinium Hamaxe
+    DalantiniumPickaxe: Dalantinium Pickaxe
+    FuriousPickaxe: Furious Pickaxe
+    LythenAxe: Lythen Axe
+    LythenHammer: Lythen Hammer
+    LythenPickaxe: Lythen Pickaxe
+    TropicalWoodAxe: Tropical Wood Axe
+    TropicalWoodHammer: Tropical Wood Hammer
+    TropicalWoodPickaxe: Tropical Wood Pickaxe
+    TorchItem: Flashlight
+    HydrosBag: Treasure Bag
+    CoralArrow: Coral Arrow
+    AncientBubbleStaff: Ancient Bubble Staff
+    AquamarineSceptor: Aquamarine Sceptre
+    CoralRod: Coral Rod
+    DalantiniumKnives: Dalantinium Knives
+    StormboltCane: Stormbolt Cane
+    StormGauntlet: Storm Gauntlet
+    BruteHalberd: Brute Halberd
+    DalantiniumKusiragama: Dalantinium Dagger
+    LythenWarhammer: Tidebreaker
+    SailorsBlade: Sailor's Blade
+    BubbleStriker: Bubble Striker
+    Darksaber: Darksaber
+    DuelistsBlade: Duelist's Blade
+    PrismaticBlade: Prismatic Blade
+    TropicalWoodSword: Tropical Wood Sword
+    BarrierGreatsword: Barrier Greatsword
+    KelpThrow: Kelp Throw
+    BubbleBlitzer: Bubble Blitzer
+    CoconutCannon: Coconut Cannon
+    GlowshroomCannon: Mushroom Mortar
+    HuntressBow: Huntress Bow
+    ShimmerShot: Shimmer Shot
+    Sparkstorm: Sparkstorm
+    AquaticReinforcmentStaff: Aquatic Reinforcment
+    CococritterStaff: Cococritter Staff
+    HyoiPear: Hyoi Pear
+    PrismaticCane: Prismatic Cane
+    BeekeeperStaff: Beekeeper Staff
+    Arclash: Arclash
+    KelpWhip: Kelp Whip
+    ZipWire: Zip-Wire
+  }
+  ItemTooltip:
+  {
+    AccursedAmulet:
+      '''
+      Each nearby enemy increases your damage by 0.5%, however also decreases your health by 1.5%
+      Max modifier amount of 15 NPCs
+      '''
+    CoralEarring: Forged by master merfolk fisherman
+    FrozenGauntlet:
+      '''
+      coldldldododldoddllodlloldoolololdolldo 
+      CLOUD SPRITE
+      GRAYDEE WAEPON
+      :heart_eyes:
+      '''
+    HallowedDivingGear: Grants freedom underwater
+    IronBoots: Extremely heavy
+    WaterDragonsScale:
+      '''
+      The power of an ancient dragon stirs within you
+      Reminds you of Lake Floria
+      '''
+    DalantiniumGreathelm: 5% increased melee speed
+    DalantiniumGreaves: 7% increased movement speed
+    DalantiniumHood: 5% reduced mana usage
+    DalantiniumHornedGreathelm: 2+ max minions
+    DalantiniumMask: 6% reduced ammo consumption
+    DalantiniumPlatemail: 9% increased all damage
+    ExitiumsHead:
+      '''
+      ':feelssnalechog:'
+      'Great for impersonating mod devs!'
+      '''
+    ExitiumsPants:
+      '''
+      'The dev server is indeed an asylum'
+      'Great for impersonating mod devs!'
+      '''
+    ExitiumsShirt:
+      '''
+      'This idea is good trust me'
+      'Great for impersonating mod devs!'
+      '''
+    YodaCloak: "'Great for impersonating mod devs!'"
+    YodaMask:
+      '''
+      'Great for impersonating mod devs!'
+      Reminds you of a 2001 Honda Civic
+      '''
+    YodaPants: "'Great for impersonating mod devs!'"
+    KelpweaverBody: Creepy and crawly
+    KelpweaverHead: Creepy and crawly
+    KelpweaverLegs: Creepy and crawly
+    StormKnightBreastplate: 5% increased damage
+    StormKnightCrest: 5% increased melee damage
+    StormKnightLeggings: 4% increased movement speed
+    TropicalWoodBoots: 7% increased movement speed
+    TropicalWoodChestplate: 9% increased all damage
+    TropicalWoodHelmet: 2% increased summon damage
+    Kelpberries: Super bright!
+    MessageInABottle:
+      '''
+      A Captain boasted he was the best seafarer of the seven seas
+      He was overcome by a storm on one of his voyages
+      I was there too, and thankfully he let me in
+      I took shelter with the Captian, and in return told him about...
+      The rest of the paper is torn.
+      '''
+    AirHockeyTable: Fun for the whole family!
+    WoodenShipsWheel: Perfect for steering a boat
+    IronCannonball: Use this to make your boat shoot cannonballs.
+    LeadCannonball: Use this to make your boat shoot cannonballs.
+    MeteorCannonball: Use this to make your boat shoot cannonballs.
+    CryoCannon:
+      '''
+      Converts all cannonballs into frozen cannonballs
+      Frozen cannonbaalls explode into shards on impact
+      '''
+    SteelCannon: haha this shoots balls lol
+    TreasureFigurehead: Use it to dig up Treasure Spots on the Seamap
+    Telescope:
+      '''
+      Can be held
+      Vanity item
+      'Set sail!'
+      '''
+    Terracket: Better than the toilet, I guess
+    AncientBubbleStaff:
+      '''
+      Casts an ancient bubble
+      Right click the bubble after shooting it to pop it
+      '''
+    DuelistsBlade: It once belonged to an ancient warrior of times past
+    KelpThrow: Releases damaging baubles when close to enemes
+    HuntressBow: Huntress' Recurve Bow
+    ShimmerShot: Shimmer Shot
+  }
+  ProjectileName:
+  {
+    KelpBudProjectile: Interstellar Kelp Bud
+    CoralArrowProjectile: Coral Arrow
+    AncientBubbleLarge: Ancient Bubble
+    DalantiniumFan: Dalantinium Fan
+    DalantiniumFanAlt: Dalantinium Fan
+    DalantiniumFang: Dalantinium Fang
+    SceptorLaser: Aquamarine Laser
+    SceptorPrism: Aquamarine Prism
+    StormGauntletProj: Storm Gauntlet
+    AxeLightning: Lythen Warhammer
+    DalantiniumKusiragamaProjectile: Dalantinium Kusiragama
+    FCHandler: Feathered Chakram
+    LythenWarhammerProjectile: Tidebreaker
+    RapierProj: Rapier
+    SailorsBladeProj: Sailor's Blade
+    BubbleStrikerProj: Bubble
+    DarksaberHilt: Darksaber
+    DarksaberHiltShort: Darksaber
+    PrismDagger: Prism Dagger
+    BarrierGreatswordProj: Barrier Greatsword
+    KelpThrowBolt: Kelp Throw
+    KelpThrowProjectile: Kelp Throw Projectile
+    CoconutProjectile: Coconut
+    BlitzBubble: Bubble
+    GlowshroomCannonItemProj: Mushroom Mortar
+    GlowshroomCannonProj: Shroomball
+    HuntressArrow: Huntress Arrow
+    HuntressBallista: Huntress Ballista
+    HuntressBowFlair: Huntress Bow Flair
+    HuntressCritArrow: Huntress Crit Arrow
+    HuntressGlaive: Huntress Glaive
+    ShimmerShotProj: Shimmer Shot
+    ShimmerShotProj1: Aquamarine Laser
+    TideWeaverProj: Atlantean Warhammer
+    TideWeaverProj1: Tennis Ball
+    SparkstormProj: Sparkstorm
+    ARProj: Aqut
+    PrismaticCaneProj: Prismatic Cane
+    ArclashProj: Arclash Proj
+    KelpWhipProj: Kelp Whip
+    TeslaBall: Lightning Ball
+    MushroomBall: Mushroom Ball
+    BerserkerAxe: Berserker Axe
+    GoblinDeathBolt: Hex Bolt
+    ArmrestScrap: Scrap
+    CenterScrap: Scrap
+    ChandelierBolt: Hex Bolt
+    ChandelierMeteor: Hex Bolt
+    FlameColumn: Shadowfire
+    FlameSpiral: Shadowfire
+    LargeScrap: Scrap
+    PhantomTable: Phantom Table
+    ShadowEmberTemp: Shadowfire
+    Shadowfire: Shadowfire
+    ShadowflameJar: Shadowfire Concoction
+    ShadowflameJarBounce: Shadowfire Concoction
+    SmallScrap: Scrap
+    Dreadmine: Dreadmine
+    GrebyserFlare: Grebyser Flare
+    CBPetrude: Bubble
+    CoralBubble: Bubble
+    Fish: Fish
+    KelpFlowerItem: ???
+    TeslaCoralProj: Lightning Bolt
+    ThermalMagma: Thermal Magma
+    DuelistBladeProj: Duelist Blade
+    BlueRing: Blue Ring
+    MechanicalLure: Mechanical Lure
+    MechanicalMissile: Mechanical Missile
+    SpireAquamarineChunk: Aquamarine Chunk
+    SpireLaser: Aquamarine Laser
+    SpireLaserAlt: Aquamarine Laser
+    WideSpireLaser: Aquamarine Laser
+    SailorsPoleBobber: Sailor's Bobber
+    Gradient: Grad
+    KelpHookProj: Kelp Hook
+    SailorsClaspProjectile: ${ProjectileName.GemHookAmethyst}
+    ShipHelper: Ship Helper
+    TenisBoll: Tennis Ball
+    TennisRacketProj: Grad
+    TerracketProj: Grad
+    Torch: Grad
+    TornSails: Torn Sails
+    VolcanoArrowProj: Volcano Arrow Proj
+    Volleyball: Volleyball
+    WaterDragonsBubble: Water Dragon's Bubble
+    WhiteBlock: WhiteBlock
+    AquamarineLamp1Glow: Aquamarine Lamp
+    AshenBridge: Ashen Bridge
+    Bridge: Tile Experimentation
+    GoblinChandelierLight: Chandelier
+    TileExperimentation: Tile Experimentation
+  }
+  NPCName:
+  {
+    AquamarineOrb: SpikyOrb
+    AquamarineSpire: Aquamarine Spire
+    AquamarineSwordfish: Swordfish
+    AquamarineTurtle: Prismashell
+    MantaRay: Manta Ray
+    Hydros: Hydros
+    HydrosCutsceneManager: Hydros Cutscene Manager
+    LightningSeahorse: Lightning Seahorse
+    SailorsOmen: Sailor's Omen
+    JonathanSeagull: Jonathan the Cool Seagull
+    Sailor: Sailor
+    MushroomMage: Mushroom Mage
+    CymbalBard: Goblin Bard
+    PanfluteBard: Goblin Bard
+    PercussionBard: Goblin Bard
+    GoblinBerserker: Goblin Berserker
+    GoblinScrapgunner: Goblin Scrapgunner
+    Scrapball: Scrapball
+    GuardBrute: Wizard's Guard
+    Scrapwizard: Goblin Scrapwizard
+    ScrapwizardHexBolt: Hex Bolt
+    SlingshotBolt: Slingshot Bolt
+    GoblinShaman: Goblin Shaman
+    ShadowflameHexBolt: Hex Bolt
+    GoblinWatchman: Goblin Watchman
+    KelpSpider: KelpSpider
+    GlowingKelpSpider: Glowing Kelp Spider
+    OlvinicSnail: Olvinic Snail
+    SeaDragon: Sea Dragon
+    BlueringOctopus: Bluering Octopus
+    BombFish: Bomb Fish
+    Fangtooth: Fangtooth
+    Isopod: Isopod
+    Jellyfish: Jellyfish
+    Lionfish: Lionfish
+    Nautilus: Nautilus
+    ToxicPuffer: Toxic Puffer
+    OrbCollection: Orb
+    SpikyOrb: SpikyOrb
+    Squid: Squid
+    FlowerHatJelly: Flower Hat Jelly
+    HermitCrab: Hermit Crab
+    Seahorse: Seahorse
+    SeaSlug: Sea Slug
+    Stingray: Stingray
+    Swordfish: Swordfish
+    Grebyser: Grebyser
+    MechanicalAnglerFish: Mechanical Angler Fish
+    MechanicalEel: Mechanical Eel
+    MechanicalShark: Mechanical Shark
+    Cococritter: Coco Critter
+    CoconutCrab: Coconut Crab
+    CoconutSpider: Coconut Spider
+    Sandpiper: Sandpiper
+    LanternJelly: Lantern Jelly
+    LunaJelly: Luna Jelly
+    SmallClam: Clam
+  }
+  Containers.ShadowflameHexChestTile: Shadowflame Hex Chest
+  MapObject:
+  {
+    BannerTile: Banner
+    BigTropicalTree: Tropical Tree
+    BulboBall: Bulbo Ball
+    Floor11x11Coral: Big Coral
+    Floor6x8Coral: Big Coral
+    Floor7x6Coral: Big Coral
+    Floor7x7Coral: Big Coral
+    Floor8x3Coral: Big Coral
+    Floor8x5Coral: Big Coral
+    Floor8x7Coral: Big Coral
+    Floor8x8Coral: Big Coral
+    Floor8x9Coral: Big Coral
+    Floor9x9Coral: Big Coral
+    FloorGlow2x2Coral: Coral Lamp
+    FloorGlow2x4Coral: Wide Bulbous Coral
+    GlowHangCoral2: Coral Lamp
+    Hanging1x2Coral: Coral Lamp
+    Hanging1x3Coral: Coral Lamp
+    Hanging1x4Coral: Coral Lamp
+    Hanging2x3Coral: Coral Lamp
+    Hanging2x4Coral: Coral Lamp
+    HangingGlow2x2Coral: Coral Lamp
+    HangingGlow2x4Coral: Coral Lamp
+    HangingGlow3x2Coral: Coral Lamp
+    GlowHangCoral1: Coral Lamp
+    GroundGlowCoral: Coral Lamp
+    GroundGlowCoral2: Coral Lamp
+    GroundGlowCoral3: Coral Lamp
+    GroundGlowCoral4: Coral Lamp
+    KelpFlower: Kelpblossom
+    LilyPadMedium: Lilypad
+    LilyPadSmol: Lilypad
+    ThermalVent1x1: Thermal Vent
+    ThermalVent2x1: Thermal Vent
+    ThermalVent2x2: Thermal Vent
+    ThermalVent3x3: Thermal Vent
+    ThermalVent5x4: Thermal Vent
+    ThermalVent5x5: Thermal Vent
+    TropicalTree: Tropical Tree
+    AirHockeyTableTile: Air Hockey Table
+    CoralChestTile: Coral Chest
+    GemsandChestTile: Gemsand Chest
+    ShadowflameHexChestTile: Shadowflame Hex Chest
+    GoblinBanner: Goblin Banner
+    GoblinBannerBig: Goblin Banner Big
+    GoblinBanquetTable: Goblin Banquet Table
+    GoblinChandelier: Goblin Banner Big
+    ShadowflameCampfire: Shadowflame Campfire
+    HydrosSpawner: Shrine to the Seahorse King
+    Kelpberries: Mods.EEMod.MapObject.Kelpberries
+    LivingWoodCrateTile: Living Wood Crate
+    MoyaiTile: Moyai
+    NautilusPuzzle: Shrine of the Water Rune
+    NetTile: Net
+    CatTile: Cat
+    Cave1Tile: Cave
+    CrownedKingTile: Crowned King
+    Island1Tile: Island
+    Island2Tile: Island
+    Island3Tile: Island
+    Island4Tile: Island
+    MoonTile: Moon
+    Mountain1Tile: Mountain
+    MountainsOfDestinyTile: OSPainting
+    MurdogTile: Murdog
+    OSPaintingTile: OSPainting
+    Rainforest1Tile: Rainforest
+    SnowfieldTile: Moon
+    SunthwaveTile: Moon
+    CannonTile: Steel Cannon
+    CryoCannonTile: Cryo Cannon
+    FigureheadTile: Figurehead
+    MapTable: Map Table
+    ShipbuildersWorkbench: Shipbuilder's Workbench
+    ShipStorage: Ship Storage
+    WoodenShipsWheelTile: Wooden Ship's Wheel
+    TrophiesTile: Trophy
+    ZipPylon: Zip-Pylon
+    AquamarineTile: Aquamarine
+    DalantiniumOreTile: Dalantinium
+    LythenOreTile: Lythen Ore
+  }
+}

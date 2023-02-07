@@ -1,0 +1,5547 @@
+EEMod:
+{
+  en-US:
+  {
+    BuffName:
+    {
+      ARBuff: Aquatic Reinforcment
+      BabyHydrosBuff: Baby Hydros
+      LobsterbikeBuff: Lobsterbike
+      SurfboardBuff: Surfboard
+      ThermalHealing: Thermal Healing
+      Vex: Vex
+      WaterPressure: Water Pressure
+    }
+    BuffDescription:
+    {
+      ARBuff: Pog
+      BabyHydrosBuff: The Baby Hydros fights for you
+      LobsterbikeBuff: Only for REAL men B)
+      SurfboardBuff: Surf's up, duuuude!
+      ThermalHealing: The warmth of the thermal vents heals you
+      Vex: +5% damage and +5% crit chance
+      WaterPressure: The water pressure is crushing in
+    }
+    BiomeName:
+    {
+      SurfaceReefs: Surface Reefs
+    }
+    ItemName:
+    {
+      AccursedAmulet: Accursed Amulet
+      CoralEarring: Coral Earring
+      FrozenGauntlet: Frozen Gauntlet
+      GlowshroomBuckler: Glowshroom Buckler
+      HallowedDivingGear: Hallowed Diving Gear
+      InterstellarKelpBud: Interstellar Kelp Bud
+      IronBoots: Iron Boots
+      Jetstriders: Jetstriders
+      RedVelvetCape: Red Velvet Cape
+      WaterDragonsScale: Water Dragon's Scale
+      AquamarineBreastplate: Aquamarine Breastplate
+      AquamarineHelmet: Aquamarine Helmet
+      AquamarineLeggings: Aquamarine Greaves
+      CoconutHat: Coconut Hat
+      DalantiniumGreathelm: Dalantinium Greathelm
+      DalantiniumGreaves: Dalantinium Greaves
+      DalantiniumHood: Dalantinium Hood
+      DalantiniumHornedGreathelm: Dalantinium Horned Greathelm
+      DalantiniumMask: Dalantinium Mask
+      DalantiniumPlatemail: Dalantinium Platemail
+      ExitiumsHead: Exitium's Head
+      ExitiumsPants: Exitium's Pants
+      ExitiumsShirt: Exitium's Suit
+      YodaCloak: Yoda Cloak
+      YodaMask: Yoda Mask
+      YodaPants: Yoda Pants
+      FlowerJellyHat: Flower Jelly Hat
+      KelpweaverBody: Kelpweaver Body
+      KelpweaverHead: Kelpweaver Head
+      KelpweaverLegs: Kelpweaver Legs
+      StormKnightBreastplate: Storm Knight's Breastplate
+      StormKnightCrest: Storm Knight's Crest
+      StormKnightLeggings: Storm Knight's Leggings
+      TropicalWoodBoots: Tropical Wood Boots
+      TropicalWoodChestplate: Tropical Wood Chestplate
+      TropicalWoodHelmet: Tropical Wood Helmet
+      Conch: Dev Conch
+      CoconutMilk: Coconut Milk
+      KelpberryShake: Kelpberry Shake
+      Sushi: Sushi
+      VexingPotion: Vexing Potion
+      AquamarineDye: Aquamarine Dye
+      HydrosDye: Hydros Dye
+      SynthwaveDye: Synthwave Dye
+      Barracuda: Barracuda
+      BlueTang: Blue Tang
+      Coralfin: Coralfin
+      GlitteringPearlfish: Glittering Pearlfish
+      Ironfin: Ironfin
+      LunaJellyItem: Luna Jelly
+      ReeftailMinnow: Reeftail Minnow
+      Spiritfish: Spiritfish
+      FishermansLog: Fisherman's Log
+      SailorsPole: Sailor's Pole
+      Glider: Glider
+      MantaRayGlider: Manta Ray Glider
+      Paraglider: Paraglider
+      KelpvineCannon: Kelpvine Cannon
+      Aquamarine: Aquamarine
+      BrokenDuelistsBlade: Broken Duelist's Blade
+      Coconut: Coconut
+      HydrosScales: Hydros Scales
+      Kelp: Kelp
+      Kelpberries: Kelpberries
+      Orange: Orange
+      TropicalWoodItem: Tropical Wood
+      MessageInABottle: Message in a Bottle
+      LobsterbikeKeys: Lobsterbike Keys
+      Surfboard: Surfboard
+      ClamBanner: Clam Banner
+      CoconutCrabBanner: Coconut Crab Banner
+      CoconutSpiderBanner: Coconut Spider Banner
+      GiantSquidBanner: Giant Squid Banner
+      LunaJellyBanner: Luna Jelly Banner
+      ManoWarBanner: Mano War Banner
+      SeahorseBanner: Seahorse Banner
+      SeaSlugBanner: Sea Slug Banner
+      SmallClamBanner: Small Clam Banner
+      ToxicPufferBanner: Toxic Puffer Banner
+      Brimstone: Brimstone
+      CoralSand: Coral Sand
+      Coralsandstone: Coralsandstone
+      DarkGemsand: Dark Gemsand
+      DarkGemsandstone: Dark Gemsandstone
+      AirHockeyTable: Air Hockey Table
+      CoralChest: Coral Chest
+      GemsandChest: Gemsand Chest
+      LivingWoodCrate: Living Wood Crate
+      Moyai: Moyai
+      Net: Net
+      Cat: Cat
+      Cave1: Cave
+      CrownedKing: Crowned King
+      Island1: Island
+      Island2: Island
+      Island3: Island
+      Island4: Island
+      Moon: Moon
+      Mountain1: Mountain
+      MountainsOfDestiny: Mountains of Destiny
+      Murdog: Portrait of a Dog
+      OSPainting: Trillion Dollar Company
+      Rainforest1: Rainforest
+      Snowfield: Snowfield
+      Sunthwave: Sunthwave
+      HydrosTrophy: Hydros Trophy
+      OmenTrophy: Omen Trophy
+      WoodenShipsWheel: Wooden Ship's Wheel
+      ZipPylon: Zip-Pylon
+      Gemsand: Gemsand
+      Gemsandstone: Gemsandstone
+      KelpLeaf: Kelpleaf Block
+      LightGemsand: Light Gemsand
+      LightGemsandstone: Light Gemsandstone
+      DalantiniumBar: Dalantinium Bar
+      DalantiniumOre: Dalantinium Ore
+      LythenBar: Lythen Bar
+      LythenOre: Lythen Ore
+      RustyPipe: Rusty Pipe
+      RustyPlating: Rusty Plating
+      ScorchedGemsand: Scorched Gemsand
+      CoralSandWall: Coralsand Wall
+      DarkGemsandstoneWall: Dark Gemsandstone Wall
+      DarkGemsandWall: Dark Gemsand Wall
+      GemsandstoneWall: Gemsandstone Wall
+      GemsandWall: Gemsand Wall
+      LightGemsandstoneWall: Light Gemsandstone Wall
+      LightGemsandWall: Light Gemsand Wall
+      IronCannonball: Iron Cannonball
+      LeadCannonball: Lead Cannonball
+      MeteorCannonball: Meteor Cannonball
+      CryoCannon: Cryo Cannon
+      SteelCannon: Steel Cannon
+      TreasureFigurehead: Treasure Claw
+      WoodenFigurehead: Wooden Figurehead
+      Telescope: Telescope
+      TennisBall: Tennis Ball
+      TennisRacket: Tennis Racket
+      Terracket: Terracket
+      DalantiniumHamaxe: Dalantinium Hamaxe
+      DalantiniumPickaxe: Dalantinium Pickaxe
+      FuriousPickaxe: Furious Pickaxe
+      LythenAxe: Lythen Axe
+      LythenHammer: Lythen Hammer
+      LythenPickaxe: Lythen Pickaxe
+      TropicalWoodAxe: Tropical Wood Axe
+      TropicalWoodHammer: Tropical Wood Hammer
+      TropicalWoodPickaxe: Tropical Wood Pickaxe
+      TorchItem: Flashlight
+      HydrosBag: Treasure Bag
+      CoralArrow: Coral Arrow
+      AncientBubbleStaff: Ancient Bubble Staff
+      AquamarineSceptor: Aquamarine Sceptre
+      CoralRod: Coral Rod
+      DalantiniumKnives: Dalantinium Knives
+      StormboltCane: Stormbolt Cane
+      StormGauntlet: Storm Gauntlet
+      BruteHalberd: Brute Halberd
+      DalantiniumKusiragama: Dalantinium Dagger
+      LythenWarhammer: Tidebreaker
+      SailorsBlade: Sailor's Blade
+      BubbleStriker: Bubble Striker
+      Darksaber: Darksaber
+      DuelistsBlade: Duelist's Blade
+      PrismaticBlade: Prismatic Blade
+      TropicalWoodSword: Tropical Wood Sword
+      BarrierGreatsword: Barrier Greatsword
+      KelpThrow: Kelp Throw
+      BubbleBlitzer: Bubble Blitzer
+      CoconutCannon: Coconut Cannon
+      GlowshroomCannon: Mushroom Mortar
+      HuntressBow: Huntress Bow
+      ShimmerShot: Shimmer Shot
+      Sparkstorm: Sparkstorm
+      AquaticReinforcmentStaff: Aquatic Reinforcment
+      CococritterStaff: Cococritter Staff
+      HyoiPear: Hyoi Pear
+      PrismaticCane: Prismatic Cane
+      BeekeeperStaff: Beekeeper Staff
+      Arclash: Arclash
+      KelpWhip: Kelp Whip
+      ZipWire: Zip-Wire
+    }
+    ItemTooltip:
+    {
+      AccursedAmulet:
+        '''
+        Each nearby enemy increases your damage by 0.5%, however also decreases your health by 1.5%
+        Max modifier amount of 15 NPCs
+        '''
+      CoralEarring: Forged by master merfolk fisherman
+      FrozenGauntlet:
+        '''
+        coldldldododldoddllodlloldoolololdolldo 
+        CLOUD SPRITE
+        GRAYDEE WAEPON
+        :heart_eyes:
+        '''
+      GlowshroomBuckler: ""
+      HallowedDivingGear: Grants freedom underwater
+      InterstellarKelpBud: ""
+      IronBoots: Extremely heavy
+      Jetstriders: ""
+      RedVelvetCape: ""
+      WaterDragonsScale:
+        '''
+        The power of an ancient dragon stirs within you
+        Reminds you of Lake Floria
+        '''
+      AquamarineBreastplate: ""
+      AquamarineHelmet: ""
+      AquamarineLeggings: ""
+      CoconutHat: ""
+      DalantiniumGreathelm: 5% increased melee speed
+      DalantiniumGreaves: 7% increased movement speed
+      DalantiniumHood: 5% reduced mana usage
+      DalantiniumHornedGreathelm: 2+ max minions
+      DalantiniumMask: 6% reduced ammo consumption
+      DalantiniumPlatemail: 9% increased all damage
+      ExitiumsHead:
+        '''
+        ':feelssnalechog:'
+        'Great for impersonating mod devs!'
+        '''
+      ExitiumsPants:
+        '''
+        'The dev server is indeed an asylum'
+        'Great for impersonating mod devs!'
+        '''
+      ExitiumsShirt:
+        '''
+        'This idea is good trust me'
+        'Great for impersonating mod devs!'
+        '''
+      YodaCloak: "'Great for impersonating mod devs!'"
+      YodaMask:
+        '''
+        'Great for impersonating mod devs!'
+        Reminds you of a 2001 Honda Civic
+        '''
+      YodaPants: "'Great for impersonating mod devs!'"
+      FlowerJellyHat: ""
+      KelpweaverBody: Creepy and crawly
+      KelpweaverHead: Creepy and crawly
+      KelpweaverLegs: Creepy and crawly
+      StormKnightBreastplate: 5% increased damage
+      StormKnightCrest: 5% increased melee damage
+      StormKnightLeggings: 4% increased movement speed
+      TropicalWoodBoots: 7% increased movement speed
+      TropicalWoodChestplate: 9% increased all damage
+      TropicalWoodHelmet: 2% increased summon damage
+      Conch: ""
+      CoconutMilk: ""
+      KelpberryShake: ""
+      Sushi: ""
+      VexingPotion: ""
+      AquamarineDye: ""
+      HydrosDye: ""
+      SynthwaveDye: ""
+      Barracuda: ""
+      BlueTang: ""
+      Coralfin: ""
+      GlitteringPearlfish: ""
+      Ironfin: ""
+      LunaJellyItem: ""
+      ReeftailMinnow: ""
+      Spiritfish: ""
+      FishermansLog: ""
+      SailorsPole: ""
+      Glider: ""
+      MantaRayGlider: ""
+      Paraglider: ""
+      KelpvineCannon: ""
+      Aquamarine: ""
+      BrokenDuelistsBlade: ""
+      Coconut: ""
+      HydrosScales: ""
+      Kelp: ""
+      Kelpberries: Super bright!
+      Orange: ""
+      TropicalWoodItem: ""
+      MessageInABottle:
+        '''
+        A Captain boasted he was the best seafarer of the seven seas
+        He was overcome by a storm on one of his voyages
+        I was there too, and thankfully he let me in
+        I took shelter with the Captian, and in return told him about...
+        The rest of the paper is torn.
+        '''
+      LobsterbikeKeys: ""
+      Surfboard: ""
+      ClamBanner: ""
+      CoconutCrabBanner: ""
+      CoconutSpiderBanner: ""
+      GiantSquidBanner: ""
+      LunaJellyBanner: ""
+      ManoWarBanner: ""
+      SeahorseBanner: ""
+      SeaSlugBanner: ""
+      SmallClamBanner: ""
+      ToxicPufferBanner: ""
+      Brimstone: ""
+      CoralSand: ""
+      Coralsandstone: ""
+      DarkGemsand: ""
+      DarkGemsandstone: ""
+      AirHockeyTable: Fun for the whole family!
+      CoralChest: ""
+      GemsandChest: ""
+      LivingWoodCrate: ""
+      Moyai: ""
+      Net: ""
+      Cat: ""
+      Cave1: ""
+      CrownedKing: ""
+      Island1: ""
+      Island2: ""
+      Island3: ""
+      Island4: ""
+      Moon: ""
+      Mountain1: ""
+      MountainsOfDestiny: ""
+      Murdog: ""
+      OSPainting: ""
+      Rainforest1: ""
+      Snowfield: ""
+      Sunthwave: ""
+      HydrosTrophy: ""
+      OmenTrophy: ""
+      WoodenShipsWheel: Perfect for steering a boat
+      ZipPylon: ""
+      Gemsand: ""
+      Gemsandstone: ""
+      KelpLeaf: ""
+      LightGemsand: ""
+      LightGemsandstone: ""
+      DalantiniumBar: ""
+      DalantiniumOre: ""
+      LythenBar: ""
+      LythenOre: ""
+      RustyPipe: ""
+      RustyPlating: ""
+      ScorchedGemsand: ""
+      CoralSandWall: ""
+      DarkGemsandstoneWall: ""
+      DarkGemsandWall: ""
+      GemsandstoneWall: ""
+      GemsandWall: ""
+      LightGemsandstoneWall: ""
+      LightGemsandWall: ""
+      IronCannonball: Use this to make your boat shoot cannonballs.
+      LeadCannonball: Use this to make your boat shoot cannonballs.
+      MeteorCannonball: Use this to make your boat shoot cannonballs.
+      CryoCannon:
+        '''
+        Converts all cannonballs into frozen cannonballs
+        Frozen cannonbaalls explode into shards on impact
+        '''
+      SteelCannon: haha this shoots balls lol
+      TreasureFigurehead: Use it to dig up Treasure Spots on the Seamap
+      WoodenFigurehead: ""
+      Telescope:
+        '''
+        Can be held
+        Vanity item
+        'Set sail!'
+        '''
+      TennisBall: ""
+      TennisRacket: ""
+      Terracket: Better than the toilet, I guess
+      DalantiniumHamaxe: ""
+      DalantiniumPickaxe: ""
+      FuriousPickaxe: ""
+      LythenAxe: ""
+      LythenHammer: ""
+      LythenPickaxe: ""
+      TropicalWoodAxe: ""
+      TropicalWoodHammer: ""
+      TropicalWoodPickaxe: ""
+      TorchItem: ""
+      HydrosBag: ""
+      CoralArrow: ""
+      AncientBubbleStaff:
+        '''
+        Casts an ancient bubble
+        Right click the bubble after shooting it to pop it
+        '''
+      AquamarineSceptor: ""
+      CoralRod: ""
+      DalantiniumKnives: ""
+      StormboltCane: ""
+      StormGauntlet: ""
+      BruteHalberd: ""
+      DalantiniumKusiragama: ""
+      LythenWarhammer: ""
+      SailorsBlade: ""
+      BubbleStriker: ""
+      Darksaber: ""
+      DuelistsBlade: It once belonged to an ancient warrior of times past
+      PrismaticBlade: ""
+      TropicalWoodSword: ""
+      BarrierGreatsword: ""
+      KelpThrow: Releases damaging baubles when close to enemes
+      BubbleBlitzer: ""
+      CoconutCannon: ""
+      GlowshroomCannon: ""
+      HuntressBow: Huntress' Recurve Bow
+      ShimmerShot: Shimmer Shot
+      Sparkstorm: ""
+      AquaticReinforcmentStaff: ""
+      CococritterStaff: ""
+      HyoiPear: ""
+      PrismaticCane: ""
+      BeekeeperStaff: ""
+      Arclash: ""
+      KelpWhip: ""
+      ZipWire: ""
+    }
+    ProjectileName:
+    {
+      KelpBudProjectile: Interstellar Kelp Bud
+      CoralArrowProjectile: Coral Arrow
+      AncientBubbleLarge: Ancient Bubble
+      DalantiniumFan: Dalantinium Fan
+      DalantiniumFanAlt: Dalantinium Fan
+      DalantiniumFang: Dalantinium Fang
+      SceptorLaser: Aquamarine Laser
+      SceptorPrism: Aquamarine Prism
+      StormGauntletProj: Storm Gauntlet
+      AxeLightning: Lythen Warhammer
+      DalantiniumKusiragamaProjectile: Dalantinium Kusiragama
+      FCHandler: Feathered Chakram
+      LythenWarhammerProjectile: Tidebreaker
+      RapierProj: Rapier
+      SailorsBladeProj: Sailor's Blade
+      BubbleStrikerProj: Bubble
+      DarksaberHilt: Darksaber
+      DarksaberHiltShort: Darksaber
+      PrismDagger: Prism Dagger
+      BarrierGreatswordProj: Barrier Greatsword
+      KelpThrowBolt: Kelp Throw
+      KelpThrowProjectile: Kelp Throw Projectile
+      CoconutProjectile: Coconut
+      BlitzBubble: Bubble
+      GlowshroomCannonItemProj: Mushroom Mortar
+      GlowshroomCannonProj: Shroomball
+      HuntressArrow: Huntress Arrow
+      HuntressBallista: Huntress Ballista
+      HuntressBowFlair: Huntress Bow Flair
+      HuntressCritArrow: Huntress Crit Arrow
+      HuntressGlaive: Huntress Glaive
+      ShimmerShotProj: Shimmer Shot
+      ShimmerShotProj1: Aquamarine Laser
+      TideWeaverProj: Atlantean Warhammer
+      TideWeaverProj1: Tennis Ball
+      SparkstormProj: Sparkstorm
+      ARProj: Aqut
+      PrismaticCaneProj: Prismatic Cane
+      ArclashProj: Arclash Proj
+      KelpWhipProj: Kelp Whip
+      TeslaBall: Lightning Ball
+      MushroomBall: Mushroom Ball
+      BerserkerAxe: Berserker Axe
+      GoblinDeathBolt: Hex Bolt
+      ArmrestScrap: Scrap
+      CenterScrap: Scrap
+      ChandelierBolt: Hex Bolt
+      ChandelierMeteor: Hex Bolt
+      FlameColumn: Shadowfire
+      FlameSpiral: Shadowfire
+      LargeScrap: Scrap
+      PhantomTable: Phantom Table
+      ShadowEmberTemp: Shadowfire
+      Shadowfire: Shadowfire
+      ShadowflameJar: Shadowfire Concoction
+      ShadowflameJarBounce: Shadowfire Concoction
+      SmallScrap: Scrap
+      StaffBolt: ""
+      Dreadmine: Dreadmine
+      GrebyserFlare: Grebyser Flare
+      CBPetrude: Bubble
+      CoralBubble: Bubble
+      Fish: Fish
+      KelpFlowerItem: ???
+      TeslaCoralProj: Lightning Bolt
+      ThermalMagma: Thermal Magma
+      DuelistBladeProj: Duelist Blade
+      BlueRing: Blue Ring
+      MechanicalLure: Mechanical Lure
+      MechanicalMissile: Mechanical Missile
+      SpireAquamarineChunk: Aquamarine Chunk
+      SpireLaser: Aquamarine Laser
+      SpireLaserAlt: Aquamarine Laser
+      WideSpireLaser: Aquamarine Laser
+      SailorsPoleBobber: Sailor's Bobber
+      Gradient: Grad
+      KelpHookProj: Kelp Hook
+      SailorsClaspProjectile: ${ProjectileName.GemHookAmethyst}
+      ShipHelper: Ship Helper
+      TenisBoll: Tennis Ball
+      TennisRacketProj: Grad
+      TerracketProj: Grad
+      Torch: Grad
+      TornSails: Torn Sails
+      VolcanoArrowProj: Volcano Arrow Proj
+      Volleyball: Volleyball
+      WaterDragonsBubble: Water Dragon's Bubble
+      WhiteBlock: WhiteBlock
+      AquamarineLamp1Glow: Aquamarine Lamp
+      AshenBridge: Ashen Bridge
+      Bridge: Tile Experimentation
+      GoblinChandelierLight: Chandelier
+      TileExperimentation: Tile Experimentation
+    }
+    NPCName:
+    {
+      AquamarineOrb: SpikyOrb
+      AquamarineSpire: Aquamarine Spire
+      AquamarineSwordfish: Swordfish
+      AquamarineTurtle: Prismashell
+      MantaRay: Manta Ray
+      Hydros: Hydros
+      HydrosCutsceneManager: Hydros Cutscene Manager
+      LightningSeahorse: Lightning Seahorse
+      SailorsOmen: Sailor's Omen
+      JonathanSeagull: Jonathan the Cool Seagull
+      Sailor: Sailor
+      MushroomMage: Mushroom Mage
+      CymbalBard: Goblin Bard
+      PanfluteBard: Goblin Bard
+      PercussionBard: Goblin Bard
+      GoblinBerserker: Goblin Berserker
+      GoblinScrapgunner: Goblin Scrapgunner
+      Scrapball: Scrapball
+      GuardBrute: Wizard's Guard
+      Scrapwizard: Goblin Scrapwizard
+      ScrapwizardHexBolt: Hex Bolt
+      SlingshotBolt: Slingshot Bolt
+      GoblinShaman: Goblin Shaman
+      ShadowflameHexBolt: Hex Bolt
+      GoblinWatchman: Goblin Watchman
+      KelpSpider: KelpSpider
+      GlowingKelpSpider: Glowing Kelp Spider
+      OlvinicSnail: Olvinic Snail
+      SeaDragon: Sea Dragon
+      BlueringOctopus: Bluering Octopus
+      BombFish: Bomb Fish
+      Fangtooth: Fangtooth
+      Isopod: Isopod
+      Jellyfish: Jellyfish
+      Lionfish: Lionfish
+      Nautilus: Nautilus
+      ToxicPuffer: Toxic Puffer
+      OrbCollection: Orb
+      SpikyOrb: SpikyOrb
+      Squid: Squid
+      FlowerHatJelly: Flower Hat Jelly
+      HermitCrab: Hermit Crab
+      Seahorse: Seahorse
+      SeaSlug: Sea Slug
+      Stingray: Stingray
+      Swordfish: Swordfish
+      Grebyser: Grebyser
+      MechanicalAnglerFish: Mechanical Angler Fish
+      MechanicalEel: Mechanical Eel
+      MechanicalShark: Mechanical Shark
+      Cococritter: Coco Critter
+      CoconutCrab: Coconut Crab
+      CoconutSpider: Coconut Spider
+      Sandpiper: Sandpiper
+      LanternJelly: Lantern Jelly
+      LunaJelly: Luna Jelly
+      SmallClam: Clam
+    }
+    Containers:
+    {
+      BannerTile: ""
+      BasaltTile: ""
+      BaseTile: ""
+      BrimstoneTile: ""
+      CoralsandstoneTile: ""
+      CoralSandTile: ""
+      DarkGemsandstoneTile: ""
+      DarkGemsandTile: ""
+      DirtySandTile: ""
+      DriftwoodTile: ""
+      EmptyTile: ""
+      AquamarineChime: ""
+      AquamarineLamp1: ""
+      AquamarineLamp2: ""
+      AquamarinePillar: ""
+      BigTropicalTree: ""
+      BlueKelpTile: ""
+      BulboBall: ""
+      Floor11x11Coral: ""
+      Floor1x1Coral: ""
+      Floor1x2Coral: ""
+      Floor2x1Coral: ""
+      Floor2x2Coral: ""
+      Floor2x6Coral: ""
+      Floor3x2Coral: ""
+      Floor3x3Coral: ""
+      Floor4x2Coral: ""
+      Floor4x3Coral: ""
+      Floor5x3Coral: ""
+      Floor6x8Coral: ""
+      Floor7x6Coral: ""
+      Floor7x7Coral: ""
+      Floor8x3Coral: ""
+      Floor8x5Coral: ""
+      Floor8x7Coral: ""
+      Floor8x8Coral: ""
+      Floor8x9Coral: ""
+      Floor9x9Coral: ""
+      FloorGlow1x2Coral1: ""
+      FloorGlow2x1Coral: ""
+      FloorGlow2x2Coral: ""
+      FloorGlow2x4Coral: ""
+      FloorGlow4x4Coral: ""
+      FloorGlow9x4Coral: ""
+      GlowHangCoral2: ""
+      Hanging1x2Coral: ""
+      Hanging1x3Coral: ""
+      Hanging1x4Coral: ""
+      Hanging2x3Coral: ""
+      Hanging2x4Coral: ""
+      HangingGlow2x2Coral: ""
+      HangingGlow2x4Coral: ""
+      HangingGlow3x2Coral: ""
+      Wall2x2CoralL: ""
+      Wall2x2CoralR: ""
+      Wall2x2NonsolidCoralL: ""
+      Wall2x2NonsolidCoralR: ""
+      Wall3x2CoralL: ""
+      Wall3x2CoralR: ""
+      Wall3x2NonsolidCoralL: ""
+      Wall3x2NonsolidCoralR: ""
+      Wall4x2CoralL: ""
+      Wall4x2CoralR: ""
+      Wall5x2NonsolidCoralL: ""
+      Wall5x2NonsolidCoralR: ""
+      Wall6x3CoralL: ""
+      Wall6x3CoralR: ""
+      WallGlow2x3NonsolidCoralL: ""
+      WallGlow2x3NonsolidCoralR: ""
+      EnchantedConchTile: ""
+      GlowshroomVines: ""
+      OrangeMushroom1x1: ""
+      OrangeMushroom2x2: ""
+      OrangeMushroom3x5: ""
+      OrangeMushroom5x7: ""
+      OrangeMushroom8x11: ""
+      GroundSaltCrystal1x1: ""
+      GroundSaltCrystal2x2: ""
+      GroundSaltCrystal3x3: ""
+      GlowHangCoral1: ""
+      GreenKelpTile: ""
+      GroundGlowCoral: ""
+      GroundGlowCoral2: ""
+      GroundGlowCoral3: ""
+      GroundGlowCoral4: ""
+      KelpFlower: ""
+      KelpVine: ""
+      Wall4x3CoralL: ""
+      Wall4x3CoralR: ""
+      LilyPadMedium: ""
+      LilyPadSmol: ""
+      SeagrassTile: ""
+      TeslaCoral2x2: ""
+      ThermalVent1x1: ""
+      ThermalVent2x1: ""
+      ThermalVent2x2: ""
+      ThermalVent3x3: ""
+      ThermalVent5x4: ""
+      ThermalVent5x5: ""
+      TropicalTree: ""
+      AirHockeyTableTile: ""
+      CoralChestTile: ""
+      GemsandChestTile: ""
+      ShadowflameHexChestTile: Shadowflame Hex Chest
+      GoblinBanner: ""
+      GoblinBannerBig: ""
+      GoblinBanquetTable: ""
+      GoblinChandelier: ""
+      ShadowflameCampfire: ""
+      HydrosSpawner: ""
+      KelpberryPlaced: ""
+      LivingWoodCrateTile: ""
+      MoyaiTile: ""
+      NautilusPuzzle: ""
+      NetTile: ""
+      OrbHolder: ""
+      CatTile: ""
+      Cave1Tile: ""
+      CrownedKingTile: ""
+      Island1Tile: ""
+      Island2Tile: ""
+      Island3Tile: ""
+      Island4Tile: ""
+      MoonTile: ""
+      Mountain1Tile: ""
+      MountainsOfDestinyTile: ""
+      MurdogTile: ""
+      OSPaintingTile: ""
+      Rainforest1Tile: ""
+      SnowfieldTile: ""
+      SunthwaveTile: ""
+      CannonTile: ""
+      CryoCannonTile: ""
+      FigureheadTile: ""
+      MapTable: ""
+      ShipbuildersWorkbench: ""
+      ShipStorage: ""
+      WoodenShipsWheelTile: ""
+      TrophiesTile: ""
+      ZipPylon: ""
+      GemsandstoneTile: ""
+      GemsandTile: ""
+      KelpLeafTile: ""
+      KelpMossTile: ""
+      KelpRockTile: ""
+      LightGemsandstoneTile: ""
+      LightGemsandTile: ""
+      AquamarineTile: ""
+      DalantiniumBarTile: ""
+      DalantiniumOreTile: ""
+      LythenOreTile: ""
+      RustyPipeTile: ""
+      RustyPlatingTile: ""
+      ScorchedGemsandTile: ""
+      ShieldplateTile: ""
+      ThermalMossTile: ""
+      TropicalWoodTile: ""
+      VibrantMycelium: ""
+    }
+    MapObject:
+    {
+      BannerTile: Banner
+      BigTropicalTree: Tropical Tree
+      BulboBall: Bulbo Ball
+      Floor11x11Coral: Big Coral
+      Floor6x8Coral: Big Coral
+      Floor7x6Coral: Big Coral
+      Floor7x7Coral: Big Coral
+      Floor8x3Coral: Big Coral
+      Floor8x5Coral: Big Coral
+      Floor8x7Coral: Big Coral
+      Floor8x8Coral: Big Coral
+      Floor8x9Coral: Big Coral
+      Floor9x9Coral: Big Coral
+      FloorGlow2x2Coral: Coral Lamp
+      FloorGlow2x4Coral: Wide Bulbous Coral
+      GlowHangCoral2: Coral Lamp
+      Hanging1x2Coral: Coral Lamp
+      Hanging1x3Coral: Coral Lamp
+      Hanging1x4Coral: Coral Lamp
+      Hanging2x3Coral: Coral Lamp
+      Hanging2x4Coral: Coral Lamp
+      HangingGlow2x2Coral: Coral Lamp
+      HangingGlow2x4Coral: Coral Lamp
+      HangingGlow3x2Coral: Coral Lamp
+      GlowHangCoral1: Coral Lamp
+      GroundGlowCoral: Coral Lamp
+      GroundGlowCoral2: Coral Lamp
+      GroundGlowCoral3: Coral Lamp
+      GroundGlowCoral4: Coral Lamp
+      KelpFlower: Kelpblossom
+      LilyPadMedium: Lilypad
+      LilyPadSmol: Lilypad
+      ThermalVent1x1: Thermal Vent
+      ThermalVent2x1: Thermal Vent
+      ThermalVent2x2: Thermal Vent
+      ThermalVent3x3: Thermal Vent
+      ThermalVent5x4: Thermal Vent
+      ThermalVent5x5: Thermal Vent
+      TropicalTree: Tropical Tree
+      AirHockeyTableTile: Air Hockey Table
+      CoralChestTile: Coral Chest
+      GemsandChestTile: Gemsand Chest
+      ShadowflameHexChestTile: Shadowflame Hex Chest
+      GoblinBanner: Goblin Banner
+      GoblinBannerBig: Goblin Banner Big
+      GoblinBanquetTable: Goblin Banquet Table
+      GoblinChandelier: Goblin Banner Big
+      ShadowflameCampfire: Shadowflame Campfire
+      HydrosSpawner: Shrine to the Seahorse King
+      Kelpberries: Mods.EEMod.MapObject.Kelpberries
+      LivingWoodCrateTile: Living Wood Crate
+      MoyaiTile: Moyai
+      NautilusPuzzle: Shrine of the Water Rune
+      NetTile: Net
+      CatTile: Cat
+      Cave1Tile: Cave
+      CrownedKingTile: Crowned King
+      Island1Tile: Island
+      Island2Tile: Island
+      Island3Tile: Island
+      Island4Tile: Island
+      MoonTile: Moon
+      Mountain1Tile: Mountain
+      MountainsOfDestinyTile: OSPainting
+      MurdogTile: Murdog
+      OSPaintingTile: OSPainting
+      Rainforest1Tile: Rainforest
+      SnowfieldTile: Moon
+      SunthwaveTile: Moon
+      CannonTile: Steel Cannon
+      CryoCannonTile: Cryo Cannon
+      FigureheadTile: Figurehead
+      MapTable: Map Table
+      ShipbuildersWorkbench: Shipbuilder's Workbench
+      ShipStorage: Ship Storage
+      WoodenShipsWheelTile: Wooden Ship's Wheel
+      TrophiesTile: Trophy
+      ZipPylon: Zip-Pylon
+      AquamarineTile: Aquamarine
+      DalantiniumOreTile: Dalantinium
+      LythenOreTile: Lythen Ore
+    }
+    Ldstr:
+    {
+      "System.String .<>f__AnonymousType0`2::ToString()":
+      [
+        "{{ fishLengthsKeys = {0}, fishLengthsValues = {1} }}"
+      ]
+      "System.String .<>f__AnonymousType1`2::ToString()":
+      [
+        "{{ Key = {0}, Value = {1} }}"
+      ]
+      "System.Void EEMod.EEMod::InitializeAmbience()":
+      [
+        Dolphins
+        Seagulls
+        Seagulls2
+        Waves
+      ]
+      "System.Void EEMod.EEMod::AddRecipeGroups()":
+      [
+        EEMod:Gemstones
+      ]
+      "System.Void EEMod.EEMod::TileDrawing_DrawPartialLiquid(.TileDrawing+orig_DrawPartialLiquid,Terraria.GameContent.Drawing.TileDrawing,Terraria.Tile,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Rectangle,System.Int32,Microsoft.Xna.Framework.Color)":
+      [
+        NO WAY!!!
+      ]
+      "System.Void EEMod.EEMod::DrawLoadingScreen(.Main+orig_Draw,Terraria.Main,Microsoft.Xna.Framework.GameTime)":
+      [
+        leftBound
+        rightBound
+        leftBound
+        rightBound
+      ]
+      "System.Void EEMod.EEMod::DrawLoadingScreenContent()":
+      [
+        cloudNoisemap
+        densityNoisemap
+        wind
+        weatherDensity
+        stepsX
+        stepsY
+        counter
+        vec
+        cloudsColor4
+        cloudsColor3
+        cloudsColor2
+        cloudsColor1
+        arrayOffset
+      ]
+      "System.Void EEMod.EEMod::PrepareSubworldList(.UIWorldListItem+orig_ctor,Terraria.GameContent.UI.Elements.UIWorldListItem,Terraria.IO.WorldFileData,System.Int32,System.Boolean)":
+      [
+        \Worlds\Subworlds\
+        Coral Reefs
+        Sea
+        Goblin Outpost
+        \EEMod_
+        .wld
+        No Unlocked Islands
+      ]
+      "System.Void EEMod.EEMod::UpdateGame(Microsoft.Xna.Framework.GameTime)":
+      [
+        Pick Up?
+      ]
+      "System.Void EEMod.EEMod::DrawLensFlares()":
+      [
+        CoralReefs
+      ]
+      "System.Void EEMod.EEMod::BetterLightingHandler()":
+      [
+        EEMod:Saturation
+        EEMod:Saturation
+        EEMod:Saturation
+      ]
+      "System.Void EEMod.EEMod::QuickLoadScreenShader(System.String)":
+      [
+        EEMod:
+      ]
+      "System.Void EEMod.EEMod::LoadUI()":
+      [
+        EEInterfacee
+        FishermansLogUI
+        KelpArmorAmmoInterface
+        KelpArmorAmmoUI
+        IndicatorsInterface
+        IndicatorsUI
+        DialogueInterface
+        DialogueUI
+        ShipLoadoutInterface
+        ShipLoadoutUI
+        CustomResources
+        ArrowInterface
+      ]
+      "System.Void EEMod.EEMod::<Load>b__42_0()":
+      [
+        Main
+        Main
+      ]
+      "System.Void EEMod.EEPlayer::ModifyScreenPosition()":
+      [
+        Cutscene1
+        Cutscene1
+      ]
+      "System.Void EEMod.EEPlayer::SaveData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        fishLengthsKeys
+        fishLengthsValues
+      ]
+      "System.Void EEMod.EEPlayer::LoadData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        fishLengthsKeys
+        fishLengthsValues
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunkyRadial(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        pos
+        progress
+        alpha
+        noiseTexture
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunky(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+      ]
+      "System.Void EEMod.Helpers::DrawBloomed(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single,System.Single,Microsoft.Xna.Framework.Graphics.SpriteEffects)":
+      [
+        resolution
+        satLevel
+        radius
+        alphaMult
+      ]
+      "System.Void EEMod.Helpers::DrawBloomed(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Rectangle,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single,System.Single,Microsoft.Xna.Framework.Graphics.SpriteEffects)":
+      [
+        resolution
+        satLevel
+        radius
+        alphaMult
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunky2(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunkyNoBatch(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        pos
+        progress
+        alpha
+        noiseTexture
+      ]
+      "System.Int32[0...,0...] EEMod.Helpers::ConvertTexToBitmap(System.String,System.Int32)":
+      [
+        \Mod Sources\EEMod\
+        .png
+      ]
+      "System.Void EEMod.Helpers::DrawBezier(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Color,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Single,System.Single,System.Boolean,System.Single,System.Boolean,System.Boolean,System.Single,System.Boolean,System.Boolean)":
+      [
+        alpha
+      ]
+      "System.Void EEMod.Helpers::DrawBezierAdditive(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Color,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Single,System.Single,System.Boolean,System.Single,System.Boolean,System.Boolean,System.Single,System.Boolean,System.Boolean)":
+      [
+        alpha
+      ]
+      "System.Void EEMod.Helpers::.cctor()":
+      [
+        FromType
+      ]
+      "System.Void EEMod.SpritebatchRenderInfo::.ctor(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        spriteBatch
+      ]
+      "System.Void EEMod.SpritebatchRenderInfo::.cctor()":
+      [
+        sortMode
+        blendState
+        samplerState
+        depthStencilState
+        rasterizerState
+        customEffect
+        transformMatrix
+      ]
+      "System.Void EEMod.SeamapPlayer::ReturnHome()":
+      [
+        Sea
+      ]
+      "System.Void EEMod.SeamapPlayer::OnEnterWorld(Terraria.Player)":
+      [
+        Sea
+      ]
+      "System.Void EEMod.SeamapPlayer::PreUpdate()":
+      [
+        Sea
+      ]
+      "System.Void EEMod.SeamapPlayer::SaveData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        lastPos
+      ]
+      "System.Void EEMod.SeamapPlayer::LoadData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        lastPos
+      ]
+      "System.Void EEMod.SeamapPlayer::OnExitSeamap()":
+      [
+        CoralReefs
+        GoblinFort
+        Main
+      ]
+      "System.Void EEMod.SeamapPlayer::.ctor()":
+      [
+        Main
+      ]
+      "System.Void EEMod.ShipyardPlayer::SaveData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        cannonType
+        figureheadType
+        boatTier
+        ShipStorage
+      ]
+      "System.Void EEMod.ShipyardPlayer::LoadData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        cannonType
+        figureheadType
+        boatTier
+        ShipStorage
+      ]
+      "System.Void EEMod.ShipyardPlayer::RightClickAbility(EEMod.Seamap.Content.SeamapPlayerShip)":
+      [
+        Something's wrong. Report this to the developers.
+      ]
+      "System.Void EEMod.DialoguePlayer::SetControls()":
+      [
+        DialogueInterface
+      ]
+      "System.Void EEMod.DrawLensFlares::UpdateLensFlares()":
+      [
+        CoralReefs
+      ]
+      "System.Void EEMod.LightingBuffer::DrawWithBuffer(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,System.Single)":
+      [
+        buffer
+        screenPosition
+        texSize
+        alpha
+      ]
+      "System.Void EEMod.BulbousPlants::HandleBulbDraw(Microsoft.Xna.Framework.Vector2)":
+      [
+        noiseTexture
+        tentacle
+        yCoord
+        xCoord
+        lightColour
+      ]
+      "System.Void EEMod.OrbNoiseSurfacing::DrawNoiseSurfacing()":
+      [
+        yCoord
+        t
+        xDis
+        noiseTexture
+        noise
+        NoiseSurfacingTest
+      ]
+      "Terraria.ModLoader.IO.TagCompound EEMod.CrystalSerializer::Serialize(EEMod.Tiles.EmptyTileArrays.Crystal)":
+      [
+        position
+        texture
+        glowmask
+      ]
+      "EEMod.Tiles.EmptyTileArrays.Crystal EEMod.CrystalSerializer::Deserialize(Terraria.ModLoader.IO.TagCompound)":
+      [
+        position
+        texture
+        glowmask
+      ]
+      "Terraria.ModLoader.IO.TagCompound EEMod.BigCrystalSerializer::Serialize(EEMod.Tiles.EmptyTileArrays.BigCrystal)":
+      [
+        position
+        texture
+        glowmask
+      ]
+      "EEMod.Tiles.EmptyTileArrays.BigCrystal EEMod.BigCrystalSerializer::Deserialize(Terraria.ModLoader.IO.TagCompound)":
+      [
+        position
+        texture
+        glowmask
+      ]
+      "Terraria.ModLoader.IO.TagCompound EEMod.EmptyTileEntitySerializer::Serialize(EEMod.Tiles.EmptyTileArrays.EmptyTileEntity)":
+      [
+        BigCrystal
+        position
+        texture
+        glowBC
+        Crystal
+        position
+        texture
+        glowC
+        position
+        texture
+      ]
+      "EEMod.Tiles.EmptyTileArrays.EmptyTileEntity EEMod.EmptyTileEntitySerializer::Deserialize(Terraria.ModLoader.IO.TagCompound)":
+      [
+        glowBC
+        position
+        texture
+        glowBC
+        glowC
+        position
+        texture
+        glowC
+        position
+        texture
+      ]
+      "System.Void EEMod.WorldGenerator::GenerateWorld(Terraria.WorldBuilding.GenerationProgress)":
+      [
+        tModLoader.WorldGenError
+      ]
+      "System.Void EEMod.UI.States.FishermansLogUI::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        EEInterfacee
+      ]
+      "System.Void EEMod.UI.States.FishermansLogUI::LoadAllFish()":
+      [
+        Uncommon
+        WIP
+        Underground|Caverns|UG Jungle|UG Beehive|UG Corruption|UG Crimson|UG Hallow|Ice|Corrupt Ice|Crimson Ice|Hallow Ice|UG Glowing Mush|Underworld
+        Common
+        WIP
+        Corrupt Ice|Crimson Ice|Hallow Ice|Ice|Tundra
+        Plentiful
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Caverns|UG Glowing Mush|UG Jungle
+        Very Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Very Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Plentiful
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Extremely Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Plentiful
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Rare
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Plentiful
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Common
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+        Uncommon
+        WIP
+        Surface|Beach|Beehive|Caverns|Corrupt Ice|Corruption|Crimson|Crimson Ice|Glowing Mush|Hallow|Hallow Ice|Ice|Jungle|Space|Tundra|UG Beehive|UG Corruption|UG Crimson|UG Glowing Mush|UG Hallow|UG Jungle|Underground
+      ]
+      "System.Void EEMod.UI.States.FishElement::Click(Terraria.UI.UIMouseEvent)":
+      [
+        "Habitat: "
+        
+          '''
+
+          Rarity: 
+          '''
+        
+          '''
+
+          Biggest Catch: 
+          '''
+        " cm"
+        
+          '''
+          Habitat: ???
+          Rarity: ???
+          Biggest Catch: ???
+          '''
+      ]
+      "System.Void EEMod.UI.States.FixedUIScrollbar::DrawSelf(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEInterfacee
+      ]
+      "System.Void EEMod.UI.States.FixedUIScrollbar::MouseDown(Terraria.UI.UIMouseEvent)":
+      [
+        EEInterfacee
+      ]
+      "System.Void EEMod.UI.States.IndicatorsUI::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        IndicatorsInterface
+      ]
+      "System.Void EEMod.UI.States.KelpArmorAmmoUI::OnInitialize()":
+      [
+        Kelp Revolvers' Ammo
+      ]
+      "System.Void EEMod.UI.States.ShipLoadoutUI::OnInitialize()":
+      [
+        Cannon
+        Locked
+        Figurehead
+      ]
+      "System.Void EEMod.UI.States.ShipLoadoutUI::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        ShipLoadoutInterface
+        ShipLoadoutInterface
+      ]
+      "System.Void EEMod.VerletIntegration.VerletHelpers::AddStickChain(EEMod.VerletIntegration.Verlet&,Microsoft.Xna.Framework.Vector2,System.Int32,System.Single)":
+      [
+        Glow
+        Map
+        Glow
+        Map
+      ]
+      "System.Void EEMod.VerletIntegration.VerletHelpers::AddStickChainNoAdd(EEMod.VerletIntegration.Verlet&,Microsoft.Xna.Framework.Vector2,System.Int32,System.Single)":
+      [
+        Glow
+        Map
+        Glow
+        Map
+      ]
+      "System.Void EEMod.VerletIntegration.Verlet::BindPoints(System.Int32,System.Int32,System.Boolean,Microsoft.Xna.Framework.Color,Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Graphics.Texture2D)":
+      [
+        Don't be dumb. smh
+      ]
+      "System.Void EEMod.ModSystems.UIManager::AddUIState(System.String,Terraria.UI.UIState)":
+      [
+        State name already used
+      ]
+      "System.Void EEMod.ModSystems.UIManager::AddInterface(System.String,System.Boolean,System.String)":
+      [
+        Interface name already used
+      ]
+      "System.Void EEMod.ModSystems.UIManager::Remove(System.String)":
+      [
+        State doesn't exist
+      ]
+      "System.Void EEMod.ModSystems.UIManager::SetState(System.String,System.String)":
+      [
+        State or Interface Not Found
+      ]
+      "System.Void EEMod.ModSystems.UIManager::RemoveState(System.String)":
+      [
+        State or Interface Not Found
+      ]
+      "System.Void EEMod.ModSystems.UIManager::BindInterfaceToState(System.String,System.String)":
+      [
+        State or Interface Not Found
+      ]
+      "System.Void EEMod.ModSystems.UIManager::ModifyInterfaceLayers(System.Collections.Generic.List`1<>)":
+      [
+        EEMod: EEInterface
+        EEMod: EEInterface
+        EE: UI
+        Vanilla: Settings Button
+        Vanilla: Cursor
+      ]
+      "System.Void EEMod.Prim.AxeLightningPrimTrail::SetShaders()":
+      [
+        maskTexture
+        newColor
+      ]
+      "System.Void EEMod.Prim.MemePrimTrail::SetShaders()":
+      [
+        AlphaFadeOff
+      ]
+      "System.Void EEMod.Prim.RainbowLightTrail::SetShaders()":
+      [
+        RainbowLightPass
+      ]
+      "System.Void EEMod.Prim.RapierPrimTrail::SetShaders()":
+      [
+        Edge
+      ]
+      "System.Void EEMod.Prim.SpirePrimTrail::SetShaders()":
+      [
+        maskTexture
+        newColor
+      ]
+      "System.Void EEMod.Prim.SpirePrimTrail2::SetShaders()":
+      [
+        Lazor
+      ]
+      "System.Void EEMod.Prim.SwordPrimTrail::SetShaders()":
+      [
+        Edge2
+      ]
+      "System.Void EEMod.Prim.WebPrimTrail::SetShaders()":
+      [
+        WebPass
+      ]
+      "System.Void EEMod.Prim.RedHotCannonballTrail::PrimStructure(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        grungus
+      ]
+      "System.Void EEMod.Prim.RedHotCannonballTrail::SetShaders()":
+      [
+        maskTexture
+        newColor
+      ]
+      "System.Void EEMod.Prim.ScrapwizardTendrilPrimTrail::SetShaders()":
+      [
+        maskTexture
+        transformMatrix
+        xOffset
+        myDist
+        alpha
+        color1
+        color2
+        color3
+        color4
+        color5
+      ]
+      "System.Void EEMod.Prim.ScrapwizardTendrilPrimTrail2::SetShaders()":
+      [
+        maskTexture
+        WorldViewProjection
+        darkColor
+        lightColor
+      ]
+      "System.Void EEMod.Prim.ShadowflameCampfirePrims::SetShaders()":
+      [
+        maskTexture
+        transformMatrix
+        xOffset
+        myDist
+        alpha
+        color1
+        color2
+        color3
+        color4
+        color5
+      ]
+      "System.Void EEMod.Prim.ShadowflamePrimTrail::SetShaders()":
+      [
+        maskTexture
+        maskTexture
+        newColor
+        transformMatrix
+      ]
+      "System.Void EEMod.Prim.StormGauntletPrimTrail::SetShaders()":
+      [
+        maskTexture
+        newColor
+      ]
+      "System.Void EEMod.Prim.TornSailPrims::SetShaders()":
+      [
+        newColor5
+        newColor4
+        newColor3
+        newColor2
+        newColor1
+        newColor5
+        newColor4
+        newColor3
+        newColor2
+        newColor1
+        transformMatrix
+        lightColor
+        maskTexture
+      ]
+      "System.Void EEMod.Net.EENet::WriteObject(Terraria.ModLoader.ModPacket,System.Object)":
+      [
+        "The type of "
+        obj
+        " could not be found"
+      ]
+      "System.Void EEMod.Net.Serializers.NetObjSerializer`1::WriteObj(System.IO.BinaryWriter,System.Object)":
+      [
+        The given object type does not match this serializer's target type
+        obj
+      ]
+      "System.Void EEMod.Net.Serializers.WriteReadExtensions::Write(System.IO.BinaryWriter,.T)":
+      [
+        Serializer for the type '
+        "' not found"
+      ]
+      ".T EEMod.Net.Serializers.WriteReadExtensions::Read(System.IO.BinaryReader)":
+      [
+        Serializer for the type '
+        "' not found"
+      ]
+      "System.String EEMod.Tiles.BaseTile::get__displayName()":
+      [
+        Tile
+      ]
+      "System.Void EEMod.Tiles.TileExperimentation::SetStaticDefaults()":
+      [
+        Tile Experimentation
+      ]
+      "System.Void EEMod.Tiles.Ores.AquamarineTile::SetStaticDefaults()":
+      [
+        Aquamarine
+      ]
+      "System.Void EEMod.Tiles.Ores.DalantiniumBarTile::SetStaticDefaults()":
+      [
+        MapObject.MetalBar
+      ]
+      "System.Void EEMod.Tiles.Ores.DalantiniumOreTile::SetStaticDefaults()":
+      [
+        Dalantinium
+      ]
+      "System.Void EEMod.Tiles.Ores.LythenOreTile::SetStaticDefaults()":
+      [
+        Lythen Ore
+      ]
+      "System.Void EEMod.Tiles.Furniture.AirHockeyTableTile::SetStaticDefaults()":
+      [
+        Air Hockey Table
+      ]
+      "System.Void EEMod.Tiles.Furniture.AshenBridge::SetStaticDefaults()":
+      [
+        Ashen Bridge
+      ]
+      "System.Void EEMod.Tiles.Furniture.Bridge::SetStaticDefaults()":
+      [
+        Tile Experimentation
+      ]
+      "System.Void EEMod.Tiles.Furniture.HydrosSpawner::SetStaticDefaults()":
+      [
+        Shrine to the Seahorse King
+      ]
+      "System.Void EEMod.Tiles.Furniture.KelpberryPlaced::SetStaticDefaults()":
+      [
+        Kelpberries
+      ]
+      "System.Void EEMod.Tiles.Furniture.LivingWoodCrateTile::SetStaticDefaults()":
+      [
+        Living Wood Crate
+      ]
+      "System.Void EEMod.Tiles.Furniture.MoyaiTile::SetStaticDefaults()":
+      [
+        Moyai
+      ]
+      "System.Void EEMod.Tiles.Furniture.NetTile::SetStaticDefaults()":
+      [
+        Net
+      ]
+      "System.Void EEMod.Tiles.Furniture.TrophiesTile::SetStaticDefaults()":
+      [
+        Trophy
+      ]
+      "System.Void EEMod.Tiles.Furniture.ZipPylon::SetStaticDefaults()":
+      [
+        Zip-Pylon
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.CannonTile::SetStaticDefaults()":
+      [
+        Steel Cannon
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.CryoCannonTile::SetStaticDefaults()":
+      [
+        Cryo Cannon
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.FigureheadTile::SetStaticDefaults()":
+      [
+        Figurehead
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.MapTable::SetStaticDefaults()":
+      [
+        Map Table
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.ShipbuildersWorkbench::SetStaticDefaults()":
+      [
+        Shipbuilder's Workbench
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.ShipbuildersWorkbench::RightClick(System.Int32,System.Int32)":
+      [
+        ShipLoadoutInterface
+        ShipLoadoutInterface
+        ShipLoadoutInterface
+        ShipLoadoutUI
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.ShipbuildersWorkbench::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        ShipLoadoutInterface
+        ShipLoadoutInterface
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.ShipStorage::SetStaticDefaults()":
+      [
+        Ship Storage
+      ]
+      "System.Void EEMod.Tiles.Furniture.Shipyard.WoodenShipsWheelTile::SetStaticDefaults()":
+      [
+        Wooden Ship's Wheel
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.WoodenShipsWheelTile::RightClick(System.Int32,System.Int32)":
+      [
+        Your ship is missing parts. Please replace these parts before sailing again.
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.CatTile::SetStaticDefaults()":
+      [
+        Cat
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Cave1Tile::SetStaticDefaults()":
+      [
+        Cave
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.CrownedKingTile::SetStaticDefaults()":
+      [
+        Crowned King
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Island1Tile::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Island2Tile::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Island3Tile::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Island4Tile::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.MoonTile::SetStaticDefaults()":
+      [
+        Moon
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Mountain1Tile::SetStaticDefaults()":
+      [
+        Mountain
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.MountainsOfDestinyTile::SetStaticDefaults()":
+      [
+        OSPainting
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.MurdogTile::SetStaticDefaults()":
+      [
+        Murdog
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.OSPaintingTile::SetStaticDefaults()":
+      [
+        OSPainting
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.Rainforest1Tile::SetStaticDefaults()":
+      [
+        Rainforest
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.SnowfieldTile::SetStaticDefaults()":
+      [
+        Moon
+      ]
+      "System.Void EEMod.Tiles.Furniture.Paintings.SunthwaveTile::SetStaticDefaults()":
+      [
+        Moon
+      ]
+      "System.Void EEMod.Tiles.Furniture.NautilusPuzzle.NautilusPuzzle::SetStaticDefaults()":
+      [
+        Shrine of the Water Rune
+      ]
+      "System.Void EEMod.Tiles.Furniture.NautilusPuzzle.NautilusPuzzle::DrawEffects(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch,Terraria.DataStructures.TileDrawInfo&)":
+      [
+        NautilusPuzzle
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinBanner::SetStaticDefaults()":
+      [
+        Goblin Banner
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinBannerBig::SetStaticDefaults()":
+      [
+        Goblin Banner Big
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinBanquetTable::SetStaticDefaults()":
+      [
+        Goblin Banquet Table
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinChandelier::SetStaticDefaults()":
+      [
+        Goblin Banner Big
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinChandelierLight::SetStaticDefaults()":
+      [
+        Chandelier
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.ShadowflameCampfire::SetStaticDefaults()":
+      [
+        Shadowflame Campfire
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.CoralChestTile::SetStaticDefaults()":
+      [
+        Coral Chest
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.CoralChestTile::MouseOver(System.Int32,System.Int32)":
+      [
+        LegacyChestType.0
+        Coral Chest
+        Coral Chest
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.GemsandChestTile::SetStaticDefaults()":
+      [
+        Gemsand Chest
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.GemsandChestTile::MouseOver(System.Int32,System.Int32)":
+      [
+        Gemsand Chest
+        Gemsand Chest
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.ShadowflameHexChestTile::SetStaticDefaults()":
+      [
+        Shadowflame Hex Chest
+        Shadowflame Hex Chest
+      ]
+      "System.String EEMod.Tiles.Furniture.Chests.ShadowflameHexChestTile::MapChestName(System.String,System.Int32,System.Int32)":
+      [
+        LegacyChestType.0
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.ShadowflameHexChestTile::MouseOver(System.Int32,System.Int32)":
+      [
+        LegacyChestType.0
+        Shadowflame Hex Chest
+        Shadowflame Hex Chest
+      ]
+      "System.Void EEMod.Tiles.Foliage.BigTropicalTree::SetStaticDefaults()":
+      [
+        Tropical Tree
+      ]
+      "System.Void EEMod.Tiles.Foliage.LilyPadMedium::SetStaticDefaults()":
+      [
+        Lilypad
+      ]
+      "System.Void EEMod.Tiles.Foliage.LilyPadSmol::SetStaticDefaults()":
+      [
+        Lilypad
+      ]
+      "System.Void EEMod.Tiles.Foliage.TropicalTree::SetStaticDefaults()":
+      [
+        Tropical Tree
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent1x1::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent2x1::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent2x2::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent3x3::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent5x4::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent5x5::SetStaticDefaults()":
+      [
+        Thermal Vent
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GlowHangCoral1::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral2::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral3::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral4::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.KelpFlower::SetStaticDefaults()":
+      [
+        Kelpblossom
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom8x11::.ctor()":
+      [
+        glowvinetop
+        glowvinemid1
+        glowvinemid2
+        glowvinebottom
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor11x11Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor6x8Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor7x6Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor7x7Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor8x3Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor8x5Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor8x7Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor8x8Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor8x9Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.Floor9x9Coral::SetStaticDefaults()":
+      [
+        Big Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow2x2Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow2x4Coral::SetStaticDefaults()":
+      [
+        Wide Bulbous Coral
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.GlowHangCoral2::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.Hanging1x2Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.Hanging1x3Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.Hanging1x4Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.Hanging2x3Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.Hanging2x4Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow2x2Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow2x4Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow3x2Coral::SetStaticDefaults()":
+      [
+        Coral Lamp
+      ]
+      "System.Void EEMod.Tiles.Foliage.BulboBall.BulboBall::SetStaticDefaults()":
+      [
+        Bulbo Ball
+      ]
+      "System.Void EEMod.Tiles.Foliage.Aquamarine.AquamarineLamp1Glow::SetStaticDefaults()":
+      [
+        Aquamarine Lamp
+      ]
+      "System.Void EEMod.Tiles.Banners.BannerTile::SetStaticDefaults()":
+      [
+        Banner
+      ]
+      "System.Void EEMod.Tiles.Banners.BannerTile::KillMultiTile(System.Int32,System.Int32,System.Int32,System.Int32)":
+      [
+        ClamBanner
+        LunaJellyBanner
+        ManoWarBanner
+        SeaSlugBanner
+        ToxicPufferBanner
+        GiantSquidBanner
+        SmallClamBanner
+        SeahorseBanner
+        CoconutSpiderBanner
+        CoconutCrabBanner
+      ]
+      "System.Void EEMod.Tiles.Banners.BannerTile::NearbyEffects(System.Int32,System.Int32,System.Boolean)":
+      [
+        Clam
+        LunaJelly
+        ManoWar
+        SeaSlug
+        ToxicPuffer
+        GiantSquid
+        SmallClam
+        Seahorse
+        CoconutSpider
+        CoconutCrab
+      ]
+      "System.Void EEMod.Tiles.EmptyTileArrays.EmptyTileEntity::Destroy()":
+      [
+        TileNotFound
+      ]
+      "System.Void EEMod.Tiles.EmptyTileArrays.Crystal::OnDraw()":
+      [
+        alpha
+        shineSpeed
+        lightColour
+        tentacle
+        shaderLerp
+        headTexture
+        XPROG
+        YPROG
+        Scaling
+      ]
+      "System.Void EEMod.Tiles.EmptyTileArrays.BigCrystal::OnDraw()":
+      [
+        alpha
+        shineSpeed
+        lightColour
+        tentacle
+        shaderLerp
+        headTexture
+        XPROG
+        YPROG
+        Scaling
+      ]
+      "System.String EEMod.Subworlds.EESubworld::get_subworldKey()":
+      [
+        Island
+      ]
+      "System.String EEMod.Subworlds.GoblinFort::get_Name()":
+      [
+        Goblin Outpost
+      ]
+      "System.String EEMod.Subworlds.GoblinFort::get_subworldKey()":
+      [
+        GoblinFort
+      ]
+      "System.Void EEMod.Subworlds.GoblinFort::OnExit()":
+      [
+        GoblinFort
+      ]
+      "System.String EEMod.Subworlds.Sea::get_Name()":
+      [
+        Sea
+      ]
+      "System.String EEMod.Subworlds.Sea::get_subworldKey()":
+      [
+        Sea
+      ]
+      "System.String EEMod.Subworlds.CoralReefs.CoralReefs::get_Name()":
+      [
+        Coral Reefs
+      ]
+      "System.String EEMod.Subworlds.CoralReefs.CoralReefs::get_subworldKey()":
+      [
+        CoralReefs
+      ]
+      "System.Void EEMod.Subworlds.CoralReefs.CoralReefs::<get_Tasks>b__23_0(Terraria.WorldBuilding.GenerationProgress)":
+      [
+        Generating Coral Reefs
+        Initial generation
+        Making the surface
+        Finding suitable room positions
+        Generating chasms
+        Placing chasm coral
+        "Generating rooms pt. 1 "
+        "Generating rooms pt. 2 "
+        Wrecking ships
+        "Chest attempting to spawn at: "
+        Making the world look nice
+        Placing boat
+        Successful!
+      ]
+      ".T EEMod.Seamap.Core.ComponentManager::Get(System.Boolean)":
+      [
+        "Component of type "
+        " was not found"
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderSeamapUI(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Disembark?
+        Disembark?
+        Disembark?
+        Disembark?
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderWater(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        icyWaterColor
+        neutralWaterColor
+        tropicalWaterColor
+        densityNoisemap
+        noiseTex
+        baseWaterColor
+        highlightColor
+        sinVal
+        width
+        height
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderClouds(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        cloudNoisemap
+        densityNoisemap
+        cloudsColor4
+        cloudsColor3
+        cloudsColor2
+        cloudsColor1
+        wind
+        weatherDensity
+        stepsX
+        stepsY
+        vec
+        arrayOffset
+        cloudsColor4
+        cloudsColor3
+        cloudsColor2
+        cloudsColor1
+        arrayOffset
+        color
+      ]
+      "System.Void EEMod.Seamap.Core.SeamapObjects::NewSeamapObject(EEMod.Seamap.Core.SeamapObject)":
+      [
+        obj
+      ]
+      "System.Void EEMod.Seamap.Content.FoamTrailLoading::PrimStructure(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        updating 3
+      ]
+      "System.Void EEMod.Seamap.Content.FoamTrailLoading::SetShaders()":
+      [
+        foamTexture
+        rippleTexture
+        offset
+        noColor
+        color1
+        color2
+        color3
+        color4
+        color5
+        WorldViewProjection
+      ]
+      "System.Void EEMod.Seamap.Content.FoamTrail::SetShaders()":
+      [
+        foamTexture
+        rippleTexture
+        offset
+        noColor
+        color1
+        color2
+        color3
+        color4
+        color5
+        WorldViewProjection
+      ]
+      "System.String EEMod.Seamap.Content.Islands.CoralReefsIsland::get_name()":
+      [
+        Coral Reefs
+      ]
+      "System.Void EEMod.Seamap.Content.Islands.CoralReefsIsland::Interact()":
+      [
+        Sea
+        CoralReefs
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Glacier::get_name()":
+      [
+        Glacier
+      ]
+      "System.String EEMod.Seamap.Content.Islands.GoblinFortIsland::get_name()":
+      [
+        Goblin Fort
+      ]
+      "System.Void EEMod.Seamap.Content.Islands.GoblinFortIsland::Interact()":
+      [
+        Sea
+        GoblinFort
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Iceberg2::get_name()":
+      [
+        Iceberg
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Island::get_name()":
+      [
+        Island
+      ]
+      "System.String EEMod.Seamap.Content.Islands.JadeIsles::get_name()":
+      [
+        Jade Isles
+      ]
+      "System.String EEMod.Seamap.Content.Islands.MainIsland::get_name()":
+      [
+        Main Island
+      ]
+      "System.Void EEMod.Seamap.Content.Islands.MainIsland::Interact()":
+      [
+        Main
+      ]
+      "System.String EEMod.Seamap.Content.Islands.MoyaiIsland::get_name()":
+      [
+        Moyai Marsh
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock1::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock2::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock3::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock4::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock5::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Rock6::get_name()":
+      [
+        Rock
+      ]
+      "System.String EEMod.Seamap.Content.Islands.Iceberg::get_name()":
+      [
+        Iceberg
+      ]
+      "System.String EEMod.Seamap.Content.Islands.TropicalIsland1::get_name()":
+      [
+        Tropical Island
+      ]
+      "System.String EEMod.Seamap.Content.Islands.TropicalIsland2::get_name()":
+      [
+        Tropical Island
+      ]
+      "System.String EEMod.Seamap.Content.Islands.TropicalIslandAlt::get_name()":
+      [
+        Tropical Island Alt
+      ]
+      "System.String EEMod.Seamap.Content.Islands.VolcanoIsland::get_name()":
+      [
+        Volcano
+      ]
+      "System.Void EEMod.Projectiles.DuelistBladeProj::SetStaticDefaults()":
+      [
+        Duelist Blade
+      ]
+      "System.Void EEMod.Projectiles.Gradient::SetStaticDefaults()":
+      [
+        Grad
+      ]
+      "System.Void EEMod.Projectiles.TenisBoll::SetStaticDefaults()":
+      [
+        Tennis Ball
+      ]
+      "System.Void EEMod.Projectiles.Torch::SetStaticDefaults()":
+      [
+        Grad
+      ]
+      "System.Void EEMod.Projectiles.TornSails::SetStaticDefaults()":
+      [
+        Torn Sails
+      ]
+      "System.Void EEMod.Projectiles.VolcanoArrowProj::SetStaticDefaults()":
+      [
+        Volcano Arrow Proj
+      ]
+      "System.Void EEMod.Projectiles.Volleyball::SetStaticDefaults()":
+      [
+        Volleyball
+      ]
+      "System.Void EEMod.Projectiles.WaterDragonsBubble::SetStaticDefaults()":
+      [
+        Water Dragon's Bubble
+      ]
+      "System.Void EEMod.Projectiles.WhiteBlock::SetStaticDefaults()":
+      [
+        WhiteBlock
+      ]
+      "System.Void EEMod.Projectiles.TennisRackets.TennisRacketProj::SetStaticDefaults()":
+      [
+        Grad
+      ]
+      "System.Void EEMod.Projectiles.TennisRackets.TerracketProj::SetStaticDefaults()":
+      [
+        Grad
+      ]
+      "System.Void EEMod.Projectiles.Hooks.KelpHookProj::SetStaticDefaults()":
+      [
+        Kelp Hook
+      ]
+      "System.Void EEMod.Projectiles.Hooks.SailorsClaspProjectile::SetStaticDefaults()":
+      [
+        ${ProjectileName.GemHookAmethyst}
+      ]
+      "System.Void EEMod.Projectiles.FishingBobbers.SailorsPoleBobber::SetStaticDefaults()":
+      [
+        Sailor's Bobber
+      ]
+      "System.Void EEMod.Projectiles.Enemy.BlueRing::SetStaticDefaults()":
+      [
+        Blue Ring
+      ]
+      "System.Void EEMod.Projectiles.Enemy.MechanicalLure::SetStaticDefaults()":
+      [
+        Mechanical Lure
+      ]
+      "System.Void EEMod.Projectiles.Enemy.MechanicalMissile::SetStaticDefaults()":
+      [
+        Mechanical Missile
+      ]
+      "System.Void EEMod.Projectiles.Enemy.SpireAquamarineChunk::SetStaticDefaults()":
+      [
+        Aquamarine Chunk
+      ]
+      "System.Void EEMod.Projectiles.Enemy.SpireLaser::SetStaticDefaults()":
+      [
+        Aquamarine Laser
+      ]
+      "System.Void EEMod.Projectiles.Enemy.SpireLaserAlt::SetStaticDefaults()":
+      [
+        Aquamarine Laser
+      ]
+      "System.Void EEMod.Projectiles.Enemy.WideSpireLaser::SetStaticDefaults()":
+      [
+        Aquamarine Laser
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.CBPetrude::SetStaticDefaults()":
+      [
+        Bubble
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.CoralBubble::SetStaticDefaults()":
+      [
+        Bubble
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.Fish::SetStaticDefaults()":
+      [
+        Fish
+      ]
+      "System.Boolean EEMod.Projectiles.CoralReefs.KelpFlowerItem::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        alpha
+        color
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.TeslaCoralProj::SetStaticDefaults()":
+      [
+        Lightning Bolt
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.ThermalMagma::SetStaticDefaults()":
+      [
+        Thermal Magma
+      ]
+      "System.Void EEMod.NPCs.OrbCollection::SetStaticDefaults()":
+      [
+        Orb
+      ]
+      "System.Void EEMod.NPCs.OrbCollection::AI()":
+      [
+        EEMod:Shockwave
+        EEMod:Shockwave
+      ]
+      "System.Void EEMod.NPCs.SpikyOrb::SetStaticDefaults()":
+      [
+        SpikyOrb
+      ]
+      "System.Boolean EEMod.NPCs.SpikyOrb::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        alpha
+        color
+        alpha
+        shineSpeed
+        tentacle
+        lightColour
+        shaderLerp
+      ]
+      "System.Void EEMod.NPCs.SpikyOrb::AI()":
+      [
+        EEMod:Shockwave
+        EEMod:Shockwave
+      ]
+      "System.Void EEMod.NPCs.SpawnPools::EditSpawnPool(System.Collections.Generic.IDictionary`2<>,Terraria.ModLoader.NPCSpawnInfo)":
+      [
+        Island
+        Island2
+        Island
+        Island2
+      ]
+      "System.Void EEMod.NPCs.UpperReefs.LanternJelly::SetStaticDefaults()":
+      [
+        Lantern Jelly
+      ]
+      "System.Void EEMod.NPCs.UpperReefs.LunaJelly::SetStaticDefaults()":
+      [
+        Luna Jelly
+      ]
+      "System.Void EEMod.NPCs.UpperReefs.SmallClam::SetStaticDefaults()":
+      [
+        Clam
+      ]
+      "System.Void EEMod.NPCs.TropicalIslands.Cococritter::SetStaticDefaults()":
+      [
+        Coco Critter
+      ]
+      "System.Void EEMod.NPCs.TropicalIslands.CoconutCrab::SetStaticDefaults()":
+      [
+        Coconut Crab
+      ]
+      "System.Void EEMod.NPCs.TropicalIslands.CoconutSpider::SetStaticDefaults()":
+      [
+        Coconut Spider
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.Dreadmine::SetStaticDefaults()":
+      [
+        Dreadmine
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.Grebyser::SetStaticDefaults()":
+      [
+        Grebyser
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.GrebyserFlare::SetStaticDefaults()":
+      [
+        Grebyser Flare
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.MechanicalAnglerFish::SetStaticDefaults()":
+      [
+        Mechanical Angler Fish
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.MechanicalEel::SetStaticDefaults()":
+      [
+        Mechanical Eel
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.MechanicalShark::SetStaticDefaults()":
+      [
+        Mechanical Shark
+      ]
+      "System.Void EEMod.NPCs.SurfaceReefs.FlowerHatJelly::SetStaticDefaults()":
+      [
+        Flower Hat Jelly
+      ]
+      "System.Void EEMod.NPCs.SurfaceReefs.SeaSlug::SetStaticDefaults()":
+      [
+        Sea Slug
+      ]
+      "System.Void EEMod.NPCs.SurfaceReefs.Stingray::SetStaticDefaults()":
+      [
+        Stingray
+      ]
+      "System.Void EEMod.NPCs.SurfaceReefs.Swordfish::SetStaticDefaults()":
+      [
+        Swordfish
+      ]
+      "System.Void EEMod.NPCs.Squid.Squid::SetStaticDefaults()":
+      [
+        Squid
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.BlueringOctopus::SetStaticDefaults()":
+      [
+        Bluering Octopus
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.BombFish::SetStaticDefaults()":
+      [
+        Bomb Fish
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.Isopod::SetStaticDefaults()":
+      [
+        Isopod
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.Jellyfish::SetStaticDefaults()":
+      [
+        Jellyfish
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.Lionfish::SetStaticDefaults()":
+      [
+        Lionfish
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.ToxicPuffer::SetStaticDefaults()":
+      [
+        Toxic Puffer
+      ]
+      "System.Void EEMod.NPCs.KelpForest.KelpSpider::SetStaticDefaults()":
+      [
+        KelpSpider
+      ]
+      "System.Void EEMod.NPCs.KelpForest.OlvinicSnail::SetStaticDefaults()":
+      [
+        Olvinic Snail
+      ]
+      "System.Void EEMod.NPCs.KelpForest.Kelpweaver.GlowingKelpSpider::SetStaticDefaults()":
+      [
+        Glowing Kelp Spider
+      ]
+      "System.Void EEMod.NPCs.Goblins.GoblinDeathBolt::SetStaticDefaults()":
+      [
+        Hex Bolt
+      ]
+      "System.Void EEMod.NPCs.Goblins.Watchman.GoblinWatchman::SetStaticDefaults()":
+      [
+        Goblin Watchman
+      ]
+      "System.Void EEMod.NPCs.Goblins.Shaman.GoblinShaman::SetStaticDefaults()":
+      [
+        Goblin Shaman
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Shaman.GoblinShaman::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        noise
+        newColor
+        lerpVal
+        baseColor
+      ]
+      "System.Void EEMod.NPCs.Goblins.Shaman.GoblinShaman::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        noise
+        newColor
+        lerpVal
+        baseColor
+      ]
+      "System.Void EEMod.NPCs.Goblins.Shaman.ShadowflameHexBolt::SetStaticDefaults()":
+      [
+        Hex Bolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Shaman.ShadowflameHexBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        maskTexture
+        newColor
+        transformMatrix
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ArmrestScrap::SetStaticDefaults()":
+      [
+        Scrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.CenterScrap::SetStaticDefaults()":
+      [
+        Scrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ChandelierBolt::SetStaticDefaults()":
+      [
+        Hex Bolt
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ChandelierMeteor::SetStaticDefaults()":
+      [
+        Hex Bolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.ChandelierMeteor::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        maskTexture
+        newColor
+        transformMatrix
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.FlameColumn::SetStaticDefaults()":
+      [
+        Shadowfire
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.FlameSpiral::SetStaticDefaults()":
+      [
+        Shadowfire
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.GuardBrute::SetStaticDefaults()":
+      [
+        Wizard's Guard
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.LargeScrap::SetStaticDefaults()":
+      [
+        Scrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.PhantomTable::SetStaticDefaults()":
+      [
+        Phantom Table
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapbit::SetStaticDefaults()":
+      [
+        Scrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapwizard::SetStaticDefaults()":
+      [
+        Goblin Scrapwizard
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapwizard::InitShader(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        noise
+        newColor
+        lerpVal
+        baseColor
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ScrapwizardHexBolt::SetStaticDefaults()":
+      [
+        Hex Bolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.ScrapwizardHexBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        maskTexture
+        newColor
+        transformMatrix
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ShadowEmberTemp::SetStaticDefaults()":
+      [
+        Shadowfire
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Shadowfire::SetStaticDefaults()":
+      [
+        Shadowfire
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ShadowflameJar::SetStaticDefaults()":
+      [
+        Shadowfire Concoction
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.ShadowflameJarBounce::SetStaticDefaults()":
+      [
+        Shadowfire Concoction
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.SlingshotBolt::SetStaticDefaults()":
+      [
+        Slingshot Bolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.SlingshotBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        maskTexture
+        newColor
+        transformMatrix
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.SmallScrap::SetStaticDefaults()":
+      [
+        Scrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapgunner.GoblinScrapgunner::SetStaticDefaults()":
+      [
+        Goblin Scrapgunner
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapgunner.Scrapball::SetStaticDefaults()":
+      [
+        Scrapball
+      ]
+      "System.Void EEMod.NPCs.Goblins.Berserker.GoblinBerserker::SetStaticDefaults()":
+      [
+        Goblin Berserker
+      ]
+      "System.Void EEMod.NPCs.Goblins.Berserker.BerserkerAxe::SetStaticDefaults()":
+      [
+        Berserker Axe
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.CymbalBard::SetStaticDefaults()":
+      [
+        Goblin Bard
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.PercussionBard::SetStaticDefaults()":
+      [
+        Goblin Bard
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.PanfluteBard::SetStaticDefaults()":
+      [
+        Goblin Bard
+      ]
+      "System.Void EEMod.NPCs.Glowshroom.MushroomMage::SetStaticDefaults()":
+      [
+        Mushroom Mage
+      ]
+      "System.Void EEMod.NPCs.Glowshroom.MushroomMage::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        resolution
+        satLevel
+        radius
+      ]
+      "System.Void EEMod.NPCs.Glowshroom.MushroomBall::SetStaticDefaults()":
+      [
+        Mushroom Ball
+      ]
+      "System.Void EEMod.NPCs.Friendly.JonathanSeagull::SetStaticDefaults()":
+      [
+        Jonathan the Cool Seagull
+      ]
+      "System.Void EEMod.NPCs.Friendly.JonathanSeagull::AI()":
+      [
+        DialogueInterface
+      ]
+      "System.Void EEMod.NPCs.Friendly.Sailor::SetStaticDefaults()":
+      [
+        Sailor
+      ]
+      "System.Collections.Generic.List`1<> EEMod.NPCs.Friendly.Sailor::SetNPCNameList()":
+      [
+        Skipper
+      ]
+      "System.Void EEMod.NPCs.Friendly.Sailor::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod:Ripple
+        EEMod:Ripple
+        EEMod:Ripple
+        EEMod:Ripple
+      ]
+      "System.String EEMod.NPCs.Friendly.Sailor::GetChat()":
+      [
+        I always love stepping out on the pier at the crack of dawn.
+        The ocean's so enticing today, don't ya think?
+        The sharks seem excited today.
+        The ocean waves are always so calm at nighttime.
+        The moon looks so beautiful on the water.
+        I love the glow of the jellies.
+        The new moon is a sign that the jellyfish over the Coral Reefs are on the move.
+        I hope this rain doesn't mean a hurricane's coming!
+        I lost my rain slicker in a windy day a few years ago. Wish I had another one.
+        Have you seen my son anywhere? He went out on a fishing trip recently and hasn't come back.
+        My son knows the waves well, so I hope he's alright...
+        Have you seen my son? He wears a beige cap and a vest.
+      ]
+      "System.Void EEMod.NPCs.Friendly.Sailor::SetChatButtons(System.String&,System.String&)":
+      [
+        LegacyInterface.28
+        Ship
+      ]
+      "System.Void EEMod.NPCs.Bosses.SailorsOmen.SailorsOmen::SetStaticDefaults()":
+      [
+        Sailor's Omen
+      ]
+      "System.Void EEMod.NPCs.Bosses.SailorsOmen.SailorsOmen::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        color
+        alpha
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.Hydros::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        alpha
+        color
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.Hydros::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        newColor
+        lerpVal
+        thresh
+        time
+        invert
+        alpha
+        offset
+        frames
+        noiseBounds
+        imgBounds
+        noiseTexture
+      ]
+      "System.Boolean EEMod.NPCs.Bosses.Hydros.HydrosCutsceneManager::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+        pos
+        progress
+        alpha
+        noiseTexture
+        color
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.LightningSeahorse::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        newColor
+        lerpVal
+        thresh
+        time
+        invert
+        alpha
+        offset
+        frames
+        noiseBounds
+        imgBounds
+        noiseTexture
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.TeslaBall::SetStaticDefaults()":
+      [
+        Lightning Ball
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.TeslaBall::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        newColor
+        lerpVal
+        thresh
+        time
+        invert
+        alpha
+        offset
+        frames
+        noiseBounds
+        imgBounds
+        noiseTexture
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineOrb::SetStaticDefaults()":
+      [
+        SpikyOrb
+      ]
+      "System.Boolean EEMod.NPCs.Aquamarine.AquamarineOrb::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        alpha
+        alpha
+        shineSpeed
+        tentacle
+        lightColour
+        shaderLerp
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineOrb::AI()":
+      [
+        EEMod:Shockwave
+        EEMod:Shockwave
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineSpire::SetStaticDefaults()":
+      [
+        Aquamarine Spire
+      ]
+      "System.Boolean EEMod.NPCs.Aquamarine.AquamarineSpire::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        alpha
+        shineSpeed
+        tentacle
+        shaderLerp
+        lightColor
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineSwordfish::SetStaticDefaults()":
+      [
+        Swordfish
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineTurtle::SetStaticDefaults()":
+      [
+        Prismashell
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.MantaRay.MantaRay::SetStaticDefaults()":
+      [
+        Manta Ray
+      ]
+      "System.Void EEMod.Mounts.SurfboardMount::UpdateEffects(Terraria.Player)":
+      [
+        yuppie
+      ]
+      "System.Void EEMod.Items.Conch::SetStaticDefaults()":
+      [
+        Dev Conch
+      ]
+      "System.Boolean EEMod.Items.EEGlobalItem::OnPickup(Terraria.Item,Terraria.Player)":
+      [
+        "New Record! "
+        " cm"
+        "Length: "
+        " cm"
+        "New Record! "
+        " cm"
+        "Length: "
+        " cm"
+        "New Record! "
+        " cm"
+        "Length: "
+        " cm"
+      ]
+      "System.Void EEMod.Items.FishermansLog::SetStaticDefaults()":
+      [
+        Fisherman's Log
+      ]
+      "System.Nullable`1<> EEMod.Items.FishermansLog::UseItem(Terraria.Player)":
+      [
+        EEInterfacee
+        EEInterfacee
+        EEInterfacee
+        EEInterfacee
+        FishermansLogUI
+      ]
+      "System.Void EEMod.Items.KelpvineCannon::SetStaticDefaults()":
+      [
+        Kelpvine Cannon
+      ]
+      "System.Void EEMod.Items.Telescope::SetStaticDefaults()":
+      [
+        Telescope
+        
+          '''
+          Can be held
+          Vanity item
+          'Set sail!'
+          '''
+      ]
+      "System.Void EEMod.Items.TennisBall::SetStaticDefaults()":
+      [
+        Tennis Ball
+      ]
+      "System.Void EEMod.Items.TorchItem::SetStaticDefaults()":
+      [
+        Flashlight
+      ]
+      "System.Void EEMod.Items.ZipWire::SetStaticDefaults()":
+      [
+        Zip-Wire
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Whips.Arclash::SetStaticDefaults()":
+      [
+        Arclash
+      ]
+      "System.Boolean EEMod.Items.Weapons.Summon.Whips.ArclashProj::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        maskTexture
+        newColor
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Whips.KelpWhip::SetStaticDefaults()":
+      [
+        Kelp Whip
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Whips.KelpWhipProj::SetStaticDefaults()":
+      [
+        Kelp Whip
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Sentries.BeekeeperStaff::SetStaticDefaults()":
+      [
+        Beekeeper Staff
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.AquaticReinforcmentStaff::SetStaticDefaults()":
+      [
+        Aquatic Reinforcment
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.ARProj::SetStaticDefaults()":
+      [
+        Aqut
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.CococritterStaff::SetStaticDefaults()":
+      [
+        Cococritter Staff
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.HyoiPear::SetStaticDefaults()":
+      [
+        Hyoi Pear
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.PrismaticCane::SetStaticDefaults()":
+      [
+        Prismatic Cane
+      ]
+      "System.Void EEMod.Items.Weapons.Summon.Minions.PrismaticCaneProj::SetStaticDefaults()":
+      [
+        Prismatic Cane
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.CoconutProjectile::SetStaticDefaults()":
+      [
+        Coconut
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Sparkstorm::SetStaticDefaults()":
+      [
+        Sparkstorm
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.SparkstormProj::SetStaticDefaults()":
+      [
+        Sparkstorm
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.ShimmerShot::SetStaticDefaults()":
+      [
+        Shimmer Shot
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.ShimmerShotProj::SetStaticDefaults()":
+      [
+        Shimmer Shot
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.ShimmerShotProj1::SetStaticDefaults()":
+      [
+        Aquamarine Laser
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.TideWeaverProj::SetStaticDefaults()":
+      [
+        Atlantean Warhammer
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.TideWeaverProj1::SetStaticDefaults()":
+      [
+        Tennis Ball
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.HuntressBow.HuntressBow::SetStaticDefaults()":
+      [
+        Huntress' Recurve Bow
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Launchers.GlowshroomCannon::SetStaticDefaults()":
+      [
+        Mushroom Mortar
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Launchers.GlowshroomCannonItemProj::SetStaticDefaults()":
+      [
+        Mushroom Mortar
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Launchers.GlowshroomCannonProj::SetStaticDefaults()":
+      [
+        Shroomball
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Guns.BlitzBubble::SetStaticDefaults()":
+      [
+        Bubble
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Guns.BlitzBubble::AI()":
+      [
+        Blitz!
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Guns.BubbleBlitzer::SetStaticDefaults()":
+      [
+        Bubble Blitzer
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Guns.CoconutCannon::SetStaticDefaults()":
+      [
+        Coconut Cannon
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.AxeLightning::SetStaticDefaults()":
+      [
+        Lythen Warhammer
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.BruteHalberd::SetStaticDefaults()":
+      [
+        Brute Halberd
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.DalantiniumKusiragama::SetStaticDefaults()":
+      [
+        Dalantinium Dagger
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.DalantiniumKusiragamaProjectile::SetStaticDefaults()":
+      [
+        Dalantinium Kusiragama
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.FCHandler::SetStaticDefaults()":
+      [
+        Feathered Chakram
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.LythenWarhammer::SetStaticDefaults()":
+      [
+        Tidebreaker
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.LythenWarhammerProjectile::SetStaticDefaults()":
+      [
+        Tidebreaker
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Yoyos.KelpThrow::SetStaticDefaults()":
+      [
+        Kelp Throw
+        Releases damaging baubles when close to enemes
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Yoyos.KelpThrowBolt::SetStaticDefaults()":
+      [
+        Kelp Throw
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Warhammers.BarrierGreatsword::SetStaticDefaults()":
+      [
+        Barrier Greatsword
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Warhammers.BarrierGreatswordProj::SetStaticDefaults()":
+      [
+        Barrier Greatsword
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.BubbleStriker::SetStaticDefaults()":
+      [
+        Bubble Striker
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.BubbleStrikerProj::SetStaticDefaults()":
+      [
+        Bubble
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.Darksaber::SetStaticDefaults()":
+      [
+        Darksaber
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberHilt::SetStaticDefaults()":
+      [
+        Darksaber
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberHiltShort::SetStaticDefaults()":
+      [
+        Darksaber
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberPrimTrail::SetShaders()":
+      [
+        bladeColor
+        edgeColor
+        edgeThresh
+        noiseTexture
+        ticks
+        transformMatrix
+        bladeColor
+        edgeColor
+        edgeThresh
+        noiseTexture
+        ticks
+        transformMatrix
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberPrimTrail2::SetShaders()":
+      [
+        bladeColor
+        edgeColor
+        edgeThresh
+        noiseTexture
+        ticks
+        transformMatrix
+        bladeColor
+        edgeColor
+        edgeThresh
+        noiseTexture
+        ticks
+        transformMatrix
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DuelistsBlade::SetStaticDefaults()":
+      [
+        Duelist's Blade
+        It once belonged to an ancient warrior of times past
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.PrismaticBlade::SetStaticDefaults()":
+      [
+        Prismatic Blade
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.PrismDagger::SetStaticDefaults()":
+      [
+        Prism Dagger
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.PrismDagger::AI()":
+      [
+        Main
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Swords.PrismDagger::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        alpha
+        shineSpeed
+        tentacle
+        lightColour
+        prismColor
+        shaderLerp
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.TropicalWoodSword::SetStaticDefaults()":
+      [
+        Tropical Wood Sword
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Shivs.RapierProj::SetStaticDefaults()":
+      [
+        Rapier
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Shivs.SailorsBlade::SetStaticDefaults()":
+      [
+        Sailor's Blade
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Shivs.SailorsBladeProj::SetStaticDefaults()":
+      [
+        Sailor's Blade
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AncientBubbleLarge::SetStaticDefaults()":
+      [
+        Ancient Bubble
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AncientBubbleLarge::AI()":
+      [
+        Pop!
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AncientBubbleStaff::SetStaticDefaults()":
+      [
+        Ancient Bubble Staff
+        
+          '''
+          Casts an ancient bubble
+          Right click the bubble after shooting it to pop it
+          '''
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AquamarineSceptor::SetStaticDefaults()":
+      [
+        Aquamarine Sceptre
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.CoralRod::SetStaticDefaults()":
+      [
+        Coral Rod
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.DalantiniumFan::SetStaticDefaults()":
+      [
+        Dalantinium Fan
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.DalantiniumFanAlt::SetStaticDefaults()":
+      [
+        Dalantinium Fan
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.DalantiniumFang::SetStaticDefaults()":
+      [
+        Dalantinium Fang
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.DalantiniumKnives::SetStaticDefaults()":
+      [
+        Dalantinium Knives
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.SceptorLaser::SetStaticDefaults()":
+      [
+        Aquamarine Laser
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.SceptorPrism::SetStaticDefaults()":
+      [
+        Aquamarine Prism
+      ]
+      "System.Boolean EEMod.Items.Weapons.Mage.SceptorPrism::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        alpha
+        shineSpeed
+        tentacle
+        lightColour
+        prismColor
+        shaderLerp
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.StormboltCane::SetStaticDefaults()":
+      [
+        Stormbolt Cane
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.StormGauntlet::SetStaticDefaults()":
+      [
+        Storm Gauntlet
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.StormGauntletProj::SetStaticDefaults()":
+      [
+        Storm Gauntlet
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.StormGauntletProj::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        newColor
+        lerpVal
+        thresh
+        time
+        invert
+        alpha
+        offset
+        frames
+        noiseBounds
+        imgBounds
+        noiseTexture
+      ]
+      "System.Void EEMod.Items.Weapons.Ammo.CoralArrow::SetStaticDefaults()":
+      [
+        Coral Arrow
+      ]
+      "System.Void EEMod.Items.Weapons.Ammo.CoralArrowProjectile::SetStaticDefaults()":
+      [
+        Coral Arrow
+      ]
+      "System.Void EEMod.Items.TreasureBags.HydrosBag::SetStaticDefaults()":
+      [
+        Treasure Bag
+      ]
+      "System.Void EEMod.Items.Tools.FuriousPickaxe::SetStaticDefaults()":
+      [
+        Furious Pickaxe
+      ]
+      "System.Void EEMod.Items.Tools.TropicalWood.TropicalWoodAxe::SetStaticDefaults()":
+      [
+        Tropical Wood Axe
+      ]
+      "System.Void EEMod.Items.Tools.TropicalWood.TropicalWoodHammer::SetStaticDefaults()":
+      [
+        Tropical Wood Hammer
+      ]
+      "System.Void EEMod.Items.Tools.TropicalWood.TropicalWoodPickaxe::SetStaticDefaults()":
+      [
+        Tropical Wood Pickaxe
+      ]
+      "System.Void EEMod.Items.Tools.Lythen.LythenAxe::SetStaticDefaults()":
+      [
+        Lythen Axe
+      ]
+      "System.Void EEMod.Items.Tools.Lythen.LythenHammer::SetStaticDefaults()":
+      [
+        Lythen Hammer
+      ]
+      "System.Void EEMod.Items.Tools.Lythen.LythenPickaxe::SetStaticDefaults()":
+      [
+        Lythen Pickaxe
+      ]
+      "System.Void EEMod.Items.Tools.Dalantinium.DalantiniumHamaxe::SetStaticDefaults()":
+      [
+        Dalantinium Hamaxe
+      ]
+      "System.Void EEMod.Items.Tools.Dalantinium.DalantiniumPickaxe::SetStaticDefaults()":
+      [
+        Dalantinium Pickaxe
+      ]
+      "System.Void EEMod.Items.TennisRackets.TennisRacket::SetStaticDefaults()":
+      [
+        Tennis Racket
+      ]
+      "System.Void EEMod.Items.TennisRackets.Terracket::SetStaticDefaults()":
+      [
+        Terracket
+        Better than the toilet, I guess
+      ]
+      "System.Void EEMod.Items.Shipyard.Figureheads.TreasureFigurehead::SetStaticDefaults()":
+      [
+        Treasure Claw
+        Use it to dig up Treasure Spots on the Seamap
+      ]
+      "System.Void EEMod.Items.Shipyard.Figureheads.WoodenFigurehead::SetStaticDefaults()":
+      [
+        Wooden Figurehead
+      ]
+      "System.Void EEMod.Items.Shipyard.Cannons.CryoCannon::SetStaticDefaults()":
+      [
+        Cryo Cannon
+        
+          '''
+          Converts all cannonballs into frozen cannonballs
+          Frozen cannonbaalls explode into shards on impact
+          '''
+      ]
+      "System.Void EEMod.Items.Shipyard.Cannons.SteelCannon::SetStaticDefaults()":
+      [
+        Steel Cannon
+        haha this shoots balls lol
+      ]
+      "System.Void EEMod.Items.Shipyard.Cannonballs.IronCannonball::SetStaticDefaults()":
+      [
+        Iron Cannonball
+        Use this to make your boat shoot cannonballs.
+      ]
+      "System.Void EEMod.Items.Shipyard.Cannonballs.LeadCannonball::SetStaticDefaults()":
+      [
+        Lead Cannonball
+        Use this to make your boat shoot cannonballs.
+      ]
+      "System.Void EEMod.Items.Shipyard.Cannonballs.MeteorCannonball::SetStaticDefaults()":
+      [
+        Meteor Cannonball
+        Use this to make your boat shoot cannonballs.
+      ]
+      "System.Void EEMod.Items.Placeables.Brimstone::SetStaticDefaults()":
+      [
+        Brimstone
+      ]
+      "System.Void EEMod.Items.Placeables.CoralSand::SetStaticDefaults()":
+      [
+        Coral Sand
+      ]
+      "System.Void EEMod.Items.Placeables.Coralsandstone::SetStaticDefaults()":
+      [
+        Coralsandstone
+      ]
+      "System.Void EEMod.Items.Placeables.DarkGemsand::SetStaticDefaults()":
+      [
+        Dark Gemsand
+      ]
+      "System.Void EEMod.Items.Placeables.DarkGemsandstone::SetStaticDefaults()":
+      [
+        Dark Gemsandstone
+      ]
+      "System.Void EEMod.Items.Placeables.Gemsand::SetStaticDefaults()":
+      [
+        Gemsand
+      ]
+      "System.Void EEMod.Items.Placeables.Gemsandstone::SetStaticDefaults()":
+      [
+        Gemsandstone
+      ]
+      "System.Void EEMod.Items.Placeables.KelpLeaf::SetStaticDefaults()":
+      [
+        Kelpleaf Block
+      ]
+      "System.Void EEMod.Items.Placeables.LightGemsand::SetStaticDefaults()":
+      [
+        Light Gemsand
+      ]
+      "System.Void EEMod.Items.Placeables.LightGemsandstone::SetStaticDefaults()":
+      [
+        Light Gemsandstone
+      ]
+      "System.Void EEMod.Items.Placeables.RustyPipe::SetStaticDefaults()":
+      [
+        Rusty Pipe
+      ]
+      "System.Void EEMod.Items.Placeables.RustyPlating::SetStaticDefaults()":
+      [
+        Rusty Plating
+      ]
+      "System.Void EEMod.Items.Placeables.ScorchedGemsand::SetStaticDefaults()":
+      [
+        Scorched Gemsand
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.CoralSandWall::SetStaticDefaults()":
+      [
+        Coralsand Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.DarkGemsandstoneWall::SetStaticDefaults()":
+      [
+        Dark Gemsandstone Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.DarkGemsandWall::SetStaticDefaults()":
+      [
+        Dark Gemsand Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.GemsandstoneWall::SetStaticDefaults()":
+      [
+        Gemsandstone Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.GemsandWall::SetStaticDefaults()":
+      [
+        Gemsand Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.LightGemsandstoneWall::SetStaticDefaults()":
+      [
+        Light Gemsandstone Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Walls.LightGemsandWall::SetStaticDefaults()":
+      [
+        Light Gemsand Wall
+      ]
+      "System.Void EEMod.Items.Placeables.Ores.DalantiniumBar::SetStaticDefaults()":
+      [
+        Dalantinium Bar
+      ]
+      "System.Void EEMod.Items.Placeables.Ores.DalantiniumOre::SetStaticDefaults()":
+      [
+        Dalantinium Ore
+      ]
+      "System.Void EEMod.Items.Placeables.Ores.LythenBar::SetStaticDefaults()":
+      [
+        Lythen Bar
+      ]
+      "System.Void EEMod.Items.Placeables.Ores.LythenOre::SetStaticDefaults()":
+      [
+        Lythen Ore
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.AirHockeyTable::SetStaticDefaults()":
+      [
+        Air Hockey Table
+        Fun for the whole family!
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.CoralChest::SetStaticDefaults()":
+      [
+        Coral Chest
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.GemsandChest::SetStaticDefaults()":
+      [
+        Gemsand Chest
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.LivingWoodCrate::SetStaticDefaults()":
+      [
+        Living Wood Crate
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Moyai::SetStaticDefaults()":
+      [
+        Moyai
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Net::SetStaticDefaults()":
+      [
+        Net
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.WoodenShipsWheel::SetStaticDefaults()":
+      [
+        Wooden Ship's Wheel
+        Perfect for steering a boat
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.ZipPylon::SetStaticDefaults()":
+      [
+        Zip-Pylon
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Cat::SetStaticDefaults()":
+      [
+        Cat
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Cave1::SetStaticDefaults()":
+      [
+        Cave
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.CrownedKing::SetStaticDefaults()":
+      [
+        Crowned King
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Island1::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Island2::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Island3::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Island4::SetStaticDefaults()":
+      [
+        Island
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Moon::SetStaticDefaults()":
+      [
+        Moon
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Mountain1::SetStaticDefaults()":
+      [
+        Mountain
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.MountainsOfDestiny::SetStaticDefaults()":
+      [
+        Mountains of Destiny
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Murdog::SetStaticDefaults()":
+      [
+        Portrait of a Dog
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.OSPainting::SetStaticDefaults()":
+      [
+        Trillion Dollar Company
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Rainforest1::SetStaticDefaults()":
+      [
+        Rainforest
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Snowfield::SetStaticDefaults()":
+      [
+        Snowfield
+      ]
+      "System.Void EEMod.Items.Placeables.Furniture.Paintings.Sunthwave::SetStaticDefaults()":
+      [
+        Sunthwave
+      ]
+      "System.Void EEMod.Items.Mounts.LobsterbikeKeys::SetStaticDefaults()":
+      [
+        Lobsterbike Keys
+      ]
+      "System.Void EEMod.Items.Mounts.Surfboard::SetStaticDefaults()":
+      [
+        Surfboard
+      ]
+      "System.Void EEMod.Items.MessagesInBottles.MessageInABottle::SetStaticDefaults()":
+      [
+        Message in a Bottle
+        
+          '''
+          A Captain boasted he was the best seafarer of the seven seas
+          He was overcome by a storm on one of his voyages
+          I was there too, and thankfully he let me in
+          I took shelter with the Captian, and in return told him about...
+          The rest of the paper is torn.
+          '''
+      ]
+      "System.Void EEMod.Items.Materials.Aquamarine::SetStaticDefaults()":
+      [
+        Aquamarine
+      ]
+      "System.Void EEMod.Items.Materials.BrokenDuelistsBlade::SetStaticDefaults()":
+      [
+        Broken Duelist's Blade
+      ]
+      "System.Void EEMod.Items.Materials.Coconut::SetStaticDefaults()":
+      [
+        Coconut
+      ]
+      "System.Void EEMod.Items.Materials.HydrosScales::SetStaticDefaults()":
+      [
+        Hydros Scales
+      ]
+      "System.Void EEMod.Items.Materials.Kelp::SetStaticDefaults()":
+      [
+        Kelp
+      ]
+      "System.Void EEMod.Items.Materials.Kelpberries::SetStaticDefaults()":
+      [
+        Kelpberries
+        Super bright!
+      ]
+      "System.Void EEMod.Items.Materials.Orange::SetStaticDefaults()":
+      [
+        Orange
+      ]
+      "System.Void EEMod.Items.Materials.TropicalWoodItem::SetStaticDefaults()":
+      [
+        Tropical Wood
+      ]
+      "System.Void EEMod.Items.Gliders.Glider::SetStaticDefaults()":
+      [
+        Glider
+      ]
+      "System.Void EEMod.Items.Gliders.MantaRayGlider::SetStaticDefaults()":
+      [
+        Manta Ray Glider
+      ]
+      "System.Void EEMod.Items.Gliders.Paraglider::SetStaticDefaults()":
+      [
+        Paraglider
+      ]
+      "System.Void EEMod.Items.Fish.Barracuda::SetStaticDefaults()":
+      [
+        Barracuda
+      ]
+      "System.Void EEMod.Items.Fish.BlueTang::SetStaticDefaults()":
+      [
+        Blue Tang
+      ]
+      "System.Void EEMod.Items.Fish.BlueTang::AnglerQuestChat(System.String&,System.String&)":
+      [
+        I've heard of some beautiful fish that make their homes in the reefs, and I'd like to get my hands one one!
+        Caught in the Coral Reefs
+      ]
+      "System.Void EEMod.Items.Fish.Coralfin::SetStaticDefaults()":
+      [
+        Coralfin
+      ]
+      "System.Void EEMod.Items.Fish.GlitteringPearlfish::SetStaticDefaults()":
+      [
+        Glittering Pearlfish
+      ]
+      "System.Void EEMod.Items.Fish.GlitteringPearlfish::AnglerQuestChat(System.String&,System.String&)":
+      [
+        I almost got blinded by something shimmering in the reefs! I want you to go get whatever that thing was for me!
+        Caught in the Coral Reefs
+      ]
+      "System.Void EEMod.Items.Fish.Ironfin::SetStaticDefaults()":
+      [
+        Ironfin
+      ]
+      "System.Void EEMod.Items.Fish.Ironfin::AnglerQuestChat(System.String&,System.String&)":
+      [
+        I heard that the once-clear waters of the reefs have been tainted by oil... Well, more fish for me! Now go!
+        Caught in the Coral Reefs
+      ]
+      "System.Void EEMod.Items.Fish.LunaJellyItem::SetStaticDefaults()":
+      [
+        Luna Jelly
+      ]
+      "System.Void EEMod.Items.Fish.ReeftailMinnow::SetStaticDefaults()":
+      [
+        Reeftail Minnow
+      ]
+      "System.Void EEMod.Items.Fish.Spiritfish::SetStaticDefaults()":
+      [
+        Spiritfish
+      ]
+      "System.Void EEMod.Items.Fish.Spiritfish::AnglerQuestChat(System.String&,System.String&)":
+      [
+        Legends tell that there's some sort of old pirate captain who lives in the reefs, and that he has some pet fish! I wanna see what the look like!
+        Caught in the Coral Reefs
+      ]
+      "System.Void EEMod.Items.FishingPoles.SailorsPole::SetStaticDefaults()":
+      [
+        Sailor's Pole
+      ]
+      "System.Void EEMod.Items.Dyes.AquamarineDye::SetStaticDefaults()":
+      [
+        Aquamarine Dye
+      ]
+      "System.Void EEMod.Items.Dyes.HydrosDye::SetStaticDefaults()":
+      [
+        Hydros Dye
+      ]
+      "System.Void EEMod.Items.Dyes.SynthwaveDye::SetStaticDefaults()":
+      [
+        Synthwave Dye
+      ]
+      "System.Void EEMod.Items.Consumables.CoconutMilk::SetStaticDefaults()":
+      [
+        Coconut Milk
+      ]
+      "System.Void EEMod.Items.Consumables.KelpberryShake::SetStaticDefaults()":
+      [
+        Kelpberry Shake
+      ]
+      "System.Void EEMod.Items.Consumables.Sushi::SetStaticDefaults()":
+      [
+        Sushi
+      ]
+      "System.Void EEMod.Items.Consumables.VexingPotion::SetStaticDefaults()":
+      [
+        Vexing Potion
+      ]
+      "System.Void EEMod.Items.Armor.CoconutHat::SetStaticDefaults()":
+      [
+        Coconut Hat
+      ]
+      "System.Void EEMod.Items.Armor.FlowerJellyHat::SetStaticDefaults()":
+      [
+        Flower Jelly Hat
+      ]
+      "System.Void EEMod.Items.Armor.TropicalWood.TropicalWoodBoots::SetStaticDefaults()":
+      [
+        Tropical Wood Boots
+        7% increased movement speed
+      ]
+      "System.Void EEMod.Items.Armor.TropicalWood.TropicalWoodChestplate::SetStaticDefaults()":
+      [
+        Tropical Wood Chestplate
+        9% increased all damage
+      ]
+      "System.Void EEMod.Items.Armor.TropicalWood.TropicalWoodHelmet::SetStaticDefaults()":
+      [
+        Tropical Wood Helmet
+        2% increased summon damage
+      ]
+      "System.Void EEMod.Items.Armor.TropicalWood.TropicalWoodHelmet::UpdateArmorSet(Terraria.Player)":
+      [
+        +1 max minions
+      ]
+      "System.Void EEMod.Items.Armor.StormKnight.StormKnightBreastplate::SetStaticDefaults()":
+      [
+        Storm Knight's Breastplate
+        5% increased damage
+      ]
+      "System.Void EEMod.Items.Armor.StormKnight.StormKnightCrest::SetStaticDefaults()":
+      [
+        Storm Knight's Crest
+        5% increased melee damage
+      ]
+      "System.Void EEMod.Items.Armor.StormKnight.StormKnightCrest::UpdateArmorSet(Terraria.Player)":
+      [
+        
+          '''
+          Dealing melee damage fills up your storm bar
+          When you have a full storm bar, a lightning bolt will shoot out with your next attack
+          '''
+      ]
+      "System.Void EEMod.Items.Armor.StormKnight.StormKnightLeggings::SetStaticDefaults()":
+      [
+        Storm Knight's Leggings
+        4% increased movement speed
+      ]
+      "System.Void EEMod.Items.Armor.Kelpweaver.KelpweaverBody::SetStaticDefaults()":
+      [
+        Kelpweaver Body
+        Creepy and crawly
+      ]
+      "System.Void EEMod.Items.Armor.Kelpweaver.KelpweaverHead::SetStaticDefaults()":
+      [
+        Kelpweaver Head
+        Creepy and crawly
+      ]
+      "System.Void EEMod.Items.Armor.Kelpweaver.KelpweaverSetPlayer::PostUpdate()":
+      [
+        IndicatorsInterface
+        IndicatorsUI
+        KelpArmorAmmoInterface
+        KelpArmorAmmoUI
+        IndicatorsInterface
+        KelpArmorAmmoInterface
+      ]
+      "System.Void EEMod.Items.Armor.Kelpweaver.KelpweaverLegs::SetStaticDefaults()":
+      [
+        Kelpweaver Legs
+        Creepy and crawly
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Vadim.YodaCloak::SetStaticDefaults()":
+      [
+        Yoda Cloak
+        "'Great for impersonating mod devs!'"
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Vadim.YodaMask::SetStaticDefaults()":
+      [
+        Yoda Mask
+        
+          '''
+          'Great for impersonating mod devs!'
+          Reminds you of a 2001 Honda Civic
+          '''
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Vadim.YodaPants::SetStaticDefaults()":
+      [
+        Yoda Pants
+        "'Great for impersonating mod devs!'"
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Exitium.ExitiumsHead::SetStaticDefaults()":
+      [
+        Exitium's Head
+        
+          '''
+          ':feelssnalechog:'
+          'Great for impersonating mod devs!'
+          '''
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Exitium.ExitiumsPants::SetStaticDefaults()":
+      [
+        Exitium's Pants
+        
+          '''
+          'The dev server is indeed an asylum'
+          'Great for impersonating mod devs!'
+          '''
+      ]
+      "System.Void EEMod.Items.Armor.DevSets.Exitium.ExitiumsShirt::SetStaticDefaults()":
+      [
+        Exitium's Suit
+        
+          '''
+          'This idea is good trust me'
+          'Great for impersonating mod devs!'
+          '''
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumGreathelm::SetStaticDefaults()":
+      [
+        Dalantinium Greathelm
+        5% increased melee speed
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumGreathelm::UpdateArmorSet(Terraria.Player)":
+      [
+        When below 40% life, you gain 8 defense
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumGreaves::SetStaticDefaults()":
+      [
+        Dalantinium Greaves
+        7% increased movement speed
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumHood::SetStaticDefaults()":
+      [
+        Dalantinium Hood
+        5% reduced mana usage
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumHood::UpdateArmorSet(Terraria.Player)":
+      [
+        When below 40% life, you gain 8 defense
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumHornedGreathelm::SetStaticDefaults()":
+      [
+        Dalantinium Horned Greathelm
+        2+ max minions
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumHornedGreathelm::UpdateArmorSet(Terraria.Player)":
+      [
+        When below 40% life, you gain 8 defense
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumMask::SetStaticDefaults()":
+      [
+        Dalantinium Mask
+        6% reduced ammo consumption
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumMask::UpdateArmorSet(Terraria.Player)":
+      [
+        When below 40% life, you gain 8 defense
+      ]
+      "System.Void EEMod.Items.Armor.Dalantinium.DalantiniumPlatemail::SetStaticDefaults()":
+      [
+        Dalantinium Platemail
+        9% increased all damage
+      ]
+      "System.Void EEMod.Items.Armor.Aquamarine.AquamarineBreastplate::SetStaticDefaults()":
+      [
+        Aquamarine Breastplate
+      ]
+      "System.Void EEMod.Items.Armor.Aquamarine.AquamarineHelmet::SetStaticDefaults()":
+      [
+        Aquamarine Helmet
+      ]
+      "System.Void EEMod.Items.Armor.Aquamarine.AquamarineLeggings::SetStaticDefaults()":
+      [
+        Aquamarine Greaves
+      ]
+      "System.Void EEMod.Items.Accessories.AccursedAmulet::SetStaticDefaults()":
+      [
+        Accursed Amulet
+        
+          '''
+          Each nearby enemy increases your damage by 0.5%, however also decreases your health by 1.5%
+          Max modifier amount of 15 NPCs
+          '''
+      ]
+      "System.Void EEMod.Items.Accessories.CoralEarring::SetStaticDefaults()":
+      [
+        Coral Earring
+        Forged by master merfolk fisherman
+      ]
+      "System.Void EEMod.Items.Accessories.FrozenGauntlet::SetStaticDefaults()":
+      [
+        Frozen Gauntlet
+        
+          '''
+          coldldldododldoddllodlloldoolololdolldo 
+          CLOUD SPRITE
+          GRAYDEE WAEPON
+          :heart_eyes:
+          '''
+      ]
+      "System.Void EEMod.Items.Accessories.GlowshroomBuckler::SetStaticDefaults()":
+      [
+        Glowshroom Buckler
+      ]
+      "System.Void EEMod.Items.Accessories.HallowedDivingGear::SetStaticDefaults()":
+      [
+        Hallowed Diving Gear
+        Grants freedom underwater
+      ]
+      "System.Void EEMod.Items.Accessories.IronBoots::SetStaticDefaults()":
+      [
+        Iron Boots
+        Extremely heavy
+      ]
+      "System.Void EEMod.Items.Accessories.RedVelvetCape::SetStaticDefaults()":
+      [
+        Red Velvet Cape
+      ]
+      "System.Void EEMod.Items.Accessories.WaterDragonsScale::SetStaticDefaults()":
+      [
+        Water Dragon's Scale
+        
+          '''
+          The power of an ancient dragon stirs within you
+          Reminds you of Lake Floria
+          '''
+      ]
+      "System.Void EEMod.Items.Accessories.Jetstriders.Jetstriders::SetStaticDefaults()":
+      [
+        Jetstriders
+      ]
+      "System.Void EEMod.Items.Accessories.InterstellarKelpBud.InterstellarKelpBud::SetStaticDefaults()":
+      [
+        Interstellar Kelp Bud
+      ]
+      "System.Void EEMod.Items.Accessories.InterstellarKelpBud.KelpBudProjectile::SetStaticDefaults()":
+      [
+        Interstellar Kelp Bud
+      ]
+      "Terraria.ModLoader.Core.TmodFile EEMod.Extensions.ModExtensions::GetFile(Terraria.ModLoader.Mod)":
+      [
+        File
+      ]
+      "System.Void EEMod.Effects.Noise2D::CacheParams()":
+      [
+        noiseTexture
+      ]
+      "System.Void EEMod.Effects.ScreenShaderEffect::CacheParams()":
+      [
+        uColor
+        uSecondaryColor
+        uScreenResolution
+        uScreenPosition
+        uTargetPosition
+        uDirection
+        uOpacity
+        uTime
+        uIntensity
+        uProgress
+        uImageSize1
+        uImageSize2
+        uImageSize3
+        uImageOffset
+        uSaturation
+        uSourceRect
+        uZoom
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::LoadWorldData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        EntracesPosses
+        CoralBoatPos
+        yes
+        ree
+        spawnedSailor
+        SpirePosition
+        CoralReefVineLocations
+        AquamarineZiplineLocations
+        ThinCrystalBambooLocations
+        BulbousTreePosition
+        WebPositions
+        boatPlaced
+        CoralMinibiomesPositions
+        CoralMinibiomesSizes
+        CoralMinibiomesIds
+        ShipCoords
+        something went wrong
+        SwingableVines
+        EmptyTileVectorMain
+        EmptyTileVectorSub
+        EmptyTileVectorEntities
+        EmptyTileEntities
+        CoralCrystalPosition
+        LightStates
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::SaveWorldData(Terraria.ModLoader.IO.TagCompound)":
+      [
+        CoralBoatPos
+        CoralReefVineLocations
+        AquamarineZiplineLocations
+        ThinCrystalBambooLocations
+        BulbousTreePosition
+        WebPositions
+        boatPlaced
+        spawnedSailor
+        CoralMinibiomesSize
+        CoralMinibiomesId
+        CoralMinibiomesPosition
+        SwingableVines
+        LightStates
+        CoralCrystalPosition
+        SpirePosition
+        EmptyTileVectorMain
+        EmptyTileVectorSub
+        EmptyTileVectorEntities
+        EmptyTileEntities
+        EntracesPosses
+        yes
+        ree
+        ShipCoords
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::ClearRegionSafely(System.Int32,System.Int32,Microsoft.Xna.Framework.Vector2,System.Int32)":
+      [
+        % done
+      ]
+      "Terraria.ModLoader.ModWaterStyle EEMod.EEWorld.ModBiomes.SurfaceReefs::get_WaterStyle()":
+      [
+        EEMod
+        CoralWaterStyle
+      ]
+      "System.Void EEMod.EEWorld.ModBiomes.SurfaceReefs::SetStaticDefaults()":
+      [
+        Surface Reefs
+      ]
+      "System.Void EEMod.Buffs.Debuffs.WaterPressure::SetStaticDefaults()":
+      [
+        Water Pressure
+        The water pressure is crushing in
+      ]
+      "System.Void EEMod.Buffs.Buffs.ARBuff::SetStaticDefaults()":
+      [
+        Aquatic Reinforcment
+        Pog
+      ]
+      "System.Void EEMod.Buffs.Buffs.BabyHydrosBuff::SetStaticDefaults()":
+      [
+        Baby Hydros
+        The Baby Hydros fights for you
+      ]
+      "System.Void EEMod.Buffs.Buffs.LobsterbikeBuff::SetStaticDefaults()":
+      [
+        Lobsterbike
+        Only for REAL men B)
+      ]
+      "System.Void EEMod.Buffs.Buffs.SurfboardBuff::SetStaticDefaults()":
+      [
+        Surfboard
+        Surf's up, duuuude!
+      ]
+      "System.Void EEMod.Buffs.Buffs.ThermalHealing::SetStaticDefaults()":
+      [
+        Thermal Healing
+        The warmth of the thermal vents heals you
+      ]
+      "System.Void EEMod.Buffs.Buffs.Vex::SetStaticDefaults()":
+      [
+        Vex
+        +5% damage and +5% crit chance
+      ]
+      "System.Void EEMod.Systems.TwitterAPIKeys::LoadAPIKeys()":
+      [
+        APIKEY
+        You
+        APISecret
+        MothaFucking
+        AccessToken
+        Thought-Bitch
+        AccessSecret
+        Get off
+        BearerToken
+        My Swamp
+      ]
+      "System.Void EEMod.Systems.Dialogue::StartDialogueRequiringNPC(System.Int32)":
+      [
+        DialogueInterface
+        DialogueUI
+      ]
+      "System.Void EEMod.Systems.Dialogue::CloseDialogue()":
+      [
+        DialogueInterface
+      ]
+      "System.Void EEMod.Systems.JonathanSeagullIntroduction::StartDialogueRequiringNPC(System.Int32)":
+      [
+        Jonathan the Cool Seagull
+        Anyways, you wouldn't happen to have seen DN around here somewhere would you?
+        Who's DN?
+        Yeah, I saw them over by that island up north.
+        No I haven't, sorry.
+        Deez Nuts.
+        Thanks bro, I'll go check there.
+        That's a shame, if you happen to find them please tell me.
+      ]
+      "System.Void EEMod.Systems.SailorDialogue::StartDialogueRequiringNPC(System.Int32)":
+      [
+        Sometimes I keep thinking about me old days, always sailing 'round the world.
+        Can you help me repair that ship?
+        What made you stop?
+        Bye!
+        "That ship sitting broken off the pier used to be one of the best vessels in the land. "
+        "I'm past my days of sailing, but you look like you want to see the seven seas. "
+        150§Wood
+        "] [i:"
+        20§Silk
+        "] [i:"
+        5§gold§coins
+        "] [i:"
+        "], I'd get her fixed right up for you."
+        Here you go!
+        No, bye.
+        Sorry, you don't have enough resources for me to repair the ship.
+        Oh, well, a while ago a storm hit my ship, and my brother was cast into the depths.
+        After that, I couldn't stomach going sailing the seas again. Brings back too much for me, ye know.
+        
+          '''
+          My memories with him are too fond to lose, though, so I stay 
+          by the sea in hopes that one day he'll come back. 
+          '''
+        Sorry about that.
+        Ah well, it's fine; it was years ago. I just hope one day I can see him again.
+        How do I use my boat?
+        
+          '''
+          To use yer cannons, [c/E4A214:left-click] to shoot yer cannons in the 
+          direction of your mouse.
+          '''
+        
+          '''
+          You can swap out yer cannons and figureheads at the 
+          workbench in the first floor of my house by [c/E4A214:right-clicking].
+          '''
+      ]
+      "System.Void EEMod.Systems.Structure::SaveWorldStructureTo(System.Int32,System.Int32,System.Int32,System.Int32,System.String)":
+      [
+        .lcs
+      ]
+      "System.Void EEMod.Systems.Noise.NoiseFunction::.ctor(Microsoft.Xna.Framework.Vector2,System.Single)":
+      [
+        noise2.rawimg
+      ]
+      "System.Void EEMod.Systems.EEGame.GameElement::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        ball
+        ball
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Systems.EEGame.IceHockey::get_tex()":
+      [
+        AirHockeyTable
+      ]
+      "System.Void EEMod.Systems.EEGame.IceHockey::Initialize()":
+      [
+        BlueAirHockeyThing
+        RedAirHockeyThing
+        AirHockeyPuck
+        ball
+      ]
+      "System.Void EEMod.Systems.EEGame.IceHockey::OnDeactivate()":
+      [
+        EEMod:Pause
+        EEMod:Pause
+      ]
+      "System.Void EEMod.Systems.EEGame.IceHockey::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        EEMod:Pause
+        EEMod:Pause
+        EEMod:Pause
+      ]
+      "System.Void EEMod.Autoloading.AutoloadingManager::LoadManager(Terraria.ModLoader.Mod)":
+      [
+        formod
+      ]
+      "System.Void EEMod.Autoloading.AutoloadingManager::LoadManager(System.Reflection.Assembly)":
+      [
+        assembly
+      ]
+      "System.Void EEMod.Autoloading.AutoloadingManager::UnloadManager(Terraria.ModLoader.Mod)":
+      [
+        formod
+      ]
+      "System.Void EEMod.Autoloading.AutoloadingManager::UnloadManager(System.Reflection.Assembly)":
+      [
+        assembly
+      ]
+    }
+    Path:
+    {
+      "System.Void EEMod.EEMod::InitializeAmbience()":
+      [
+        EEMod/Assets/Ambient/SurfaceReefsAmbienceDolphins
+        EEMod/Assets/Ambient/SurfaceReefsAmbienceSeagulls
+        EEMod/Assets/Ambient/SurfaceReefsAmbienceSeagulls2
+        EEMod/Assets/Ambient/SurfaceReefsAmbienceWaves
+      ]
+      "System.Void EEMod.EEMod::Load()":
+      [
+        Assets/Music/SurfaceReefs
+      ]
+      "System.Void EEMod.EEMod::DrawLoadingScreen(.Main+orig_Draw,Terraria.Main,Microsoft.Xna.Framework.GameTime)":
+      [
+        EEMod/Textures/Black
+      ]
+      "System.Void EEMod.EEMod::DrawLoadingScreenContent()":
+      [
+        EEMod/Particles/Square
+        EEMod/Textures/Noise/CloudNoise
+        EEMod/Textures/Noise/WaveNoiseAlt
+        EEMod/Textures/Noise/noise2
+        EEMod/Particles/SmallCircle
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.EEMod::DrawGoblinFortBg(.Main+orig_DoDraw_WallsAndBlacks,Terraria.Main)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/Background
+        EEMod/NPCs/Goblins/Scrapwizard/BackgroundGlass
+      ]
+      "System.Void EEMod.EEMod::RenderSubworldList(.UIWorldListItem+orig_DrawSelf,Terraria.GameContent.UI.Elements.UIWorldListItem,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Terraria/Images/UI/InnerPanelBackground
+      ]
+      "System.Void EEMod.EEMod::DrawGlobalShaderTextures()":
+      [
+        Textures/SunRing
+        Textures/SunRing
+        Textures/LensFlare
+        Textures/LensFlare
+        EEMod/Projectiles/Nice
+        Textures/LensFlare
+        Textures/SunRing
+      ]
+      "System.Void EEMod.EEMod::DrawLensFlares()":
+      [
+        Textures/LensFlare2
+        Textures/LensFlare2
+      ]
+      "System.Void EEMod.EEMod::QuickLoadScreenShader(System.String)":
+      [
+        Effects/ScreenShaders/
+      ]
+      "System.Void EEMod.EEMod::LoadStaticFields()":
+      [
+        ScreenShaders/
+        Effects/
+      ]
+      "System.Void EEMod.EEPlayer::UpdateEquips()":
+      [
+        Textures/RadialGradient
+        Particles/ForegroundParticles/KelpLeaf
+      ]
+      "System.Void EEMod.EEPlayer::DrawZipline()":
+      [
+        EEMod/Items/ZipCarrier2
+        EEMod/Items/ZipCarrier
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Helpers::get_RadialMask()":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunkyRadial(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        Textures/RadialGradient
+        Textures/Noise/noise
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunky(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        Textures/Noise/noise
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunky2(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        Textures/Noise/noise
+      ]
+      "System.Void EEMod.Helpers::DrawAdditiveFunkyNoBatch(Microsoft.Xna.Framework.Graphics.Texture2D,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Single)":
+      [
+        Textures/Noise/noise
+      ]
+      "System.Int32 EEMod.LoadingScreenMusic::get_Music()":
+      [
+        Assets/Music/goodman
+      ]
+      "System.Int32 EEMod.ShipyardSystem::get_Music()":
+      [
+        Assets/Music/Shipyard
+      ]
+      "System.Void EEMod.DrawLensFlares::UpdateLensFlares()":
+      [
+        Textures/LensFlare2
+        Textures/LensFlare2
+      ]
+      "System.Void EEMod.LightingBuffer::DrawReefsBackground()":
+      [
+        Backgrounds/CoralReefsSurfaceFar
+        Backgrounds/CoralReefsSurfaceMid
+        Backgrounds/CoralReefsSurfaceClose
+      ]
+      "System.Void EEMod.Leaf::PreAI()":
+      [
+        Particles/ForegroundParticles/Leaf
+      ]
+      "System.Void EEMod.Leaf::<PreAI>g__SpawnGrass|13_0(.<>c__DisplayClass13_0&)":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.ThinAquamarineBamboo::DrawThinCrystalBamboo()":
+      [
+        Textures/CrystalBambooThin
+        Textures/CrystalBambooThinTip
+      ]
+      "System.Void EEMod.AquamarineZiplines::DrawAquamarineZiplines()":
+      [
+        Textures/CrystalVineThick
+        Textures/CrystalVineDangleThick
+        Textures/CrystalVineDangleMid
+      ]
+      "System.Void EEMod.Boids::Load()":
+      [
+        Particles/Fish
+        Particles/Coralfin
+        Particles/Barracuda
+        Particles/LargeBubblefish
+        Particles/SmallBubblefish
+        Particles/KelpEel2
+        Particles/Kelpfin
+        Particles/GoldenFish
+        Particles/AquamarineFish1
+        Particles/Thermalfin
+      ]
+      "System.Void EEMod.BulbousPlants::HandleBulbDraw(Microsoft.Xna.Framework.Vector2)":
+      [
+        Textures/Vines/LightBlue
+        Textures/Vines/BigVine
+        Textures/Noise/noise
+        Textures/Noise/WormNoisePixelated
+        Textures/BulbousBall
+      ]
+      "System.Void EEMod.CoralReefVines::DrawVines()":
+      [
+        Textures/Vines/Vine
+        Textures/Vines/VineLight
+        Textures/Vines/VineLightGlow
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.GiantKelp::DrawGiantKelp()":
+      [
+        Backgrounds/GiantKelpColumn
+      ]
+      "System.Void EEMod.SpiderWebs::HandleWebDraw(Microsoft.Xna.Framework.Vector2)":
+      [
+        Textures/Vines/VineShorter
+        Textures/Vines/BigVine
+      ]
+      "System.Void EEMod.UI.States.DialogueUI::OnInitialize()":
+      [
+        EEMod/Systems/Dialogues/SailorPortrait
+      ]
+      "System.Void EEMod.UI.States.DialogueUI::Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/UI/ScrollArrowWarning
+      ]
+      "System.Void EEMod.UI.States.DialogueBox::.ctor()":
+      [
+        EEMod/UI/DialogueBoxBackground
+        EEMod/UI/DialogueBoxBackground
+      ]
+      "System.Void EEMod.UI.States.DialogueBoxDivider::.ctor()":
+      [
+        EEMod/UI/DialogueBoxDivider
+        EEMod/UI/DialogueBoxDivider
+      ]
+      "System.Void EEMod.UI.States.Response::.ctor(System.Int32,System.String,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/UI/DialogueResponse
+        EEMod/UI/DialogueResponse
+      ]
+      "System.Void EEMod.UI.States.FishermansLogUI::OnInitialize()":
+      [
+        EEMod/UI/FishermansLogUI
+      ]
+      "System.Void EEMod.UI.States.FishElement::.ctor(System.Int32,System.String,System.String,System.String,System.Int32,System.Int32,System.Boolean,Microsoft.Xna.Framework.Graphics.Texture2D,System.Int32)":
+      [
+        EEMod/UI/FishBorder
+        EEMod/UI/FishBorder
+      ]
+      "System.Void EEMod.UI.States.FishElement::Update(Microsoft.Xna.Framework.GameTime)":
+      [
+        EEMod/UI/FishBorder
+        EEMod/UI/FishBorderGold
+      ]
+      "System.Void EEMod.UI.States.FishElement::DrawSelf(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Terraria/Images/Item_
+      ]
+      "System.Void EEMod.UI.States.FishDisplay::.ctor()":
+      [
+        EEMod/UI/DisplayBorder
+        EEMod/UI/DisplayBorder
+      ]
+      "System.Void EEMod.UI.States.FishDisplay::DrawSelf(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/UI/LogDisplayBGs/
+      ]
+      "System.Void EEMod.UI.States.FilterButton::.ctor()":
+      [
+        EEMod/UI/Filter
+      ]
+      "System.Void EEMod.UI.States.Arrow::.ctor()":
+      [
+        EEMod/UI/ArrowLeft
+      ]
+      "System.Void EEMod.UI.States.KelpArmorAmmoUI::OnInitialize()":
+      [
+        EEMod/UI/FishBorderGold
+      ]
+      "System.Void EEMod.UI.States.ShipLoadoutUI::OnInitialize()":
+      [
+        EEMod/UI/ShipLoadout
+        EEMod/UI/CannonEmptyPlaceholder
+        EEMod/UI/ShipLoadoutItemSlot
+        EEMod/UI/ShipLoadoutItemSlot
+        EEMod/UI/ShipLoadoutItemSlot
+      ]
+      "System.Void EEMod.UI.States.UIDragableImage::.ctor(Microsoft.Xna.Framework.Graphics.Texture2D,System.Boolean,System.Boolean,System.Boolean)":
+      [
+        EEMod/UI/ShipLoadout
+        Terraria/Images/UI/PanelBorder
+      ]
+      "System.Void EEMod.VerletIntegration.VerletHelpers::AddStickChain(EEMod.VerletIntegration.Verlet&,Microsoft.Xna.Framework.Vector2,System.Int32,System.Single)":
+      [
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineCap
+        Textures/Vines/HangingVines/VineCapGlow
+        Textures/Vines/HangingVines/VineCapMap
+      ]
+      "System.Void EEMod.VerletIntegration.VerletHelpers::AddStickChainNoAdd(EEMod.VerletIntegration.Verlet&,Microsoft.Xna.Framework.Vector2,System.Int32,System.Single)":
+      [
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/Vine
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineBase
+        Textures/Vines/HangingVines/VineCap
+        Textures/Vines/HangingVines/VineCapGlow
+        Textures/Vines/HangingVines/VineCapMap
+      ]
+      "System.Void EEMod.VerletIntegration.Verlet::RenderSticks()":
+      [
+        Particles/Cross
+      ]
+      "System.Void EEMod.Prim.AxeLightningPrimTrail::SetShaders()":
+      [
+        Textures/LightningTexBoosted
+      ]
+      "System.Void EEMod.Prim.RapierPrimTrail::OnUpdate()":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Prim.SpirePrimTrail::SetShaders()":
+      [
+        Textures/EnergyTrailBoostedBg
+      ]
+      "System.Void EEMod.Prim.SwordPrimTrail::OnUpdate()":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Prim.RedHotCannonballTrail::SetShaders()":
+      [
+        Textures/GlowingWeb
+      ]
+      "System.Void EEMod.Prim.ScrapwizardTendrilPrimTrail::SetShaders()":
+      [
+        Textures/EnergyTrailAlt
+      ]
+      "System.Void EEMod.Prim.ScrapwizardTendrilPrimTrail2::SetShaders()":
+      [
+        Textures/GlowingWeb
+      ]
+      "System.Void EEMod.Prim.ShadowflameCampfirePrims::SetShaders()":
+      [
+        Textures/EnergyTrailAlt
+      ]
+      "System.Void EEMod.Prim.ShadowflamePrimTrail::SetShaders()":
+      [
+        Textures/GlowingWeb
+        Textures/FlameTrailBoosted
+      ]
+      "System.Void EEMod.Prim.StormGauntletPrimTrail::SetShaders()":
+      [
+        Textures/LightningTexBoosted2
+      ]
+      "System.Void EEMod.Prim.TornSailPrims::SetShaders()":
+      [
+        EEMod/Textures/Noise/ClothNoiseBoosted2
+      ]
+      "System.Boolean EEMod.Tiles.BrimstoneTile::TileFrame(System.Int32,System.Int32,System.Boolean&,System.Boolean&)":
+      [
+        EEMod/Tiles/BrimstoneTile
+      ]
+      "System.Void EEMod.Tiles.BrimstoneTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/BrimstoneTileGlow
+      ]
+      "System.Boolean EEMod.Tiles.DriftwoodTile::TileFrame(System.Int32,System.Int32,System.Boolean&,System.Boolean&)":
+      [
+        EEMod/Tiles/DriftwoodTile
+      ]
+      "System.Void EEMod.Tiles.EEGlobalTile::PostDraw(System.Int32,System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/MahoganyLeaf
+        Particles/LivingLeaf
+      ]
+      "System.Void EEMod.Tiles.KelpLeafTile::PlaceGroundGrass(System.Int32,System.Int32)":
+      [
+        Tiles/Foliage/KelpGrassLong
+        Tiles/Foliage/KelpGrassShort
+        Tiles/Foliage/KelpGrassStubbed
+        Tiles/Foliage/KelpGrassLongX
+        Tiles/Foliage/KelpGrassLongXX
+        Tiles/Foliage/KelpGrassMedium
+      ]
+      "System.Void EEMod.Tiles.KelpLeafTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/KelpLeafTile
+      ]
+      "System.Void EEMod.Tiles.KelpMossTile::PlaceGroundGrass(System.Int32,System.Int32)":
+      [
+        Tiles/Foliage/KelpGrassShortMoss
+        Tiles/Foliage/KelpGrassStubbedMoss
+      ]
+      "System.Void EEMod.Tiles.KelpMossTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Textures/RadialGradient
+        Tiles/KelpMossTileGlow
+      ]
+      "System.Void EEMod.Tiles.LightGemsandTile::PlaceGroundGrass(System.Int32,System.Int32)":
+      [
+        Tiles/Foliage/KelpGrassLong
+        Tiles/Foliage/KelpGrassShort
+        Tiles/Foliage/KelpGrassStubbed
+        Tiles/Foliage/KelpGrassLongX
+        Tiles/Foliage/KelpGrassLongXX
+        Tiles/Foliage/KelpGrassMedium
+      ]
+      "System.Boolean EEMod.Tiles.ScorchedGemsandTile::TileFrame(System.Int32,System.Int32,System.Boolean&,System.Boolean&)":
+      [
+        EEMod/Tiles/BrimstoneTile
+      ]
+      "System.Void EEMod.Tiles.ScorchedGemsandTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/ScorchedGemsandTileGlow
+      ]
+      "System.Void EEMod.Tiles.ShieldplateTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/ShieldplateTile
+      ]
+      "System.Void EEMod.Tiles.ThermalMossTile::PlaceGroundGrass(System.Int32,System.Int32)":
+      [
+        Tiles/Foliage/KelpGrassStubbedMoss2
+      ]
+      "System.Void EEMod.Tiles.ThermalMossTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/ThermalMossTileGlow
+      ]
+      "System.Void EEMod.Tiles.Ores.LythenOreTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.AshenBridge::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Tiles/AshenBridgeSupport
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Bridge::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Tiles/Furniture/BridgeSupport
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.HydrosSpawner::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Items/Placeables/Ores/LythenOre
+        EEMod/Items/Placeables/Ores/LythenOre
+      ]
+      "System.Void EEMod.Tiles.Furniture.KelpberryPlaced::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Furniture/KelpberryPlacedGlow
+      ]
+      "System.Void EEMod.Tiles.Furniture.ZipPylon::SetDrawPositions(System.Int32,System.Int32,System.Int32&,System.Int32&,System.Int32&,System.Int16&,System.Int16&)":
+      [
+        Items/Zipline
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.CannonTile::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Furniture/Shipyard/CannonTile
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.FigureheadTile::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/Furniture/Shipyard/FigureheadTile
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.Shipyard.FigureheadRender::PreDraw(System.Int32,System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/Furniture/Shipyard/FigureheadTile
+      ]
+      "System.String EEMod.Tiles.Furniture.Shipyard.WoodenShipsWheelTile::get_HighlightTexture()":
+      [
+        EEMod/Tiles/Furniture/WoodenShipsWheelTile_Highlight
+      ]
+      "System.Void EEMod.Tiles.Furniture.NautilusPuzzle.NautilusPuzzle::.ctor()":
+      [
+        EEMod/Tiles/Furniture/NautilusPuzzle/
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinBannerPrims::SetShaders()":
+      [
+        EEMod/Tiles/Furniture/GoblinFort/GoblinBannerBanner
+        EEMod/Tiles/Furniture/GoblinFort/GoblinBannerOutline
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.GoblinBannerBigPrims::SetShaders()":
+      [
+        EEMod/Tiles/Furniture/GoblinFort/GoblinBannerBigBanner
+        EEMod/Tiles/Furniture/GoblinFort/GoblinBannerBigOutline
+      ]
+      "System.Boolean EEMod.Tiles.Furniture.GoblinFort.GoblinChandelierLight::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Tiles/Furniture/GoblinFort/GoblinChandelierChain
+      ]
+      "System.Void EEMod.Tiles.Furniture.GoblinFort.ShadowflameCampfire::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Tiles.Furniture.Chests.ShadowflameHexChestTile::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/Furniture/Chests/ShadowflameHexChestTileGlow
+        EEMod/Tiles/Furniture/Chests/ShadowflameHexChestLock
+      ]
+      "System.Void EEMod.Tiles.Foliage.BigTropicalTree::DrawEffects(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch,Terraria.DataStructures.TileDrawInfo&)":
+      [
+        Tiles/Foliage/BigTropicalTreeLeaves
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.BlueKelpTile::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/BlueKelpTile
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.SeagrassTile::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/SeagrassTile
+      ]
+      "System.Void EEMod.Tiles.Foliage.TropicalTree::DrawEffects(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch,Terraria.DataStructures.TileDrawInfo&)":
+      [
+        Tiles/Foliage/TropicalTreeLeaves
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent1x1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent1x1Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent2x1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent2x1Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent2x2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent2x2Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent3x3::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent3x3Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent5x4::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent5x4Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.ThermalVents.ThermalVent5x5::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/ThermalVents/ThermalVent5x5Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GlowHangCoral1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/KelpForest/GlowHangCoral1Glow
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.KelpForest.GreenKelpTile::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/KelpForest/GreenKelpTile
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/KelpForest/GroundGlowCoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/KelpForest/GroundGlowCoralGlow2
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral3::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/KelpForest/GroundGlowCoralGlow3
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.GroundGlowCoral4::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/KelpForest/GroundGlowCoralGlow4
+      ]
+      "System.Void EEMod.Tiles.Foliage.KelpForest.KelpFlower::AnimateIndividualTile(System.Int32,System.Int32,System.Int32,System.Int32&,System.Int32&)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Particles/SmallCircle
+        Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.KelpForest.KelpVine::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/KelpForest/KelpVine
+        Tiles/Foliage/KelpForest/KelpVineGlowmask
+      ]
+      "System.Void EEMod.Tiles.Foliage.Halocline.GroundSaltCrystal1x1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/GroundSaltCrystal1x1
+      ]
+      "System.Void EEMod.Tiles.Foliage.Halocline.GroundSaltCrystal2x2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/KelpForest/GroundSaltCrystal2x2
+      ]
+      "System.Void EEMod.Tiles.Foliage.Halocline.GroundSaltCrystal3x3::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Halocline/GroundSaltCrystal3x3
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.GlowshroomGrotto.GlowshroomVines::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/GlowshroomGrotto/GlowshroomVines
+        Particles/SmallCircle
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom1x1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom1x1Cap
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom2x2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom2x2Cap
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom3x5::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom3x5Cap
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom5x7::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom5x7Cap
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom8x11::DrawEffects(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch,Terraria.DataStructures.TileDrawInfo&)":
+      [
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom8x11Mushroots
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom8x11Cap
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom8x11::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Particles/SmallCircle
+        Textures/RadialGradient
+        Tiles/Foliage/GlowshroomGrotto/OrangeMushroom8x11Minishroom
+      ]
+      "System.Void EEMod.Tiles.Foliage.GlowshroomGrotto.OrangeMushroom8x11::.ctor()":
+      [
+        Tiles/Foliage/GlowshroomGrotto/
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow1x2Coral1::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow1x2Coral1Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow2x1Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow2x1Coral1Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow2x2Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow2x2CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow2x4Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow2x4CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow4x4Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow4x4CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.FloorGlow9x4Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/FloorGlow9x4CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.WallCoral.WallGlow2x3NonsolidCoralL::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/WallCoral/WallGlow2x3NonsolidCoralLGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.WallCoral.WallGlow2x3NonsolidCoralR::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/WallCoral/WallGlow2x3NonsolidCoralRGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.GlowHangCoral2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/HangingCoral/GlowHangCoral2Glow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow2x2Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/HangingCoral/HangingGlow2x2CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow2x4Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/HangingCoral/HangingGlow2x4CoralGlow
+      ]
+      "System.Void EEMod.Tiles.Foliage.Coral.HangingCoral.HangingGlow3x2Coral::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Coral/HangingCoral/HangingGlow3x2CoralGlow
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.BulboBall.BulboBall::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Tiles/Foliage/BulboBall/GoldBulboBall
+        EEMod/Textures/Vines/BigVineVert
+        EEMod/Textures/Vines/BigVineVertGlow
+        EEMod/Tiles/Foliage/BulboBall/GoldBulboBall
+        EEMod/Tiles/Foliage/BulboBall/GoldBulboBallGlow
+        Textures/RadialGradient
+        Textures/RadialGradient
+        Particles/SmallCircle
+        Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.Aquamarine.AquamarineChime::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Aquamarine/AquamarineChime
+      ]
+      "System.String EEMod.Tiles.Foliage.Aquamarine.AquamarineLamp1Glow::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.Aquamarine.AquamarineLamp1Glow::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Tiles/Foliage/Aquamarine/AquamarineLamp1Glow
+        Textures/SmoothFadeOut
+        Particles/Square
+        Particles/Square
+      ]
+      "System.Void EEMod.Tiles.Foliage.Aquamarine.AquamarineLamp2::PostDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Textures/SmoothFadeOut
+        Tiles/Foliage/Aquamarine/AquamarineLamp2Glow
+        Tiles/Foliage/Aquamarine/AquamarineLamp2Glow
+      ]
+      "System.Boolean EEMod.Tiles.Foliage.Aquamarine.AquamarinePillar::PreDraw(System.Int32,System.Int32,Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Tiles/Foliage/Aquamarine/AquamarinePillar
+      ]
+      "System.Void EEMod.Tiles.EmptyTileArrays.Crystal::DuringNonActivation()":
+      [
+        EEMod/Particles/Crystal
+      ]
+      "System.Void EEMod.Tiles.EmptyTileArrays.BigCrystal::DuringNonActivation()":
+      [
+        EEMod/Particles/Crystal
+      ]
+      "System.Void EEMod.Subworlds.GoblinFort::<get_Tasks>b__15_0(Terraria.WorldBuilding.GenerationProgress)":
+      [
+        EEWorld/Structures/goblinhall.lcs
+        EEWorld/Structures/GoblinRaft1.lcs
+        EEWorld/Structures/GoblinRaft2.lcs
+      ]
+      "System.Int32 EEMod.Subworlds.GoblinFortSystem::get_Music()":
+      [
+        Assets/Music/GoblinRaid
+      ]
+      "System.Int32 EEMod.Subworlds.SeaSystem::get_Music()":
+      [
+        Assets/Music/Seamap
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::Render()":
+      [
+        EEMod/Textures/Pure
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderSeamapUI(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/UI/Target
+        EEMod/Seamap/Content/UI/OceanScreen
+        EEMod/Seamap/Content/UI/HealthbarBg
+        EEMod/Seamap/Content/UI/HealthbarFill
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderWater(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Particles/Square
+        EEMod/Textures/Noise/SeamapNoise
+        EEMod/Textures/RadialGradientSquish
+        EEMod/Textures/Noise/DotNoise2SquishIndex
+      ]
+      "System.Void EEMod.Seamap.Core.Seamap::RenderClouds(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Particles/Square
+        EEMod/Textures/Noise/CloudNoise
+        EEMod/Textures/Noise/SeamapNoise
+      ]
+      "System.Void EEMod.Seamap.Content.LoadingShip::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Terraria.Player)":
+      [
+        EEMod/Seamap/Content/SeamapPlayerShip
+      ]
+      "System.Boolean EEMod.Seamap.Content.LoadingShip::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/SeamapPlayerShip
+      ]
+      "System.Void EEMod.Seamap.Content.FoamTrailLoading::SetShaders()":
+      [
+        Textures/Noise/FoamTrail3
+        Textures/Noise/FoamTrail3
+      ]
+      "System.Void EEMod.Seamap.Content.Seagull::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2)":
+      [
+        EEMod/Seamap/Content/Seagull
+      ]
+      "System.Void EEMod.Seamap.Content.SeamapPlayerShip::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Terraria.Player)":
+      [
+        EEMod/Seamap/Content/SeamapPlayerShip
+      ]
+      "System.Boolean EEMod.Seamap.Content.SeamapPlayerShip::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/SeamapPlayerShip
+      ]
+      "System.Void EEMod.Seamap.Content.FoamTrail::SetShaders()":
+      [
+        Textures/Noise/FoamTrail3
+        Textures/Noise/FoamTrail3
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.CoralReefsIsland::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/CoralReefsIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Glacier::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Glacier
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.GoblinFortIsland::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/GoblinFortIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Iceberg2::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Iceberg2
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Island::get_islandTex()":
+      [
+        EEMod/Empty
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.JadeIsles::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/JadeIsles
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.MainIsland::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/MainIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.MoyaiIsland::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/MoyaiIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock1::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock1
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock2::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock2
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock3::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock3
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock4::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock4
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock5::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock5
+      ]
+      "System.Void EEMod.Seamap.Content.Islands.Rock5::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/Islands/Rock5Front
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Rock6::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Rock6
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.Iceberg::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/Iceberg
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.TropicalIsland1::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/TropicalIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.TropicalIsland2::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/TropicalIsland
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.TropicalIslandAlt::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/TropicalIslandAlt
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.Seamap.Content.Islands.VolcanoIsland::get_islandTex()":
+      [
+        EEMod/Seamap/Content/Islands/VolcanoIsland
+      ]
+      "System.Void EEMod.Seamap.Content.Enemies.PirateShip::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2)":
+      [
+        EEMod/Seamap/Content/Enemies/PirateShip
+      ]
+      "System.Boolean EEMod.Seamap.Content.Enemies.PirateShip::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/PirateShip
+      ]
+      "System.Void EEMod.Seamap.Content.Enemies.RedDutchman::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2)":
+      [
+        EEMod/Seamap/Content/Enemies/RedDutchman
+      ]
+      "System.Boolean EEMod.Seamap.Content.Enemies.RedDutchman::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/RedDutchman
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.FriendlyCannonball::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,EEMod.Seamap.Content.Cannonballs.TeamID)":
+      [
+        EEMod/Seamap/Content/Cannonballs/FriendlyCannonball
+      ]
+      "System.Boolean EEMod.Seamap.Content.Cannonballs.FriendlyCannonball::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/Cannonballs/CannonballExplode
+        EEMod/Seamap/Content/Cannonballs/CannonballExplodeGlow
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.FrozenCannonball::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,EEMod.Seamap.Content.Cannonballs.TeamID)":
+      [
+        EEMod/Seamap/Content/Cannonballs/FrozenCannonball
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.FrozenCannonballFragment::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,EEMod.Seamap.Content.Cannonballs.TeamID)":
+      [
+        EEMod/Seamap/Content/Cannonballs/FrozenCannonballFragment
+      ]
+      "System.Boolean EEMod.Seamap.Content.Cannonballs.FrozenCannonballFragment::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/Cannonballs/FrozenCannonballFragment
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.ShenCannonball::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,EEMod.Seamap.Content.Cannonballs.TeamID,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/Seamap/Content/Cannonballs/ShenCannonball
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.ShenCannonball::Update()":
+      [
+        EEMod/Empty
+        EEMod/Textures/6PointStar
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.ShenCannonball::OnKill()":
+      [
+        EEMod/Empty
+        EEMod/Textures/6PointStar
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.Seamap.Content.Cannonballs.ShenCannonball::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Textures/RadialGradient
+        EEMod/Textures/SmoothFadeOut
+        EEMod/Textures/SmoothFadeOut
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.ShenCannonball::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        EEMod/Seamap/Content/Cannonballs/ShenCannonballGlow
+      ]
+      "System.Void EEMod.Seamap.Content.Cannonballs.ShenChildTrail::.ctor(Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2)":
+      [
+        EEMod/Seamap/Content/Cannonballs/ShenCannonball
+      ]
+      "System.Boolean EEMod.Projectiles.Blade::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/Slash
+        Projectiles/Slash
+      ]
+      "System.Void EEMod.Projectiles.Gradient::pixelPlacmentHours()":
+      [
+        EEMod/Projectiles/Gradient
+      ]
+      "System.String EEMod.Projectiles.ShipHelper::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Boolean EEMod.Projectiles.TenisBoll::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/VolleyballArrowFill
+      ]
+      "System.Void EEMod.Projectiles.TenisBoll::AI()":
+      [
+        EEMod/Assets/Sounds/TennisBall1
+      ]
+      "System.Boolean EEMod.Projectiles.Volleyball::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/VolleyballArrowOutline
+        Projectiles/VolleyballArrowFill
+      ]
+      "System.Boolean EEMod.Projectiles.Hooks.KelpHookProj::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/Hooks/KelpHookVine
+      ]
+      "System.Boolean EEMod.Projectiles.Hooks.SailorsClaspProjectile::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/Hooks/SailorsClaspChain
+      ]
+      "System.String EEMod.Projectiles.Enemy.BlueRing::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Void EEMod.Projectiles.Enemy.MechanicalMissile::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        Projectiles/Enemy/MechanicalMissileGlow
+      ]
+      "System.Boolean EEMod.Projectiles.CoralReefs.KelpFlowerItem::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Textures/RadialGradientWide
+      ]
+      "System.Void EEMod.Projectiles.CoralReefs.ThermalMagma::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        Projectiles/CoralReefs/ThermalMagma
+        Particles/Cross
+        Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.NPCs.SpikyOrb::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Textures/RadialGradientWide
+        Textures/SpikyOrbLightMap
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.Grebyser::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/GrebyserGlow
+      ]
+      "System.String EEMod.NPCs.ThermalVents.GrebyserFlare::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Boolean EEMod.NPCs.ThermalVents.MechanicalAnglerFish::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Projectiles/Enemy/MechanicalLureChain
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.MechanicalEel::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/MechanicalReefs/MechanicalEelGlow
+      ]
+      "System.Void EEMod.NPCs.ThermalVents.MechanicalShark::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/ThermalVents/MechanicalSharkGlow
+        NPCs/ThermalVents/MechanicalSharkGlow
+      ]
+      "System.Void EEMod.NPCs.SurfaceReefs.SeaSlug::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/SurfaceReefs/SeaSlugGlow
+      ]
+      "System.Boolean EEMod.NPCs.Squid.Squid::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/GlisteningReefs/SquidChain
+        NPCs/CoralReefs/GlisteningReefs/SquidEnd
+        NPCs/CoralReefs/GlisteningReefs/SquidHead
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.BlueringOctopus::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/GlisteningReefs/BlueringOctopusGlow
+      ]
+      "System.Void EEMod.NPCs.LowerReefs.BombFish::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/BombFishGlow
+      ]
+      "System.Boolean EEMod.NPCs.LowerReefs.ToxicPuffer::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/ToxicPufferSmall
+        NPCs/CoralReefs/ToxicPuffer
+      ]
+      "System.Void EEMod.NPCs.KelpForest.KelpSpider::DrawSpiderPort(Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/CoralReefs/KelpSpiderLegUpper
+        NPCs/CoralReefs/KelpSpiderLegLower
+        NPCs/CoralReefs/KelpSpiderBody
+      ]
+      "System.Void EEMod.NPCs.KelpForest.Kelpweaver.GlowingKelpSpider::DrawSpiderPort(Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderLegUpper
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderLegLower
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderBody
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderLegUpperGlow
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderLegLowerGlow
+        NPCs/KelpForest/Kelpweaver/GlowingKelpSpiderBodyGlow
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.GoblinDeathBolt::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        NPCs/Goblins/Shaman/ShadowflameHexBolt
+        EEMod/Tiles/Furniture/Chests/ShadowflameHexChestLock
+        EEMod/Tiles/Furniture/Chests/ShadowflameHexChestLock
+      ]
+      "System.Void EEMod.NPCs.Goblins.Watchman.GoblinWatchman::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Watchman/WatchmanAlert
+        NPCs/Goblins/Watchman/WatchmanQuestion
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Shaman.GoblinShaman::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Textures/Noise/noise
+        NPCs/Goblins/Shaman/GoblinShaman
+      ]
+      "System.Void EEMod.NPCs.Goblins.Shaman.GoblinShaman::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Textures/Noise/noise
+        NPCs/Goblins/Shaman/ShamanStaff
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Shaman.ShadowflameHexBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Shaman/ShadowflameHexBolt
+        EEMod/NPCs/Goblins/Shaman/ShadowflameHexBolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Shaman.StaffBolt::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        NPCs/Goblins/Shaman/StaffBolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.ChandelierMeteor::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+        EEMod/NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.FlameSpiral::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/FlameSpiral
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.GuardBrute::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/GuardBrute
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.LargeScrap::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapBloom
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/Textures/TelegraphLineDouble
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapBloom
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.LargeScrap::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapAnim
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapAnim
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.Scrapbit::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapBloom
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapOutline
+        EEMod/Textures/TelegraphLineDouble
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrap
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapbit::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapAnim
+        EEMod/NPCs/Goblins/Scrapwizard/LargeScrapAnim
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapwizard::InitShader(Microsoft.Xna.Framework.Graphics.SpriteBatch)":
+      [
+        Textures/Noise/noise
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.Scrapwizard::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/Scrapwizard
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapwizard.Scrapwizard::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Scrapwizard/ScrapwizardStaff
+        EEMod/Textures/TelegraphLine
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.ScrapwizardHexBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+        EEMod/NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapwizard.SlingshotBolt::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+        EEMod/NPCs/Goblins/Scrapwizard/ScrapwizardHexBolt
+      ]
+      "System.Boolean EEMod.NPCs.Goblins.Scrapgunner.GoblinScrapgunner::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Scrapgunner/GoblinScrapgunner
+      ]
+      "System.Void EEMod.NPCs.Goblins.Scrapgunner.GoblinScrapgunner::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        NPCs/Goblins/Scrapgunner/ScrapgunnerGun
+        NPCs/Goblins/Scrapgunner/ScrapgunnerHand
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.CymbalBard::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Bard/CymbalBardNote
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.PercussionBard::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Bard/PercussionBardNote
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.NPCs.Goblins.Bard.PanfluteBard::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Goblins/Bard/PanfluteBardNote
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.NPCs.Glowshroom.MushroomMage::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/Textures/PermafrostRuneLightMap
+      ]
+      "System.Void EEMod.NPCs.Glowshroom.MushroomMage::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Glowshroom/MushroomMage
+        EEMod/Textures/PermafrostRuneLightMap
+      ]
+      "System.Void EEMod.NPCs.Glowshroom.MushroomBall::DrawMushroom()":
+      [
+        EEMod/Textures/RadialGradient
+        EEMod/NPCs/Glowshroom/MushroomBall
+      ]
+      "System.String EEMod.NPCs.Friendly.Sailor::get_Texture()":
+      [
+        EEMod/NPCs/Friendly/Sailor
+      ]
+      "System.Void EEMod.NPCs.Friendly.Sailor::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEWorld/Structures/builtboat.lcs
+      ]
+      "System.Void EEMod.NPCs.Bosses.SailorsOmen.SailorsOmen::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Bosses/SailorsOmen/OmenMagic2
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.Hydros::SetDefaults()":
+      [
+        EEMod/Sounds/Music/HydrosFight
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.Hydros::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Bosses/Hydros/Hydros
+        EEMod/NPCs/Bosses/Hydros/Hydros
+        EEMod/NPCs/Bosses/Hydros/Hydros
+        EEMod/NPCs/Bosses/Hydros/Hydros
+        EEMod/NPCs/Bosses/Hydros/Hydros
+        EEMod/NPCs/Bosses/Hydros/HydrosOutline
+        EEMod/NPCs/Bosses/Hydros/HydrosOutline
+        EEMod/NPCs/Bosses/Hydros/HydrosOutline
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.Hydros::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        Textures/Noise/LightningNoisePixelatedBloom
+        Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.String EEMod.NPCs.Bosses.Hydros.HydrosCutsceneManager::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.HydrosCutsceneManager::SetDefaults()":
+      [
+        EEMod/Sounds/Music/HydrosFight
+      ]
+      "System.Boolean EEMod.NPCs.Bosses.Hydros.HydrosCutsceneManager::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/Items/Placeables/Ores/LythenOre
+        EEMod/Items/Placeables/Ores/LythenOre
+        EEMod/Textures/GodrayMask
+        Textures/Noise/noise2
+        Textures/Noise/noise2
+        EEMod/Textures/GodrayMask
+        Textures/Noise/noise2
+        Textures/Noise/noise2
+      ]
+      "System.Boolean EEMod.NPCs.Bosses.Hydros.LightningSeahorse::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorse
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorse
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorse
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorse
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorseOutlineNoEyes
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorseOutlineEyes
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorseOutlineNoEyes
+        EEMod/NPCs/Bosses/Hydros/LightningSeahorseOutlineEyes
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.LightningSeahorse::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        Textures/Noise/LightningNoisePixelatedBloom
+        Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.Boolean EEMod.NPCs.Bosses.Hydros.TeslaBall::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/NPCs/Bosses/Hydros/TeslaRing
+        EEMod/NPCs/Bosses/Hydros/TeslaBall
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Void EEMod.NPCs.Bosses.Hydros.TeslaBall::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        Textures/Noise/LightningNoisePixelatedBloom
+        Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.Boolean EEMod.NPCs.Aquamarine.AquamarineOrb::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Textures/RadialGradientWide
+        Textures/SpikyOrbLightMap
+      ]
+      "System.Boolean EEMod.NPCs.Aquamarine.AquamarineSpire::PreDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        Textures/SpireLightMap
+      ]
+      "System.Void EEMod.NPCs.Aquamarine.AquamarineSpire::PostDraw(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/Particles/SmallCircle
+        NPCs/CoralReefs/AquamarineSpireEye
+        EEMod/Particles/SmallCircle
+        EEMod/Particles/SmallCircle
+        EEMod/Particles/SmallCircle
+        EEMod/Particles/SmallCircle
+        NPCs/CoralReefs/AquamarineSpireEye
+        NPCs/CoralReefs/AquamarineSpireGlow
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.NPCs.Aquamarine.MantaRay.MantaRay::get_tex1()":
+      [
+        NPCs/CoralReefs/GlisteningReefs/MantaRayC1
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.NPCs.Aquamarine.MantaRay.MantaRay::get_tex2()":
+      [
+        NPCs/CoralReefs/GlisteningReefs/MantaRayC2
+      ]
+      "Microsoft.Xna.Framework.Graphics.Texture2D EEMod.NPCs.Aquamarine.MantaRay.MantaRay::get_tex3()":
+      [
+        NPCs/CoralReefs/GlisteningReefs/MantaRayC3
+      ]
+      "System.String EEMod.Items.Weapons.Summon.Whips.ArclashProj::get_Texture()":
+      [
+        EEMod/Items/Weapons/Summon/Whips/ArclashProj
+      ]
+      "System.Boolean EEMod.Items.Weapons.Summon.Whips.ArclashProj::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Textures/WebAlt
+        EEMod/Textures/PureStripFade
+      ]
+      "System.String EEMod.Items.Weapons.Summon.Whips.KelpWhipProj::get_texture()":
+      [
+        EEMod/Items/Weapons/Summon/Whips/KelpWhipProj
+      ]
+      "System.String EEMod.Items.Weapons.Summon.Whips.Whip::get_texture()":
+      [
+        EEMod/Projectiles/Summons/KelpWhipProj
+      ]
+      "System.Boolean EEMod.Items.Weapons.Summon.Whips.Whip::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Particles/Square
+      ]
+      "System.String EEMod.Items.Weapons.Summon.Minions.PrismaticCaneProj::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Boolean EEMod.Items.Weapons.Summon.Minions.PrismaticCaneProj::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Projectiles/Summons/PrismaticCaneProj
+        Textures/SmoothFadeOut
+        Particles/Square
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.ShimmerShotProj::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        Items/Weapons/Ranger/Longbows/ShimmerShotProjGlow
+      ]
+      "System.Void EEMod.Items.Weapons.Ranger.Longbows.HuntressBow.HuntressBowPlayer::DrawEffects(Terraria.DataStructures.PlayerDrawSet,System.Single&,System.Single&,System.Single&,System.Single&,System.Boolean&)":
+      [
+        EEMod/Items/Weapons/Ranger/Longbows/HuntressBow/HuntressBowTarget
+        EEMod/Items/Weapons/Ranger/Longbows/HuntressBow/HuntressBallistaTarget
+      ]
+      "System.String EEMod.Items.Weapons.Melee.AxeLightning::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.String EEMod.Items.Weapons.Melee.FCHandler::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.LythenWarhammerProjectile::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        EEMod/Textures/SmoothFadeOut
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Yoyos.KelpThrowBolt::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Particles/MediumCircle
+        EEMod/Textures/RadialGradient
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Yoyos.KelpThrowProjectile::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Textures/RadialGradient
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Yoyos.KelpThrowProjectile::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        Items/Weapons/Melee/Yoyos/KelpThrowGlow
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Swords.DarksaberHilt::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Items/Weapons/Melee/Swords/DarksaberHilt
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Swords.DarksaberHiltShort::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Items/Weapons/Melee/Swords/DarksaberHilt
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberPrimTrail::SetShaders()":
+      [
+        EEMod/Textures/Noise/LightningNoisePixelatedBloom
+        EEMod/Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.Void EEMod.Items.Weapons.Melee.Swords.DarksaberPrimTrail2::SetShaders()":
+      [
+        EEMod/Textures/Noise/LightningNoisePixelatedBloom
+        EEMod/Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.Boolean EEMod.Items.Weapons.Melee.Swords.PrismDagger::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Textures/PrismDaggerLightMap
+      ]
+      "System.String EEMod.Items.Weapons.Melee.Shivs.RapierProj::get_Texture()":
+      [
+        EEMod/Empty
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AncientBubbleLarge::PostDraw(Microsoft.Xna.Framework.Color)":
+      [
+        Projectiles/Mage/AncientBubbleLargeFlash
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.AncientBubbleStaff::PostDrawInWorld(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Color,Microsoft.Xna.Framework.Color,System.Single,System.Single,System.Int32)":
+      [
+        EEMod/Items/Weapons/Mage/AncientBubbleStaffGlow
+      ]
+      "System.Boolean EEMod.Items.Weapons.Mage.DalantiniumKnives::PreDrawInWorld(Microsoft.Xna.Framework.Graphics.SpriteBatch,Microsoft.Xna.Framework.Color,Microsoft.Xna.Framework.Color,System.Single&,System.Single&,System.Int32)":
+      [
+        Projectiles/Mage/DalantiniumFanSheet
+      ]
+      "System.Boolean EEMod.Items.Weapons.Mage.SceptorPrism::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        Textures/PrismLightMap
+      ]
+      "System.Boolean EEMod.Items.Weapons.Mage.StormGauntletProj::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Textures/Extra_49
+        EEMod/Items/Weapons/Mage/StormGauntletProj
+        EEMod/Items/Weapons/Mage/StormGauntletProjGlow
+        EEMod/Items/Weapons/Mage/StormGauntletProjTrim
+      ]
+      "System.Void EEMod.Items.Weapons.Mage.StormGauntletProj::ApplyIntroShader(System.Single,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,Microsoft.Xna.Framework.Vector2,System.Boolean,System.Single)":
+      [
+        Textures/Noise/LightningNoisePixelatedBloom
+        Textures/Noise/LightningNoisePixelatedBloom
+      ]
+      "System.Void EEMod.Items.Armor.StormKnight.StormKnightCrestGlow::Draw(Terraria.DataStructures.PlayerDrawSet&)":
+      [
+        EEMod/Items/Armor/StormKnight/StormKnightCrestGlow
+        EEMod/Items/Armor/StormKnight/BarBg
+        EEMod/Items/Armor/StormKnight/BarFill
+      ]
+      "System.Void EEMod.Items.Armor.Kelpweaver.KelpweaverLayer::Draw(Terraria.DataStructures.PlayerDrawSet&)":
+      [
+        EEMod/Items/Armor/Kelpweaver/KelpweaverArm
+        EEMod/Items/Armor/Kelpweaver/KelpweaverArmGlow
+      ]
+      "System.Void EEMod.Items.Armor.Aquamarine.AquamarineSetBonusPlayer::DrawEffects(Terraria.DataStructures.PlayerDrawSet,System.Single&,System.Single&,System.Single&,System.Single&,System.Boolean&)":
+      [
+        EEMod/Projectiles/Nice
+      ]
+      "System.Void EEMod.Items.Accessories.AccursedAmuletPlayerLayer::DrawIndicator(Terraria.DataStructures.PlayerDrawSet&)":
+      [
+        Textures/AccursedAmuletIndicator
+      ]
+      "System.Void EEMod.Items.Accessories.AccursedAmuletPlayerLayer::DrawGlowmask(Terraria.DataStructures.PlayerDrawSet&)":
+      [
+        Items/Accessories/AccursedAmulet_Neck
+      ]
+      "System.Boolean EEMod.Items.Accessories.InterstellarKelpBud.KelpBudProjectile::PreDraw(Microsoft.Xna.Framework.Color&)":
+      [
+        EEMod/Items/Accessories/InterstellarKelpBud/KelpBudProjectile
+        EEMod/Items/Accessories/InterstellarKelpBud/InterstellarKelpBudMid
+        EEMod/Items/Accessories/InterstellarKelpBud/InterstellarKelpBudBig
+        EEMod/Textures/InverseMask
+        Particles/BigPlusSign
+        Textures/RadialGradient
+      ]
+      "Microsoft.Xna.Framework.Graphics.Effect EEMod.Effects.EEEffects::GetEEEffect(System.String)":
+      [
+        Effects/
+      ]
+      "System.String EEMod.Effects.Noise2D::get_EffectPath()":
+      [
+        Effects/Noise2D
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::BuildBoat(System.Int32,System.Int32)":
+      [
+        EEWorld/Structures/builtboat.lcs
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::PlaceShipyard(System.Int32,System.Int32)":
+      [
+        EEWorld/Structures/Pier.lcs
+        EEWorld/Structures/SailorHouse.lcs
+        EEWorld/Structures/ruinedboat.lcs
+      ]
+      "System.Void EEMod.EEWorld.EEWorld::PlaceIceBoat()":
+      [
+        EEWorld/Structures/IceBoat.lcs
+        EEWorld/Structures/IceBoatDebris.lcs
+        EEWorld/Structures/IceBoatDebris.lcs
+      ]
+      "System.Int32 EEMod.EEWorld.ModBiomes.SurfaceReefs::get_Music()":
+      [
+        Assets/Music/SurfaceReefs
+      ]
+      "System.Void EEMod.Systems.JonathanSeagullIntroduction::StartDialogueRequiringNPC(System.Int32)":
+      [
+        EEMod/Systems/Dialogues/SailorPortrait
+        Hey bro, [c/FF0000:this] place [i:4] is pretty nice isn't it? The breeze is soooo cool.
+      ]
+      "System.Void EEMod.Systems.SailorDialogue::StartDialogueRequiringNPC(System.Int32)":
+      [
+        EEMod/Systems/Dialogues/SailorPortrait
+        If you brought me [c/E4A214:
+        "] and [c/E4A214:"
+        "] along with a solid payment of [c/E4A214:"
+        To set sail with yer ship, [c/E4A214:right-click] the steering wheel on the helm of your boat.
+        Once ye're on the seven seas, use [c/E4A214:W] to accelerate forward, [c/E4A214:S] to decelerate and move backwards, and [c/E4A214:A and D] to steer left and right.
+        To use yer figurehead, [c/E4A214:right-click] to activate yer ability, if yer figurehead has one.
+        You can access yer ship's hold, a perfect place for storing items and cannonballs, in the inside of yer ship by [c/E4A214:right-clicking].
+      ]
+    }
+  }
+}

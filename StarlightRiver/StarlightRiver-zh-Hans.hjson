@@ -1,0 +1,1917 @@
+Mods.StarlightRiver:
+{
+  ItemName:
+  {
+    TestWhip: "[PH]Test Whip"
+    TestWhipImprint: "[PH]Test Whip"
+    Astral: Comet Rush I
+    Astral2: Comet Rush II
+    Astral3: Comet Rush III
+    AstralImprint: Comet Rush
+    Blink: Blink
+    BlinkImprint: Blink
+    Pulse: Pulse
+    PulseImprint: Pulse
+    BasicInfusion: Blank Slate
+    CauldronItem: Cauldron Item
+    MixingStick: Mixing Stick
+    AstrofloraFlail: Astroflora Flail
+    BaseBarrierDye: Base Barrier Dye
+    MoonstoneBarrierDye: Moonstone Tincture
+    VitricBossBarrierDye: Sentinel's Tincture
+    SeaglassRing: Seaglass Ring
+    BreachCannon: Breach Cannon
+    BreacherChest: Breacher Chestplate
+    BreacherHead: Breacher Visor
+    BreacherLegs: Breacher Leggings
+    FlareBreacher: Flare Breacher
+    ReactivePlating: Reactive Plating
+    ScrappodItem: Scrap Pod
+    Scrapshot: Scrapshot
+    SupplyBeacon: Supply Beacon
+    Ivy: Forest Ivy
+    IvySeeds: Forest Ivy Seeds
+    PotionForest: Forest Tonic
+    ArchaeologistsWhip: Archaeologist's Whip
+    AWhip_BlueGem: Treasure
+    AWhip_Cloud: Treasure
+    AWhip_Coin: Treasure
+    AWhip_GreenGem: Treasure
+    AWhip_Necklace: Treasure
+    AWhip_RedGem: Treasure
+    DesertArtifact1Item: Ancient Fossil
+    DesertArtifact2Item: Ancient Fossil
+    DesertArtifact3Item: Ancient Fossil
+    DesertArtifact4Item: Ancient Fossil
+    DesertArtifact5Item: Ancient Fossil
+    DesertArtifact6Item: Ancient Fossil
+    DesertArtifact7Item: Ancient Fossil
+    ExoticGeodeArtifactItem: Exotic Geode
+    PerfectlyGenericArtifactItem: Perfectly Generic Object
+    PirateChestArtifactItem: Pirate Chest
+    RainTotemArtifactItem: Rain Totem
+    WindTotemArtifactItem: Wind Totem
+    DebugModerEnabler: Debug Mode
+    DebugStick: Debug Stick
+    DefiledAnkh: Defiled Ankh
+    AquaSapphire: Aqua sapphire
+    Cloudstrike: Cloudstrike
+    InertStaff: Inert Crescent Staff
+    SkullBuster: Skullbuster
+    StarlightPendant: Starlight Pendant
+    ThousandthDegree: Thousandth Degree
+    Eraser: Eraser
+    ReplicantCells: Replicant Cells
+    ExampleCombatMountItem: Example Combat Mount Item
+    BlackPepper: Black Pepper
+    Butter: Butter
+    Carrot: Carrot
+    Cherry: Cherry
+    Dough: Dough
+    Dressing: Dressing
+    EaterSteak: Eater Steak
+    FaceSteak: Face Steak
+    Gelatine: Gelatine
+    GelBerry: Gel Berry
+    Greens: Greens
+    HealthExtract: Health Extract
+    HoneySyrup: Honey Syrup
+    IvySalad: Ivy Salad
+    Lettuce: Lettuce
+    MahoganyRoot: Mahogany Root
+    ManaExtract: Mana Extract
+    Meal: Meal
+    Milk: Milk
+    Rabbit: Rabbit
+    SeaSalt: Sea Salt
+    Slimejelly: Slimejelly
+    SupportCookies: Support Cookies
+    StarlightWater: Starlight Water
+    Steak: Steak
+    Sugar: Sugar
+    TableSalt: Table Salt
+    Toast: Toast
+    Vinegar: Vinegar
+    WhippedCream: Whipped Cream
+    AcornSprout: Acorn Sprout
+    DustyAmulet: Dusty Amulet
+    FeralWolfMountItem: Juicy Steak
+    OldWhetstone: Old Whetstone
+    Trowel: Bricklayer's Trowel
+    Trowel2: Autotrowel 9000
+    ForestIvyBlowdart: Forest Ivy Blowpipe
+    ForestIvyChest: Forest Ivy Chestplate
+    ForestIvyHead: Forest Ivy Helm
+    ForestIvyLegs: Forest Ivy Leggings
+    EmeraldHeart: Emerald Heart
+    GeoAmethyst: Amethyst
+    GeoDiamond: Diamond
+    GeoEmerald: Emerald
+    GeomancerHood: Geomancer's Hood
+    GeomancerItemDummy: Effects of different gems:
+    GeomancerPants: Geomancer's Greaves
+    GeomancerRobe: Geomancer's Cowl
+    GeoRuby: Ruby
+    GeoSapphire: Sapphire
+    GeoTopaz: Topaz
+    RainbowCycleDye: Rainbow Cycle Dye
+    RainbowCycleDye2: Rainbow Cycle Dye2
+    SapphireStar: Sapphire Star
+    SparklingBullet: Sparkling Bullet
+    BloodBolter: Bloodbolter
+    Gluttony: Gluttony
+    GravediggerItem: Tombsmasher
+    LivingBlood: Living Blood
+    PoltergeistChest: Haunting Breastplate
+    PoltergeistHead: Haunting Hood
+    PoltergeistLegs: Haunting Robes
+    CharonsObol: Charon's Obol
+    HellKey: Hellscorch Key
+    MagmaSword: "[PH] Magma Sword"
+    GrayGoo: Gray Goo
+    ThunderBeads: Magnet Beads
+    Thunderbuss: Thunderbuss
+    AlchemistShackles: Alchemist's Shackles
+    ArchaeologistsMap: Archaeologist's Map
+    BalloonGun: Balloon Gun
+    BalloonInABalloon: Balloon In A Balloon
+    BarbedKnife: Barbed Knife
+    BizarrePotion: Bizarre Potion
+    Bladesaw: Bladesaw
+    BloodAmulet: Blood Amulet
+    BloodlessAmulet: Amulet of the Bloodless Warrior
+    BricklayersMallet: Bricklayer's Mallet
+    BuffChalice: Plexus Chalice
+    CasualMirror: Causal Mirror
+    Cheapskates: Cheapskates
+    CoachGun: Coach Gun
+    CopperCoil: Copper Coil
+    Corpseflower: Corpseflower
+    CoughDrops: Cough Drops
+    CutlassBus: Cutlassbus
+    DiceAmmo: Dice
+    DisinfectantKit: Disinfectant Kit
+    DisinfectantWipes: Disinfectant Wipes
+    DualCross: Double Cross
+    DullBlade: Dull Blade
+    ElectroArrow: Electro Arrow
+    FiletGiblet1: Giblet
+    FiletGiblet2: Giblet
+    FiletGiblet3: Giblet
+    FiletKnife: Filet Knife
+    FryingPan: Frying Pan
+    GeodeBow: Geode Bow
+    GlassArrowhead: Glass Arrowhead
+    GraveBuster: Gravebuster
+    Guillotine: Golden Guillotine
+    Gunchucks: Gunchucks
+    GunstrapBoots: Gunstrap Boots
+    HermesVow: Hermes' Vow
+    HolyAmulet: Holy Amulet
+    HungryStomach: Hungry Stomach
+    ImpactSMG: Impact SMG
+    ImpulseThruster: Impulse Thruster
+    Ironheart: Ironheart
+    LostCollar: Lost Collar
+    Magebane: Magebane
+    MagmaGun: Pyroclastic Flow
+    MonkSpade: Monk Spade
+    PandorasDagger: Pandora's Dagger
+    PandorasShield: Pandora's Shield
+    PhilosophersMortar: Philosopher's Mortar
+    PowerCell: Power Cell
+    PulseBoots: Pulse Boots
+    RhythmicResonator: Rhythmic Resonator
+    Sandscript: Sandscript
+    SanitizerSpray: Sanitizer Spray
+    ShockAbsorber: Shock Absorber
+    Sling: Sling
+    Slitherring: Slitherring
+    Soilgun: Soilgun
+    SojournersScarf: Sojourner's Scarf
+    Sorcerwrench: Sorcerwrench
+    SoulOfFrog: Soul Of Frog
+    SpikedMail: Spiked Mail
+    StaminaGel: Stamina Gel
+    StaminaPickup: Stamina Pickup
+    StaminaRing: Band of Endurance
+    StaminaUp: Glass Stamina Vessel
+    StarlightShuriken: Starlight Shuriken
+    SwordBook: Mantis Technique
+    TaintedGreataxe: Tainted Greataxe
+    TinCoil: Tin Coil
+    TwistSword: Twisted Greatsword
+    Ultrapills: ULTRAPILLS
+    WardedMail: Warded Mail
+    CrescentQuarterstaff: Crescent Quarterstaff
+    Datsuzei: Datsuzei
+    DianesPendant: Diane's Pendant
+    Moonfury: Moonfury
+    MoonstoneArrow: Moonlit Arrow
+    MoonstoneBarItem: Moonstone Bar
+    MoonstoneChest: Moonstone Chestpiece
+    MoonstoneHamaxe: Moonstone Hamaxe
+    MoonstoneHead: Moonstone Helmet
+    MoonstoneLegs: Moonstone Greaves
+    MoonstoneOreItem: Moonstone
+    Shaker: The Shaker
+    PalestoneNail: Palenail
+    AuroraBell: Aurora Bell
+    AuroraThroneMountItem: Aurora Crown
+    BookOfFrost: Book Of Frost
+    Frostball: Frostball
+    Octogun: Octogun
+    OverflowingUrn: Overflowing Urn
+    SquidBossBag: Treasure Bag (Auroracle)
+    SquidBossSpawn: Suspicious Looking Offering
+    SquidBossSpawnEndless: Gilded Suspicious Looking Offering
+    SquidFins: Squid Fins
+    TentacleHook: Tentacle Hook
+    Tentalance: Tentalance
+    WaterStaff: Staff of the Waves
+    GreaterBarrierPotion: Greater Barrier Potion
+    InoculationPotion: Inoculation Potion
+    LesserBarrierPotion: Lesser Barrier Potion
+    RegularBarrierPotion: " Barrier Potion"
+    BloodCrystal: Blood Crystal
+    AquamarinePendant: Aquamarine Pendant
+    MeadHorn: Mead Horn
+    Astroscrap: Astroscrap
+    StarwoodBoomerang: Starwood Boomerang
+    StarwoodBoots: Starwood Leggings
+    StarwoodCharm: Starwood Charm
+    StarwoodChest: Starwood Robes
+    StarwoodHat: Starwood Hat
+    StarwoodSlingshot: Starwood Slingshot
+    StarwoodStaff: Starwood Staff
+    AncientGear: Ancient Gear
+    Buzzsaw: Steamsaw
+    CogAmmoItem: Cogshot
+    Cogwheel: Cogwheel
+    Jetwelder: Jetwelder
+    JetwelderScrap1: Scrap
+    JetwelderScrap2: Scrap
+    JetwelderScrap3: Scrap
+    JetwelderScrap4: Scrap
+    RebarLauncher: Rebar Launcher
+    RuneStaff: Ancient Rune Staff
+    TempleLens: Ancient Lens
+    TempleLensUpgrade: Truestrike Lens
+    TemplePick: Whirlwind Pickaxe
+    TempleRune: Rune of Warding
+    TempleSpear: Point of Light
+    ArmorBag: Armor Bag
+    ChefBag: Chef's Bag
+    CurseRemover: Scroll of Undoing
+    AncientStarwoodBoots: Ancient Starwood Leggings
+    AncientStarwoodChest: Ancient Starwood Robes
+    AncientStarwoodHat: Ancient Starwood Hat
+    MechaChest: Mecha Chest
+    MechaHead: Mecha Helmet
+    MechaLegs: Mecha Legs
+    WardenHat: Warden Hat
+    WardenRobe: Warden Robe
+    CoachGunUpgrade: Magmatic Coach Gun
+    Coalescence: Coalescence
+    FacetAndLattice: Facet & Lattice
+    GlassIdol: Glass Idol
+    GlassIdolEndless: Gilded Glass Idol
+    IgnitionGauntlets: Ignition Gauntlets
+    MagmaArrow: Magma Arrow
+    MagmaCore: Magmatic Core
+    MagmiteBottle: Magmite in a Bottle
+    MagmiteVacpack: Magmite Vacpack
+    Needler: Needler
+    PhoenixStorm: Phoenix Storm
+    RecursiveFocus: Recursive Focus
+    RefractiveBlade: Refractive Blade
+    SandstoneChunk: Ancient Ceramic
+    ShatteredAegis: Shattered Aegis
+    VitricBossBag: Treasure Bag (Ceiros)
+    VitricBow: Vitric Bow
+    VitricBulletItem: Vitric Bullet
+    VitricChest: Vitric Chestpiece
+    VitricHamaxe: Vitric Hamaxe
+    VitricHead: Vitric Headgear
+    VitricHook: Ripshatter
+    VitricLegs: Vitric Greaves
+    VitricMagicBook: Vitric Book
+    VitricOre: Vitric Sliver
+    VitricPick: Vitric Pickaxe
+    VitricSword: Ancient Vitric Blade
+    MagmitePassiveItem: Magmite
+    CodexTileItem: Starlight Codex
+    FaeflameTileItem: Faeflame
+    StaminaShardTileItem: Stamina Shard
+    WindsTileItem: Forbidden Winds
+    CookStationItem: Prep Station
+    InfuserItem: "[PH]Infuser"
+    AnkhChestItem: Ankh Chest
+    ForestBerries: Forest Berries
+    ForestBerryBushItem: Berry bush
+    Slimeberry: Slimeberry
+    SlimeberryBushItem: Slimeberry Bush
+    AncientFruit: Ancient Fruit
+    GoldenRice: Golden Rice
+    Rice: Rice
+    GreenhouseGlassItem: Greenhouse Glass
+    GreenhouseWallItem: Greenhouse Glass Wall
+    BouncerItem: Vitric Bouncer
+    StaminaGemItem: Stamina Gem
+    StaminaOrbItem: Stamina Orb
+    DisplayCaseFriendlyItem: Display Case
+    RatTentItem: Strange Tent
+    JellyShroomItem: Blue Jellyshroom
+    LumishroomItem: Lumishroom
+    VibeshroomItem: Vibeshroom
+    BlueTorchOvergrowItem: Blue Faerie Torch
+    CrusherOvergrowItem: Crusher Trap
+    NoxiousNodeItem: Noxious Node
+    OvergrowthLivingWoodItem: Overgrown Living Wood
+    Rock2x2Item: 2x2 rock placer
+    SkeletonBrickItem: Skeletal Brick
+    TorchOvergrowItem: Faerie Torch
+    WallOvergrowBrickItem: Runic Brick Wall
+    WallOvergrowGrassItem: Overgrowth Grass Wall
+    WindowSmallItem: Smol Window
+    WispAltarLItem: Wisp Altar L Placer
+    WispAltarRItem: Wisp Altar R Placer
+    AuroraclePaintingItem: Prismatic Waters
+    EggCodexPaintingItem: Codex Genesis
+    RatKingPaintingItem: Majestic Hoarder
+    PalestoneItem: Palestone
+    AuroraBrickDoorItem: Debug Brick Placer
+    AuroraBrickItem: Aurora Brick
+    AuroraBrickWallFriendlyItem: Aurora BrickWall
+    AuroraBrickWallItem: Aurora BrickWall
+    AuroraIceBar: Frozen Aurora Bar
+    AuroraIceItem: Frozen Aurora Chunk
+    DoorBombShooterItem: Debug Shooter Placer
+    PermafrostIceItem: Permafrost Ice
+    TouchstoneItem: Touchstone
+    TouchstoneLootboxItem: Touchstone Chest Placer
+    AuroracleTrophyItem: Auroracle Trophy
+    CeirosTrophyItem: Ceiros Trophy
+    HotspringFountainItem: Hotspring Source
+    MagmiteShrineItem: The Boi
+    DashBarrierItem: Dash Barrier
+    JarTallItem: Stamina Jar Placer (Tall)
+    TempleChestPlacer: Temple Chest Placer
+    TempleWallBigItem: Large Ancient Temple Brick Wall
+    TempleWallItem: Ancient Temple Brick Wall
+    TestBubble: Bubble
+    VerletBannerItem: Verlet banner
+    AncientSandstonePillarWallItem: Ancient Sandstone Wall
+    AncientSandstonePlatformItem: Ancient Sandstone Platform
+    AncientSandstoneTorchItem: Ancient Vitric Illuminator
+    AncientSandstoneWallItem: Ancient Sandstone Wall
+    ForgeDoorItem: Forge Door
+    ForgeInnerDoorItem: Forge Inner Door
+    RedBannerShortItem: Short Flowing Banner
+    DoorHorizontalItem: Horizontal Temple Door
+    DoorVerticalItem: Vertical Temple Door
+    EntranceDoorItem: EntranceDoor
+    GearPuzzleOriginPlacer: Gear puzzle origin
+    GearTilePlacer: Gear puzzle
+    ObjectiveGearItem: Gear puzzle Point
+    ReflectorItem: Reflector
+    LowWindBannerItem: Rectangular Flowing Banner
+    OldCeirosShrineItem: Old Ceiros Shrine
+    TempleCandleCrystalItem: Temple Crystal Candle
+    TempleCandleItem: Temple Candle
+    TempleCeirosFountainItem: Temple Sentinel Fountain
+    TempleWallCandleItem: Temple Wall Candle
+    TutorialDoor1Item: TutorialDoor1
+    TutorialDoor2Item: TutorialDoor2
+    VitricPillarWallItem: Vitric Forge Pillar
+    VitricPillarWallShortItem: Short Vitric Forge Pillar
+    VitricTempleWallItem: Vitric Forge Brick Wall
+    WindsRoomActorItem: Winds Room Actor
+    VitricBannerSmallItem: Short Flowing Banner
+    VitricBossAltarItem: Vitric Boss Altar Item
+    VitricBreakableVaseItem: Vitric Vase Placer
+    VitricFountainItem: Vitric Fountain
+    VitricGiantCrystalItem: Vitric Giant crystal
+    VitricLargeCrystalItem: Large vitric crystal
+    VitricLargeFountainItem: Vitric Large Fountain
+    VitricLootBoxItem: Vitric Loot Box Item
+    VitricMediumCrystalItem: Medium vitric crystal
+    VitricOreFloatItem: Floating Vitric Ore Crystal Item
+    VitricOreItem: Vitric Ore Crystal Item
+    VitricRockItem: Vitric Rock
+    VitricSandWallItem: Vitric Sand Wall
+    VitricSmallCrystalItem: Small vitric crystal
+    VitricSpikeItem: Vitric Spikes
+    VitricBannerItem: Long Flowing Banner
+    RedLaserPointer: Red Laser Pointer
+    OrangeLaserPointer: Orange Laser Pointer
+    YellowLaserPointer: Yellow Laser Pointer
+    GreenLaserPointer: Green Laser Pointer
+    BlueLaserPointer: Blue Laser Pointer
+    PurpleLaserPointer: Purple Laser Pointer
+    WhiteLaserPointer: White Laser Pointer
+    PinkLaserPointer: Pink Laser Pointer
+    VitricBathtub: Vitric Bathtub
+    VitricBed: Vitric Bed
+    VitricBookcase: Vitric Bookcase
+    VitricCandelabra: Vitric Candelabra
+    VitricCandle: Vitric Candle
+    VitricChair: Vitric Chair
+    VitricChandelier: Vitric Chandelier
+    VitricClock: Vitric Clock
+    VitricDresser: Vitric Dresser
+    VitricLamp: Vitric Lamp
+    VitricLantern: Vitric Lantern
+    VitricPiano: Vitric Piano
+    VitricSink: Vitric Sink
+    VitricSofa: Vitric Sofa
+    VitricTable: Vitric Table
+    VitricWorkbench: Vitric Workbench
+    VitricDoor: Vitric Door
+    TempleChairItem: Temple Chair
+    TempleLargeVaseItem: Temple Large Vase
+    TempleLargeVaseCrystalItem: Temple Large Crystal Vase
+    TempleWorkbenchItem: Temple Workbench
+    TempleThroneItem: Temple Throne
+    TempleFloorWeaponRackItem: Temple Floor Weapon Rack
+    TempleTableItem: Temple Table
+    TempleTableCrystalItem: Temple Crystal Table
+    TempleWeaponRack0Item: Temple Weapon Rack A
+    TempleWeaponRack1Item: Temple Weapon Rack B
+    TempleWeaponRack2Item: Temple Weapon Rack C
+    TempleWeaponRack3Item: Temple Weapon Rack D
+    TempleThingamajigItem: Temple Large Weapon Rack
+    TempleBrickItem: Ancient Bricks
+    VitricBoss1Item: Music Box (Ceiros P1)
+    VitricBoss2Item: Music Box (Ceiros P2)
+    VitricPassiveItem: Music Box (Vitric Desert)
+    VitricTempleItem: Music Box (Vitric Temple)
+    MinibossItem: Music Box (Miniboss)
+    OvergrowItem: Music Box (Overgrow)
+    AuroracleItem: Music Box (Auroracle)
+    LeafOvergrowItem: Faerie Leaves
+    BrickOvergrowItem: Runic Bricks
+    StoneOvergrowItem: Runic Stone
+    SpringstoneItem: Springstone
+    ShrineBrazierItem: Mysterious Brazier
+    WitTileItem: Tile of Wit
+    AncientSandstoneItem: Ancient Sandstone
+    AncientSandstoneTileItem: Ancient Sandstone Tile
+    VitricBrickItem: Vitric Bricks
+    VitricCactusItem: Crystal Cactus
+    VitricGlassItem: Vitric Glass
+    VitricSandItem: Glassy Sand
+    VitricSoftSandItem: Soft Glassy Sand
+    VitricSandPlainItem: Soft Sand
+  }
+  ItemTooltip:
+  {
+    TestWhip:
+      '''
+      [PH]Whip Infusion
+      No effect
+      '''
+    TestWhipImprint: No effect
+    Astral:
+      '''
+      Forbidden Winds Infusion
+      Dash farther and carry more speed
+      Increases stamina cost to 1.3
+      '''
+    Astral2:
+      '''
+      Forbidden Winds Infusion
+      Dash farther and carry even more speed
+      Increases stamina cost to 1.6
+      '''
+    Astral3:
+      '''
+      Forbidden Winds Infusion
+      Dash farther and carry the most speed
+      Increases stamina cost to 2
+      '''
+    AstralImprint: Dash farther and carry more speed
+    Blink:
+      '''
+      Forbidden Winds Infusion
+      Instantly teleport a short distance ahead, avoiding enemies and their attacks
+      '''
+    BlinkImprint: Instantly teleport a short distance ahead, avoiding enemies and their attacks
+    Pulse:
+      '''
+      Forbidden Winds Infusion
+      Dash is replaced by a short, frequent, and potent burst of speed
+      Decreases stamina cost by 0.25
+      '''
+    PulseImprint: Dash is replaced by a short, frequent, and potent burst of speed
+    BasicInfusion:
+      '''
+      La Tabula Rasa
+      Can be imprinted with challenges at an infusion station
+      Complete challenges to transform into an infusion
+      New infusions become available as you progress
+      '''
+    CauldronItem: Alchemic Cauldron
+    MixingStick:
+      '''
+      Mixing Stick
+      Use this to finalize alchemy recipes to craft them.
+      '''
+    AstrofloraFlail: Spinning the flail releases toxic spores that ignite when the flail is thrown
+    MoonstoneBarrierDye:
+      '''
+      Causes barrier to reflect the light of the moon
+      Equipable
+      Vanity Item
+      '''
+    VitricBossBarrierDye:
+      '''
+      Causes barrier effect to mimic the shield of the Shattered Sentinel
+      Equipable
+      Vanity Item
+      '''
+    SeaglassRing:
+      '''
+      +10 barrier
+      Barrier recharge starts slightly faster
+      'The battering waves have not diminished its shine'
+      '''
+    BreachCannon:
+      '''
+      Summons a sentry that shoots a laser towards the cursor 
+      These lasers can combine
+      '''
+    BreacherChest: 10% increased ranged damage
+    BreacherHead: 15% increased ranged critical strike damage
+    BreacherLegs: up to 20% ranged critical strike damage based on speed
+    FlareBreacher: Fires explosive flares that embed in enemies, blasting shrapnel through and behind them
+    ReactivePlating:
+      '''
+      Gain brief damage resistance after taking several hits
+      'The shielding activates, but only after... repeated triggers.'
+      '''
+    ScrappodItem:
+      '''
+      Shatters into scrapnel after reaching the mouse cursor
+      Is only able to shatter after a short period of time
+      '''
+    Scrapshot:
+      '''
+      Right click to hook your enemies and pull closer
+      Fire while hooked to reduce spread and go flying
+      '''
+    SupplyBeacon:
+      '''
+      Taking over 50 damage summons a supply drop 
+      Stand near the supply drop to buff either damage, regeneration, or defense 
+      10 second cooldown
+      '''
+    Ivy: A common, yet versatile herb
+    IvySeeds: Can grow in hanging planters
+    PotionForest: Provides regenration and immunity to poision
+    ArchaeologistsWhip:
+      '''
+      Strike enemies to make them drop treasure 
+      Collect treasure to empower minions
+      '''
+    AWhip_BlueGem: You shouldn't see this
+    AWhip_Cloud: You shouldn't see this
+    AWhip_Coin: You shouldn't see this
+    AWhip_GreenGem: You shouldn't see this
+    AWhip_Necklace: You shouldn't see this
+    AWhip_RedGem: You shouldn't see this
+    ExoticGeodeArtifactItem: "'Incredibly shiny'"
+    PerfectlyGenericArtifactItem: Summons a Perfectly Generic Pet
+    PirateChestArtifactItem:
+      '''
+      Right click to open
+      'Sought after for centuries'
+      '''
+    RainTotemArtifactItem: Starts or stops the force of the great storms
+    WindTotemArtifactItem: Starts or stops the force of the great winds
+    DebugModerEnabler:
+      '''
+      Enables debug mode which does... stuff!
+      Hold Y to make bosses go at ludicrous speed.
+      '''
+    DebugStick: Developer item
+    DefiledAnkh:
+      '''
+      Cursed : Your Barrier protects against twenty-five percent less damage
+      You cannot gain any debuff besides Potion, Barrier and Mana Sickness while Barrier is active
+      +40 max Barrier
+      '''
+    AquaSapphire:
+      '''
+      Barrier negates 5% more damage 
+      +10 Barrier
+      '''
+    Cloudstrike:
+      '''
+      Accumulate electrical charge while not firing
+      Damage and range of your next shot increases with charge
+      'Meet this storm of sound and fury, till thunder-clashes fade to silence'
+      '''
+    InertStaff: ‘This broken artifact still holds some latent astral energy’
+    SkullBuster:
+      '''
+      Right click to throw 4 skullbombs 
+      Release right click to shoot them all in quick succession
+      '''
+    StarlightPendant:
+      '''
+      Barrier boosts mana regen by 1% per point of currently active barrier 
+      Consuming mana boosts barrier regen by 1% per 4 points of mana consumed in the past 5 seconds 
+      -10 barrier
+      '''
+    ThousandthDegree:
+      '''
+      Melts through enemies to build up heat
+      Releasing launches the blazing wheel, melting through enemies and sliding on tiles before returning
+      'Rip and tear'
+      '''
+    Eraser: Death
+    ReplicantCells:
+      '''
+      +15% DoT Resist
+      Health regeneration starts slightly faster
+      '''
+    BlackPepper: "\n\n"
+    Butter: "\n\n"
+    Carrot: "\n\n"
+    Cherry: "\n\n"
+    Dough: "\n\n"
+    Dressing: "\n\n"
+    EaterSteak: "\n\n"
+    FaceSteak: "\n\n"
+    Gelatine: "\n\n"
+    GelBerry: "\n\n"
+    Greens: "\n\n"
+    HealthExtract: "\n\n"
+    HoneySyrup: "\n\n"
+    IvySalad: "\n\n"
+    Lettuce: "\n\n"
+    MahoganyRoot: "\n\n"
+    ManaExtract: "\n\n"
+    Meal: Rich food that provides these buffs:
+    Milk: "\n\n"
+    Rabbit: "\n\n"
+    SeaSalt: "\n\n"
+    Slimejelly: "\n\n"
+    SupportCookies: "\n\n"
+    StarlightWater: "\n\n"
+    Steak: "\n\n"
+    Sugar: "\n\n"
+    TableSalt: "\n\n"
+    Toast: "\n\n"
+    Vinegar: "\n\n"
+    WhippedCream: "\n\n"
+    AcornSprout: Killing summon tagged enemies summons acorns to fall on nearby enemies
+    DustyAmulet:
+      '''
+      +20 maximum life
+      +20 maximum mana
+      0.8x critical strike chance
+      'An old heirloom with an inscription lost to time'
+      '''
+    FeralWolfMountItem:
+      '''
+      Summons a feral wolf combat mount
+      Inflicts bleeding with powerful bites
+      Right click to howl and boost the speed of minions
+      '''
+    OldWhetstone:
+      '''
+      +1 to all damage
+      'Why in tarnation are you sharpening your wand?!'
+      '''
+    Trowel:
+      '''
+      Extends blocks in a straight line
+      Direction is based on your position
+      Hold SHIFT for reverse direction
+      30 block range
+      '''
+    Trowel2:
+      '''
+      Extends blocks in a straight line extremely quickly
+      Direction is based on your position
+      Hold SHIFT for reverse direction
+      40 block range
+      'The perfect tool for every esteemed bridgebuilder!'
+      '''
+    ForestIvyBlowdart: On hit, builds up poisonous vines on enemies, dealing contact damage and spreading to other enemies.
+    ForestIvyChest: 2% increased ranged critical strike change
+    ForestIvyHead: 2% increased ranged critical strike change
+    ForestIvyLegs: Slightly increased movement speed
+    EmeraldHeart: You shouldn't see this
+    GeoAmethyst: You shouldn't see this
+    GeoDiamond: You shouldn't see this
+    GeoEmerald: You shouldn't see this
+    GeomancerItemDummy:
+      '''
+      Diamond: Critical strikes partially ignore armor, with increased chance for missing enemy HP 
+      Topaz: +100 barrier. Gain a shield that points to your cursor and blocks attacks, consuming barrier 
+      Emerald: Immediately heal 20 hp. Hits have a chance to create a 5 HP life heart 
+      Sapphire: Immediately refill mana. Hits have a chance to create 1 to 3 mana stars 
+      Amethyst: All strikes inflict Toxic Amethyst, a stacking poison debuff 
+      Ruby: Hits have a chance to summon a Ruby Dagger to seek the struck enemy for 20% of the hit's damage
+      '''
+    GeoRuby: You shouldn't see this
+    GeoSapphire: You shouldn't see this
+    GeoTopaz: You shouldn't see this
+    SapphireStar: You shouldn't see this
+    SparklingBullet: Regenerates on a successful hit
+    BloodBolter:
+      '''
+      Converts wooden arrows into bloodbolts 
+      Bloodbolts impale dead fleshy enemies, exploding them on surfaces
+      '''
+    Gluttony: Suck the soul out of your enemies!
+    GravediggerItem:
+      '''
+      Strikes enemies up into the air 
+      Hit enemies in the air for more damage
+      '''
+    PoltergeistChest:
+      '''
+      5% increased magic damage
+      +15% Inoculation
+      '''
+    PoltergeistHead: 15% increased magic critical strike damage
+    PoltergeistLegs: +40 maximum mana
+    CharonsObol:
+      '''
+      Converts all dropped money to reflective coins, which ricochet projectiles off themselves
+      Coins lose their power when they contact any surface
+      'Money is the root of all evil'
+      '''
+    HellKey: Opens a hellscorch chest
+    MagmaSword: Launches blobs of burning magma
+    GrayGoo: Summons a swarm of nanomachines to devour enemies
+    ThunderBeads:
+      '''
+      Whip enemies to stick the beads to them 
+      Repeatedly click to shock affected enemies
+      '''
+    Thunderbuss:
+      '''
+      Fires powerful lightning at enemies in a cone
+      Right click to fire a lightning orb
+      Shooting at the orb zaps all enemies near it
+      The orb explodes on impact, and only one may be active at once
+      'Crush the path of most resistance'
+      '''
+    AlchemistShackles:
+      '''
+      Mana and health potions are more effective when your health and mana are lower 
+      Cursed : Potion sickness effects last 15 seconds longer
+      '''
+    ArchaeologistsMap: Reveals the location of one nearby artifact
+    BalloonGun: Attach balloons to enemies to make them float away
+    BalloonInABalloon:
+      '''
+      Increases jump height 
+      Increases mid air maneuverability
+      Hold up to fall slower
+      '''
+    BarbedKnife: Critical strikes apply a bleeding debuff that stacks up to five times
+    BizarrePotion: Throws a random potion with random damaging effects
+    Bladesaw:
+      '''
+      Slashes with a combo heavy swings
+      Slows down on hit, shredding anything unlucky enough to be caught in the way
+      Striking enemies inflicts them with stacks of Shredded, and heats up the blade... er saw
+      The bladesaw does more damage depending on how heated it is, to a maximum of 18%
+      <right> to cause the blade to slice through trees
+      'What are you, some kind of Chainsaw Man?'
+      '''
+    BloodAmulet:
+      '''
+      Every 25 damage taken releases a homing bloodbolt 
+      These bolts damage enemies and guaruntee they drop life hearts on death
+      '''
+    BloodlessAmulet:
+      '''
+      +100 Maximum Barrier
+      Unaffected by damage over time
+      Barrier absorbs ALL damage
+      You can survive without life
+      Cursed : You cannot have life
+       Slightly reduced barrier recharge
+       Healing grants a decaying damage boost instead of life
+      'Leave your flesh behind, for your rage is all you need'
+      '''
+    BricklayersMallet:
+      '''
+      Doubles block placement and tool range
+      Decreases mining speed by 50% for blocks outside your original range
+      '''
+    BuffChalice: Inflicting debuffs temporarily increases debuff resistance
+    CasualMirror:
+      '''
+      Regenerate life when you would take damage-over-time.
+      Cursed : take damage-over-time when you would regenerate life.
+      This includes natural regeneration
+      '''
+    Cheapskates:
+      '''
+      Maximum movement speed is doubled
+      Take up to 25% more damage while moving over default speed
+      Acceleration is reduced by 75% when over default speed
+      '''
+    CoachGun:
+      '''
+      M2 to throw out a lit bundle of dynamite
+      Explodes in 2.5 seconds, dealing DoT and weakening enemies
+      Shoot it to detonate it early
+      'My business, my rules'
+      '''
+    CopperCoil: Strikes nearby enemies with static electricity
+    Corpseflower:
+      '''
+      All damage dealt is converted into damage over time
+      Damage is decreased by 66%
+      You are unable to critically strike while equipped
+      '''
+    CoughDrops: When debuffs wear off, gain a temporary speed and damage boost
+    CutlassBus: egshels update this lol
+    DiceAmmo: Every shot randomizes
+    DisinfectantKit:
+      '''
+      Combined effects of the Disinfectant Wipes and Sanitizer Spray
+      10% increased critical strike chance when a debuff is active
+      '''
+    DisinfectantWipes:
+      '''
+      Critical strikes have a 10% chance to reduce all debuff durations by 3 seconds
+      Does not affect potion sickness debuffs
+      '''
+    DualCross: Shoots your highest two ammo slots at once
+    DullBlade: Doesn't seem very sharp... yet
+    ElectroArrow:
+      '''
+      Chains to nearby enemies
+      Inflicts overcharge, greatly lowering enemy defense
+      '''
+    FiletGiblet1: You shouldn't see this
+    FiletGiblet2: You shouldn't see this
+    FiletGiblet3: You shouldn't see this
+    FiletKnife:
+      '''
+      Critical strikes carve chunks of flesh from enemies
+      Devour chunks to heal and gain Blood Frenzy
+      Blood Frenzy grants increased attack speed and decreased critical strike chance
+      '''
+    FryingPan:
+      '''
+      Attacks in close-range melee before being thrown to ring some chrome domes
+      'Evil-looking runes are inscribed on the bottom'
+      '''
+    GeodeBow:
+      '''
+      Hit enemies to create crystal growths 
+      Shoot these growths to deal massive damage
+      '''
+    GlassArrowhead: Critical strikes cause fired arrows to shatter into glass shards
+    GraveBuster:
+      '''
+      Destroys nearby graves 
+      Favorite it to prevent yourself from dropping graves on death 
+      'You like the taste of brains, we don't like zombies'
+      '''
+    Guillotine:
+      '''
+      Critical strikes gain power as your foes lose health
+      Executes normal enemies on low health
+      '''
+    GunstrapBoots:
+      '''
+      All double jumps now shoot out a shotgun blast of bullets below you
+      Using wings fires constant rounds of machine gun fire
+      '''
+    HermesVow:
+      '''
+      Cursed
+      Massively increased acceleration and movement speed
+      Increased jump height and max movement speed
+      You are unable to use wings
+      '''
+    HolyAmulet: Releases bursts of homing energy for every 25 HP healed
+    HungryStomach:
+      '''
+      Restore stamina by damaging foes
+      Melee weapons are twice as effective
+      Cursed: Disables natural stamina regenration
+      '''
+    ImpactSMG:
+      '''
+      Hold <left> to rapidly fire high impact bullets, heating over time
+      Release to boomerang the gun
+      Hitting an enemy while its not overheated grants you a stacking buff to the Impact SMG's damage
+      Hitting an enemy while its overheated causes it to consume all stacks for a deadly explosion
+      '''
+    ImpulseThruster: Converts all wingtime into a burst of energy
+    Ironheart: Melee damage generates decaying barrier and defense
+    LostCollar:
+      '''
+      +40% Inoculation
+      Debuffs you inflict are inflicted on you
+      +5% movement and attack speed per debuff affecting you
+      Cursed : Lose all debuff immunities
+      '''
+    Magebane:
+      '''
+      Mana replenishing items cannot be used
+      Magic attacks have a twenty-five percent chance to leech a large portion of damage as mana on hit
+      '''
+    MagmaGun: Blasts a torrential stream of lava that sticks to tiles and enemies
+    PandorasDagger: Grazes release Discordant Bolts, that inflict stacks of Volatile
+    PandorasShield: Grazes grant a portion of the projectiles' damage as barrier
+    PhilosophersMortar: Life hearts decrease duration of Potion Sickness by 10 seconds, but heal half as much
+    PowerCell: NaN
+    PulseBoots: Grants a directionally boosted double jump
+    RhythmicResonator:
+      '''
+      Attack in rhythm with your weapon to gradually increase damage and knockback
+      Disables autoswing
+      '''
+    Sandscript:
+      '''
+      Manifests a blade of sand
+      `This lost tablet contains a fragment of the Epic of Yeremy
+      ...The writing is sorta ameteurish for an ancient relic`
+      '''
+    SanitizerSpray: Critical strikes have a 25% chance to transfer partial debuff duration to nearby enemies
+    ShockAbsorber:
+      '''
+      Dropping from great heights creates a shockwave
+      Nullifies fall damage
+      '''
+    Sling:
+      '''
+      Sling seeds, stones, and mushrooms at your enemies
+      Seeds have increase velocity
+      Stones have less velocity but deal more damage and knockback
+      Mushrooms deal less damage but inflict Poisoned
+      75% chance to not consume ammo
+      '''
+    Slitherring: Whips have a chance to shoot out a smaller, snake whip
+    Soilgun:
+      '''
+      Hold <left> to charge up a volley of soil
+      Release to fire the soil at high velocities
+      Can use many different types of soils
+      'Soiled it! SOILED IT!'
+      '''
+    SojournersScarf:
+      '''
+      20% increased movement speed
+      50% decreased life regeneration while stationary
+      '''
+    Sorcerwrench:
+      '''
+      Select an area of blocks to be broken
+      Consumes 2 mana per block broken
+      '''
+    SoulOfFrog:
+      '''
+      Frogs are resurrected on death, growing stronger with each return from the brink.
+      Killing other critters has a chance to reveal them as actually being a frog the whole time
+      They will then be resurrected as if they were a frog the whole time, because they were
+      '''
+    SpikedMail:
+      '''
+      Barrier damage is applied to attackers as thorns 
+      +20 barrier
+      '''
+    StaminaRing: Slowly regenerates stamina
+    StaminaUp: Increased maximum stamina by 1
+    StarlightShuriken:
+      '''
+      Toss a volley of magical shurikens
+      Landing every shuriken decreases the amount thrown by 1
+      Throw a powerful glaive when you would throw only 1 shuriken
+      '''
+    SwordBook:
+      '''
+      Allows execution of combos with broadswords
+      Right click to parry with a broadsword
+      '''
+    TaintedGreataxe:
+      '''
+      Cursed
+      Summons an Ethereal Greataxe, which embeds itself near enemies who were just critically striked
+      The enemy that the Greataxe embeds itself in becomes Focused
+      <right> on the Greataxe whilst it is Embedded and it will un-embed itself
+      '''
+    TinCoil: Strikes nearby enemies with static electricity
+    TwistSword:
+      '''
+      Hold to unleash a whirling slash
+      Hold jump while slashing to accelerate upward
+      '''
+    Ultrapills:
+      '''
+      Cursed: You cannot restore health by normal means
+      Striking enemies occasionally leeches life
+      Killing enemies causes them to explode into healing blood
+      '''
+    WardedMail:
+      '''
+      Barrier damage is applied to attackers as thorns 
+      +Barrier negates 10% more damage 
+      +40 barrier
+      '''
+    CrescentQuarterstaff: Update this egshels
+    Datsuzei: Unleash the moon
+    DianesPendant:
+      '''
+      Something about a crescent idk 
+      +20 barrier
+      '''
+    Moonfury:
+      '''
+      Call down a shard of moonstone, afflicting enemies with Dreamfire
+      Afflicted enemies take extra damage on hit from Moonfury
+      '''
+    MoonstoneArrow: Gains speed and power as it travels
+    MoonstoneBarItem: "'Shimmering with Beautiful Light'"
+    MoonstoneChest: +35 Barrier
+    MoonstoneHamaxe: Press <right> to charge up a slam that destroys walls
+    MoonstoneHead:
+      '''
+      2% increased melee critical strike chance
+      +20 Barrier
+      '''
+    MoonstoneLegs:
+      '''
+      Improved acceleration
+       +25 Barrier
+      '''
+    PalestoneNail: Summons the Pale Knight
+    AuroraBell:
+      '''
+      Summons a sentry bell 
+      Hit the bell with a whip to ring it
+      '''
+    AuroraThroneMountItem:
+      '''
+      Summons an aurora throne combat mount
+      Lashes out with whip-like apendages
+      Right click to summon explosive auroralings
+      '''
+    BookOfFrost: Melee critical strikes cause an icy explosion
+    Frostball:
+      '''
+      Strike enemies to build aurora power
+      Heals players near the yoyo based on aurora power
+      Gives you regeneration when retrieved based on aurora power
+      '''
+    Octogun:
+      '''
+      Converts Musket Balls into Auroracle Ink
+      Critical hits and kills cause Tentapistols to sprout out from you, that fire at your cursor
+      '''
+    OverflowingUrn:
+      '''
+      Unleashes a torrent of chilling winds
+      Prolonged use will freeze you
+      You have greatly increased defense while frozen
+      '''
+    SquidBossSpawn: Drop in prismatic waters to summon the one the Squiddites worship
+    SquidBossSpawnEndless:
+      '''
+      Drop in prismatic waters to summon the one the Squiddites worship
+      Infinite uses
+      '''
+    SquidFins: Allows you to swim like a jellysquid
+    TentacleHook: Move your mouse to hook around objects
+    Tentalance:
+      '''
+      Launches a shimmering tentacle lance
+      Charge to fire up to 4 more lances at once
+      '''
+    WaterStaff:
+      '''
+      Places and removes aurora water
+      Left click to place
+      Right click to remove
+      '''
+    GreaterBarrierPotion:
+      '''
+      Grants 120 barrier
+      Greatly reduces overcharge barrier loss for 5 seconds
+      '''
+    InoculationPotion: +30% Inoculation
+    LesserBarrierPotion:
+      '''
+      Grants 40 barrier
+      Greatly reduces overcharge barrier loss for 3 seconds
+      '''
+    RegularBarrierPotion:
+      '''
+      Grants 80 barrier
+      Greatly reduces overcharge barrier loss for 4 seconds
+      '''
+    BloodCrystal:
+      '''
+      Debuffs you inflict are inflicted onto you 
+      All debuffs you inflict stack and last longer
+      '''
+    AquamarinePendant:
+      '''
+      +15 Barrier 
+      Losing all of your barrier releases ice shards
+      '''
+    MeadHorn: Potions last 50% longer
+    Astroscrap: ‘Alloy salvaged from the wreckage of your world’s invaders’
+    StarwoodBoomerang: Hold LMB to channel the boomerang, causing it to release an explosion
+    StarwoodBoots: 5% increased magic critial strike chance
+    StarwoodCharm:
+      '''
+      Critical strikes generate mana stars
+      -3% critical strike chance
+      +3% critical strike chance when empowered
+      '''
+    StarwoodChest: Increases max mana by 20
+    StarwoodHat: 5% increased magic damage
+    StarwoodSlingshot:
+      '''
+      Weaves together fallen stars 
+      Consumes ammo every 50 shots
+      '''
+    StarwoodStaff:
+      '''
+      Creates a burst of small stars
+      Striking an enemy with every star causes a larger star to drop on them
+      '''
+    Buzzsaw:
+      '''
+      Strike enemies to build up pressure
+      Release to vent the pressure, launching the sawblade
+      'The right tool for the wrong job'
+      '''
+    CogAmmoItem:
+      '''
+      Bounces up to five times
+      Halves damage on hit
+      '''
+    Cogwheel: Summons a ridable Cogwheel mount
+    Jetwelder:
+      '''
+      Collect scrap from damaging enemies 
+      Right click to use scrap to summon robots
+      '''
+    JetwelderScrap1: You shouldn't see this
+    JetwelderScrap2: You shouldn't see this
+    JetwelderScrap3: You shouldn't see this
+    JetwelderScrap4: You shouldn't see this
+    RebarLauncher:
+      '''
+      Impales enemies 
+      Shoot rebar to drive it deeper into enemies
+      '''
+    RuneStaff:
+      '''
+      Hold to summon up to 3 explosive runes
+      Releasing will fire the runes towards your cursor
+      Continuing to hold will detonate them for increased damage around you
+      '''
+    TempleLens:
+      '''
+      Critical strikes cause enemies around the struck enemy to glow
+      +3% critical strike chance
+      '''
+    TempleLensUpgrade:
+      '''
+      Critical strikes expose enemies near the struck enemy
+      Exposed enemies take significantly more damage on the first hit
+      +4% critical strike chance
+      +10% critical strike damage
+      '''
+    TemplePick: Hold right click to charge up a spinning pickaxe dash
+    TempleRune: +20 maximum barrier
+    TempleSpear:
+      '''
+      Struck enemies glow
+      Slain enemies leave behind a bright light
+      '''
+    ArmorBag:
+      '''
+      Stores armor for quick use
+      Contains:
+      '''
+    ChefBag: Stores lots of every ingredient
+    CurseRemover:
+      '''
+      Place over an equipped cursed Item to destroy it
+      'There's no turning back, most of the time'
+      '''
+    WardenHat: "[c/198E12:???]"
+    WardenRobe: "[c/198E12:???]"
+    CoachGunUpgrade:
+      '''
+      Press <right> to throw out an unstable crystal bomb
+      Explodes shortly after, causing all other crystal bombs to also explode
+      Shoot to detonate it early, if detonated early enough, it will explode into a cone of crystal shards
+      If a crystal bomb is detonated by another crystal bomb, its damage is increased by 50%
+      Explosions and crystal shards increase targets Exposure by 35% and inflict Sweltered
+      'Ultrakill style'
+      '''
+    Coalescence:
+      '''
+      Charge for a volley of brilliant magic
+      Fully charged shots leech mana when they collide
+      '''
+    FacetAndLattice:
+      '''
+      Right click to guard
+      Attacks are empowered after a guard
+      Empowerment is more effective with better guard timing
+      '''
+    GlassIdol: Used to worship a powerful guardian.
+    GlassIdolEndless:
+      '''
+      Used to worship a powerful guardian.
+      Infinite uses
+      '''
+    IgnitionGauntlets:
+      '''
+      Rapidly barrages enemies with your fists while building Ignition Charge
+      Hold RMB to consume charge, propelling yourself forward at escape velocity
+      Attack while still flying to vent remaining charge in a large blast cone|n'Heroes always arrive from the skies'
+      '''
+    MagmaArrow: Becomes more cooled as it travels
+    MagmaCore: A sample of the hot stuff.
+    MagmiteBottle: Why would you do this to him?!
+    MagmiteVacpack:
+      '''
+      Blasts out Magmites that stick to enemies
+      For each Magmite an enemy has stuck on them, they take 10 damage per second, and 3 summon tag damage, up to a maximum of three Magmites
+      Magmites bounce off, and deal 50% more damage to enemies with the max amount of Magmites
+      '''
+    Needler:
+      '''
+      Stick spikes to enemies to build up heat 
+      Overheated enemies explode, dealing massive damage
+      '''
+    PhoenixStorm: Summons a storm of phoenixes that periodically swoops in on enemies
+    RecursiveFocus:
+      '''
+      Summons an infernal crystal
+      The infernal crystal locks onto enemies, ramping up damage overtime
+      Press <right> to cause the crystal to target multiple enemies, at the cost of causing all beams to not ramp up, dealing less damage
+      '''
+    RefractiveBlade:
+      '''
+      Hold RMB down to charge a laser
+      Enemies struck by the laser have 25% increased melee Exposure
+      '''
+    ShatteredAegis:
+      '''
+      Releases a burning ring when damaged
+      'Meet your foes head-on, and give them a scorching embrace'
+      '''
+    VitricBow: Could use a rework
+    VitricBulletItem:
+      '''
+      Causes crystals to grow out of hit enemies
+      Strike crystals to shatter them, dealing damage
+      '''
+    VitricChest: 5% increased ranged critical strike chance
+    VitricHamaxe:
+      '''
+      Right click to charge heat
+      Heat increases speed
+      Heat dissipates over time
+      '''
+    VitricHead: 10% increased ranged damage
+    VitricHook:
+      '''
+      Fires a hook, allowing you to grapple to an enemy and bounce off of them
+      Can only be used while airborn
+      '''
+    VitricLegs: Slightly improved stamina regeneration
+    VitricMagicBook: Summons stabbing spikes on nearby ground
+    VitricPick:
+      '''
+      Hellstone does not drop lava
+      Mining hellstone generates heat
+       Heat increases speed
+      '''
+    VitricSword:
+      '''
+      Shatters into enchanted glass shards 
+      Unable to be used while shattered
+      '''
+    MagmitePassiveItem: Release him!
+    CodexTileItem: Debug placer for ability pickup
+    FaeflameTileItem: Debug placer for ability pickup
+    StaminaShardTileItem: Debug Item
+    WindsTileItem: Debug placer for ability pickup
+    CookStationItem: Right click to prepare meals
+    InfuserItem: Used to imprint infusions
+    ForestBerryBushItem: Plant to grow your own berries
+    Slimeberry: Ew.
+    SlimeberryBushItem: Places a slimeberry bush
+    AncientFruit: " "
+    GoldenRice: " "
+    Rice: " "
+    GreenhouseGlassItem:
+      '''
+      Speeds up the growth of any plant below it
+      Needs a clear area above it
+      '''
+    GreenhouseWallItem: Fancy!
+    BouncerItem:
+      '''
+      Dash into this to go flying!
+      Resets jump accessories
+      '''
+    StaminaGemItem: Restores stamina when hit with an ability
+    StaminaOrbItem:
+      '''
+      Pass through this to gain stamina!
+      5 second cooldown
+      '''
+    DisplayCaseFriendlyItem: Can hold an Item for glamorous display
+    RatTentItem: Whats inside?...
+    JellyShroomItem: Boing!
+    LumishroomItem: Glowy...
+    VibeshroomItem: Vibin'
+    BlueTorchOvergrowItem: Sparkly! and Blue!
+    NoxiousNodeItem: Debug item
+    OvergrowthLivingWoodItem: "[PH] make this a wand and stuffs"
+    Rock2x2Item: It places... Rocks
+    TorchOvergrowItem: Sparkly!
+    WindowSmallItem: Debug Item
+    WispAltarLItem: Debug Item
+    WispAltarRItem: Debug Item
+    AuroraclePaintingItem: "'K. Ra'"
+    EggCodexPaintingItem: "'K. Ra'"
+    RatKingPaintingItem: "'K. Ra'"
+    AuroraBrickItem: Oooh... Preeetttyyy
+    AuroraBrickWallFriendlyItem: Oooh... Preeetttyyy
+    AuroraBrickWallItem: Oooh... Preeetttyyy
+    AuroraIceBar: A preserved selection of the night sky
+    AuroraIceItem: A preserved piece of the night sky
+    TouchstoneItem: A guiding light
+    HotspringFountainItem: Transforms nearby water into a hotspring!
+    MagmiteShrineItem: It's him!
+    DashBarrierItem: Debug Item
+    JarTallItem: Debug Item
+    TestBubble: Debug Item
+    VerletBannerItem: Debug Item
+    AncientSandstoneTorchItem: It has an entrancing glow
+    ForgeDoorItem: Debug Item
+    ForgeInnerDoorItem: Debug Item
+    RedBannerShortItem: Debug Item
+    DoorHorizontalItem: Temple Door, But what if it was horizontal?
+    DoorVerticalItem: Temple Door, But what if it was vertical?
+    EntranceDoorItem: Debug Item
+    GearPuzzleOriginPlacer: Debug Item
+    GearTilePlacer: Debug Item
+    ObjectiveGearItem: Debug Item
+    ReflectorItem: Debug Item
+    OldCeirosShrineItem: Debug Item
+    TutorialDoor1Item: Debug Item
+    TutorialDoor2Item: Debug Item
+    VitricPillarWallItem: Sturdy
+    VitricPillarWallShortItem: Sturdy
+    VitricTempleWallItem: Sturdy
+    WindsRoomActorItem: Debug Item
+    VitricBossAltarItem: Debug Item
+    VitricBreakableVaseItem: Debug Item
+    VitricFountainItem: Debug Item
+    VitricGiantCrystalItem: The slot this Item is in changes the type placed
+    VitricLargeCrystalItem: The slot this Item is in changes the type placed
+    VitricLargeFountainItem: Debug Item
+    VitricMediumCrystalItem: The slot this Item is in changes the type placed
+    VitricSmallCrystalItem: The slot this Item is in changes the type placed
+    VitricSpikeItem: Ouch!
+  }
+  ProjectileName:
+  {
+    ArtifactItemProj: Artifact
+    GlassBubble: Volatile Bubble
+    GlassBubbleFragment: Glass Shard
+    GlassHammer: Woven Hammer
+    GlassJavelin: Glass Javelin
+    GlassRaiseSpike: Raised Glass Structure
+    GlassSpear: Woven Hammer
+    GlassSword: Glass Sword
+    LavaLob: Hot Lob
+    Whirlwind: Spinning Blades
+    AuroraWaterSplash: Aurora Water Splash
+    DoorBomb: Door Bomb
+    InkBlob: Rainbow Ink
+    InkBlobGravity: Rainbow Ink
+    Laser: Laser
+    SpewBlob: Aurora Shard
+    SqueezeTell: Tentacle Warning
+    TentacleTell: Tentacle Warning
+    TentacleTrail: Trail
+    CrystalWave: Crystal Wave
+    FinalLaser: Raging Fire
+    FireCone: Fire Cone
+    FireRingHostile: Fire Ring Hostile
+    GlassSpike: Glass Spike
+    GlassVolley: Glass Volley
+    GlassVolleyShard: Glass Volley Shard
+    LavaDart: Magma Shot
+    SpikeMine: Spike Mine
+    TelegraphedGlassSpike: Glass Spike
+    VitricBomb: Vitric Bomb
+    LightningNode: Lightning Node
+    AstrofloraGas: Astroflora Gas
+    AstrofloraProj: Astroflora Flail
+    AstrofloraSpark: Astroflora Spark
+    BreachCannonSentry: Breach Cannon
+    ExplosiveFlare: Explosive Flare
+    FlareShrapnel: Explosive Shrapnel
+    OrbitalStrike: Orbital Strike
+    OrbitalStrikeRing: Orbital Strike
+    ScrappodProjectile: Scrappod
+    ScrappodScrapnel: Scrapnel
+    ScrapshotHook: Scrapshot Hook
+    ScrapshotShrapnel: Explosive Shrapnel
+    SpotterDrone: Breacher Drone
+    SupplyBeaconProj: Supply Beacon
+    ArchaeologistsWhip_Whip: Archaeologist's Whip
+    PerfectlyGenericPet: Perfectly Generic Object
+    CloudstrikeShot: Electro Shock
+    SkullBomb: Skull Bomb
+    SkullBusterBullet: Bullet
+    SkullBusterProj: Skull Buster
+    SkullBusterReload: Skull Buster
+    SkullbusterSkull: Skullbomb
+    ThousandthDegreeProjectile: Thousandth Degree
+    ThousandthDegreeProjectileFired: Blazing Wheel
+    Acorn: Acorn
+    FeralWolfMountBite: Crushing Jaws
+    AmethystShard: Amethyst Shard
+    GeoAmethystProj: Geo Amethyst Proj
+    GeoDiamondProj: Geo Diamond Proj
+    GeoEmeraldProj: Geo Emerald Proj
+    GeoRubyProj: Geo Ruby Proj
+    GeoSapphireProj: Geo Sapphire Proj
+    GeoTopazProj: Geo Topaz Proj
+    RubyDagger: Ruby Dagger
+    SparklingBulletProj: Sparkling Bullet
+    TopazShard: Topaz Shard
+    TopazShield: Topaz Shield
+    TopazShieldFade: Topaz Shield
+    BloodBolt: Blood Bolt
+    BloodBolterExplosion: Blood Bolter
+    BloodBolterHeldProj: Blood bolter
+    GluttonyGhoul: Ghoul
+    GluttonyHandle: Gluttony
+    GravediggerSlam: Grave digger
+    GravediggerSwing: Grave digger
+    PoltergeistMinion: Haunted Weapon
+    CopperObol: Obol
+    GoldObol: Obol
+    MagmaSwordBlob: Magma Sword Blob
+    MagmaSwordBurn: Magma Sword Burn
+    ObolImpact: Obol Star
+    PlatinumObol: Obol
+    SilverObol: Obol
+    GrayGooProj: Gray Goo
+    ThunderBeadsProj: Thunder Beads
+    ThunderbussBall: Thunderbuss Ball
+    ThunderbussShot: Electro Shock
+    BalloonGunBalloon: Balloon
+    BizarreIce: Bizarre Potion
+    BizarreLightning: Bizarre Lightning
+    BizarreLightningOrb: Bizarre Lightning Orb
+    BizarrePotionPoisonCloud: Bizarre Potion Poison Cloud
+    BizarrePotionProj: Bizarre Potion
+    BladesawSwungBlade: Bladesaw
+    BloodAmuletBolt: Ghoul
+    CoachGunBomb: Dynamite
+    CoachGunEmber: Ember
+    CoachGunMuzzleFlash: Muzzle Flash
+    CoachGunRing: Coach Bomb
+    CoilStaticShock: Static Shock
+    CopperCoilWhip: Copper Coil
+    CutlassBusFlash: Cutlassbus
+    CutlassBusHeldProj: Cutlassbus
+    CutlassBusProj: Cutlassbus
+    DiceProj: Dice
+    DiscordantBolt: Discordant Bolt
+    DualCrossHeld: Double Cross
+    ElectroArrowProjectile: Electro Arrow
+    FiletSlash: Slash
+    FryingPanBonk: Frying Pan
+    FryingPanProj: Frying Pan
+    FryingPanThrownProj: Frying Pan Thrown Proj
+    GeodeBowExplosion: Geode Explosion
+    GeodeBowGrowth: Geode Growth
+    GeodeBowProj: Geode Bow
+    GeodeBowShrapnel: Geode Shrapnel
+    GraveBusterHeld: Grave Buster
+    GraveSlash: Slash
+    GuillotineVFX: Guillotine V F X
+    GunchuckProj: Sanguine Flayer
+    HolyAmuletOrb: Holy Amulet Orb
+    ImpactSMGExplosion: Explosion
+    ImpactSMGHoldout: Impact SMG
+    ImpactSMGShot: Impact SMG Shot
+    MagmaGunPhantomProj: Magma Glob
+    MonkSpadeProjectile: Monk Spade Projectile
+    SandSlash: Sand Slash
+    SlingHeldProjectile: Sling
+    SlingMushroomProjectile: Shroom
+    SlingSeedProjectile: Seed
+    SlingStoneProjectile: Stone
+    SlitherringWhip: Slither Whip
+    HauntedSoul: Soul
+    SoilgunCoinsProjectile: Coin
+    SoilgunCrimsandSoil: Soil
+    SoilgunDirtSoil: Soil
+    SoilgunEbonsandSoil: Soil
+    SoilgunExplosion: Explosion
+    SoilgunHoldout: Soilgun
+    SoilgunIcicleProj: Icicle
+    SoilgunLifeSteal: Lifesteal Orb
+    SoilgunMudSoil: Soil
+    SoilgunPearlsandSoil: Soil
+    SoilgunSandGrain: Sand Grain
+    SoilgunSandSoil: Soil
+    SoilgunSiltSoil: Soil
+    SoilgunSlushSoil: Soil
+    SoilgunVitricCrystals: Volatile Crystal
+    SoilgunVitricSandSoil: Soil
+    SorcerwrenchProjectile: Sorcerwrench Projectile
+    StarGlaive: Star Glaive
+    StarShuriken: Star Shuriken
+    SwordBookProjectile: Sword Book Projectile
+    TaintedGreataxeProjectile: Ethereal Greataxe
+    ThrusterEmber: Thruster
+    TinCoilWhip: Tin Coil
+    TwistSwordProjectile: Twist Sword Projectile
+    UltrapillBlood: Ultrapill Blood
+    CrescentQuarterstaffProj: Crescent Quarterstaff
+    DatsuzeiProjectile: Datsuzei Projectile
+    DianeCrescant: Crescant
+    MoonfuryProj: Moonfury Spike
+    MoonfuryRing: Orbital Strike
+    MoonstoneArrowProj: Moonlit Arrow
+    MoonstoneArrowRing: Orbital Strike
+    MoonstoneHamaxeHoldout: Moonstone Hamaxe
+    MoonstoneHamaxeRing: Explosion
+    QuarterOrb: Lunar Orb
+    ShakerBall: Shaker
+    PaleKnight: Pale Knight
+    PalestoneSlash: Pale Slash
+    AuroraBellProj: Aurora Bell
+    AuroraBellRing: Aurora Bell
+    AuroraBellRingSmall: Aurora Bell
+    AuroracleInkBullet: Auroracle Ink
+    AuroraThroneMountMinion: Aurora Throne Mount Minion
+    AuroraThroneMountWhip: Tentacle
+    FrostballProjectile: Frostball Projectile
+    FrostExplosion: Frost Explosion
+    OctogunTentapistol: Tentapistol
+    OverflowingUrnProj: Overflowing Urn
+    TentacleHookProj: Tentacle Hook
+    TentalanceProjectile: Tentalance Projectile
+    StarwoodBoomerangProjectile: Starwood Boomerang
+    StarwoodSlingshotFragment: Star Fragment
+    StarwoodSlingshotProj: Starwood Slingshot Proj
+    StarwoodSlingshotStar: Shooting Star
+    StarwoodStaffFallingStar: Falling Star
+    StarwoodStaffProjectile: Starshot
+    BuzzsawBlood1: Buzzsaw
+    BuzzsawProj: Steamsaw
+    BuzzsawProj2: Buzzsaw
+    CogAmmoProjectile: Cog
+    CogwheelHitbox: Cogwheel
+    JetwelderCrawler: Crawler
+    JetwelderFinal: Bomber
+    JetwelderFinalMissle: Rocket
+    JetwelderFlame: Jetwelder
+    JetwelderGatler: Gatler
+    JetwelderJumper: Jumper
+    JetwelderJumperExplosion: Rocket
+    JetwelderJumperMissle: Grenade
+    JetwelderSelector: Jetwelder
+    PhantomBuzzsaw: Buzzsaw
+    RebarProj: Rebar
+    RuneStaffExplosion: Rune Staff Explosion
+    RuneStaffProjectile: Rune Staff Projectile
+    TempleSpearLight: Temple Spear Light
+    TempleSpearProjectile: Temple Spear Projectile
+    LaserPointerProjectile: Laser Pointer Projectile
+    ArrowMagma: Magma Arrow
+    CoachGunUpgradeBomb: Crystal Bomb
+    CoachGunUpgradeExplosion: Coach Gun Upgrade Explosion
+    CoachGunUpgradeShards: Crystal Shards
+    FacetProjectile: Facet
+    FireRing: Fire Ring
+    IgnitionGauntletCharge: Ignition Gauntlets
+    IgnitionGauntletCone: Ignition Gauntlets
+    IgnitionGauntletLaunch: Ignition Gauntlets
+    IgnitionGauntletsImpactRing: Ignition Gauntlets
+    IgnitionPunch: Ignition Gauntlets
+    IgnitionPunchPhantom: Ignition Gauntlets
+    LatticeProjectile: Lattice
+    MagmaArrowProj: Magma Arrow
+    MagmiteBottleProjectile: Magmite Bottle Projectile
+    MagmiteVacpackHoldout: Magmite Vacpack
+    MagmiteVacpackProjectile: Bouncy Magmite
+    NeedlerEmber: Needle
+    NeedlerExplosion: Needle
+    NeedlerProj: Needle
+    PhoenixStormMinion: Phoenix
+    RecursiveFocusProjectile: Infernal Crystal
+    RefractiveBladeLaser: Refractive Blade Laser
+    RefractiveBladeProj: Refractive Blade Proj
+    VitricArmorProjectile: Enchanted Glass
+    VitricArmorProjectileIdle: Enchanted Glass
+    VitricBookProjectile: Vitric Book 1
+    VitricBookProjectiletileCheck: Vitric Book 2
+    VitricBookSpikeTrap: Vitric Spike Trap
+    VitricBowProjectile: Vitric Bow Projectile
+    VitricBowShard: Vitric Bow Shard
+    VitricBulletCrystalExplosion: Explosion
+    VitricBulletCrystalProjectile: Vitric Crystal
+    VitricBulletProjectile: Vitric Bullet
+    VitricHookProjectile: Vitric Hook Projectile
+    VitricSwordProjectile: Enchanted Glass
+    AngryCrescentDeathProjectile: Crescent Shard
+    DreamprismSlam: Slam
+    SnoobelCollider: Snoobel
+    FirebugMagma: Molten glass
+    ConstructRing: Explosion
+    GauntletSpawner: Gauntlet Spawner
+    PelterConstructArrow: Glass Arrow
+    PelterConstructArrowLarge: Glass Arrow
+    KettleMortar: Magma Shot
+    SnakeSpit: Molten glass
+    PinkSeaSaltProjectile: Sea Salt
+    TableSaltProjectile: Table Salt
+    Dart: Cursed Dart
+    SawbladeSmall: Cursed Sawblade
+    Spear: Cursed Spear
+    SpawnEgg: Spawn Egg
+  }
+  Containers.AnkhChest: Ankh Chest
+  BiomeName:
+  {
+    HotspringBiome: Hotsprings
+    MoonstoneBiome: Moonstone
+    OvergrowBiome: "[PH]Overgrowth"
+    PermafrostTempleBiome: Auroracle Temple
+    VitricDesertBiome: Vitric Desert
+    VitricTempleBiome: Vitric Forge
+  }
+  NPCName:
+  {
+    Glassweaver: Glassweaver
+    GlassweaverWaiting: Glassweaver
+    ArenaBlocker: Arena Blocker
+    Auroraborn: Auroraborn
+    Auroraling: Auroraling
+    SquidBoss: Auroracle
+    Tentacle: Tentacle
+    TentacleHurtbox: Tentacle Hurtbox
+    VitricBoss: Ceiros
+    VitricBossCrystal: Resonant Crystal
+    StarlightWaterActor: Starlight Water Actor
+    GravityOrbTest: Gravity Orb Test
+    Dweller: Dweller
+    Stalker: Stalker
+    CrescentCaster: Crescent Caster
+    Blover: Blover
+    TreeBat: Tree Bat
+    Warbanner: Haunted Warbanner
+    Fogbinder: Fogbinder
+    AngryCrescent: Angry Crescent
+    Dreambeast: Dreambeast
+    Dreamprism: Dreamprism
+    Crusher: Masher
+    WaterCube: Water Cube
+    Snoobel: Snoobel
+    SwordEnemy: Sky Splicer
+    EnchantNPC: Enchant N P C
+    Voidsmith: Voidsmith
+    BoomBug: Firebug
+    CrystalPopper: Sand Bat
+    CrystalSlime: Crystal Slime
+    DesertWisp: Desert Wisp
+    DesertWisp2: Desert Wisp2
+    FlyingGruntConstruct: Flying Grunt Construct
+    FlyingPelterConstruct: Flying Pelter Construct
+    GruntConstruct: Grunt Construct
+    PelterConstruct: Pelter Construct
+    ShieldConstruct: Shield Construct
+    SupporterConstruct: Supporter Construct
+    KettleCreature: Kettle Kreature
+    LesserFirebug: Lesser Firebug
+    MagmitePassive: Small Magmite
+    Snake: Spittin' Snek
+    CodexPickup: Starlight Codex
+    FaeflamePickup: Faeflame
+    ForbiddenWindsPickup: Forbidden Winds
+    InfusionSlotPickup: Unnerving Device
+    StaminaShardPickup: Stamina Shard Pickup
+    BerrySlime: Slimeberry
+    TouchstoneWisp: Aurora Spirit
+  }
+  BuffName:
+  {
+    Claustrophobia: Claustrophobia
+    CoughDropsBuff: Cough Drops
+    FerrofluidDraftBuff: Ferrofluid Draft
+    FoodBuff: Nourished
+    ForestTonic: Forest Tonic
+    Full: Stuffed
+    HotspringHeal: Refreshing Dip
+    Illuminant: Illuminant
+    Ivy: Ivy
+    IvySnare: Snared
+    MossRegen: Mending Moss
+    Overcharge: Overcahrged
+    PrismaticDrown: Prismatic Drown
+    ProtectiveShard: Protective Shards
+    Rage: Rage
+    Slimed: Slimed
+    Squash: Pancaked
+    StaticShock: Static Shock
+    GrayGooSummonBuff: Gray Goo
+    PalestoneSummonBuff: Pale Knight
+    SupplyBeaconDamage: Supply Beacon
+    SupplyBeaconDefense: Supply Beacon
+    SupplyBeaconHeal: Supply Beacon
+    ArchaeologistsBuff: Treasure buff
+    PerfectlyGenericPetBuff: Perfectly Generic Pet
+    WolfBleeding: Gored
+    ShovelQuickFall: Quick fall
+    ShovelSlowFall: Slow fall
+    SoulSuck: Soul Suck
+    BizarrePotionPoisonDebuff: Bizarre Poison
+    CoachDebuff: Coach Debuff
+    FiletFrenzyBuff: Blood Frenzy
+    ImpactSMGBuff: Heated Up!
+    IronheartBuff: Ironheart
+    PlexusChaliceBuff: Plexus Resistance
+    MoonfuryDebuff: Dreamfire
+    AuroraThroneMountMinionDebuff: Inked
+    UrnFreeze: Urn Freeze
+    InoculationPotionBuff: Inoculated
+    NoShieldPot: Barrier Sickness
+    ShieldDegenReduction: Barrier Affinity
+    CogwheelBuff: Cogwheel
+    Exposed: Exposed
+    PhoenixStormSummonBuff: Phoenix Minion
+    RefractiveBladeBuff: Melting
+    SwelteredDeBuff: Sweltered
+    Fogbinded: Fogbinded
+  }
+  BuffDescription:
+  {
+    Claustrophobia: Stuck in wisp form!
+    CoughDropsBuff: Your speed and damage are boosted
+    FerrofluidDraftBuff: Nearby Items gravitate towards you
+    FoodBuff:
+      '''
+      Nourised by rich food, granting:
+
+      '''
+    ForestTonic:
+      '''
+      Immunity to poision
+      Slowly regenerate life
+      '''
+    Full: Cannot consume any more rich food
+    HotspringHeal: The hot springs restore your body and mind
+    Illuminant: Glowing brightly!
+    Ivy: It's rooted in you!
+    IvySnare: You've been caught!
+    MossRegen: Regenerating life quickly!
+    Overcharge: Greatly reduced armor, shocking nearby enemies!
+    PrismaticDrown: You are drowning in prismatic waters!
+    ProtectiveShard: Incoming Damage reduced by 25%
+    Rage: Increased damage and greatly increased knockback
+    Slimed: eww
+    Squash: You're flat now.
+    StaticShock: Lowered Defense
+    GrayGooSummonBuff: Nanomachines, son!
+    PalestoneSummonBuff: The Pale Knight Will Protect You!
+    SupplyBeaconDamage: Damage increased
+    SupplyBeaconDefense: Defense increased
+    SupplyBeaconHeal: Regeneration increased
+    ArchaeologistsBuff: Your minions do more damage
+    PerfectlyGenericPetBuff: Made of grist
+    WolfBleeding: Gored by a wolf
+    ShovelQuickFall: You slammin
+    ShovelSlowFall: Falling Speed Reduced
+    SoulSuck: You getting sucked
+    BizarrePotionPoisonDebuff: You poisoned
+    CoachDebuff: 10% increased damage
+    FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
+    IronheartBuff: you have decaying extra barrier and defense
+    PlexusChaliceBuff: +30% Inoculation
+    MoonfuryDebuff: Next Moonfury hit has increased damage
+    AuroraThroneMountMinionDebuff: You take increased damage
+    UrnFreeze:
+      '''
+      Greatly increased defense
+      But you cant move!
+      '''
+    InoculationPotionBuff: +30% Inoculation
+    NoShieldPot: Cannot consume more barrier potions
+    ShieldDegenReduction: Barrier sticks to you better
+    CogwheelBuff: They see me rollin'
+    Exposed: Taking extra damage!
+    PhoenixStormSummonBuff: A fiery bird follows you
+    RefractiveBladeBuff: Taking additional melee damage!
+    SwelteredDeBuff: Damage taken increased by 35%
+    Fogbinded: Bound to the fogbinder
+  }
+  Prefix:
+  {
+    DefensivePrefix: Defensive
+    DoTResistPrefix1: Healthy
+    DoTResistPrefix2: Protected
+    DoTResistPrefix3: Blessed
+    LayeredPrefix: Layered
+    PlatedPrefix: Plated
+    ReinforcedPrefix: Reinforced
+    StaminaPrefix1: Springy
+    StaminaPrefix2: Energetic
+    StaminaPrefix3: Empowered
+    StaminaPrefix4: Overcharged
+    Feral: Feral
+    Jumpy: Jumpy
+    Tanklike: Tanklike
+  }
+  MapObject:
+  {
+    CauldronTile: Alchemic Cauldron
+    CookStation: Cooking Station
+    Infuser: Infuser
+    CrashPod: Crashed Pod
+    AnkhChest: Mods.StarlightRiver.MapObject.AnkhChest
+    AnkhChest_Locked: Ankh Chest
+    TwistSwordTile: Twisted Greatsword
+    MonkSpear: Monk's Spade
+    ThickTree: Large Tree
+    TallAncientFruit: Ancient Fruit
+    TallGoldenRice: Golden Rice
+    TallRice: Rice
+    GreenhouseGlass: Greenhouse Glass
+    DisplayCase: Relic Case
+    DisplayCaseFriendly: Relic Case
+    RatTent: Strange Tent
+    MoonstoneBar: Metal Bar
+    MoonstoneOre: Moonstone Ore
+    JellyShroom: Jelly Shroom
+    OvergrowthLivingWoodTile: Overgrown Living Wood
+    SkeletonBrickTile: Skeleton Brick
+    AuroraclePainting: Painting
+    EggCodexPainting: Painting
+    RatKingPainting: Painting
+    Touchstone: Touchstone
+    AuroracleTrophy: Trophy
+    CeirosTrophy: Trophy
+    CombatShrine: Mysterious Shrine
+    EvasionShrine: Mysterious Shrine
+    MagmiteShrine: The Boi
+    WitShrine: Mysterious Shrine
+    JarTall: Stamina Jar
+    ForgeDoor: Forge Door
+    ForgeInnerDoor: Forge Door
+    EntranceDoor: Vitric Temple Door
+    TempleCandle: Candle
+    TempleCandleCrystal: Candle
+    TempleCeirosFountain: Fountain
+    TempleWallCandle: Candle
+    VitricBossAltar: Ceiro's Altar
+    VitricBreakableVases: Pot
+    VitricOre: Vitric Ore
+    VitricOreFloat: Vitric Ore
+    TempleChair: Chair
+    TempleLargeVase: Large Vase
+    TempleLargeVaseCrystal: Large Vase
+    TempleWorkbench: Workbench
+    TempleThrone: Throne
+    TempleFloorWeaponRack: Weapon Rack
+    TempleTable: Table
+    TempleTableCrystal: Table
+    TempleWeaponRack0: Weapon Rack
+    TempleWeaponRack1: Weapon Rack
+    TempleWeaponRack2: Weapon Rack
+    TempleWeaponRack3: Weapon Rack
+    TempleThingamajig: Weapon Rack
+    VitricBoss1: Music Box
+    VitricBoss2: Music Box
+    VitricPassive: Music Box
+    VitricTemple: Music Box
+    Miniboss: Music Box
+    Overgrow: Music Box
+    Auroracle: Music Box
+  }
+}
