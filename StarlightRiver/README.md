@@ -38,9 +38,9 @@ STFW and RTFM
 ### Avoiding conflicts
 
 Before start translating a certain part of the texts, always inform others so we don't edit the same piece of text at the same time.  
-There is a `#zh-translation-discussion` channel for you to do this. State which part you are going to translate and pin that message. 
+There is a `#plans` channel for you to do this. State which part you are going to translate and pin that message. 
 
-Mod-specific translation discussions should also be done in that channel. 
+Mod-specific translation discussions should also be done in `#zh-translation-discussion` under the mod's channel. 
 
 If you feel like there will be a long debate on a topic, for example if no one could agree with other's translation of an item, create a thread to continue your arguments instead of spaming the main thread. 
 
