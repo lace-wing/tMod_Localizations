@@ -2,31 +2,31 @@ Mods.StarlightRiver:
 {
   ItemName:
   {
-    TestWhip: "[PH]Test Whip"
-    TestWhipImprint: "[PH]Test Whip"
-    Astral: Comet Rush I
-    Astral2: Comet Rush II
-    Astral3: Comet Rush III
-    AstralImprint: Comet Rush
-    Blink: Blink
-    BlinkImprint: Blink
-    Pulse: Pulse
-    PulseImprint: Pulse
-    BasicInfusion: Blank Slate
-    CauldronItem: Cauldron Item
-    MixingStick: Mixing Stick
-    AstrofloraFlail: Astroflora Flail
-    BaseBarrierDye: Base Barrier Dye
-    MoonstoneBarrierDye: Moonstone Tincture
-    VitricBossBarrierDye: Sentinel's Tincture
+    TestWhip: "[PH]测试用鞭"
+    TestWhipImprint: "[PH]测试用鞭"
+    Astral: 彗星冲刺I
+    Astral2: 彗星冲刺II
+    Astral3: 彗星冲刺III
+    AstralImprint: 彗星冲刺
+    Blink: 闪现
+    BlinkImprint: 闪现
+    Pulse: 脉冲
+    PulseImprint: 脉冲
+    BasicInfusion: 空白石板
+    CauldronItem: 坩埚
+    MixingStick: 搅拌棒
+    AstrofloraFlail: 星华链球
+    BaseBarrierDye: 基础屏障染料
+    MoonstoneBarrierDye: 月长石染色剂
+    VitricBossBarrierDye: 哨卫的染色剂
     SeaglassRing: 海玻璃指环
-    BreachCannon: Breach Cannon
+    BreachCannon: 破坏者加农炮
     BreacherChest: 破坏者胸甲
     BreacherHead: 破坏者面甲
     BreacherLegs: 破坏者护胫
     FlareBreacher: 耀斑破坏者
     ReactivePlating: 反应镀层
-    ScrappodItem: Scrappod Item
+    ScrappodItem: 破片弹
     Scrapshot: 链爪霰弹枪
     SupplyBeacon: Supply Beacon
     Ivy: Forest Ivy
