@@ -1660,12 +1660,12 @@ Mods.StarlightRiver:
   Containers.AnkhChest: Ankh Chest
   BiomeName:
   {
-    HotspringBiome: Hotsprings
-    MoonstoneBiome: Moonstone
-    OvergrowBiome: "[PH]Overgrowth"
-    PermafrostTempleBiome: Auroracle Temple
-    VitricDesertBiome: Vitric Desert
-    VitricTempleBiome: Vitric Forge
+    HotspringBiome: 热泉
+    MoonstoneBiome: 月光岩地
+    OvergrowBiome: "[PH]繁茂之地"
+    PermafrostTempleBiome: 极光神殿
+    VitricDesertBiome: 琉璃荒漠
+    VitricTempleBiome: 琉璃锻炉
   }
   NPCName:
   {
