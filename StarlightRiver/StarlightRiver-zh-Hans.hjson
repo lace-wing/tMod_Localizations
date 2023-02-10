@@ -19,15 +19,15 @@ Mods.StarlightRiver:
     BaseBarrierDye: Base Barrier Dye
     MoonstoneBarrierDye: Moonstone Tincture
     VitricBossBarrierDye: Sentinel's Tincture
-    SeaglassRing: Seaglass Ring
+    SeaglassRing: 海玻璃指环
     BreachCannon: Breach Cannon
-    BreacherChest: Breacher Chestplate
-    BreacherHead: Breacher Visor
-    BreacherLegs: Breacher Leggings
-    FlareBreacher: Flare Breacher
-    ReactivePlating: Reactive Plating
-    ScrappodItem: Scrap Pod
-    Scrapshot: Scrapshot
+    BreacherChest: 破坏者胸甲
+    BreacherHead: 破坏者面甲
+    BreacherLegs: 破坏者护胫
+    FlareBreacher: 耀斑破坏者
+    ReactivePlating: 反应镀层
+    ScrappodItem: Scrappod Item
+    Scrapshot: 链爪霰弹枪
     SupplyBeacon: Supply Beacon
     Ivy: Forest Ivy
     IvySeeds: Forest Ivy Seeds
@@ -130,12 +130,12 @@ Mods.StarlightRiver:
     MagmaSword: "[PH] Magma Sword"
     GrayGoo: Gray Goo
     ThunderBeads: Magnet Beads
-    Thunderbuss: Thunderbuss
+    Thunderbuss: 雷电径迹
     AlchemistShackles: Alchemist's Shackles
     ArchaeologistsMap: Archaeologist's Map
     BalloonGun: Balloon Gun
     BalloonInABalloon: Balloon In A Balloon
-    BarbedKnife: Barbed Knife
+    BarbedKnife: 带刺血刃
     BizarrePotion: Bizarre Potion
     Bladesaw: Bladesaw
     BloodAmulet: Blood Amulet
@@ -161,17 +161,17 @@ Mods.StarlightRiver:
     FiletKnife: Filet Knife
     FryingPan: Frying Pan
     GeodeBow: Geode Bow
-    GlassArrowhead: Glass Arrowhead
+    GlassArrowhead: 玻璃箭头
     GraveBuster: Gravebuster
-    Guillotine: Golden Guillotine
+    Guillotine: 金质断头台
     Gunchucks: Gunchucks
     GunstrapBoots: Gunstrap Boots
     HermesVow: Hermes' Vow
-    HolyAmulet: Holy Amulet
+    HolyAmulet: 神圣护身符
     HungryStomach: Hungry Stomach
     ImpactSMG: Impact SMG
     ImpulseThruster: Impulse Thruster
-    Ironheart: Ironheart
+    Ironheart: 钢铁之心
     LostCollar: Lost Collar
     Magebane: Magebane
     MagmaGun: Pyroclastic Flow
@@ -194,26 +194,26 @@ Mods.StarlightRiver:
     SpikedMail: Spiked Mail
     StaminaGel: Stamina Gel
     StaminaPickup: Stamina Pickup
-    StaminaRing: Band of Endurance
-    StaminaUp: Glass Stamina Vessel
-    StarlightShuriken: Starlight Shuriken
+    StaminaRing: 耐力腰带
+    StaminaUp: 晶体耐力容器
+    StarlightShuriken: 星光手里剑
     SwordBook: Mantis Technique
     TaintedGreataxe: Tainted Greataxe
     TinCoil: Tin Coil
-    TwistSword: Twisted Greatsword
+    TwistSword: 环旋重剑
     Ultrapills: ULTRAPILLS
     WardedMail: Warded Mail
     CrescentQuarterstaff: Crescent Quarterstaff
-    Datsuzei: Datsuzei
+    Datsuzei: 达特苏泽
     DianesPendant: Diane's Pendant
     Moonfury: Moonfury
     MoonstoneArrow: Moonlit Arrow
-    MoonstoneBarItem: Moonstone Bar
-    MoonstoneChest: Moonstone Chestpiece
+    MoonstoneBarItem: 月岩锭
+    MoonstoneChest: 月岩胸甲
     MoonstoneHamaxe: Moonstone Hamaxe
-    MoonstoneHead: Moonstone Helmet
-    MoonstoneLegs: Moonstone Greaves
-    MoonstoneOreItem: Moonstone
+    MoonstoneHead: 月岩头盔
+    MoonstoneLegs: 月岩战靴
+    MoonstoneOreItem: 月岩
     Shaker: The Shaker
     PalestoneNail: Palenail
     AuroraBell: Aurora Bell
@@ -239,13 +239,13 @@ Mods.StarlightRiver:
     Astroscrap: Astroscrap
     StarwoodBoomerang: Starwood Boomerang
     StarwoodBoots: Starwood Leggings
-    StarwoodCharm: Starwood Charm
+    StarwoodCharm: 星木配饰
     StarwoodChest: Starwood Robes
     StarwoodHat: Starwood Hat
     StarwoodSlingshot: Starwood Slingshot
     StarwoodStaff: Starwood Staff
     AncientGear: Ancient Gear
-    Buzzsaw: Steamsaw
+    Buzzsaw: 蒸汽圆锯
     CogAmmoItem: Cogshot
     Cogwheel: Cogwheel
     Jetwelder: Jetwelder
@@ -253,12 +253,12 @@ Mods.StarlightRiver:
     JetwelderScrap2: Scrap
     JetwelderScrap3: Scrap
     JetwelderScrap4: Scrap
-    RebarLauncher: Rebar Launcher
+    RebarLauncher: 钢筋发射器
     RuneStaff: Ancient Rune Staff
-    TempleLens: Ancient Lens
-    TempleLensUpgrade: Truestrike Lens
+    TempleLens: 远古透镜
+    TempleLensUpgrade: 制敌透镜
     TemplePick: Whirlwind Pickaxe
-    TempleRune: Rune of Warding
+    TempleRune: 守护符文
     TempleSpear: Point of Light
     ArmorBag: Armor Bag
     ChefBag: Chef's Bag
@@ -272,38 +272,38 @@ Mods.StarlightRiver:
     WardenHat: Warden Hat
     WardenRobe: Warden Robe
     CoachGunUpgrade: Magmatic Coach Gun
-    Coalescence: Coalescence
-    FacetAndLattice: Facet & Lattice
-    GlassIdol: Glass Idol
-    GlassIdolEndless: Gilded Glass Idol
+    Coalescence: 聚合
+    FacetAndLattice: 晶格与晶面
+    GlassIdol: 棱晶圣器
+    GlassIdolEndless: 镀金棱晶圣器
     IgnitionGauntlets: Ignition Gauntlets
     MagmaArrow: Magma Arrow
-    MagmaCore: Magmatic Core
-    MagmiteBottle: Magmite in a Bottle
+    MagmaCore: 岩浆核心
+    MagmiteBottle: 瓶中熔滴螨
     MagmiteVacpack: Magmite Vacpack
-    Needler: Needler
+    Needler: 热熔晶针枪
     PhoenixStorm: Phoenix Storm
     RecursiveFocus: Recursive Focus
-    RefractiveBlade: Refractive Blade
-    SandstoneChunk: Ancient Ceramic
-    ShatteredAegis: Shattered Aegis
+    RefractiveBlade: 透射长矛
+    SandstoneChunk: 古代陶瓷
+    ShatteredAegis: 破碎的神盾
     VitricBossBag: Treasure Bag (Ceiros)
-    VitricBow: Vitric Bow
+    VitricBow: 棱晶弓
     VitricBulletItem: Vitric Bullet
-    VitricChest: Vitric Chestpiece
-    VitricHamaxe: Vitric Hamaxe
-    VitricHead: Vitric Headgear
-    VitricHook: Ripshatter
-    VitricLegs: Vitric Greaves
+    VitricChest: 棱晶胸甲
+    VitricHamaxe: 棱晶锤斧
+    VitricHead: 棱晶头盔
+    VitricHook: 撕裂者
+    VitricLegs: 棱晶护胫
     VitricMagicBook: Vitric Book
-    VitricOre: Vitric Sliver
-    VitricPick: Vitric Pickaxe
-    VitricSword: Ancient Vitric Blade
+    VitricOre: 棱晶碎片
+    VitricPick: 棱晶镐
+    VitricSword: 远古棱晶刃
     MagmitePassiveItem: Magmite
-    CodexTileItem: Starlight Codex
+    CodexTileItem: 星光宝典
     FaeflameTileItem: Faeflame
-    StaminaShardTileItem: Stamina Shard
-    WindsTileItem: Forbidden Winds
+    StaminaShardTileItem: 耐力碎片
+    WindsTileItem: 禁忌之风
     CookStationItem: Prep Station
     InfuserItem: "[PH]Infuser"
     AnkhChestItem: Ankh Chest
@@ -316,9 +316,9 @@ Mods.StarlightRiver:
     Rice: Rice
     GreenhouseGlassItem: Greenhouse Glass
     GreenhouseWallItem: Greenhouse Glass Wall
-    BouncerItem: Vitric Bouncer
-    StaminaGemItem: Stamina Gem
-    StaminaOrbItem: Stamina Orb
+    BouncerItem: 晶体弹珠
+    StaminaGemItem: 耐力宝石
+    StaminaOrbItem: 耐力球
     DisplayCaseFriendlyItem: Display Case
     RatTentItem: Strange Tent
     JellyShroomItem: Blue Jellyshroom
@@ -351,7 +351,7 @@ Mods.StarlightRiver:
     TouchstoneItem: Touchstone
     TouchstoneLootboxItem: Touchstone Chest Placer
     AuroracleTrophyItem: Auroracle Trophy
-    CeirosTrophyItem: Ceiros Trophy
+    CeirosTrophyItem: 塞洛斯纪念章
     HotspringFountainItem: Hotspring Source
     MagmiteShrineItem: The Boi
     DashBarrierItem: Dash Barrier
@@ -361,10 +361,10 @@ Mods.StarlightRiver:
     TempleWallItem: Ancient Temple Brick Wall
     TestBubble: Bubble
     VerletBannerItem: Verlet banner
-    AncientSandstonePillarWallItem: Ancient Sandstone Wall
-    AncientSandstonePlatformItem: Ancient Sandstone Platform
-    AncientSandstoneTorchItem: Ancient Vitric Illuminator
-    AncientSandstoneWallItem: Ancient Sandstone Wall
+    AncientSandstonePillarWallItem: 古代砂岩墙
+    AncientSandstonePlatformItem: 古代砂岩平台
+    AncientSandstoneTorchItem: 远古水晶灯
+    AncientSandstoneWallItem: 古代砂岩墙
     ForgeDoorItem: Forge Door
     ForgeInnerDoorItem: Forge Inner Door
     RedBannerShortItem: Short Flowing Banner
@@ -375,7 +375,7 @@ Mods.StarlightRiver:
     GearTilePlacer: Gear puzzle
     ObjectiveGearItem: Gear puzzle Point
     ReflectorItem: Reflector
-    LowWindBannerItem: Rectangular Flowing Banner
+    LowWindBannerItem: 矩形飘动旗帜
     OldCeirosShrineItem: Old Ceiros Shrine
     TempleCandleCrystalItem: Temple Crystal Candle
     TempleCandleItem: Temple Candle
@@ -398,8 +398,8 @@ Mods.StarlightRiver:
     VitricMediumCrystalItem: Medium vitric crystal
     VitricOreFloatItem: Floating Vitric Ore Crystal Item
     VitricOreItem: Vitric Ore Crystal Item
-    VitricRockItem: Vitric Rock
-    VitricSandWallItem: Vitric Sand Wall
+    VitricRockItem: 棱晶岩
+    VitricSandWallItem: 棱晶沙墙
     VitricSmallCrystalItem: Small vitric crystal
     VitricSpikeItem: Vitric Spikes
     VitricBannerItem: Long Flowing Banner
@@ -442,10 +442,10 @@ Mods.StarlightRiver:
     TempleWeaponRack3Item: Temple Weapon Rack D
     TempleThingamajigItem: Temple Large Weapon Rack
     TempleBrickItem: Ancient Bricks
-    VitricBoss1Item: Music Box (Ceiros P1)
-    VitricBoss2Item: Music Box (Ceiros P2)
-    VitricPassiveItem: Music Box (Vitric Desert)
-    VitricTempleItem: Music Box (Vitric Temple)
+    VitricBoss1Item: 八音盒（塞洛斯1）
+    VitricBoss2Item: 八音盒（塞洛斯2）
+    VitricPassiveItem: 八音盒（棱晶沙漠）
+    VitricTempleItem: 八音盒（棱晶神庙）
     MinibossItem: Music Box (Miniboss)
     OvergrowItem: Music Box (Overgrow)
     AuroracleItem: Music Box (Auroracle)
@@ -455,14 +455,14 @@ Mods.StarlightRiver:
     SpringstoneItem: Springstone
     ShrineBrazierItem: Mysterious Brazier
     WitTileItem: Tile of Wit
-    AncientSandstoneItem: Ancient Sandstone
-    AncientSandstoneTileItem: Ancient Sandstone Tile
-    VitricBrickItem: Vitric Bricks
-    VitricCactusItem: Crystal Cactus
-    VitricGlassItem: Vitric Glass
-    VitricSandItem: Glassy Sand
-    VitricSoftSandItem: Soft Glassy Sand
-    VitricSandPlainItem: Soft Sand
+    AncientSandstoneItem: 古代砂岩
+    AncientSandstoneTileItem: 古代砂岩瓷砖
+    VitricBrickItem: 水晶砖
+    VitricCactusItem: 棱晶仙人掌
+    VitricGlassItem: 水晶玻璃
+    VitricSandItem: 棱晶沙块
+    VitricSoftSandItem: 柔软棱晶沙块
+    VitricSandPlainItem: 软沙块
   }
   ItemTooltip:
   {
@@ -1698,8 +1698,8 @@ Mods.StarlightRiver:
     EnchantNPC: Enchant N P C
     Voidsmith: Voidsmith
     BoomBug: Firebug
-    CrystalPopper: Sand Bat
-    CrystalSlime: Crystal Slime
+    CrystalPopper: 沙漠蝙蝠
+    CrystalSlime: 棱晶史莱姆
     DesertWisp: Desert Wisp
     DesertWisp2: Desert Wisp2
     FlyingGruntConstruct: Flying Grunt Construct
@@ -1710,8 +1710,8 @@ Mods.StarlightRiver:
     SupporterConstruct: Supporter Construct
     KettleCreature: Kettle Kreature
     LesserFirebug: Lesser Firebug
-    MagmitePassive: Small Magmite
-    Snake: Spittin' Snek
+    MagmitePassive: 小熔滴螨
+    Snake: 熔火响尾蛇
     CodexPickup: Starlight Codex
     FaeflamePickup: Faeflame
     ForbiddenWindsPickup: Forbidden Winds
@@ -1722,23 +1722,23 @@ Mods.StarlightRiver:
   }
   BuffName:
   {
-    Claustrophobia: Claustrophobia
-    CoughDropsBuff: Cough Drops
-    FerrofluidDraftBuff: Ferrofluid Draft
-    FoodBuff: Nourished
-    ForestTonic: Forest Tonic
-    Full: Stuffed
-    HotspringHeal: Refreshing Dip
-    Illuminant: Illuminant
-    Ivy: Ivy
-    IvySnare: Snared
-    MossRegen: Mending Moss
-    Overcharge: Overcahrged
-    PrismaticDrown: Prismatic Drown
-    ProtectiveShard: Protective Shards
-    Rage: Rage
-    Slimed: Slimed
-    Squash: Pancaked
+    Claustrophobia: 幽闭恐惧症
+    CoughDropsBuff: 止咳糖浆
+    FerrofluidDraftBuff: 磁流体牵引
+    FoodBuff: 滋养
+    ForestTonic: 森林的补益
+    Full: 饱腹
+    HotspringHeal: 提神温泉
+    Illuminant: 发光体
+    Ivy: 常春藤
+    IvySnare: 陷阱
+    MossRegen: 再生苔藓
+    Overcharge: 过充
+    PrismaticDrown: 棱晶溺水
+    ProtectiveShard: 护佑碎片
+    Rage: 暴怒
+    Slimed: 黏滑
+    Squash: 压扁
     StaticShock: Static Shock
     GrayGooSummonBuff: Gray Goo
     PalestoneSummonBuff: Pale Knight
@@ -1755,7 +1755,7 @@ Mods.StarlightRiver:
     CoachDebuff: Coach Debuff
     FiletFrenzyBuff: Blood Frenzy
     ImpactSMGBuff: Heated Up!
-    IronheartBuff: Ironheart
+    IronheartBuff: 钢铁之心
     PlexusChaliceBuff: Plexus Resistance
     MoonfuryDebuff: Dreamfire
     AuroraThroneMountMinionDebuff: Inked
@@ -1766,7 +1766,7 @@ Mods.StarlightRiver:
     CogwheelBuff: Cogwheel
     Exposed: Exposed
     PhoenixStormSummonBuff: Phoenix Minion
-    RefractiveBladeBuff: Melting
+    RefractiveBladeBuff: 融化
     SwelteredDeBuff: Sweltered
     Fogbinded: Fogbinded
   }
