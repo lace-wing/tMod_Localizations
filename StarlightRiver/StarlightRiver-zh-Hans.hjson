@@ -215,96 +215,96 @@ Mods.StarlightRiver:
     MoonstoneLegs: 月岩战靴
     MoonstoneOreItem: 月岩
     Shaker: The Shaker
-    PalestoneNail: Palenail
-    AuroraBell: Aurora Bell
-    AuroraThroneMountItem: Aurora Crown
-    BookOfFrost: Book Of Frost
-    Frostball: Frostball
-    Octogun: Octogun
-    OverflowingUrn: Overflowing Urn
-    SquidBossBag: Treasure Bag (Auroracle)
-    SquidBossSpawn: Suspicious Looking Offering
-    SquidBossSpawnEndless: Gilded Suspicious Looking Offering
-    SquidFins: Squid Fins
-    TentacleHook: Tentacle Hook
-    Tentalance: Tentalance
-    WaterStaff: Staff of the Waves
-    GreaterBarrierPotion: Greater Barrier Potion
+    PalestoneNail: 苍白之钉 #subject to change
+    AuroraBell: 极光钟
+    AuroraThroneMountItem: 极光冕
+    BookOfFrost: 凄冻之书
+    Frostball: 寒丸
+    Octogun: 腕足枪
+    OverflowingUrn: 溢流瓮
+    SquidBossBag: 宝藏袋（极光鲗）
+    SquidBossSpawn: 可疑供品
+    SquidBossSpawnEndless: 镀金可疑供品
+    SquidFins: 鱿鱼鳍
+    TentacleHook: 腕足钩
+    Tentalance: 五爪矛
+    WaterStaff: 波纹法杖
+    GreaterBarrierPotion: 强效屏障药水
     InoculationPotion: Inoculation Potion
-    LesserBarrierPotion: Lesser Barrier Potion
-    RegularBarrierPotion: " Barrier Potion"
-    BloodCrystal: Blood Crystal
-    AquamarinePendant: Aquamarine Pendant
-    MeadHorn: Mead Horn
-    Astroscrap: Astroscrap
-    StarwoodBoomerang: Starwood Boomerang
-    StarwoodBoots: Starwood Leggings
-    StarwoodCharm: 星木配饰
-    StarwoodChest: Starwood Robes
-    StarwoodHat: Starwood Hat
-    StarwoodSlingshot: Starwood Slingshot
-    StarwoodStaff: Starwood Staff
-    AncientGear: Ancient Gear
+    LesserBarrierPotion: 弱效屏障药水
+    RegularBarrierPotion: 屏障药水
+    BloodCrystal: 血晶
+    AquamarinePendant: 冰蓝吊坠
+    MeadHorn: 蜜酿号角
+    Astroscrap: 天外陨铁
+    StarwoodBoomerang: 星木回旋镖
+    StarwoodBoots: 星木护胫
+    StarwoodCharm: 星木护符
+    StarwoodChest: 星木长袍
+    StarwoodHat: 星木帽
+    StarwoodSlingshot: 星弹弓
+    StarwoodStaff: 星木法杖
+    AncientGear: 远古齿轮
     Buzzsaw: 蒸汽圆锯
-    CogAmmoItem: Cogshot
-    Cogwheel: Cogwheel
-    Jetwelder: Jetwelder
-    JetwelderScrap1: Scrap
-    JetwelderScrap2: Scrap
-    JetwelderScrap3: Scrap
-    JetwelderScrap4: Scrap
+    CogAmmoItem: 齿轮弹
+    Cogwheel: 齿轮车
+    Jetwelder: 喷射焊机
+    JetwelderScrap1: 碎片
+    JetwelderScrap2: 碎片
+    JetwelderScrap3: 碎片
+    JetwelderScrap4: 碎片
     RebarLauncher: 钢筋发射器
-    RuneStaff: Ancient Rune Staff
+    RuneStaff: 远古符文杖
     TempleLens: 远古透镜
-    TempleLensUpgrade: 制敌透镜
-    TemplePick: Whirlwind Pickaxe
-    TempleRune: 守护符文
-    TempleSpear: Point of Light
-    ArmorBag: Armor Bag
-    ChefBag: Chef's Bag
-    CurseRemover: Scroll of Undoing
-    AncientStarwoodBoots: Ancient Starwood Leggings
-    AncientStarwoodChest: Ancient Starwood Robes
-    AncientStarwoodHat: Ancient Starwood Hat
-    MechaChest: Mecha Chest
-    MechaHead: Mecha Helmet
-    MechaLegs: Mecha Legs
-    WardenHat: Warden Hat
-    WardenRobe: Warden Robe
-    CoachGunUpgrade: Magmatic Coach Gun
-    Coalescence: 聚合
-    FacetAndLattice: 晶格与晶面
-    GlassIdol: 棱晶圣器
-    GlassIdolEndless: 镀金棱晶圣器
-    IgnitionGauntlets: Ignition Gauntlets
-    MagmaArrow: Magma Arrow
-    MagmaCore: 岩浆核心
+    TempleLensUpgrade: 真视透镜
+    TemplePick: 旋风镐
+    TempleRune: 护佑符文
+    TempleSpear: 光点
+    ArmorBag: 盔甲袋
+    ChefBag: 厨师袋
+    CurseRemover: 消弭卷轴
+    AncientStarwoodBoots: 远古星木护腿
+    AncientStarwoodChest: 远古星木长袍
+    AncientStarwoodHat: 远古星木帽
+    MechaChest: 机甲躯
+    MechaHead: 机甲盔
+    MechaLegs: 机甲腿
+    WardenHat: 监守者兜帽
+    WardenRobe: 监守者长袍
+    CoachGunUpgrade: 熔岩护骑霰弹枪
+    Coalescence: 聚萤
+    FacetAndLattice: 琢面晶格
+    GlassIdol: 棱晶圣像
+    GlassIdolEndless: 镀金琉璃圣像
+    IgnitionGauntlets: 起爆手套
+    MagmaArrow: 熔岩箭
+    MagmaCore: 熔岩核心
     MagmiteBottle: 瓶中熔滴螨
-    MagmiteVacpack: Magmite Vacpack
+    MagmiteVacpack: 熔滴螨加农炮
     Needler: 热熔晶针枪
-    PhoenixStorm: Phoenix Storm
-    RecursiveFocus: Recursive Focus
-    RefractiveBlade: 透射长矛
-    SandstoneChunk: 古代陶瓷
+    PhoenixStorm: 凤凰风暴
+    RecursiveFocus: 递迴透镜
+    RefractiveBlade: 折射尖刃
+    SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
-    VitricBossBag: Treasure Bag (Ceiros)
+    VitricBossBag: 宝藏袋（塞洛斯）
     VitricBow: 棱晶弓
-    VitricBulletItem: Vitric Bullet
+    VitricBulletItem: 棱晶弹
     VitricChest: 棱晶胸甲
     VitricHamaxe: 棱晶锤斧
     VitricHead: 棱晶头盔
     VitricHook: 撕裂者
     VitricLegs: 棱晶护胫
-    VitricMagicBook: Vitric Book
-    VitricOre: 棱晶碎片
+    VitricMagicBook: 棱晶之书
+    VitricOre: 棱晶裂片
     VitricPick: 棱晶镐
     VitricSword: 远古棱晶刃
-    MagmitePassiveItem: Magmite
+    MagmitePassiveItem: 熔滴螨
     CodexTileItem: 星光宝典
-    FaeflameTileItem: Faeflame
+    FaeflameTileItem: 妖火
     StaminaShardTileItem: 耐力碎片
     WindsTileItem: 禁忌之风
-    CookStationItem: Prep Station
+    CookStationItem: 灶台
     InfuserItem: "[PH]Infuser"
     AnkhChestItem: Ankh Chest
     ForestBerries: Forest Berries
