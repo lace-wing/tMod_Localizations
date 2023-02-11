@@ -144,10 +144,10 @@ Mods.StarlightRiver:
     BuffChalice: Plexus Chalice
     CasualMirror: 混乱镜
     Cheapskates: 廉价溜冰鞋
-    CoachGun: Coach Gun
-    CopperCoil: Copper Coil
-    Corpseflower: Corpseflower
-    CoughDrops: Cough Drops
+    CoachGun: 护骑霰弹枪
+    CopperCoil: 铜质线圈
+    Corpseflower: 尸花
+    CoughDrops: 止咳滴丸
     CutlassBus: Cutlassbus
     DiceAmmo: Dice
     DisinfectantKit: Disinfectant Kit
@@ -199,7 +199,7 @@ Mods.StarlightRiver:
     StarlightShuriken: 星光手里剑
     SwordBook: Mantis Technique
     TaintedGreataxe: Tainted Greataxe
-    TinCoil: Tin Coil
+    TinCoil: 锡质线圈
     TwistSword: 环旋重剑
     Ultrapills: ULTRAPILLS
     WardedMail: Warded Mail
