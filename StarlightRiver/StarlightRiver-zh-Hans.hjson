@@ -28,90 +28,90 @@ Mods.StarlightRiver:
     ReactivePlating: 反应镀层
     ScrappodItem: 破片弹
     Scrapshot: 链爪霰弹枪
-    SupplyBeacon: Supply Beacon
-    Ivy: Forest Ivy
-    IvySeeds: Forest Ivy Seeds
-    PotionForest: Forest Tonic
-    ArchaeologistsWhip: Archaeologist's Whip
-    AWhip_BlueGem: Treasure
-    AWhip_Cloud: Treasure
-    AWhip_Coin: Treasure
-    AWhip_GreenGem: Treasure
-    AWhip_Necklace: Treasure
-    AWhip_RedGem: Treasure
-    DesertArtifact1Item: Ancient Fossil
-    DesertArtifact2Item: Ancient Fossil
-    DesertArtifact3Item: Ancient Fossil
-    DesertArtifact4Item: Ancient Fossil
-    DesertArtifact5Item: Ancient Fossil
-    DesertArtifact6Item: Ancient Fossil
-    DesertArtifact7Item: Ancient Fossil
-    ExoticGeodeArtifactItem: Exotic Geode
-    PerfectlyGenericArtifactItem: Perfectly Generic Object
-    PirateChestArtifactItem: Pirate Chest
-    RainTotemArtifactItem: Rain Totem
-    WindTotemArtifactItem: Wind Totem
-    DebugModerEnabler: Debug Mode
-    DebugStick: Debug Stick
-    DefiledAnkh: Defiled Ankh
-    AquaSapphire: Aqua sapphire
-    Cloudstrike: Cloudstrike
-    InertStaff: Inert Crescent Staff
-    SkullBuster: Skullbuster
-    StarlightPendant: Starlight Pendant
-    ThousandthDegree: Thousandth Degree
-    Eraser: Eraser
-    ReplicantCells: Replicant Cells
-    ExampleCombatMountItem: Example Combat Mount Item
-    BlackPepper: Black Pepper
-    Butter: Butter
-    Carrot: Carrot
-    Cherry: Cherry
-    Dough: Dough
-    Dressing: Dressing
+    SupplyBeacon: 补给信标
+    Ivy: 常青藤
+    IvySeeds: 常青藤种
+    PotionForest: 森林补剂
+    ArchaeologistsWhip: 考古学家的鞭子
+    AWhip_BlueGem: 宝藏
+    AWhip_Cloud: 宝藏
+    AWhip_Coin: 宝藏
+    AWhip_GreenGem: 宝藏
+    AWhip_Necklace: 宝藏
+    AWhip_RedGem: 宝藏
+    DesertArtifact1Item: 远古化石
+    DesertArtifact2Item: 远古化石
+    DesertArtifact3Item: 远古化石
+    DesertArtifact4Item: 远古化石
+    DesertArtifact5Item: 远古化石
+    DesertArtifact6Item: 远古化石
+    DesertArtifact7Item: 远古化石
+    ExoticGeodeArtifactItem: 奇异晶洞
+    PerfectlyGenericArtifactItem: 完全通用的物件
+    PirateChestArtifactItem: 海盗箱
+    RainTotemArtifactItem: 暴雨图腾
+    WindTotemArtifactItem: 烈风图腾
+    DebugModerEnabler: 调试模式
+    DebugStick: 调试棒
+    DefiledAnkh: 亵渎十字章
+    AquaSapphire: 水蓝宝石
+    Cloudstrike: 云霄破击 # 命运2 Destiny 2 Cloudstrike Exotic Sniper Rifle
+    InertStaff: 失效的新月法杖
+    SkullBuster: 颅骨破坏者
+    StarlightPendant: 星光吊坠
+    ThousandthDegree: 千度火轮
+    Eraser: 抹除器
+    ReplicantCells: 复制细胞
+    ExampleCombatMountItem: 示例战斗宠物
+    BlackPepper: 黑胡椒
+    Butter: 黄油
+    Carrot: 胡萝卜
+    Cherry: 樱桃
+    Dough: 面团
+    Dressing: 调料
     EaterSteak: Eater Steak
     FaceSteak: Face Steak
-    Gelatine: Gelatine
-    GelBerry: Gel Berry
-    Greens: Greens
-    HealthExtract: Health Extract
-    HoneySyrup: Honey Syrup
-    IvySalad: Ivy Salad
-    Lettuce: Lettuce
-    MahoganyRoot: Mahogany Root
-    ManaExtract: Mana Extract
-    Meal: Meal
-    Milk: Milk
-    Rabbit: Rabbit
-    SeaSalt: Sea Salt
-    Slimejelly: Slimejelly
-    SupportCookies: Support Cookies
-    StarlightWater: Starlight Water
-    Steak: Steak
-    Sugar: Sugar
-    TableSalt: Table Salt
-    Toast: Toast
-    Vinegar: Vinegar
-    WhippedCream: Whipped Cream
-    AcornSprout: Acorn Sprout
-    DustyAmulet: Dusty Amulet
-    FeralWolfMountItem: Juicy Steak
-    OldWhetstone: Old Whetstone
-    Trowel: Bricklayer's Trowel
-    Trowel2: Autotrowel 9000
-    ForestIvyBlowdart: Forest Ivy Blowpipe
-    ForestIvyChest: Forest Ivy Chestplate
-    ForestIvyHead: Forest Ivy Helm
-    ForestIvyLegs: Forest Ivy Leggings
-    EmeraldHeart: Emerald Heart
-    GeoAmethyst: Amethyst
-    GeoDiamond: Diamond
-    GeoEmerald: Emerald
-    GeomancerHood: Geomancer's Hood
-    GeomancerItemDummy: Effects of different gems:
-    GeomancerPants: Geomancer's Greaves
-    GeomancerRobe: Geomancer's Cowl
-    GeoRuby: Ruby
+    Gelatine: 明胶
+    GelBerry: 胶梅
+    Greens: 绿色蔬菜
+    HealthExtract: 生命汁液
+    HoneySyrup: 蜂蜜糖浆
+    IvySalad: 常青藤沙拉
+    Lettuce: 生菜
+    MahoganyRoot: 红木根
+    ManaExtract: 魔力汁液
+    Meal: 大餐
+    Milk: 牛奶
+    Rabbit: 兔肉
+    SeaSalt: 海盐
+    Slimejelly: 史莱姆果冻
+    SupportCookies: 辅助曲奇
+    StarlightWater: 星光之水
+    Steak: 生牛扒
+    Sugar: 糖
+    TableSalt: 食盐
+    Toast: 吐司
+    Vinegar: 醋
+    WhippedCream: 掼奶油
+    AcornSprout: 橡子芽
+    DustyAmulet: 蒙尘护符
+    FeralWolfMountItem: 多汁牛扒
+    OldWhetstone: 老旧的磨刀石
+    Trowel: 砖瓦匠的抹刀
+    Trowel2: 自动抹灰器 9000
+    ForestIvyBlowdart: 常青藤吹管
+    ForestIvyChest: 常青藤胸甲
+    ForestIvyHead: 常青藤头盔
+    ForestIvyLegs: 常青藤护腿
+    EmeraldHeart: 绿宝石之心
+    GeoAmethyst: 紫水晶
+    GeoDiamond: 钻石
+    GeoEmerald: 绿宝石
+    GeomancerHood: 地卜师的兜帽
+    GeomancerItemDummy: 不同宝石的效果:
+    GeomancerPants: 地卜师的护腿
+    GeomancerRobe: 地卜师的斗篷
+    GeoRuby: 红宝石
     GeoSapphire: 蓝宝石
     GeoTopaz: 黄晶
     RainbowCycleDye: Rainbow Cycle Dye
