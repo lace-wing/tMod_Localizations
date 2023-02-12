@@ -113,7 +113,7 @@ Mods.StarlightRiver:
     GeomancerRobe: 地卜师的斗篷
     GeoRuby: 红宝石
     GeoSapphire: 蓝宝石
-    GeoTopaz: 黄晶
+    GeoTopaz: 黄宝石
     RainbowCycleDye: Rainbow Cycle Dye
     RainbowCycleDye2: Rainbow Cycle Dye2
     SapphireStar: 蓝宝石星星
@@ -121,7 +121,7 @@ Mods.StarlightRiver:
     BloodBolter: Bloodbolter
     Gluttony: 暴食
     GravediggerItem: 坟墓粉碎者
-    LivingBlood: Living Blood
+    LivingBlood: 不死之血
     PoltergeistChest: 作祟胸甲
     PoltergeistHead: 作祟兜帽
     PoltergeistLegs: 作祟袍靴
@@ -149,12 +149,12 @@ Mods.StarlightRiver:
     Corpseflower: 尸花
     CoughDrops: 止咳滴丸
     CutlassBus: Cutlassbus
-    DiceAmmo: Dice
-    DisinfectantKit: Disinfectant Kit
-    DisinfectantWipes: Disinfectant Wipes
-    DualCross: Double Cross
-    DullBlade: Dull Blade
-    ElectroArrow: Electro Arrow
+    DiceAmmo: 骰子
+    DisinfectantKit: 消毒试剂箱
+    DisinfectantWipes: 消毒湿巾
+    DualCross: 双发十字弩
+    DullBlade: 钝刃
+    ElectroArrow: 电弧箭
     FiletGiblet1: Giblet
     FiletGiblet2: Giblet
     FiletGiblet3: Giblet
@@ -168,46 +168,46 @@ Mods.StarlightRiver:
     GunstrapBoots: Gunstrap Boots
     HermesVow: 赫尔墨斯誓约
     HolyAmulet: 神圣护身符
-    HungryStomach: Hungry Stomach
+    HungryStomach: 饥饿的肠胃
     ImpactSMG: Impact SMG
-    ImpulseThruster: Impulse Thruster
+    ImpulseThruster: 脉冲推进器
     Ironheart: 钢铁之心
-    LostCollar: Lost Collar
-    Magebane: Magebane
-    MagmaGun: Pyroclastic Flow
-    MonkSpade: Monk Spade
-    PandorasDagger: Pandora's Dagger
-    PandorasShield: Pandora's Shield
-    PhilosophersMortar: Philosopher's Mortar
-    PowerCell: Power Cell
-    PulseBoots: Pulse Boots
+    LostCollar: 遗失的颈圈
+    Magebane: 法师的灾星
+    MagmaGun: 熔山喷流
+    MonkSpade: 武僧月牙铲
+    PandorasDagger: 潘多拉短剑
+    PandorasShield: 潘多拉护盾
+    PhilosophersMortar: 哲学家的研钵
+    PowerCell: 充能细胞
+    PulseBoots: 脉冲靴
     RhythmicResonator: Rhythmic Resonator
     Sandscript: Sandscript
-    SanitizerSpray: Sanitizer Spray
-    ShockAbsorber: Shock Absorber
+    SanitizerSpray: 消毒喷雾
+    ShockAbsorber: 减震器
     Sling: Sling
-    Slitherring: Slitherring
-    Soilgun: Soilgun
+    Slitherring: 蛇鞭
+    Soilgun: 土块枪
     SojournersScarf: Sojourner's Scarf
-    Sorcerwrench: Sorcerwrench
-    SoulOfFrog: Soul Of Frog
-    SpikedMail: Spiked Mail
-    StaminaGel: Stamina Gel
-    StaminaPickup: Stamina Pickup
+    Sorcerwrench: 巫师扳手
+    SoulOfFrog: 青蛙之魂
+    SpikedMail: 尖刺锁甲
+    StaminaGel: 耐力凝胶
+    StaminaPickup: 耐力掉落物
     StaminaRing: 耐力腰带
     StaminaUp: 晶体耐力容器
     StarlightShuriken: 星光手里剑
-    SwordBook: Mantis Technique
+    SwordBook: 螳螂格斗术
     TaintedGreataxe: Tainted Greataxe
     TinCoil: 锡质线圈
     TwistSword: 环旋重剑
     Ultrapills: ULTRAPILLS
-    WardedMail: Warded Mail
-    CrescentQuarterstaff: Crescent Quarterstaff
+    WardedMail: 格挡锁甲
+    CrescentQuarterstaff: 新月四分棍
     Datsuzei: 达特苏泽
-    DianesPendant: Diane's Pendant
-    Moonfury: Moonfury
-    MoonstoneArrow: Moonlit Arrow
+    DianesPendant: 戴安娜的吊坠
+    Moonfury: 月怒
+    MoonstoneArrow: 月耀箭
     MoonstoneBarItem: 月长石锭
     MoonstoneChest: 月长石胸甲
     MoonstoneHamaxe: 月长石锤斧
@@ -242,7 +242,7 @@ Mods.StarlightRiver:
     StarwoodCharm: 星木护符
     StarwoodChest: 星木长袍
     StarwoodHat: 星木帽
-    StarwoodSlingshot: 星弹弓
+    StarwoodSlingshot: 星木弹弓
     StarwoodStaff: 星木法杖
     AncientGear: 远古齿轮
     Buzzsaw: 蒸汽圆锯
