@@ -158,15 +158,15 @@ Mods.StarlightRiver:
     FiletGiblet1: Giblet
     FiletGiblet2: Giblet
     FiletGiblet3: Giblet
-    FiletKnife: Filet Knife
-    FryingPan: Frying Pan
+    FiletKnife: 片肉刀
+    FryingPan: 煎锅
     GeodeBow: Geode Bow
     GlassArrowhead: 玻璃箭头
-    GraveBuster: Gravebuster
+    GraveBuster: 坟墓破坏者
     Guillotine: 金质断头台
-    Gunchucks: Gunchucks
+    Gunchucks: 双截猎枪
     GunstrapBoots: Gunstrap Boots
-    HermesVow: Hermes' Vow
+    HermesVow: 赫尔墨斯誓约
     HolyAmulet: 神圣护身符
     HungryStomach: Hungry Stomach
     ImpactSMG: Impact SMG
@@ -208,13 +208,13 @@ Mods.StarlightRiver:
     DianesPendant: Diane's Pendant
     Moonfury: Moonfury
     MoonstoneArrow: Moonlit Arrow
-    MoonstoneBarItem: 月岩锭
-    MoonstoneChest: 月岩胸甲
-    MoonstoneHamaxe: Moonstone Hamaxe
-    MoonstoneHead: 月岩头盔
-    MoonstoneLegs: 月岩战靴
-    MoonstoneOreItem: 月岩
-    Shaker: The Shaker
+    MoonstoneBarItem: 月长石锭
+    MoonstoneChest: 月长石胸甲
+    MoonstoneHamaxe: 月长石锤斧
+    MoonstoneHead: 月长石头盔
+    MoonstoneLegs: 月长石战靴
+    MoonstoneOreItem: 月长石
+    Shaker: 震颤者
     PalestoneNail: 苍白之钉 #subject to change
     AuroraBell: 极光钟
     AuroraThroneMountItem: 极光冕
