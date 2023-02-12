@@ -376,33 +376,33 @@ Mods.StarlightRiver:
     ObjectiveGearItem: 齿轮谜题定位点
     ReflectorItem: 反射镜
     LowWindBannerItem: 矩形飘带
-    OldCeirosShrineItem: Old Ceiros Shrine
-    TempleCandleCrystalItem: Temple Crystal Candle
-    TempleCandleItem: Temple Candle
-    TempleCeirosFountainItem: Temple Sentinel Fountain
-    TempleWallCandleItem: Temple Wall Candle
-    TutorialDoor1Item: TutorialDoor1
-    TutorialDoor2Item: TutorialDoor2
-    VitricPillarWallItem: Vitric Forge Pillar
-    VitricPillarWallShortItem: Short Vitric Forge Pillar
-    VitricTempleWallItem: Vitric Forge Brick Wall
+    OldCeirosShrineItem: 老旧的塞洛斯神龛
+    TempleCandleCrystalItem: 神殿晶体蜡烛
+    TempleCandleItem: 神殿蜡烛
+    TempleCeirosFountainItem: 神殿哨卫喷泉
+    TempleWallCandleItem: 神殿壁挂蜡烛
+    TutorialDoor1Item: 教程用门1
+    TutorialDoor2Item: 教程用门2
+    VitricPillarWallItem: 琉璃锻炉支柱
+    VitricPillarWallShortItem: 低矮琉璃锻炉支柱
+    VitricTempleWallItem: 琉璃锻炉砖墙
     WindsRoomActorItem: Winds Room Actor
-    VitricBannerSmallItem: Short Flowing Banner
-    VitricBossAltarItem: Vitric Boss Altar Item
-    VitricBreakableVaseItem: Vitric Vase Placer
-    VitricFountainItem: Vitric Fountain
-    VitricGiantCrystalItem: Vitric Giant crystal
-    VitricLargeCrystalItem: Large vitric crystal
-    VitricLargeFountainItem: Vitric Large Fountain
-    VitricLootBoxItem: Vitric Loot Box Item
-    VitricMediumCrystalItem: Medium vitric crystal
-    VitricOreFloatItem: Floating Vitric Ore Crystal Item
-    VitricOreItem: Vitric Ore Crystal Item
-    VitricRockItem: 棱晶岩
-    VitricSandWallItem: 棱晶沙墙
-    VitricSmallCrystalItem: Small vitric crystal
-    VitricSpikeItem: Vitric Spikes
-    VitricBannerItem: Long Flowing Banner
+    VitricBannerSmallItem: 短飘带
+    VitricBossAltarItem: 塞洛斯祭坛
+    VitricBreakableVaseItem: 琉璃花瓶
+    VitricFountainItem: 琉璃喷泉
+    VitricGiantCrystalItem: 巨型琉璃晶
+    VitricLargeCrystalItem: 大型琉璃晶
+    VitricLargeFountainItem: 大型琉璃喷泉
+    VitricLootBoxItem: 琉璃晶匣
+    VitricMediumCrystalItem: 中型琉璃晶
+    VitricOreFloatItem: 飘浮琉璃矿
+    VitricOreItem: 琉璃矿
+    VitricRockItem: 琉璃岩
+    VitricSandWallItem: 琉璃砂墙
+    VitricSmallCrystalItem: 小型琉璃晶
+    VitricSpikeItem: 琉璃刺
+    VitricBannerItem: 长飘带
     RedLaserPointer: Red Laser Pointer
     OrangeLaserPointer: Orange Laser Pointer
     YellowLaserPointer: Yellow Laser Pointer
