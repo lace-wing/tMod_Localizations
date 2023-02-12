@@ -365,17 +365,17 @@ Mods.StarlightRiver:
     AncientSandstonePlatformItem: 古代砂岩平台
     AncientSandstoneTorchItem: 远古水晶灯
     AncientSandstoneWallItem: 古代砂岩墙
-    ForgeDoorItem: Forge Door
-    ForgeInnerDoorItem: Forge Inner Door
-    RedBannerShortItem: Short Flowing Banner
-    DoorHorizontalItem: Horizontal Temple Door
-    DoorVerticalItem: Vertical Temple Door
-    EntranceDoorItem: EntranceDoor
-    GearPuzzleOriginPlacer: Gear puzzle origin
-    GearTilePlacer: Gear puzzle
-    ObjectiveGearItem: Gear puzzle Point
-    ReflectorItem: Reflector
-    LowWindBannerItem: 矩形飘动旗帜
+    ForgeDoorItem: 锻炉门
+    ForgeInnerDoorItem: 锻炉内门
+    RedBannerShortItem: 短飘带
+    DoorHorizontalItem: 水平神殿门
+    DoorVerticalItem: 垂直神殿门
+    EntranceDoorItem: 外门
+    GearPuzzleOriginPlacer: 齿轮谜题原点
+    GearTilePlacer: 解谜用齿轮
+    ObjectiveGearItem: 齿轮谜题定位点
+    ReflectorItem: 反射镜
+    LowWindBannerItem: 矩形飘带
     OldCeirosShrineItem: Old Ceiros Shrine
     TempleCandleCrystalItem: Temple Crystal Candle
     TempleCandleItem: Temple Candle
