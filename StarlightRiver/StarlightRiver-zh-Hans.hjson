@@ -403,50 +403,50 @@ Mods.StarlightRiver:
     VitricSmallCrystalItem: 小型琉璃晶
     VitricSpikeItem: 琉璃刺
     VitricBannerItem: 长飘带
-    RedLaserPointer: Red Laser Pointer
-    OrangeLaserPointer: Orange Laser Pointer
-    YellowLaserPointer: Yellow Laser Pointer
-    GreenLaserPointer: Green Laser Pointer
-    BlueLaserPointer: Blue Laser Pointer
-    PurpleLaserPointer: Purple Laser Pointer
-    WhiteLaserPointer: White Laser Pointer
-    PinkLaserPointer: Pink Laser Pointer
-    VitricBathtub: Vitric Bathtub
-    VitricBed: Vitric Bed
-    VitricBookcase: Vitric Bookcase
-    VitricCandelabra: Vitric Candelabra
-    VitricCandle: Vitric Candle
-    VitricChair: Vitric Chair
-    VitricChandelier: Vitric Chandelier
-    VitricClock: Vitric Clock
-    VitricDresser: Vitric Dresser
-    VitricLamp: Vitric Lamp
-    VitricLantern: Vitric Lantern
-    VitricPiano: Vitric Piano
-    VitricSink: Vitric Sink
-    VitricSofa: Vitric Sofa
-    VitricTable: Vitric Table
-    VitricWorkbench: Vitric Workbench
-    VitricDoor: Vitric Door
-    TempleChairItem: Temple Chair
-    TempleLargeVaseItem: Temple Large Vase
-    TempleLargeVaseCrystalItem: Temple Large Crystal Vase
-    TempleWorkbenchItem: Temple Workbench
-    TempleThroneItem: Temple Throne
-    TempleFloorWeaponRackItem: Temple Floor Weapon Rack
-    TempleTableItem: Temple Table
-    TempleTableCrystalItem: Temple Crystal Table
-    TempleWeaponRack0Item: Temple Weapon Rack A
-    TempleWeaponRack1Item: Temple Weapon Rack B
-    TempleWeaponRack2Item: Temple Weapon Rack C
-    TempleWeaponRack3Item: Temple Weapon Rack D
-    TempleThingamajigItem: Temple Large Weapon Rack
-    TempleBrickItem: Ancient Bricks
-    VitricBoss1Item: 八音盒（塞洛斯1）
-    VitricBoss2Item: 八音盒（塞洛斯2）
+    RedLaserPointer: 红激光笔
+    OrangeLaserPointer: 橙激光笔
+    YellowLaserPointer: 黄激光笔
+    GreenLaserPointer: 绿激光笔
+    BlueLaserPointer: 蓝激光笔
+    PurpleLaserPointer: 紫激光笔
+    WhiteLaserPointer: 白激光笔
+    PinkLaserPointer: 粉激光笔
+    VitricBathtub: 琉璃浴缸
+    VitricBed: 琉璃床
+    VitricBookcase: 琉璃书架
+    VitricCandelabra: 琉璃烛台
+    VitricCandle: 琉璃蜡烛
+    VitricChair: 琉璃椅
+    VitricChandelier: 琉璃吊灯
+    VitricClock: 琉璃时钟
+    VitricDresser: 琉璃梳妆台
+    VitricLamp: 琉璃灯
+    VitricLantern: 琉璃灯笼
+    VitricPiano: 琉璃钢琴
+    VitricSink: 琉璃水槽
+    VitricSofa: 琉璃沙发
+    VitricTable: 琉璃桌
+    VitricWorkbench: 琉璃工作台
+    VitricDoor: 琉璃门
+    TempleChairItem: 神殿椅
+    TempleLargeVaseItem: 神殿花瓶
+    TempleLargeVaseCrystalItem: 神殿晶体花瓶
+    TempleWorkbenchItem: 神殿工作台
+    TempleThroneItem: 神殿王座
+    TempleFloorWeaponRackItem: 神殿落地武器架
+    TempleTableItem: 神殿桌
+    TempleTableCrystalItem: 神殿晶体桌
+    TempleWeaponRack0Item: 神殿武器架A
+    TempleWeaponRack1Item: 神殿武器架B
+    TempleWeaponRack2Item: 神殿武器架C
+    TempleWeaponRack3Item: 神殿武器架D
+    TempleThingamajigItem: 神殿大型武器架
+    TempleBrickItem: 古代砖
+    VitricBoss1Item: 八音盒（塞洛斯 1）
+    VitricBoss2Item: 八音盒（塞洛斯 2）
     VitricPassiveItem: 八音盒（棱晶沙漠）
     VitricTempleItem: 八音盒（棱晶神庙）
-    MinibossItem: Music Box (Miniboss)
+    MinibossItem: 八音盒（小Boss）
     OvergrowItem: Music Box (Overgrow)
     AuroracleItem: Music Box (Auroracle)
     LeafOvergrowItem: Faerie Leaves
