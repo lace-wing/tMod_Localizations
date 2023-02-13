@@ -18,7 +18,7 @@ Mods.StarlightRiver:
     AstrofloraFlail: 星华链球
     BaseBarrierDye: 基础屏障染料
     MoonstoneBarrierDye: 月长石染色剂
-    VitricBossBarrierDye: 哨卫的染色剂
+    VitricBossBarrierDye: 守卫的染色剂
     SeaglassRing: 海玻璃指环
     BreachCannon: 破坏者加农炮
     BreacherChest: 破坏者胸甲
@@ -30,7 +30,7 @@ Mods.StarlightRiver:
     Scrapshot: 链爪霰弹枪
     SupplyBeacon: 补给信标
     Ivy: 常青藤
-    IvySeeds: 常青藤种
+    IvySeeds: 常青藤种子
     PotionForest: 森林补剂
     ArchaeologistsWhip: 考古学家的鞭子
     AWhip_BlueGem: 宝藏
@@ -59,7 +59,7 @@ Mods.StarlightRiver:
     InertStaff: 失效的新月法杖
     SkullBuster: 颅骨破坏者
     StarlightPendant: 星光吊坠
-    ThousandthDegree: 千度火轮
+    ThousandthDegree: 千度
     Eraser: 抹除器
     ReplicantCells: 复制细胞
     ExampleCombatMountItem: 示例战斗宠物
@@ -69,8 +69,8 @@ Mods.StarlightRiver:
     Cherry: 樱桃
     Dough: 面团
     Dressing: 调料
-    EaterSteak: 吞噬怪扒
-    FaceSteak: 脸怪肉扒
+    EaterSteak: 吞噬怪排
+    FaceSteak: 脸怪肉排
     Gelatine: 明胶
     GelBerry: 胶梅
     Greens: 绿色蔬菜
@@ -87,7 +87,7 @@ Mods.StarlightRiver:
     Slimejelly: 史莱姆果冻
     SupportCookies: 辅助曲奇
     StarlightWater: 星光之水
-    Steak: 生牛扒
+    Steak: 生牛排
     Sugar: 糖
     TableSalt: 食盐
     Toast: 吐司
@@ -95,7 +95,7 @@ Mods.StarlightRiver:
     WhippedCream: 掼奶油
     AcornSprout: 橡子芽
     DustyAmulet: 蒙尘护符
-    FeralWolfMountItem: 多汁牛扒
+    FeralWolfMountItem: 多汁牛排
     OldWhetstone: 老旧的磨刀石
     Trowel: 砖瓦匠的抹刀
     Trowel2: 自动抹灰器 9000
@@ -379,7 +379,7 @@ Mods.StarlightRiver:
     OldCeirosShrineItem: 老旧的塞洛斯神龛
     TempleCandleCrystalItem: 神殿晶体蜡烛
     TempleCandleItem: 神殿蜡烛
-    TempleCeirosFountainItem: 神殿哨卫喷泉
+    TempleCeirosFountainItem: 神殿守卫喷泉
     TempleWallCandleItem: 神殿壁挂蜡烛
     TutorialDoor1Item: 教程用门1
     TutorialDoor2Item: 教程用门2
