@@ -16,9 +16,9 @@ Mods.StarlightRiver:
     CauldronItem: 坩埚
     MixingStick: 搅拌棒
     AstrofloraFlail: 星华链球
-    BaseBarrierDye: 屏障染料
-    MoonstoneBarrierDye: 月长石染料
-    VitricBossBarrierDye: 守卫的染料
+    BaseBarrierDye: 基础屏障染料
+    MoonstoneBarrierDye: 月长石染剂
+    VitricBossBarrierDye: 守卫的染剂
     SeaglassRing: 海玻璃指环
     BreachCannon: 破坏者加农炮
     BreacherChest: 破坏者胸甲
@@ -29,8 +29,8 @@ Mods.StarlightRiver:
     ScrappodItem: 破片弹
     Scrapshot: 锈迹霰弹枪
     SupplyBeacon: 补给信标
-    Ivy: 常春藤
-    IvySeeds: 常春藤种子
+    Ivy: 常青藤
+    IvySeeds: 常青藤种子
     PotionForest: 森林补剂
     ArchaeologistsWhip: 考古学家的鞭子
     AWhip_BlueGem: 宝藏
@@ -76,7 +76,7 @@ Mods.StarlightRiver:
     Greens: 绿色蔬菜
     HealthExtract: 生命精华
     HoneySyrup: 蜂蜜糖浆
-    IvySalad: 常春藤沙拉
+    IvySalad: 常青藤沙拉
     Lettuce: 生菜
     MahoganyRoot: 红木根
     ManaExtract: 魔力精华
@@ -99,10 +99,10 @@ Mods.StarlightRiver:
     OldWhetstone: 老旧的磨刀石
     Trowel: 砖瓦匠的抹刀
     Trowel2: 自动抹灰器 9000
-    ForestIvyBlowdart: 常春藤吹管
-    ForestIvyChest: 常春藤胸甲
-    ForestIvyHead: 常春藤头盔
-    ForestIvyLegs: 常春藤护胫
+    ForestIvyBlowdart: 常青藤吹管
+    ForestIvyChest: 常青藤胸甲
+    ForestIvyHead: 常青藤头盔
+    ForestIvyLegs: 常青藤护胫
     EmeraldHeart: 绿宝石之心
     GeoAmethyst: 紫水晶
     GeoDiamond: 钻石
@@ -134,7 +134,7 @@ Mods.StarlightRiver:
     AlchemistShackles: 炼金术士的镣铐
     ArchaeologistsMap: 考古学家的地图
     BalloonGun: 气球枪
-    BalloonInABalloon: 气球套气球
+    BalloonInABalloon: 套娃气球
     BarbedKnife: 带刺血刃
     BizarrePotion: 奇异药水
     Bladesaw: 刃锯
@@ -142,8 +142,8 @@ Mods.StarlightRiver:
     BloodlessAmulet: 无血战士的护符
     BricklayersMallet: 砖瓦匠的槌子
     BuffChalice: 强化圣杯 
-    CasualMirror: 溯因逆果镜
-    Cheapskates: 小气溜冰鞋
+    CasualMirror: 因果镜
+    Cheapskates: 廉价溜冰鞋
     CoachGun: 护骑霰弹枪
     CopperCoil: 铜质线圈
     Corpseflower: 尸花
@@ -158,7 +158,7 @@ Mods.StarlightRiver:
     FiletGiblet1: 内脏
     FiletGiblet2: 内脏
     FiletGiblet3: 内脏
-    FiletKnife: 片鱼刀
+    FiletKnife: 剔骨刀
     FryingPan: 煎锅
     GeodeBow: 晶洞弓
     GlassArrowhead: 玻璃箭头
@@ -204,7 +204,7 @@ Mods.StarlightRiver:
     Ultrapills: ULTRAPILLS
     WardedMail: 格挡锁甲
     CrescentQuarterstaff: 新月铲
-    Datsuzei: 逃税
+    Datsuzei: 达特苏泽
     DianesPendant: 狄阿娜的吊坠
     Moonfury: 月怒
     MoonstoneArrow: 月耀箭
@@ -1730,7 +1730,7 @@ Mods.StarlightRiver:
     Full: 饱腹
     HotspringHeal: 提神温泉
     Illuminant: 发光体
-    Ivy: 常春藤
+    Ivy: 常青藤
     IvySnare: 陷阱
     MossRegen: 再生苔藓
     Overcharge: 过充
