@@ -16,9 +16,9 @@ Mods.StarlightRiver:
     CauldronItem: 坩埚
     MixingStick: 搅拌棒
     AstrofloraFlail: 星华链球
-    BaseBarrierDye: 基础屏障染料
-    MoonstoneBarrierDye: 月长石染色剂
-    VitricBossBarrierDye: 守卫的染色剂
+    BaseBarrierDye: 屏障染料
+    MoonstoneBarrierDye: 月长石染料
+    VitricBossBarrierDye: 守卫的染料
     SeaglassRing: 海玻璃指环
     BreachCannon: 破坏者加农炮
     BreacherChest: 破坏者胸甲
@@ -27,10 +27,10 @@ Mods.StarlightRiver:
     FlareBreacher: 耀斑破坏者
     ReactivePlating: 反应镀层
     ScrappodItem: 破片弹
-    Scrapshot: 超级霰弹枪
+    Scrapshot: 锈迹霰弹枪
     SupplyBeacon: 补给信标
-    Ivy: 常青藤
-    IvySeeds: 常青藤种子
+    Ivy: 常春藤
+    IvySeeds: 常春藤种子
     PotionForest: 森林补剂
     ArchaeologistsWhip: 考古学家的鞭子
     AWhip_BlueGem: 宝藏
@@ -47,7 +47,7 @@ Mods.StarlightRiver:
     DesertArtifact6Item: 远古化石
     DesertArtifact7Item: 远古化石
     ExoticGeodeArtifactItem: 奇异晶洞
-    PerfectlyGenericArtifactItem: 完全通用的物件
+    PerfectlyGenericArtifactItem: 绝对普通的物品
     PirateChestArtifactItem: 海盗箱
     RainTotemArtifactItem: 暴雨图腾
     WindTotemArtifactItem: 烈风图腾
@@ -74,18 +74,18 @@ Mods.StarlightRiver:
     Gelatine: 明胶
     GelBerry: 胶梅
     Greens: 绿色蔬菜
-    HealthExtract: 生命汁液
+    HealthExtract: 生命精华
     HoneySyrup: 蜂蜜糖浆
-    IvySalad: 常青藤沙拉
+    IvySalad: 常春藤沙拉
     Lettuce: 生菜
     MahoganyRoot: 红木根
-    ManaExtract: 魔力汁液
+    ManaExtract: 魔力精华
     Meal: 大餐
     Milk: 牛奶
     Rabbit: 兔肉
     SeaSalt: 海盐
     Slimejelly: 史莱姆果冻
-    SupportCookies: 辅助曲奇
+    SupportCookies: 疗愈曲奇
     StarlightWater: 星光之水
     Steak: 生牛排
     Sugar: 糖
@@ -99,17 +99,17 @@ Mods.StarlightRiver:
     OldWhetstone: 老旧的磨刀石
     Trowel: 砖瓦匠的抹刀
     Trowel2: 自动抹灰器 9000
-    ForestIvyBlowdart: 常青藤吹管
-    ForestIvyChest: 常青藤胸甲
-    ForestIvyHead: 常青藤头盔
-    ForestIvyLegs: 常青藤护腿
+    ForestIvyBlowdart: 常春藤吹管
+    ForestIvyChest: 常春藤胸甲
+    ForestIvyHead: 常春藤头盔
+    ForestIvyLegs: 常春藤护胫
     EmeraldHeart: 绿宝石之心
     GeoAmethyst: 紫水晶
     GeoDiamond: 钻石
     GeoEmerald: 绿宝石
     GeomancerHood: 地卜师的兜帽
     GeomancerItemDummy: 不同宝石的效果:
-    GeomancerPants: 地卜师的护腿
+    GeomancerPants: 地卜师的护胫
     GeomancerRobe: 地卜师的斗篷
     GeoRuby: 红宝石
     GeoSapphire: 蓝宝石
@@ -128,91 +128,91 @@ Mods.StarlightRiver:
     CharonsObol: 卡戎的银币
     HellKey: 焦狱钥匙
     MagmaSword: "[PH]岩浆剑"
-    GrayGoo: Gray Goo
-    ThunderBeads: Magnet Beads
-    Thunderbuss: 雷电径迹
+    GrayGoo: 灰色粘质
+    ThunderBeads: 电鞭磁珠
+    Thunderbuss: 雷筒
     AlchemistShackles: 炼金术士的镣铐
     ArchaeologistsMap: 考古学家的地图
-    BalloonGun: Balloon Gun
-    BalloonInABalloon: 气球中气球
+    BalloonGun: 气球枪
+    BalloonInABalloon: 气球套气球
     BarbedKnife: 带刺血刃
     BizarrePotion: 奇异药水
     Bladesaw: 刃锯
     BloodAmulet: 鲜血护符
     BloodlessAmulet: 无血战士的护符
-    BricklayersMallet: 砖瓦匠的木槌
-    BuffChalice: Plexus Chalice
-    CasualMirror: 混乱镜
-    Cheapskates: 廉价溜冰鞋
+    BricklayersMallet: 砖瓦匠的槌子
+    BuffChalice: 强化圣杯 
+    CasualMirror: 溯因逆果镜
+    Cheapskates: 小气溜冰鞋
     CoachGun: 护骑霰弹枪
     CopperCoil: 铜质线圈
     Corpseflower: 尸花
-    CoughDrops: 止咳滴丸
-    CutlassBus: Cutlassbus
+    CoughDrops: 止咳糖
+    CutlassBus: 弯刀之魂
     DiceAmmo: 骰子
     DisinfectantKit: 消毒试剂箱
     DisinfectantWipes: 消毒湿巾
     DualCross: 双发十字弩
     DullBlade: 钝刃
     ElectroArrow: 电弧箭
-    FiletGiblet1: Giblet
-    FiletGiblet2: Giblet
-    FiletGiblet3: Giblet
-    FiletKnife: 片肉刀
+    FiletGiblet1: 内脏
+    FiletGiblet2: 内脏
+    FiletGiblet3: 内脏
+    FiletKnife: 片鱼刀
     FryingPan: 煎锅
     GeodeBow: 晶洞弓
     GlassArrowhead: 玻璃箭头
     GraveBuster: 坟墓破坏者
-    Guillotine: 金质断头台
+    Guillotine: 黄金断头台
     Gunchucks: 双截猎枪
-    GunstrapBoots: Gunstrap Boots
+    GunstrapBoots: 绑着枪的靴子
     HermesVow: 赫尔墨斯誓约
     HolyAmulet: 神圣护身符
-    HungryStomach: 饥饿的肠胃
+    HungryStomach: 辘辘饥肠
     ImpactSMG: 冲撞冲锋枪
     ImpulseThruster: 脉冲推进器
     Ironheart: 钢铁之心
     LostCollar: 遗失的颈圈
-    Magebane: 法师的灾星
+    Magebane: 法师克星
     MagmaGun: 熔山喷流
     MonkSpade: 武僧月牙铲
     PandorasDagger: 潘多拉短剑
     PandorasShield: 潘多拉护盾
     PhilosophersMortar: 哲学家的研钵
-    PowerCell: 充能细胞
+    PowerCell: 电池
     PulseBoots: 脉冲靴
-    RhythmicResonator: Rhythmic Resonator
+    RhythmicResonator: 共振节拍器
     Sandscript: 沙痕
     SanitizerSpray: 消毒喷雾
     ShockAbsorber: 减震器
-    Sling: Sling
+    Sling: 弹弓
     Slitherring: 蛇鞭
     Soilgun: 土块枪
-    SojournersScarf: Sojourner's Scarf
+    SojournersScarf: 旅居者围脖
     Sorcerwrench: 巫师扳手
     SoulOfFrog: 青蛙之魂
     SpikedMail: 尖刺锁甲
     StaminaGel: 耐力凝胶
     StaminaPickup: 耐力掉落物
     StaminaRing: 耐力腰带
-    StaminaUp: 晶体耐力容器
+    StaminaUp: 棱晶耐力容器
     StarlightShuriken: 星光手里剑
     SwordBook: 螳螂格斗术
-    TaintedGreataxe: Tainted Greataxe
+    TaintedGreataxe: 被玷污的战斧
     TinCoil: 锡质线圈
     TwistSword: 环旋重剑
     Ultrapills: ULTRAPILLS
     WardedMail: 格挡锁甲
-    CrescentQuarterstaff: 新月四分棍
-    Datsuzei: 达特苏泽
-    DianesPendant: 戴安娜的吊坠
+    CrescentQuarterstaff: 新月铲
+    Datsuzei: 逃税
+    DianesPendant: 狄阿娜的吊坠
     Moonfury: 月怒
     MoonstoneArrow: 月耀箭
     MoonstoneBarItem: 月长石锭
     MoonstoneChest: 月长石胸甲
     MoonstoneHamaxe: 月长石锤斧
     MoonstoneHead: 月长石头盔
-    MoonstoneLegs: 月长石战靴
+    MoonstoneLegs: 月长石护胫
     MoonstoneOreItem: 月长石
     Shaker: 震颤者
     PalestoneNail: 苍白之钉 #subject to change
@@ -263,7 +263,7 @@ Mods.StarlightRiver:
     ArmorBag: 盔甲袋
     ChefBag: 厨师袋
     CurseRemover: 消弭卷轴
-    AncientStarwoodBoots: 远古星木护腿
+    AncientStarwoodBoots: 远古星木护胫
     AncientStarwoodChest: 远古星木长袍
     AncientStarwoodHat: 远古星木帽
     MechaChest: 机甲躯
