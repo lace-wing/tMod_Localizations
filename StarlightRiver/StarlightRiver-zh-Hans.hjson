@@ -195,7 +195,7 @@ Mods.StarlightRiver:
     StaminaGel: 耐力凝胶
     StaminaPickup: 耐力掉落物
     StaminaRing: 耐力腰带
-    StaminaUp: 棱晶耐力容器
+    StaminaUp: 琉璃耐力容器
     StarlightShuriken: 星光手里剑
     SwordBook: 螳螂格斗术
     TaintedGreataxe: 被玷污的战斧
@@ -274,7 +274,7 @@ Mods.StarlightRiver:
     CoachGunUpgrade: 熔岩护骑霰弹枪
     Coalescence: 聚萤
     FacetAndLattice: 琢面晶格
-    GlassIdol: 棱晶圣像
+    GlassIdol: 琉璃圣像
     GlassIdolEndless: 镀金琉璃圣像
     IgnitionGauntlets: 起爆手套
     MagmaArrow: 熔岩箭
@@ -288,17 +288,17 @@ Mods.StarlightRiver:
     SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
     VitricBossBag: 宝藏袋（塞洛斯）
-    VitricBow: 棱晶弓
-    VitricBulletItem: 棱晶弹
-    VitricChest: 棱晶胸甲
-    VitricHamaxe: 棱晶锤斧
-    VitricHead: 棱晶头盔
+    VitricBow: 琉璃弓
+    VitricBulletItem: 琉璃弹
+    VitricChest: 琉璃胸甲
+    VitricHamaxe: 琉璃锤斧
+    VitricHead: 琉璃头盔
     VitricHook: 撕裂者
-    VitricLegs: 棱晶护胫
-    VitricMagicBook: 棱晶之书
-    VitricOre: 棱晶裂片
-    VitricPick: 棱晶镐
-    VitricSword: 远古棱晶刃
+    VitricLegs: 琉璃护胫
+    VitricMagicBook: 琉璃之书
+    VitricOre: 琉璃裂片
+    VitricPick: 琉璃镐
+    VitricSword: 远古琉璃刃
     MagmitePassiveItem: 熔滴螨
     CodexTileItem: 星光宝典
     FaeflameTileItem: 妖火
@@ -336,7 +336,7 @@ Mods.StarlightRiver:
     WindowSmallItem: Smol Window
     WispAltarLItem: Wisp Altar L Placer
     WispAltarRItem: Wisp Altar R Placer
-    AuroraclePaintingItem: Prismatic Waters
+    AuroraclePaintingItem: 流光水
     EggCodexPaintingItem: Codex Genesis
     RatKingPaintingItem: Majestic Hoarder
     PalestoneItem: Palestone
@@ -361,10 +361,10 @@ Mods.StarlightRiver:
     TempleWallItem: Ancient Temple Brick Wall
     TestBubble: Bubble
     VerletBannerItem: Verlet banner
-    AncientSandstonePillarWallItem: 古代砂岩墙
-    AncientSandstonePlatformItem: 古代砂岩平台
+    AncientSandstonePillarWallItem: 远古砂岩墙
+    AncientSandstonePlatformItem: 远古砂岩平台
     AncientSandstoneTorchItem: 远古水晶灯
-    AncientSandstoneWallItem: 古代砂岩墙
+    AncientSandstoneWallItem: 远古砂岩墙
     ForgeDoorItem: 锻炉门
     ForgeInnerDoorItem: 锻炉内门
     RedBannerShortItem: 短飘带
@@ -441,11 +441,11 @@ Mods.StarlightRiver:
     TempleWeaponRack2Item: 神殿武器架C
     TempleWeaponRack3Item: 神殿武器架D
     TempleThingamajigItem: 神殿大型武器架
-    TempleBrickItem: 古代砖
+    TempleBrickItem: 远古砖
     VitricBoss1Item: 八音盒（塞洛斯 1）
     VitricBoss2Item: 八音盒（塞洛斯 2）
-    VitricPassiveItem: 八音盒（棱晶沙漠）
-    VitricTempleItem: 八音盒（棱晶神庙）
+    VitricPassiveItem: 八音盒（琉璃沙漠）
+    VitricTempleItem: 八音盒（琉璃神庙）
     MinibossItem: 八音盒（小Boss）
     OvergrowItem: Music Box (Overgrow)
     AuroracleItem: Music Box (Auroracle)
@@ -455,13 +455,13 @@ Mods.StarlightRiver:
     SpringstoneItem: Springstone
     ShrineBrazierItem: Mysterious Brazier
     WitTileItem: Tile of Wit
-    AncientSandstoneItem: 古代砂岩
-    AncientSandstoneTileItem: 古代砂岩瓷砖
-    VitricBrickItem: 水晶砖
-    VitricCactusItem: 棱晶仙人掌
-    VitricGlassItem: 水晶玻璃
-    VitricSandItem: 棱晶沙块
-    VitricSoftSandItem: 柔软棱晶沙块
+    AncientSandstoneItem: 远古砂岩
+    AncientSandstoneTileItem: 远古砂岩瓷砖
+    VitricBrickItem: 琉璃砖
+    VitricCactusItem: 琉璃仙人掌
+    VitricGlassItem: 琉璃
+    VitricSandItem: 琉璃沙块
+    VitricSoftSandItem: 柔软琉璃沙块
     VitricSandPlainItem: 软沙块
   }
   ItemTooltip:
@@ -1699,7 +1699,7 @@ Mods.StarlightRiver:
     Voidsmith: Voidsmith
     BoomBug: Firebug
     CrystalPopper: 沙漠蝙蝠
-    CrystalSlime: 棱晶史莱姆
+    CrystalSlime: 琉璃史莱姆
     DesertWisp: Desert Wisp
     DesertWisp2: Desert Wisp2
     FlyingGruntConstruct: Flying Grunt Construct
@@ -1734,7 +1734,7 @@ Mods.StarlightRiver:
     IvySnare: 陷阱
     MossRegen: 再生苔藓
     Overcharge: 过充
-    PrismaticDrown: 棱晶溺水
+    PrismaticDrown: 流光溺水
     ProtectiveShard: 护佑碎片
     Rage: 暴怒
     Slimed: 黏滑
