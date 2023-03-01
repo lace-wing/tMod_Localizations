@@ -1,30 +1,33 @@
-import hjson
-import collections
+import utils
 import time
+import read_config_from_file as rc
 
-def flat_dict(dic):
-    res = {}
-    def flat(prefix, dic):
-        for key, val in dic.items():
-            if type(val) is collections.OrderedDict:
-                flat(prefix+'.'+key,val)
+def make_changelog(new_file:str, old_file:str):
+    
+    def writelog(fp, title:str, dict:dict):
+        temps = f'----------------   {title}:   ----------------\n\n'
+        for k,v in dict.items():
+            os,ob = utils.hm(v[0])
+            ns,nb = utils.hm(v[1])
+            temps += f'{k}:\n    old:'
+            if ob:
+                temps += f'\n{os}\n'
             else:
-                res[prefix + '.' + key] = val
-    for key,val in dic.items():
-        if type(val) is collections.OrderedDict:
-            flat(key,val)
-    return res
+                temps += f'      {os}'
+            temps += '\n    current:'
+            if nb:
+                temps += f'\n{ns}\n\n'
+            else:
+                temps += f'  {ns}\n\n'
+        
+        fp.write(temps)
+    
+    hjson_dic_new = utils.load_hjson(rc.path, new_file)
+    hjson_dic_old = utils.load_hjson(rc.path, old_file)
 
-def make_changelog(path, new_file, old_file, log_file):
-    with open(path + new_file, 'r', encoding='utf-8') as new:
-        hjson_dic_new = hjson.load(new, encoding='utf-8')
-
-    with open(path + old_file, 'r', encoding='utf-8') as old:
-        hjson_dic_old = hjson.load(old, encoding='utf-8')
-
-    dic_new = flat_dict(hjson_dic_new)
-    dic_old = flat_dict(hjson_dic_old)
-
+    dic_new = utils.flat_dict(hjson_dic_new)
+    dic_old = utils.flat_dict(hjson_dic_old)
+    
     dic_edit = {}
     dic_add = {}
     dic_remove = {}
@@ -34,23 +37,15 @@ def make_changelog(path, new_file, old_file, log_file):
             if o != nv:
                 dic_edit[nk] = o, nv
         else:
-            dic_add[nk] = nv
+            dic_add[nk] = '', nv
     for o in dic_old.keys():
         if o not in dic_new:
-            dic_remove[o] = dic_old[o]
+            dic_remove[o] = dic_old[o], ''
 
     t = '_'.join(time.asctime().replace(':', ' ').split(' '))
-    tlog_file = log_file + t + '_log.txt'
+    tlog_file = rc.log_path + t + '_log.txt'
 
     with open(tlog_file, 'x', encoding='utf-8') as log:
-        log.write('----------------   Changed:   ----------------\n\n')
-        for k,v in dic_edit.items():
-            log.write(f'{k}:\n    old:      "{v[0]}"\n    current:  "{v[1]}"\n\n')
-        
-        log.write('\n\n----------------   Added:   ----------------\n\n')
-        for k,v in dic_add.items():
-            log.write(f'{k}:\n    old:      ""\n\tcurrent:  "{v}"\n\n')
-        
-        log.write('\n\n----------------   Removed:   ----------------\n\n')
-        for k,v in dic_remove.items():
-            log.write(f'{k}:\n    old:      "{v}"\n\tcurrent:  ""\n\n')
+        writelog(log, 'Changed', dic_edit)
+        writelog(log, 'Added', dic_add)
+        writelog(log, 'Removed', dic_remove)

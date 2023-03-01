@@ -1,0 +1,25 @@
+{
+  # 要执行的任务:
+  # change log: 生成更新日志
+  # update: 更新hjson, 将已汉化文件中的文本添加到目标文件中
+  "request": "update",
+
+  # 要处理的hjson的路径, 和生成的hjson放置的路径
+  "path": "./StarlightRiver/",
+
+  # log放置路径, master分支请加入.gitignore
+  "log path": "./StarlightRiver/Logs/",
+
+  # --比较时-- 生成更新日志的较旧版本
+  "old": "StarlightRiver-zh-Hans_old.hjson",
+
+  # --比较时-- 生成更新日志的较新版本
+  # --更新时-- 作为已汉化文件
+  "latest": "StarlightRiver-zh-Hans.hjson",
+
+  # --更新时-- 作为目标文件
+  "extract": "StarlightRiver.hjson",
+
+  # --更新时-- 输出的已更新文件的文件名
+  "update": "StarlightRiver-zh-Hans-update.hjson"
+}
