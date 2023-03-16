@@ -2,7 +2,7 @@
   # 要执行的任务:
   # change log: 生成更新日志
   # update: 更新hjson, 将已汉化文件中的文本添加到目标文件中
-  "request": "uncomment",
+  "request": "change log",
 
   # 要处理的hjson的路径, 和生成的hjson放置的路径
   "path": "./StarlightRiver/",
@@ -15,7 +15,7 @@
 
   # --比较时-- 生成更新日志的较新版本
   # --更新时-- 作为已汉化文件
-  "latest": "StarlightRiver-zh-Hans.hjson",
+  "latest": "StarlightRiver-zh-Hans-update.hjson",
 
   # --更新时-- 作为目标文件
   "extract": "StarlightRiver.hjson",
