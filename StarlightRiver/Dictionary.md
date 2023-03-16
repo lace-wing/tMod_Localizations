@@ -7,6 +7,12 @@
 | Vitric | 熔璃/琉璃 | 有 "熔" 的特点时用熔璃, 其余一般用 "琉璃", 结合实际情况翻译 |
 | Datsuzei | 大津贅沢 | Datsuzei --> だつぜい --> だつ + ぜい --> 大津贅沢, 因为这个名字只是为了嘲讽那些随便使用日语名称的游戏和模组 |
 | Ancient | 远古 | 与原版保持一致 |
+| Exposure | 曝光 |  |
+| Sweltered | ? |  |
+| Focused | 聚焦 |  |
+| Shredded | 撕裂 |  |
+| Cursed | 诅咒 |  |
+| Artifact | 古物 |  |
 | Moonstone | 月长石 |  |
 | Starwood | 星木 |  |
 | Ceiros | 塞洛斯 |  |
