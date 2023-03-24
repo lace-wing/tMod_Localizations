@@ -592,8 +592,8 @@ Mods.StarlightRiver:
     AWhip_RedGem: You shouldn't see this
     AztecDeathSaxophone:
       '''
-      Take damage and kill foes to charge the saxophone
-      Once charged, press <left> to play a violent tune, massacring anything caught in the way
+      受到伤害或击杀敌人时会为萨克斯充能
+      充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
       '''
     ExoticGeodeArtifactItem: "'Incredibly shiny'"
     PerfectlyGenericArtifactItem: 召唤一个绝对普通的宠物
@@ -604,8 +604,8 @@ Mods.StarlightRiver:
       '''
     RainTotemArtifactItem: 开始或停止大风暴
     WindTotemArtifactItem: 开始或停止大风
-    DebugModerEnabler: Enables debug mode
-    DebugStick: Has whatever effects are needed
+    DebugModerEnabler: 启用调试模式
+    DebugStick: 具有需要的任何效果
     DefiledAnkh:
       '''
       诅咒：你的屏障拥有25%伤害减免
@@ -788,9 +788,9 @@ Mods.StarlightRiver:
     BizarrePotion: 投掷具有随机效果的随机药水
     Bladesaw:
       '''
-      Shreds through enemies 
-      Repeated hits shred enemies and overheat the saw, increasing damage 
-      Right click to use as a tool
+      粉碎敌人
+      反复击中敌人会将其撕裂并过热电锯，过热会增加伤害
+      右键当做工具使用
       '''
     BloodAmulet:
       '''
@@ -813,7 +813,7 @@ Mods.StarlightRiver:
       翻倍物块放置距离和工具距离
       挖掘超过原先距离的物块时降低50%挖掘速度
       '''
-    BrokenGlasses: Damage over time effects are able to critically strike
+    BrokenGlasses: 持续伤害效果能够造成暴击
     BuffChalice: 造成减益时会短暂增加减益抗性
     CasualMirror:
       '''
@@ -939,10 +939,10 @@ Mods.StarlightRiver:
     PulseBoots: 使你获得方向固定的二段跳
     RadculasRapier:
       '''
-      Rapidly stabs enemies, inflicting a deadly bleed
-      Press <right> to teleport to the cursor, slashing all those in the way
-      The teleport deals increased damage and heals the player depending on the potency of the bleed on the struck enemy
-      The more enemies you strike with the teleport, the lower the cooldown
+      快速戳刺敌人，造成致命的流血效果
+      右键传送至光标位置，斩击在路径上的所有东西
+      基于击中敌人时流血的效力增加伤害并治疗玩家
+      你在传送时斩击的敌人越多，冷却时间越短
       '''
     RhythmicResonator:
       '''
@@ -1089,7 +1089,7 @@ Mods.StarlightRiver:
     OverflowingUrn:
       '''
       释放寒风激流
-      Prolonged use will frostburn you
+      长时间使用时会对你造成霜冻减益
       '''
     SquidBossSpawn: Drop in prismatic waters to summon the one the Squiddites worship
     SquidBossSpawnEndless:
@@ -1192,14 +1192,14 @@ Mods.StarlightRiver:
       '''
     TempleLens:
       '''
-      Critical strikes cause enemies around the struck enemy to glow, revealing other enemies
-      +3% critical strike chance 
-      +10% critical strike damage
+      对一名敌人造成暴击时会使其周围的敌人发光
+      +3%暴击率
+      +10%暴击伤害
       '''
     TempleLensUpgrade:
       '''
       对一名被曝光的敌人造成暴击时会使其周围的敌人曝光
-      Exposed enemies have 20% increased Exposure on first hit
+      被曝光的敌人在被首次命中时会额外受到20%伤害
       +4%暴击率
       +10%暴击伤害
       '''
@@ -1225,8 +1225,8 @@ Mods.StarlightRiver:
     WardenRobe: "[c/198E12:???]"
     CoachGunUpgrade:
       '''
-      Press right click to throw out crystal bombs, bombs explode in chain reactions 
-      Firing at a bomb detonates it prematurely for more violent results
+      右键投掷一颗可被连锁引爆的不稳定水晶爆弹
+      射击水晶可提前将其引爆，造成更暴力的后果
       How does he manage to nuke like that?
       '''
     Coalescence:
@@ -1256,8 +1256,8 @@ Mods.StarlightRiver:
     MagmaCore: 很热的东西的样本.
     MagmiteBomb:
       '''
-      A ball of cuteness turned into an instrument of destruction
-      You monster...
+      一颗可爱的球变成了一个毁灭机械
+      你个怪物...
       '''
     MagmiteBottle: 你为什么要对他做这个?!
     MagmiteVacpack:
@@ -1320,7 +1320,7 @@ Mods.StarlightRiver:
     MagmitePassiveItem: 放了他!
     CodexTileItem: Debug placer for ability pickup
     FaeflameTileItem: Debug placer for ability pickup
-    StaminaShardTileItem: Debug物品
+    StaminaShardTileItem: 调试物品
     WindsTileItem: Debug placer for ability pickup
     CookStationItem: 右键准备餐食
     InfuserItem: 用于刻印灌注
@@ -1353,13 +1353,13 @@ Mods.StarlightRiver:
     LumishroomItem: Glowy...
     VibeshroomItem: Vibin'
     BlueTorchOvergrowItem: 闪光的! 并且是蓝的!
-    NoxiousNodeItem: Debug物品
+    NoxiousNodeItem: 调试物品
     OvergrowthLivingWoodItem: "[PH]把这个变成魔杖和法杖"
     Rock2x2Item: 它会放置...岩石
     TorchOvergrowItem: 闪光的!
-    WindowSmallItem: Debug物品
-    WispAltarLItem: Debug物品
-    WispAltarRItem: Debug物品
+    WindowSmallItem: 调试物品
+    WispAltarLItem: 调试物品
+    WispAltarRItem: 调试物品
     AuroraclePaintingItem: "'K. Ra'"
     EggCodexPaintingItem: "'K. Ra'"
     RatKingPaintingItem: "'K. Ra'"
@@ -1369,39 +1369,39 @@ Mods.StarlightRiver:
     AuroraIceBar: 一部分被保留下来的夜空
     AuroraIceItem: 一小片被保留下来的夜空
     TouchstoneItem: 指示灯
-    CombatShrineItem: debug item
+    CombatShrineItem: 调试物品
     HotspringFountainItem: 将附近的水转化为热泉!
     MagmiteShrineItem: 是他!
-    DashBarrierItem: Debug物品
-    JarTallItem: Debug物品
-    TestBubble: Debug物品
-    VerletBannerItem: Debug物品
+    DashBarrierItem: 调试物品
+    JarTallItem: 调试物品
+    TestBubble: 调试物品
+    VerletBannerItem: 调试物品
     AncientSandstoneTorchItem: 它散发着迷人的光芒
-    ForgeDoorItem: Debug物品
-    ForgeInnerDoorItem: Debug物品
-    RedBannerShortItem: Debug物品
-    DashableDoorItem: Debug Item
+    ForgeDoorItem: 调试物品
+    ForgeInnerDoorItem: 调试物品
+    RedBannerShortItem: 调试物品
+    DashableDoorItem: 调试物品
     DoorGearsItem: 神殿门, 但如果是水平的呢?
     DoorVerticalItem: 神殿门, 但如果是垂直的呢?
-    EntranceDoorItem: Debug物品
-    GearPuzzleOriginPlacer: Debug物品
-    GearTilePlacer: Debug物品
-    ObjectiveGearItem: Debug物品
-    ReflectorItem: Debug物品
-    OldCeirosShrineItem: Debug物品
-    TallWindowItem: Debug Item
-    TutorialDoor1Item: Debug物品
-    TutorialDoor2Item: Debug物品
+    EntranceDoorItem: 调试物品
+    GearPuzzleOriginPlacer: 调试物品
+    GearTilePlacer: 调试物品
+    ObjectiveGearItem: 调试物品
+    ReflectorItem: 调试物品
+    OldCeirosShrineItem: 调试物品
+    TallWindowItem: 调试物品
+    TutorialDoor1Item: 调试物品
+    TutorialDoor2Item: 调试物品
     VitricPillarWallItem: Sturdy
     VitricPillarWallShortItem: Sturdy
     VitricTempleWallItem: Sturdy
-    WindsRoomActorItem: Debug物品
-    VitricBossAltarItem: Debug物品
-    VitricBreakableVaseItem: Debug物品
-    VitricFountainItem: Debug物品
+    WindsRoomActorItem: 调试物品
+    VitricBossAltarItem: 调试物品
+    VitricBreakableVaseItem: 调试物品
+    VitricFountainItem: 调试物品
     VitricGiantCrystalItem: The slot this Item is in changes the type placed
     VitricLargeCrystalItem: The slot this Item is in changes the type placed
-    VitricLargeFountainItem: Debug物品
+    VitricLargeFountainItem: 调试物品
     VitricMediumCrystalItem: The slot this Item is in changes the type placed
     VitricSmallCrystalItem: The slot this Item is in changes the type placed
     VitricSpikeItem: 好痛!
