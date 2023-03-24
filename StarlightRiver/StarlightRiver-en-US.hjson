@@ -15,7 +15,6 @@ Mods.StarlightRiver:
     BasicInfusion: Blank Slate
     CauldronItem: Cauldron Item
     MixingStick: Mixing Stick
-    AstrofloraFlail: Astroflora Flail
     BaseBarrierDye: Base Barrier Dye
     MoonstoneBarrierDye: Moonstone Tincture
     VitricBossBarrierDye: Sentinel's Tincture
@@ -39,6 +38,7 @@ Mods.StarlightRiver:
     AWhip_GreenGem: Treasure
     AWhip_Necklace: Treasure
     AWhip_RedGem: Treasure
+    AztecDeathSaxophone: Aztec Death Saxophone
     DesertArtifact1Item: Ancient Fossil
     DesertArtifact2Item: Ancient Fossil
     DesertArtifact3Item: Ancient Fossil
@@ -54,7 +54,7 @@ Mods.StarlightRiver:
     DebugModerEnabler: Debug Mode
     DebugStick: Debug Stick
     DefiledAnkh: Defiled Ankh
-    AquaSapphire: Aqua sapphire
+    AquaSapphire: Aqua Sapphire
     Cloudstrike: Cloudstrike
     InertStaff: Inert Crescent Staff
     SkullBuster: Skullbuster
@@ -126,8 +126,6 @@ Mods.StarlightRiver:
     PoltergeistHead: Haunting Hood
     PoltergeistLegs: Haunting Robes
     CharonsObol: Charon's Obol
-    HellKey: Hellscorch Key
-    MagmaSword: "[PH] Magma Sword"
     GrayGoo: Gray Goo
     ThunderBeads: Magnet Beads
     Thunderbuss: Thunderbuss
@@ -141,6 +139,7 @@ Mods.StarlightRiver:
     BloodAmulet: Blood Amulet
     BloodlessAmulet: Amulet of the Bloodless Warrior
     BricklayersMallet: Bricklayer's Mallet
+    BrokenGlasses: Broken Glasses
     BuffChalice: Plexus Chalice
     CasualMirror: Causal Mirror
     Cheapskates: Cheapskates
@@ -181,6 +180,7 @@ Mods.StarlightRiver:
     PhilosophersMortar: Philosopher's Mortar
     PowerCell: Power Cell
     PulseBoots: Pulse Boots
+    RadculasRapier: Radcula's Rapier
     RhythmicResonator: Rhythmic Resonator
     Sandscript: Sandscript
     SanitizerSpray: Sanitizer Spray
@@ -279,6 +279,7 @@ Mods.StarlightRiver:
     IgnitionGauntlets: Ignition Gauntlets
     MagmaArrow: Magma Arrow
     MagmaCore: Magmatic Core
+     MagmiteBomb: Magmite Bomb
     MagmiteBottle: Magmite in a Bottle
     MagmiteVacpack: Magmite Vacpack
     Needler: Needler
@@ -287,13 +288,14 @@ Mods.StarlightRiver:
     RefractiveBlade: Refractive Blade
     SandstoneChunk: Ancient Ceramic
     ShatteredAegis: Shattered Aegis
+    TempleEntranceKey: Large forge key
+    TempleKey: Small forge key
     VitricBossBag: Treasure Bag (Ceiros)
     VitricBow: Vitric Bow
     VitricBulletItem: Vitric Bullet
     VitricChest: Vitric Chestpiece
     VitricHamaxe: Vitric Hamaxe
     VitricHead: Vitric Headgear
-    VitricHook: Ripshatter
     VitricLegs: Vitric Greaves
     VitricMagicBook: Vitric Book
     VitricOre: Vitric Sliver
@@ -352,6 +354,7 @@ Mods.StarlightRiver:
     TouchstoneLootboxItem: Touchstone Chest Placer
     AuroracleTrophyItem: Auroracle Trophy
     CeirosTrophyItem: Ceiros Trophy
+      CombatShrineItem: Combat shrine placer
     HotspringFountainItem: Hotspring Source
     MagmiteShrineItem: The Boi
     DashBarrierItem: Dash Barrier
@@ -368,7 +371,9 @@ Mods.StarlightRiver:
     ForgeDoorItem: Forge Door
     ForgeInnerDoorItem: Forge Inner Door
     RedBannerShortItem: Short Flowing Banner
-    DoorHorizontalItem: Horizontal Temple Door
+      CrystalSlimeSpawnerItem: NPC Spawner
+      DashableDoorItem: DashableDoor
+      DoorGearsItem: Gear Puzzle Temple Door
     DoorVerticalItem: Vertical Temple Door
     EntranceDoorItem: EntranceDoor
     GearPuzzleOriginPlacer: Gear puzzle origin
@@ -376,7 +381,9 @@ Mods.StarlightRiver:
     ObjectiveGearItem: Gear puzzle Point
     ReflectorItem: Reflector
     LowWindBannerItem: Rectangular Flowing Banner
+      NPCSpawnerItem: NPC Spawner
     OldCeirosShrineItem: Old Ceiros Shrine
+      TallWindowItem: Window Actor
     TempleCandleCrystalItem: Temple Crystal Candle
     TempleCandleItem: Temple Candle
     TempleCeirosFountainItem: Temple Sentinel Fountain
@@ -403,14 +410,6 @@ Mods.StarlightRiver:
     VitricSmallCrystalItem: Small vitric crystal
     VitricSpikeItem: Vitric Spikes
     VitricBannerItem: Long Flowing Banner
-    RedLaserPointer: Red Laser Pointer
-    OrangeLaserPointer: Orange Laser Pointer
-    YellowLaserPointer: Yellow Laser Pointer
-    GreenLaserPointer: Green Laser Pointer
-    BlueLaserPointer: Blue Laser Pointer
-    PurpleLaserPointer: Purple Laser Pointer
-    WhiteLaserPointer: White Laser Pointer
-    PinkLaserPointer: Pink Laser Pointer
     VitricBathtub: Vitric Bathtub
     VitricBed: Vitric Bed
     VitricBookcase: Vitric Bookcase
@@ -428,6 +427,18 @@ Mods.StarlightRiver:
     VitricTable: Vitric Table
     VitricWorkbench: Vitric Workbench
     VitricDoor: Vitric Door
+      RedLaserPointer: Red Laser Pointer
+      OrangeLaserPointer: Orange Laser Pointer
+      YellowLaserPointer: Yellow Laser Pointer
+      GreenLaserPointer: Green Laser Pointer
+      BlueLaserPointer: Blue Laser Pointer
+      PurpleLaserPointer: Purple Laser Pointer
+      WhiteLaserPointer: White Laser Pointer
+      PinkLaserPointer: Pink Laser Pointer
+      VitricBossBarrierItem: VitricBossBarrierItem
+      GlassweaverBossBarrierItem: GlassweaverBossBarrierItem
+      CombatShrineBarrierItem: CombatShrineBarrierItem
+      EvasionShrineBarrierItem: EvasionShrineBarrierItem
     TempleChairItem: Temple Chair
     TempleLargeVaseItem: Temple Large Vase
     TempleLargeVaseCrystalItem: Temple Large Crystal Vase
@@ -517,7 +528,6 @@ Mods.StarlightRiver:
       Mixing Stick
       Use this to finalize alchemy recipes to craft them.
       '''
-    AstrofloraFlail: Spinning the flail releases toxic spores that ignite when the flail is thrown
     MoonstoneBarrierDye:
       '''
       Causes barrier to reflect the light of the moon
@@ -580,6 +590,11 @@ Mods.StarlightRiver:
     AWhip_GreenGem: You shouldn't see this
     AWhip_Necklace: You shouldn't see this
     AWhip_RedGem: You shouldn't see this
+      AztecDeathSaxophone:
+        '''
+        Take damage and kill foes to charge the saxophone
+        Once charged, press <left> to play a violent tune, massacring anything caught in the way
+        '''
     ExoticGeodeArtifactItem: "'Incredibly shiny'"
     PerfectlyGenericArtifactItem: Summons a Perfectly Generic Pet
     PirateChestArtifactItem:
@@ -589,12 +604,8 @@ Mods.StarlightRiver:
       '''
     RainTotemArtifactItem: Starts or stops the force of the great storms
     WindTotemArtifactItem: Starts or stops the force of the great winds
-    DebugModerEnabler:
-      '''
-      Enables debug mode which does... stuff!
-      Hold Y to make bosses go at ludicrous speed.
-      '''
-    DebugStick: Developer item
+    DebugModerEnabler: Enables debug mode
+    DebugStick: Has whatever effects are needed
     DefiledAnkh:
       '''
       Cursed : Your Barrier protects against twenty-five percent less damage
@@ -746,8 +757,6 @@ Mods.StarlightRiver:
       Coins lose their power when they contact any surface
       'Money is the root of all evil'
       '''
-    HellKey: Opens a hellscorch chest
-    MagmaSword: Launches blobs of burning magma
     GrayGoo: Summons a swarm of nanomachines to devour enemies
     ThunderBeads:
       '''
@@ -779,12 +788,9 @@ Mods.StarlightRiver:
     BizarrePotion: Throws a random potion with random damaging effects
     Bladesaw:
       '''
-      Slashes with a combo heavy swings
-      Slows down on hit, shredding anything unlucky enough to be caught in the way
-      Striking enemies inflicts them with stacks of Shredded, and heats up the blade... er saw
-      The bladesaw does more damage depending on how heated it is, to a maximum of 18%
-      <right> to cause the blade to slice through trees
-      'What are you, some kind of Chainsaw Man?'
+      Shreds through enemies 
+      Repeated hits shred enemies and overheat the saw, increasing damage 
+      Right click to use as a tool
       '''
     BloodAmulet:
       '''
@@ -807,6 +813,7 @@ Mods.StarlightRiver:
       Doubles block placement and tool range
       Decreases mining speed by 50% for blocks outside your original range
       '''
+    BrokenGlasses: Damage over time effects are able to critically strike
     BuffChalice: Inflicting debuffs temporarily increases debuff resistance
     CasualMirror:
       '''
@@ -877,7 +884,6 @@ Mods.StarlightRiver:
     GraveBuster:
       '''
       Destroys nearby graves 
-      Favorite it to prevent yourself from dropping graves on death 
       'You like the taste of brains, we don't like zombies'
       '''
     Guillotine:
@@ -931,6 +937,13 @@ Mods.StarlightRiver:
     PhilosophersMortar: Life hearts decrease duration of Potion Sickness by 10 seconds, but heal half as much
     PowerCell: NaN
     PulseBoots: Grants a directionally boosted double jump
+      RadculasRapier:
+        '''
+        Rapidly stabs enemies, inflicting a deadly bleed
+        Press <right> to teleport to the cursor, slashing all those in the way
+        The teleport deals increased damage and heals the player depending on the potency of the bleed on the struck enemy
+        The more enemies you strike with the teleport, the lower the cooldown
+        '''
     RhythmicResonator:
       '''
       Attack in rhythm with your weapon to gradually increase damage and knockback
@@ -1076,8 +1089,7 @@ Mods.StarlightRiver:
     OverflowingUrn:
       '''
       Unleashes a torrent of chilling winds
-      Prolonged use will freeze you
-      You have greatly increased defense while frozen
+      Prolonged use will frostburn you
       '''
     SquidBossSpawn: Drop in prismatic waters to summon the one the Squiddites worship
     SquidBossSpawnEndless:
@@ -1180,13 +1192,14 @@ Mods.StarlightRiver:
       '''
     TempleLens:
       '''
-      Critical strikes cause enemies around the struck enemy to glow
-      +3% critical strike chance
+      Critical strikes cause enemies around the struck enemy to glow, revealing other enemies
+      +3% critical strike chance 
+      +10% critical strike damage
       '''
     TempleLensUpgrade:
       '''
       Critical strikes expose enemies near the struck enemy
-      Exposed enemies take significantly more damage on the first hit
+      Exposed enemies have 20% increased Exposure on first hit
       +4% critical strike chance
       +10% critical strike damage
       '''
@@ -1212,12 +1225,9 @@ Mods.StarlightRiver:
     WardenRobe: "[c/198E12:???]"
     CoachGunUpgrade:
       '''
-      Press <right> to throw out an unstable crystal bomb
-      Explodes shortly after, causing all other crystal bombs to also explode
-      Shoot to detonate it early, if detonated early enough, it will explode into a cone of crystal shards
-      If a crystal bomb is detonated by another crystal bomb, its damage is increased by 50%
-      Explosions and crystal shards increase targets Exposure by 35% and inflict Sweltered
-      'Ultrakill style'
+      Press right click to throw out crystal bombs, bombs explode in chain reactions 
+      Firing at a bomb detonates it prematurely for more violent results
+      How does he manage to nuke like that?
       '''
     Coalescence:
       '''
@@ -1244,6 +1254,11 @@ Mods.StarlightRiver:
       '''
     MagmaArrow: Becomes more cooled as it travels
     MagmaCore: A sample of the hot stuff.
+    MagmiteBomb:
+      '''
+      A ball of cuteness turned into an instrument of destruction
+      You monster...
+      '''
     MagmiteBottle: Why would you do this to him?!
     MagmiteVacpack:
       '''
@@ -1273,6 +1288,8 @@ Mods.StarlightRiver:
       Releases a burning ring when damaged
       'Meet your foes head-on, and give them a scorching embrace'
       '''
+    TempleEntranceKey: Opens a door to the vitric forge.
+    TempleKey: Opens a door inside the vitric forge.
     VitricBow: Could use a rework
     VitricBulletItem:
       '''
@@ -1287,11 +1304,6 @@ Mods.StarlightRiver:
       Heat dissipates over time
       '''
     VitricHead: 10% increased ranged damage
-    VitricHook:
-      '''
-      Fires a hook, allowing you to grapple to an enemy and bounce off of them
-      Can only be used while airborn
-      '''
     VitricLegs: Slightly improved stamina regeneration
     VitricMagicBook: Summons stabbing spikes on nearby ground
     VitricPick:
@@ -1357,6 +1369,7 @@ Mods.StarlightRiver:
     AuroraIceBar: A preserved selection of the night sky
     AuroraIceItem: A preserved piece of the night sky
     TouchstoneItem: A guiding light
+    CombatShrineItem: debug item
     HotspringFountainItem: Transforms nearby water into a hotspring!
     MagmiteShrineItem: It's him!
     DashBarrierItem: Debug Item
@@ -1367,7 +1380,8 @@ Mods.StarlightRiver:
     ForgeDoorItem: Debug Item
     ForgeInnerDoorItem: Debug Item
     RedBannerShortItem: Debug Item
-    DoorHorizontalItem: Temple Door, But what if it was horizontal?
+    DashableDoorItem: Debug Item
+    DoorGearsItem: Temple Door, Opens if gear puzzle is solved
     DoorVerticalItem: Temple Door, But what if it was vertical?
     EntranceDoorItem: Debug Item
     GearPuzzleOriginPlacer: Debug Item
@@ -1375,6 +1389,7 @@ Mods.StarlightRiver:
     ObjectiveGearItem: Debug Item
     ReflectorItem: Debug Item
     OldCeirosShrineItem: Debug Item
+    TallWindowItem: Debug Item
     TutorialDoor1Item: Debug Item
     TutorialDoor2Item: Debug Item
     VitricPillarWallItem: Sturdy
@@ -1390,10 +1405,15 @@ Mods.StarlightRiver:
     VitricMediumCrystalItem: The slot this Item is in changes the type placed
     VitricSmallCrystalItem: The slot this Item is in changes the type placed
     VitricSpikeItem: Ouch!
+      VitricBossBarrierItem: debug item
+      GlassweaverBossBarrierItem: debug item
+      CombatShrineBarrierItem: debug item
+      EvasionShrineBarrierItem: debug item
   }
   ProjectileName:
   {
     ArtifactItemProj: Artifact
+    BurningGround: Burning Ground
     GlassBubble: Volatile Bubble
     GlassBubbleFragment: Glass Shard
     GlassHammer: Woven Hammer
@@ -1401,6 +1421,7 @@ Mods.StarlightRiver:
     GlassRaiseSpike: Raised Glass Structure
     GlassSpear: Woven Hammer
     GlassSword: Glass Sword
+    GlassweaverDoor: Glassweaver Door
     LavaLob: Hot Lob
     Whirlwind: Spinning Blades
     AuroraWaterSplash: Aurora Water Splash
@@ -1424,9 +1445,6 @@ Mods.StarlightRiver:
     TelegraphedGlassSpike: Glass Spike
     VitricBomb: Vitric Bomb
     LightningNode: Lightning Node
-    AstrofloraGas: Astroflora Gas
-    AstrofloraProj: Astroflora Flail
-    AstrofloraSpark: Astroflora Spark
     BreachCannonSentry: Breach Cannon
     ExplosiveFlare: Explosive Flare
     FlareShrapnel: Explosive Shrapnel
@@ -1439,6 +1457,8 @@ Mods.StarlightRiver:
     SpotterDrone: Breacher Drone
     SupplyBeaconProj: Supply Beacon
     ArchaeologistsWhip_Whip: Archaeologist's Whip
+    AztecDeathSaxophoneHoldout: Aztec Death Saxophone
+    AztecDeathSaxophoneSoundwave: Aztec Death Saxophone Soundwave
     PerfectlyGenericPet: Perfectly Generic Object
     CloudstrikeShot: Electro Shock
     SkullBomb: Skull Bomb
@@ -1472,8 +1492,6 @@ Mods.StarlightRiver:
     PoltergeistMinion: Haunted Weapon
     CopperObol: Obol
     GoldObol: Obol
-    MagmaSwordBlob: Magma Sword Blob
-    MagmaSwordBurn: Magma Sword Burn
     ObolImpact: Obol Star
     PlatinumObol: Obol
     SilverObol: Obol
@@ -1520,6 +1538,8 @@ Mods.StarlightRiver:
     ImpactSMGShot: Impact SMG Shot
     MagmaGunPhantomProj: Magma Glob
     MonkSpadeProjectile: Monk Spade Projectile
+    RadculasRapierSwungBlade: Radculas Rapier
+    RadculasRapierTeleport: Radculas Rapier
     SandSlash: Sand Slash
     SlingHeldProjectile: Sling
     SlingMushroomProjectile: Shroom
@@ -1618,6 +1638,8 @@ Mods.StarlightRiver:
     IgnitionPunchPhantom: Ignition Gauntlets
     LatticeProjectile: Lattice
     MagmaArrowProj: Magma Arrow
+    MagmaBottleBurn: Magma Bottle Burn
+    MagmiteBombProjectile: Magmite Bomb Projectile
     MagmiteBottleProjectile: Magmite Bottle Projectile
     MagmiteVacpackHoldout: Magmite Vacpack
     MagmiteVacpackProjectile: Bouncy Magmite
@@ -1638,13 +1660,13 @@ Mods.StarlightRiver:
     VitricBulletCrystalExplosion: Explosion
     VitricBulletCrystalProjectile: Vitric Crystal
     VitricBulletProjectile: Vitric Bullet
-    VitricHookProjectile: Vitric Hook Projectile
     VitricSwordProjectile: Enchanted Glass
     AngryCrescentDeathProjectile: Crescent Shard
     DreamprismSlam: Slam
     SnoobelCollider: Snoobel
     FirebugMagma: Molten glass
     ConstructRing: Explosion
+    ConstructSpawner: Construct Spawner
     GauntletSpawner: Gauntlet Spawner
     PelterConstructArrow: Glass Arrow
     PelterConstructArrowLarge: Glass Arrow
@@ -1666,6 +1688,8 @@ Mods.StarlightRiver:
     PermafrostTempleBiome: Auroracle Temple
     VitricDesertBiome: Vitric Desert
     VitricTempleBiome: Vitric Forge
+    CombatShrineBiome: Combat Shrine Biome
+    EvasionShrineBiome: Evasion Shrine Biome
   }
   NPCName:
   {
@@ -1705,6 +1729,7 @@ Mods.StarlightRiver:
     FlyingGruntConstruct: Flying Grunt Construct
     FlyingPelterConstruct: Flying Pelter Construct
     GruntConstruct: Grunt Construct
+    JuggernautConstruct: Juggernaut Construct
     PelterConstruct: Pelter Construct
     ShieldConstruct: Shield Construct
     SupporterConstruct: Supporter Construct
@@ -1722,6 +1747,7 @@ Mods.StarlightRiver:
   }
   BuffName:
   {
+    GlassweaverDot: Incineration
     Claustrophobia: Claustrophobia
     CoughDropsBuff: Cough Drops
     FerrofluidDraftBuff: Ferrofluid Draft
@@ -1751,12 +1777,16 @@ Mods.StarlightRiver:
     ShovelQuickFall: Quick fall
     ShovelSlowFall: Slow fall
     SoulSuck: Soul Suck
+    BarbedKnifeBleed: Deep gash
     BizarrePotionPoisonDebuff: Bizarre Poison
+    BrokenGlassesBuff: Broken Glasses
     CoachDebuff: Coach Debuff
+    CorpseflowerBuff: Corpseflowered
     FiletFrenzyBuff: Blood Frenzy
     ImpactSMGBuff: Heated Up!
     IronheartBuff: Ironheart
     PlexusChaliceBuff: Plexus Resistance
+    RadculasRapierCooldown: Radcula's Teleport Cooldown
     MoonfuryDebuff: Dreamfire
     AuroraThroneMountMinionDebuff: Inked
     UrnFreeze: Urn Freeze
@@ -1772,6 +1802,7 @@ Mods.StarlightRiver:
   }
   BuffDescription:
   {
+    GlassweaverDot: Burning incredibly fast!
     Claustrophobia: Stuck in wisp form!
     CoughDropsBuff: Your speed and damage are boosted
     FerrofluidDraftBuff: Nearby Items gravitate towards you
@@ -1809,18 +1840,18 @@ Mods.StarlightRiver:
     ShovelQuickFall: You slammin
     ShovelSlowFall: Falling Speed Reduced
     SoulSuck: You getting sucked
+    BarbedKnifeBleed: You're bleeding out!
     BizarrePotionPoisonDebuff: You poisoned
+    BrokenGlassesBuff: You cant see, loser!
     CoachDebuff: 10% increased damage
+    CorpseflowerBuff: You have been cursed by the corpeflower
     FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
     IronheartBuff: you have decaying extra barrier and defense
     PlexusChaliceBuff: +30% Inoculation
+    RadculasRapierCooldown: The rapier's energy seems deminished
     MoonfuryDebuff: Next Moonfury hit has increased damage
     AuroraThroneMountMinionDebuff: You take increased damage
-    UrnFreeze:
-      '''
-      Greatly increased defense
-      But you cant move!
-      '''
+    UrnFreeze: The pot is out of control!
     InoculationPotionBuff: +30% Inoculation
     NoShieldPot: Cannot consume more barrier potions
     ShieldDegenReduction: Barrier sticks to you better

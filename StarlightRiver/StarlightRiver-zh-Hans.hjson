@@ -15,7 +15,6 @@ Mods.StarlightRiver:
     BasicInfusion: 空白石板
     CauldronItem: 坩埚
     MixingStick: 搅拌棒
-    AstrofloraFlail: 星华链球
     BaseBarrierDye: 基础屏障染料
     MoonstoneBarrierDye: 月长石染剂
     VitricBossBarrierDye: 守卫的染剂
@@ -517,7 +516,6 @@ Mods.StarlightRiver:
       搅拌棒
       用这个来完成炼金配方并制作它们。
       '''
-    AstrofloraFlail: 旋转链枷会释放剧毒孢子，扔出链枷时会点燃剧毒孢子
     MoonstoneBarrierDye:
       '''
       使屏障能够反射月光
