@@ -279,7 +279,7 @@ Mods.StarlightRiver:
     IgnitionGauntlets: 起爆手套
     MagmaArrow: 熔岩箭
     MagmaCore: 熔岩核心
-    MagmiteBomb: Magmite Bomb
+    MagmiteBomb: 熔滴螨炸弹
     MagmiteBottle: 瓶中熔滴螨
     MagmiteVacpack: 熔滴螨加农炮
     Needler: 热熔晶针枪
@@ -316,14 +316,14 @@ Mods.StarlightRiver:
     AncientFruit: Ancient Fruit
     GoldenRice: Golden Rice
     Rice: Rice
-    GreenhouseGlassItem: Greenhouse Glass
-    GreenhouseWallItem: Greenhouse Glass Wall
+    GreenhouseGlassItem: 温室玻璃
+    GreenhouseWallItem: 温室玻璃墙
     BouncerItem: 晶体弹珠
     StaminaGemItem: 耐力宝石
     StaminaOrbItem: 耐力球
     DisplayCaseFriendlyItem: Display Case
     RatTentItem: Strange Tent
-    JellyShroomItem: Blue Jellyshroom
+    JellyShroomItem: 蓝色果冻菇
     LumishroomItem: Lumishroom
     VibeshroomItem: Vibeshroom
     BlueTorchOvergrowItem: Blue Faerie Torch
@@ -343,7 +343,7 @@ Mods.StarlightRiver:
     RatKingPaintingItem: Majestic Hoarder
     PalestoneItem: Palestone
     AuroraBrickDoorItem: Debug Brick Placer
-    AuroraBrickItem: Aurora Brick
+    AuroraBrickItem: 极光砖
     AuroraBrickWallFriendlyItem: Aurora BrickWall
     AuroraBrickWallItem: Aurora BrickWall
     AuroraIceBar: Frozen Aurora Bar
@@ -458,8 +458,8 @@ Mods.StarlightRiver:
     VitricPassiveItem: 八音盒（琉璃沙漠）
     VitricTempleItem: 八音盒（琉璃神庙）
     MinibossItem: 八音盒（小Boss）
-    OvergrowItem: Music Box (Overgrow)
-    AuroracleItem: Music Box (Auroracle)
+    OvergrowItem: 八音盒 (Overgrow)
+    AuroracleItem: 八音盒 (Auroracle)
     LeafOvergrowItem: Faerie Leaves
     BrickOvergrowItem: Runic Bricks
     StoneOvergrowItem: Runic Stone
@@ -861,9 +861,9 @@ Mods.StarlightRiver:
       链锁附近的敌人
       会造成过充减益，大幅度降低敌人的移动速度
       '''
-    FiletGiblet1: You shouldn't see this
-    FiletGiblet2: You shouldn't see this
-    FiletGiblet3: You shouldn't see this
+    FiletGiblet1: 你不应该看到这个
+    FiletGiblet2: 你不应该看到这个
+    FiletGiblet3: 你不应该看到这个
     FiletKnife:
       '''
       暴击时会从敌人身上切下肉块
@@ -1688,20 +1688,20 @@ Mods.StarlightRiver:
     PermafrostTempleBiome: 极光神殿
     VitricDesertBiome: 琉璃荒漠
     VitricTempleBiome: 琉璃锻炉
-    CombatShrineBiome: Combat Shrine Biome
-    EvasionShrineBiome: Evasion Shrine Biome
+    CombatShrineBiome: 战斗之地
+    EvasionShrineBiome: 闪躲之地
   }
   NPCName:
   {
     Glassweaver: Glassweaver
     GlassweaverWaiting: Glassweaver
     ArenaBlocker: Arena Blocker
-    Auroraborn: Auroraborn
+    Auroraborn: 极光子嗣
     Auroraling: Auroraling
     SquidBoss: Auroracle
-    Tentacle: Tentacle
+    Tentacle: 触手
     TentacleHurtbox: Tentacle Hurtbox
-    VitricBoss: Ceiros
+    VitricBoss: 塞洛斯
     VitricBossCrystal: Resonant Crystal
     StarlightWaterActor: Starlight Water Actor
     GravityOrbTest: Gravity Orb Test
@@ -1737,13 +1737,13 @@ Mods.StarlightRiver:
     LesserFirebug: Lesser Firebug
     MagmitePassive: 小熔滴螨
     Snake: 熔火响尾蛇
-    CodexPickup: Starlight Codex
-    FaeflamePickup: Faeflame
-    ForbiddenWindsPickup: Forbidden Winds
+    CodexPickup: 星光宝典
+    FaeflamePickup: 妖精火焰
+    ForbiddenWindsPickup: 禁断之风
     InfusionSlotPickup: Unnerving Device
     StaminaShardPickup: Stamina Shard Pickup
-    BerrySlime: Slimeberry
-    TouchstoneWisp: Aurora Spirit
+    BerrySlime: 莓果史莱姆
+    TouchstoneWisp: 极光之魂
   }
   BuffName:
   {
