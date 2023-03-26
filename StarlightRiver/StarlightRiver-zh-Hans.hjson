@@ -427,14 +427,14 @@ Mods.StarlightRiver:
     VitricTable: 琉璃桌
     VitricWorkbench: 琉璃工作台
     VitricDoor: 琉璃门
-    RedLaserPointer: Red Laser Pointer
-    OrangeLaserPointer: Orange Laser Pointer
-    YellowLaserPointer: Yellow Laser Pointer
-    GreenLaserPointer: Green Laser Pointer
-    BlueLaserPointer: Blue Laser Pointer
-    PurpleLaserPointer: Purple Laser Pointer
-    WhiteLaserPointer: White Laser Pointer
-    PinkLaserPointer: Pink Laser Pointer
+    RedLaserPointer: 红色激光笔
+    OrangeLaserPointer: 橙色激光笔
+    YellowLaserPointer: 黄色激光笔
+    GreenLaserPointer: 绿色激光笔
+    BlueLaserPointer: 蓝色激光笔
+    PurpleLaserPointer: 紫色激光笔
+    WhiteLaserPointer: 白色激光笔
+    PinkLaserPointer: 粉色激光笔
     VitricBossBarrierItem: VitricBossBarrierItem
     GlassweaverBossBarrierItem: GlassweaverBossBarrierItem
     CombatShrineBarrierItem: CombatShrineBarrierItem
