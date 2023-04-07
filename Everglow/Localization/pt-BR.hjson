@@ -2,28 +2,28 @@
 Mods: {
 	Everglow: {
 		Common: {
-			Hour: Час
-			Minute: Минута
-			Second: Секунда
-			Duration: продолжительность
-			NotActivated: unactivated
-			WarWhipGT:
+			// Hour: hour
+			// Minute: minute
+			// Second: second
+			// Duration: duration
+			// NotActivated: Unactivated
+			/* WarWhipGT:
 				'''
-				Нет повреждений от метки призыва
-				Ваши призываемые существа будут сосредоточены на пораженных врагах
+				No summon tag damage
+				Your summons will focus struck enemies
+				''' */
+			/* WhipGT:
 				'''
-			WhipGT:
-				'''
-				 урон от метки призыва
-				Ваши призываемые существа будут сосредоточены на пораженных врагах
-				'''
-			ClubGT: Вращайте, чтобы поразить врагов
-			RapierGT: Щелкните правой кнопкой мыши и удерживайте, чтобы зарядить рывок непобедимости с высоким уроном
-			NoAmmoConsum: Не расходует боеприпасы
-			Acytaea: Ацитея
-			ExcluWeapon: Эксклюзивное оружие
-			MythWeapon: Мифическое оружие
-			LegendWeapon: Легендарное оружие
+				 summon tag damage
+				Your summons will focus struck enemies
+				''' */
+			// ClubGT: Spin to strike enemies
+			// RapierGT: Right click and hold to charge an invincibility dash with high damage
+			// NoAmmoConsum: Does not consume ammo
+			// Acytaea: Acytaea
+			// ExcluWeapon: Exclusive Weapon
+			// MythWeapon: Mythical Weapon
+			// LegendWeapon: Legendary Weapon
 			/* DebugItem:
 				'''
 				! Debug item !
@@ -32,16 +32,16 @@ Mods: {
 
 			#世界系统WorldSystem
 			WorldSystem: {
-				WorldCreate_Def: Генерация Мира
-				WorldEnter_Def: Вхождение в Мир
-				BuildMothCave: Генерация Кокона
+				// WorldCreate_Def: Generating World
+				// WorldEnter_Def: Entering World
+				// BuildMothCave: Generating The Cocoon
 			}
 
 			#食物系统FoodSystem
 			FoodSystem: {
 				// Satiety: Satiety
-				CannotEat: Ты сыт
-				CannotDrink: Тебе не хочется пить
+				// CannotEat: You are full
+				// CannotDrink: You don't feel like drinking
 				// Khan: Khan, take me on one more charge
 			}
 
@@ -99,94 +99,94 @@ Mods: {
 		Items: {
 			AshBone: {
 				#神话传说武器，常规武器，棍棒，弹弓，饰品，附魔币，boss宝藏袋圣物召唤物，金秋武器
-				DisplayName: Раздробленные Кости
-				Tooltip:
+				// DisplayName: Stashed Bones
+				/* Tooltip:
 					'''
-					{$Mods.Everglow.Common.WarWhipGTooltip}
-					Наносит несколько повреждений костями и поражая врагов эффектом старения, ослабляя их атаку и защиту
-					'''
+					{$Mods.Everglow.Common.WarWhipGT}
+					Brusts out several damaging bones and olden enemies struck, weaken their attack and defense
+					''' */
 			}
 
 			BoneFeatherMagic: {
-				DisplayName: Книга костяного пера
-				Tooltip: Стреляет пронзающими костяными перьями, поражая старением врагов, ослабляют их атаку и защиту
+				// DisplayName: Book of Bone Feather
+				// Tooltip: Shoots piercing bone feathers, aging enemy on struck and weakening their attack damage/defense
 			}
 
-			CloudBall.DisplayName: Облачный кластер
+			// CloudBall.DisplayName: Cloud Cluster
 
 			CloudGun: {
-				DisplayName: Облачная пушка
-				Tooltip: Запускает облачные кластеры
+				// DisplayName: Cloud Cannon
+				// Tooltip: Launches cloud clusters
 			}
 
 			ComingGhost: {
-				DisplayName: Деформированный клинок
-				Tooltip: Атакует случайного врага поблизости
+				// DisplayName: Warped Blade
+				// Tooltip: Randomly surprises a lucky enemy nearby
 			}
 
-			CyanFrost.DisplayName: Морозно-голубой клинок
+			// CyanFrost.DisplayName: Cyfrost Blade
 
 			FeatherMagic: {
-				DisplayName: Книга перьев
-				Tooltip: "'Я люблю гарпий♥'"
+				// DisplayName: Book of Feather
+				// Tooltip: "'I love harpies♥'"
 			}
 
 			FireFeatherMagic: {
-				DisplayName: Книга пылающего пера
-				Tooltip: Стреляет взрывными перьями
+				// DisplayName: Book of Flaming Feather
+				// Tooltip: Shoots explosive feathers
 			}
 
 			FreezeFeatherMagic: {
-				DisplayName: Книга ледяного пера
-				Tooltip: Стреляет обледеняющими перьями
+				// DisplayName: Book of Ice Feather
+				// Tooltip: Shoots ice-bound feathers
 			}
 
 			GoldRoundYoyo: {
-				DisplayName: Золотой тур
-				Tooltip: Оставляет след из самонаводящихся золотых колец
+				// DisplayName: Golden Round
+				// Tooltip: Leaves a track of homing golden rings
 			}
 
 			SilveralGun: {
-				DisplayName: Охотник на лис Fx01
-				Tooltip: на 5% увеличена скорость передвижения и урон после попадания во врагов
+				// DisplayName: Fox Hunter Fx01
+				// Tooltip: 5% increased movement speed and damage after hitting enemies
 			}
 
 			SilveralRifle: {
-				DisplayName: Серебряная Тень Ct 01
-				Tooltip: на 5% увеличена скорость передвижения и урон после попадания во врагов
+				// DisplayName: Silver Shadow Ct01
+				// Tooltip: 5% increased movement speed and damage after hitting enemies
 			}
 
 			Sunflower: {
-				DisplayName: Диск-подсолнух
-				Tooltip: Оружие, сделанное из подсолнухов, имеет цвет надежды
+				// DisplayName: Sunflower Disc
+				// Tooltip: "'A weapon made of sunflowers, has a color of hope'"
 			}
 
 			ThunderFlower: {
-				DisplayName: Цветок света
-				Tooltip:
+				// DisplayName: Flower of Lighting
+				/* Tooltip:
 					'''
-					Стреляет грозовыми шарами 
-					'Слишком много снарядов!'
-					'''
+					Fires thunderstrom orbs
+					'Too many projectiles!'
+					''' */
 			}
 
 			World: {
-				DisplayName: Мир
-				Tooltip:
+				// DisplayName: The World
+				/* Tooltip:
 					'''
-					Призывает 'Мир' на курсоре, щелкните правой кнопкой мыши, когда он вызывается, чтобы переключиться между режимом следования и режимом разреза
-					 'Здесь собрана сила всей земли...'
-					'''
+					Summons 'World' at the curser, right click to switch between following mode and slashing mode when it is summoned
+					'Power of the entire land is accumulated here...'
+					''' */
 			}
 
 			XmasWhip: {
-				DisplayName: Хлыст Рождественской елки
-				Tooltip:
+				// DisplayName: Christmas Tree Whip
+				/* Tooltip:
 					'''
-					{$Mods.Everglow.Common.WarWhipGTooltip}
-					Наносит урон рождественским огням при попадании во врагов 
-					 'Намного лучше, чем меч Рождественской елки'
-					'''
+					{$Mods.Everglow.Common.WarWhipGT}
+					Bursts out damaging Christmas lights on hit
+					'Much better than the Christmas Tree Sword'
+					''' */
 			}
 
 			BloodGoldBlade: {
@@ -350,443 +350,442 @@ Mods: {
 			}
 
 			BlueGel: {
-				DisplayName: Коагулированный Синий Гель
-				Tooltip: Увеличивает максимальную ману на 30 и регенерацию маны на 4
+				// DisplayName: Coagulated Blue Gel
+				// Tooltip: Increases max mana by 30 and mana regen by 4
 			}
 
 			BlueTorchFlower: {
-				DisplayName: Нефритово-Голубой Ледяной покер
-				Tooltip:
+				// DisplayName: Jade Blue Icy Poker
+				/* Tooltip:
 					'''
-					Увеличивает максимальную ману на 20
-					Удар по врагу восстанавливает 2 маны, этот эффект имеет 0,2 сек кд
-					'Разновидность раскаленного докрасна покера'
-					'''
+					Increases max mana by 20
+					strike an enemy recovers 2 mana, this effect has a 0.2s CD
+					'A varietas of red hot poker'
+					''' */
 			}
 
 			CorruptEye: {
-				DisplayName: Чешуйчатый Проклятый Глаз
-				Tooltip:
+				// DisplayName: Scaled Cursed Eye
+				/* Tooltip:
 					'''
-					5 защиты
-					увеличивает шанс крита на 4%
-					Дает иммунитет к Проклятому Огню
-					Высвобождает проклятое пламя при ударе
-					Куда бы ни ушел его владелец, он все еще полон проклятий врагам'
-					'''
+					5 defence
+					increases crit chance by 4%
+					Grants immunity to Cursed Inferno
+					Release cursed flame when struck
+					Tough its owner has gone, it's still filled with curse to enemies'
+					''' */
 			}
 
 			CyanBranch: {
-				DisplayName: Фарфоровый Цветок
-				Tooltip:
+				// DisplayName: Porcelianized Flower
+				/* Tooltip:
 					'''
-					Увеличивает уклонение на 8 в течение 10 секунд после удара
-					'это довольно сложно, но и хрупко'
-					'''
+					Increases evade by 8 for 10s after struck
+					'It's pretty hard, but also brittle'
+					''' */
 			}
 
 			CyanPedal: {
-				DisplayName: Четырехконечный цветок огуречника
-				Tooltip:
+				// DisplayName: Four-pointed Borage Flower
+				/* Tooltip:
 					'''
-					Увеличивает уклонение на 4
-					'Недостающий лепесток был преобразован в твою храбрость'
-					'''
+					Increases evade by 4
+					'The missing petal was converted to your braveness'
+					''' */
 			}
 
 			DarkHat: {
-				DisplayName: Декоративный мак
-				Tooltip:
+				// DisplayName: Ornamental Poppy
+				/* Tooltip:
 					'''
-					Увеличивает шанс крита на 4% и крит урон 12%
-					'Не рекомендуется использовать, за исключением боевых или декоративных целей'
-					'''
+					Increases crit chance by 4% and crit damage by 12%
+					'Not recommanded to use except for combat or decoration purpose'
+					''' */
 			}
 
 			DukeTooth: {
-				DisplayName: Бивни герцога
-				Tooltip:
+				// DisplayName: Tusks of the Duke
+				/* Tooltip:
 					'''
-					Увеличивает пробиваемость брони на 12
-					'К счастью, Герцог Рыброн не является вымирающим видом...пока есть трюфельные черви'
-					'''
+					Increases armor penetration by 12
+					'Fortunately, Duke Fishron is not an endangered species...as long as there're truffle worms'
+					''' */
 			}
 
 			FireflyBorageBadge: {
-				DisplayName: Значок огуречника Светлячка
-				Tooltip:
+				// DisplayName: Badge of Firefly Borage
+				/* Tooltip:
 					'''
-					-12 защиты
-					Увеличивает урон на 18%
-					'Под влиянием ярости этого гигантского мотылька ваши атаки становятся более дикими'
-					'''
+					Increases magic damage by 6%
+					Increases movement speed by 15%
+					'A badge made to remind you of how beautiful that place is'
+					''' */
 			}
 
 			GoldLiquidPupil: {
-				DisplayName: Надменный Взгляд
-				Tooltip:
+				// DisplayName: Arrogating Eye
+				/* Tooltip:
 					'''
-					Ваши атаки игнорируют 35% защиты врагов
-					генерирует кольцо ихора после удара, длится 12 секунд и не складывается
-					наносит большой урон во время генерации
-					непрерывно наносит урон врагам внутри кольца
-					накладывает Ихор врагам внутри кольца
-					'Та, кто приняла кровь Бога, стала бессмертной, но ее создания не стали'
-					'''
+					Your attacks ignore 35% of enemies' defense
+					Generates a Ring of Ichor after struck, lasts 12s and unstackable
+					Deals high damage while it's generating
+					Damages enemies on the ring continuously
+					Inflicts Ichor to enemies inside the ring
+					''' */
 			}
 
 			GoldRound: {
-				DisplayName: Ноготки
-				Tooltip:
+				// DisplayName: Marigoldisc
+				/* Tooltip:
 					'''
-					7 защиты
-					Увеличивает урон на 7%
-					'Традиционные террарианцы обычно носят это, чтобы сохранить свое здоровье'
-					'''
+					7 defence
+					Increases damage by 7%
+					'Traditional Terrarians usually wear this to keep them healthy'
+					''' */
 			}
 
 			GreenGel: {
-				DisplayName: Коагулированный Зеленый Гель
-				Tooltip:
+				// DisplayName: Coagulated Green Gel
+				/* Tooltip:
 					'''
-					Увеличивает максимальное здоровье на 30 и регенерацию на 4
-					'Исследования показали, что зеленые слизни обычно обладают большей жизненной силой, чем синие слизни'
-					'''
+					Increases max Hp by 30 and Hp regen by 4
+					'Studies have shown that green slimes generally have more vitality than blue slimes'
+					''' */
 			}
 
 			HotPinkCrown: {
-				DisplayName: Оживленный Тюльпан
-				Tooltip:
+				// DisplayName: Vitalized Tulip
+				/* Tooltip:
 					'''
-					Увеличивает критический урон на (Макс. здор. * 5%)%
-					'Катализируемый Сущностью Ветра, теперь он будет реагировать на жизненную силу'
-					'''
+					Increases crit damage by (Max Hp * 5%)%
+					'Catalyzed by Essence of Wind, now it will react to vitality'
+					''' */
 			}
 
 			JungleVitamin: {
-				DisplayName: Витамин джунглей
-				Tooltip:
+				// DisplayName: Jungle Vitamin
+				/* Tooltip:
 					'''
-					Увеличивает максимально здоровье на 50
-					'Это очень помогает во влажных, опасных джунглях'
-					'''
+					Increases max Hp by 50
+					'It helps a lot in humid, dangerous jungle'
+					''' */
 			}
 
 			LightPurplePen: {
-				DisplayName: Ручка для кроличьей шерсти
-				Tooltip:
+				// DisplayName: Rabit Hair Calligraphy Brush
+				/* Tooltip:
 					'''
-					Увеличивает урон, критический шанс и скорость атаки в ближнем бою на 6%
-					'Ни один кролик не пострадал в процессе производства'
-					'''
+					Increases melee damege, melee crit chance and melee speed by 6%
+					'No rabit was hurt during the production process'
+					''' */
 			}
 
 			ManyWhiteFlower: {
-				DisplayName: Букет из Шелковой звезды
-				Tooltip:
+				// DisplayName: Bouquet of Silk Star
+				/* Tooltip:
 					'''
-					Увеличивает скорость в ближнем бою на 18%
-					'Вы же не хотите, чтобы эти прекрасные волшебные цветы были повреждены?'
-					'''
+					Increases melee speed by 18%
+					'You don't want these lovely magical flowers to be dameged'
+					''' */
 			}
 
 			MothEye: {
-				DisplayName: Омматеум мотылька
-				Tooltip:
+				// DisplayName: Ommateum of the Moth
+				/* Tooltip:
 					'''
-					Увеличивает максимальное количество приспешников на 1
-					Увеличивает урон приспешников на 6%
+					Increases minion slots by 1
+					Increases summon damage by 6%
 					'Sophisticated structures of the ommatuem have amazed you'
-					'''
+					''' */
 			}
 
 			Odd8Ring: {
-				DisplayName: Странное кольцо из 8
-				Tooltip:
+				// DisplayName: Strange Ring of 8
+				/* Tooltip:
 					'''
-					Увеличивает наносимый урон на 8
-					'Таинственная реликвия, механизм которой неизвестен, по-видимому, связана с неким математическим культом'
-					'''
+					Increases damage dealt by flat 8
+					'Mystrious relic, mechanism unknown, seems to be related to certain Mathematical cult'
+					''' */
 			}
 
 			OrangeCrown: {
-				DisplayName: Цепкий Тюльпан
-				Tooltip:
+				// DisplayName: Tenacious Tulip
+				/* Tooltip:
 					'''
-					Увеличивает защиту на(Макс.здор * 3%)%
-					'Тюльпан, благословленный Эолом, его структурная прочность на удивление высока'
-					'''
+					Increases defense by (max Hp * 3%)%
+					'A tulip blessed by Aeolus, its structural strength is suprisingly high'
+					''' */
 			}
 
 			OrangeStick: {
-				DisplayName: Пеннисетум Арантий
-				Tooltip:
+				// DisplayName: Pennisetum Arantius
+				/* Tooltip:
 					'''
-					После удара дает 5 единиц защиты и иммунитет к отбрасыванию в течении 3с
-					'В отличие от большинства трав, он быстро растет, когда яростно дует ветер'
-					'''
+					After struck, grants 5 defence and immunity to knockback for 3s
+					'Different from most grasses, it stands fast when wind blows fiercely'
+					''' */
 			}
 
 			PinkFourPedal: {
-				DisplayName: Розовая сансара
-				Tooltip:
+				// DisplayName: Pink Samsara
+				/* Tooltip:
 					'''
-					Увеличивает максимальное здоровье на 40
-					'Говорят, что раненые животные ели его, чтобы выздороветь...это правда, но, похоже, это неэффективно для человека'
-					'''
+					Increases max Hp by 40
+					'It's said that injured animals will eat it to recover...it's true, but it seems not to be effective to human'
+					''' */
 			}
 
 			PurpleBall: {
-				DisplayName: Подвески из Фиолетовой Гортензии
-				Tooltip:
+				// DisplayName: Purple Hydrangea Pandents
+				/* Tooltip:
 					'''
-					Попадание во врагов запускает вокруг вас взрыв лепестков
-					Урон лепестков увеличивается с уроном от атаки
-					Имеет кд 0.5s
+					Hitting enemies around you launches an explosion of petals
+					Damage of the petals increases with damage of the attack
+					Has a 0.5s CD
 					'Angry Hydrangea Purpura'
-					'''
+					''' */
 			}
 
 			PurpleReedHalo: {
 				// DisplayName: Purple Reed Headband
-				Tooltip:
+				/* Tooltip:
 					'''
-					Увеличивает максимальное здоровье на 30
-					Увеличивает макс кол-во маны на 40
-					'хорошо пахнет и хорошо выглядит'
-					'''
+					Increases max Hp by 30
+					Increases max mana by 40
+					'smells good and looks good'
+					''' */
 			}
 
 			RedGel: {
-				DisplayName: Коагулированный Красный Гель
-				Tooltip:
+				// DisplayName: Coagulated Red Gel
+				/* Tooltip:
 					'''
-					Увеличивает шанс крита на 6%
-					Увеличивает критический урон на 9%
-					'На некоторых слизняков также повлияла сила Крови Богов, хотя у них не было никакой крови'
-					'''
+					Increases crit chance by 6%
+					Inceases crit damage by 9%
+					'Some slimes were also affected by the power of the Blood of Gods, though they didn't have any blood'
+					''' */
 			}
 
 			RedTriangle: {
-				DisplayName: Трехконечный Красный Цветок
-				Tooltip:
+				// DisplayName: Three-pointed Red Blossom
+				/* Tooltip:
 					'''
-					Увеличивает критический урон на 18%
-					'Это агрессивная форма в культуре террарий'
-					'''
+					Increases crit damage by 18%
+					'It is an aggressive shape in Terrarian culture'
+					''' */
 			}
 
 			SilverCupFlower: {
-				DisplayName: Королевский бокал
-				Tooltip:
+				// DisplayName: Royal Goblet
+				/* Tooltip:
 					'''
-					8 защиты
-					Увеличивает максимальное здоровье на 20
-					'Был злобный король, который действительно пытался использовать его в качестве бокала, но ему ничего не удалось выпить'
-					'''
+					8 defense
+					Increases max Hp by 20
+					'There was a vicious king who has really tried to use it as a goblet, he failed to drink anything'
+					''' */
 			}
 
 			SilverWing: {
-				DisplayName: Жетон серебряных крыльев
-				Tooltip:
+				// DisplayName: Badge of Silver Wings
+				/* Tooltip:
 					'''
-					Увеличивает критический урон на 8%
-					Если вы не использовали оружие в течение 3сек, увеличивает урон на 40%
-					'Сконцентрируй силу своей души'
-					'''
+					Increases crit damage by 8%
+					If you have not been using a weapon for 3s, increases damage by 40%
+					'Concentrate the power of your soul'
+					''' */
 			}
 
 			ThreeColorCrown: {
-				DisplayName: Трехцветный венок
-				Tooltip:
+				// DisplayName: Three-colored Wreath
+				/* Tooltip:
 					'''
-					Случайное попадание по врагам дает вам один из трех приведенных ниже эффектов на 7сек
-					Красный:Увеличивает урон на 22%, шанс крита на 11%
-					Фиолетовый:Иммунитет к большинству дебаффов
-					Синий:Увеличивет макс. кол-во маны на 300
-					Имеет кд a 30сек
-					'Молитесь о том, чтобы вам не так повезло'
-					'''
+					Hitting enemies randomly grants you one of the three effects below for 7s
+					Red:Inceasing damage by 22%, increasing crit chance by 11%
+					Violet:Immunity to most debuffs
+					Blue:Increasing max mana by 300
+					It has a 30s CD
+					'Pray for not being so lucky'
+					''' */
 			}
 
 			TuskLace: {
-				DisplayName: Ожерелье из бивня
-				Tooltip:
+				// DisplayName: Tusk Necklace
+				/* Tooltip:
 					'''
-					Увеличивает пробиваемость брони на 5
-					Увеличивает урон и шанс крита 5%
-					'Бивень был выбит из пасти зверя, и снова вы сбили небольшую его часть'
-					'''
+					Increases armor penetration by 5
+					Increases damage and crit chance by 5%
+					'A tusk was knocked down from mouth of a beast, again you knocked down a small part of it'
+					''' */
 			}
 
 			WalnutClip: {
-				DisplayName: Щелкунчик
-				Tooltip:
+				// DisplayName: Nutcracker
+				/* Tooltip:
 					'''
-					Увеличивает критический урон на 16%
-					Когда ваш здоровье ниже 50% от максимального, урон увеличивается на (50% от максимального - текущего здоровья)%
-					'Помимо раскалывания орехов и крабов, он также может раскалывать врагов'
-					'''
+					Increases crit damage by 16%
+					When your Hp is below 50% of the max Hp, increases damage by (50% of max Hp - current Hp)%
+					'Besides cracking nuts and crabs, it can crack enemies, too'
+					''' */
 			}
 
 			WhiteCrown: {
-				DisplayName: Цветок надежды
-				Tooltip:
+				// DisplayName: Flower of Hope
+				/* Tooltip:
 					'''
-					Увеличивает скорость бега на (макс. здоровье * 0.2%)
-					'Простой белый цветок, кажется, оплакивает кого-то'
-					'''
+					Increases running speed by (max Hp * 0.2%)
+					'A plain white flower, seems to mourn for someone'
+					''' */
 			}
 
 			WhitePedal: {
-				DisplayName: Завеса света
-				Tooltip:
+				// DisplayName: Veil of Light
+				/* Tooltip:
 					'''
-					Увеличивает уклонение на 2
-					Увеличивает шанс крита на 4%
-					'Это такой прозрачный лепесток'
-					'''
+					Increases evade by 2
+					Increases crit chance by 4%
+					'It's such a gauzy petal'
+					''' */
 			}
 
 			WhiteWoodFlower: {
-				DisplayName: Снежный Цветок Уха
-				Tooltip:
+				// DisplayName: Snow Ear Flower
+				/* Tooltip:
 					'''
-					Увеличивает кол-во призываемых существ на 2
-					'Фантастический симбиоз'
-					'''
+					Increases minion slots by 2
+					'Fantastic symbiosis'
+					''' */
 			}
 
 			// WindMoveSeed.DisplayName: Aeolus' Seed
 
 			YellowBellFlower: {
-				DisplayName: Банан долины
-				Tooltip:
+				// DisplayName: Bananea of the Valley
+				/* Tooltip:
 					'''
-					Увеличивает урон на защиту * 20%)%
-					'Редкий и красивый'
-					'''
+					Increases damage by (defense * 20%)%
+					'Rare and beautiful'
+					''' */
 			}
 
 			FixCoinCrit1: {
-				DisplayName: Критический шанс Зачарованной монетыⅠ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает шанс крита на 1%
+				// DisplayName: Enchanted Coin Crit ChanceⅠ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases crit chance by 1%
 			}
 
 			FixCoinCrit2: {
-				DisplayName: Критический шанс Зачарованной монетыⅡ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает шанс крита на 2%~3%
+				// DisplayName: Enchanted Coin Crit ChanceⅡ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases crit chance by 2%~3%
 			}
 
 			FixCoinCrit3: {
-				DisplayName: Критический шанс Зачарованной монетыⅢ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает шанс крита на 4%
+				// DisplayName: Enchanted Coin Crit ChanceⅢ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases crit chance by 4%
 			}
 
 			FixCoinCrit4: {
-				DisplayName: Критический шанс Зачарованной монетыⅣ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает шанс крита на 5%~6%
+				// DisplayName: Enchanted Coin Crit ChanceⅣ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases crit chance by 5%~6%
 			}
 
 			FixCoinCrit5: {
-				DisplayName: Критический шанс Зачарованной монетыⅤ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает шанс крита на 7%~9%
+				// DisplayName: Enchanted Coin Crit ChanceⅤ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases crit chance by 7%~9%
 			}
 
 			FixCoinDamage1: {
-				DisplayName: Урон Зачарованной монетыⅠ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает урон на 1%
+				// DisplayName: Enchanted Coin DamageⅠ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases damage by 1%
 			}
 
 			FixCoinDamage2: {
-				DisplayName: Урон Зачарованной монетыⅡ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает урон на 2%~3%
+				// DisplayName: Enchanted Coin DamageⅡ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases damage by 2%~3%
 			}
 
 			FixCoinDamage3: {
-				DisplayName: Урон Зачарованной монетыⅢ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает урон на 4%
+				// DisplayName: Enchanted Coin DamageⅢ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases damage by 4%
 			}
 
 			FixCoinDamage4: {
-				DisplayName: Урон Зачарованной монетыⅣ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает урон на 5%~6%
+				// DisplayName: Enchanted Coin DamageⅣ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases damage by 5%~6%
 			}
 
 			FixCoinDamage5: {
-				DisplayName: Урон Зачарованной монетыⅤ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает урон на 7%~9%
+				// DisplayName: Enchanted Coin DamageⅤ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases damage by 7%~9%
 			}
 
 			FixCoinDefense1: {
-				DisplayName: Защита Зачарованной монетыⅠ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает защиту на 1
+				// DisplayName: Enchanted Coin DefenseⅠ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases defense by 1
 			}
 
 			FixCoinDefense2: {
-				DisplayName: Защита Зачарованной монетыⅡ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает защиту на 2~3
+				// DisplayName: Enchanted Coin DefenseⅡ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases defense by 2~3
 			}
 
 			FixCoinDefense3: {
-				DisplayName: Защита Зачарованной монетыⅢ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает защиту на 4
+				// DisplayName: Enchanted Coin DefenseⅢ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases defense by 4
 			}
 
 			FixCoinDefense4: {
-				DisplayName: Защита Зачарованной монетыⅣ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает защиту на 5~6
+				// DisplayName: Enchanted Coin DefenseⅣ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases defense by 5~6
 			}
 
 			FixCoinDefense5: {
-				DisplayName: Защита Зачарованной монетыⅤ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает защиту на 7~9
+				// DisplayName: Enchanted Coin DefenseⅤ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases defense by 7~9
 			}
 
 			FixCoinMelee1: {
-				DisplayName: Скорость ближнего боя Зачарованной монетыⅠ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость в ближнем бою на 1%
+				// DisplayName: Enchanted Coin Melee SpeedⅠ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases melee speed by 1%
 			}
 
 			FixCoinMelee2: {
-				DisplayName: Скорость ближнего боя Зачарованной монетыⅡ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость в ближнем бою на 2~3%
+				// DisplayName: Enchanted Coin Melee SpeedⅡ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases melee speed by 2~3%
 			}
 
 			FixCoinMelee3: {
-				DisplayName: Скорость ближнего боя Зачарованной монетыⅢ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость в ближнем бою на 4%
+				// DisplayName: Enchanted Coin Melee SpeedⅢ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases melee speed by 4%
 			}
 
 			FixCoinSpeed1: {
-				DisplayName: Скорость передвижения Зачарованной монетыⅠ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость передвижения на 1%
+				// DisplayName: Enchanted Coin Movement SpeedⅠ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases movement speed by 1%
 			}
 
 			FixCoinSpeed2: {
-				DisplayName: Скорость передвижения Зачарованной монетыⅡ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость передвижения на 2%~3%
+				// DisplayName: Enchanted Coin Movement SpeedⅡ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases movement speed by 2%~3%
 			}
 
 			FixCoinSpeed3: {
-				DisplayName: Скорость передвижения Зачарованной монетыⅢ
-				Tooltip: Дает случайному аксессуару в инвентаре префикс, который увеличивает скрость передвижения на 4%
+				// DisplayName: Enchanted Coin Movement SpeedⅢ
+				// Tooltip: Gives a random accessory in inventory a prefix which increases movement speed by 4%
 			}
 
-			BloodyTuskTrophy.DisplayName: Трофей Бивня
-			CorruptMothTrophy.DisplayName: Трофей Испорченного Мотылька
-			MothRelic.DisplayName: Реликвия Испорченного Мотылька
-			TuskRelic.DisplayName: Реликвия Бивня
+			// BloodyTuskTrophy.DisplayName: The Tusk Trophy
+			// CorruptMothTrophy.DisplayName: Corrupted Moth Trophy
+			// MothRelic.DisplayName: Corrupted Moth Relic
+			// TuskRelic.DisplayName: The Tusk Relic
 
 			CorruptMothTreasureBag: {
-				DisplayName: Мешок с Сокровищами (Испорченный Мотылька)
+				// DisplayName: Treasure Bag (Corrupted Moth)
 				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
-			CursedJawbone.DisplayName: Проклятая Челюстная кость
+			// CursedJawbone.DisplayName: Cursed Jawbone
 
 			TuskTreasureBag: {
-				DisplayName: Мешок с Сокровищами (Бивень)
+				// DisplayName: Treasure Bag(The Tusk)
 				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -796,57 +795,57 @@ Mods: {
 			}
 
 			FragransBoomerang: {
-				DisplayName: Вихревое Облако Ночи
+				// DisplayName: Swirl Cloud At Night
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			FragransBow: {
-				DisplayName: Филиал Драцены
+				// DisplayName: Fragrans Branch
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			FragransGun: {
-				DisplayName: Пламя Драцены
+				// DisplayName: Fragrans Flame
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			FragransMagic: {
-				DisplayName: Магия Луны и Драцены
+				// DisplayName: Moon & Fragrans Magic
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			FragransSpear: {
-				DisplayName: Луна Не Светит
+				// DisplayName: Moon Dosn't Shine
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			FragransStaff: {
-				DisplayName: Посох бомб Драцены
+				// DisplayName: Fragrans Bomb Staff
 				// Tooltip: Don't be lonely when moon and fragrans bright, breeze and moon still.
 			}
 
 			EbonwoodClub: {
-				DisplayName: Эбеновая дубинка
+				// DisplayName: Ebonwood Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			CrimsonClub: {
-				DisplayName: Багряновая дубинка
+				// DisplayName: Crimson Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			IchorClub: {
-				DisplayName: Ихоровая дубинка
+				// DisplayName: Ichor Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			CactusClub: {
-				DisplayName: Кактусовая дубинка
+				// DisplayName: Cactus Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			CobaltClub: {
-				DisplayName: Кобальтовая дубинка
+				// DisplayName: Cobalt Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
@@ -856,7 +855,7 @@ Mods: {
 			}
 
 			CopperClub: {
-				DisplayName: Медная дубинка
+				// DisplayName: Copper Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
@@ -866,7 +865,7 @@ Mods: {
 			}
 
 			CrystalClub: {
-				DisplayName: Кристальная дубинка
+				// DisplayName: Crystal Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
@@ -881,57 +880,57 @@ Mods: {
 			}
 
 			GoldClub: {
-				DisplayName: Золотая дубинка
+				// DisplayName: Gold Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			IronClub: {
-				DisplayName: Железная дубинка
+				// DisplayName: Iron Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			LeadClub: {
-				DisplayName: Свинцовая дубинка
+				// DisplayName: Lead Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			ChlorophyteClub: {
-				DisplayName: Хлорофитовая дубинка
+				// DisplayName: Chlorophyte Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			MeteorClub: {
-				DisplayName: Метеоритовая дубинка
+				// DisplayName: Meteor Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			MithrilClub: {
-				DisplayName: Мифриловая дубинка
+				// DisplayName: Mythril Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			OrichalcumClub: {
-				DisplayName: Орихалковая дубинка
+				// DisplayName: Orichalcum Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			PalladiumClub: {
-				DisplayName: Паладиевая дубинка
+				// DisplayName: Palladium Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			PalmWoodClub: {
-				DisplayName: Дубинка из пальмового дерева
+				// DisplayName: Palm Wood Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			PearlwoodClub: {
-				DisplayName: Перламутровая дубинка
+				// DisplayName: Pearlwood Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			PlatinumClub: {
-				DisplayName: Платиновая дубинка
+				// DisplayName: Platinum Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
@@ -941,22 +940,22 @@ Mods: {
 			}
 
 			RefinedClub: {
-				DisplayName: Адамантитовая Club
+				// DisplayName: Adamantite Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			SilverClub: {
-				DisplayName: Серебряная дубинка
+				// DisplayName: Silver Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			SpikeClub: {
-				DisplayName: Шипастая дубинка
+				// DisplayName: Spike Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			StarDancer: {
-				DisplayName: Звёздный Танцор
+				// DisplayName: Star Dancer
 				/* Tooltip:
 					'''
 					{$Mods.Everglow.Common.ClubGT}
@@ -965,27 +964,27 @@ Mods: {
 			}
 
 			TinClub: {
-				DisplayName: Оловянная дубинка
+				// DisplayName: Tin Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			TitaniumClub: {
-				DisplayName: Титановая дубинка
+				// DisplayName: Titanium Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			TungstenClub: {
-				DisplayName: Вольфрамовая дубинка
+				// DisplayName: Tungsten Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			WoodenClub: {
-				DisplayName: Деревянная дубинка
+				// DisplayName: Wooden Club
 				// Tooltip: "{$Mods.Everglow.Common.ClubGT}"
 			}
 
 			AmbiguousNight: {
-				DisplayName: Неоднозначная Ночь
+				// DisplayName: Ambiguous Night
 				/* Tooltip:
 					'''
 					Shoots phantasm pebbles
@@ -997,7 +996,7 @@ Mods: {
 			}
 
 			BlackWoodSlingshot: {
-				DisplayName: Эбеновая рогатка
+				// DisplayName: Ebonwood Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1006,7 +1005,7 @@ Mods: {
 			}
 
 			BlueGemSlingshot: {
-				DisplayName: Сапфировая рогатка
+				// DisplayName: Sapphire Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gems
@@ -1015,7 +1014,7 @@ Mods: {
 			}
 
 			CactusSlingShot: {
-				DisplayName: Кактусовая рогатка
+				// DisplayName: Cactus SlingShot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1024,7 +1023,7 @@ Mods: {
 			}
 
 			ColdWoodSlingshot: {
-				DisplayName: Рогатка из бореального дерева
+				// DisplayName: Borealwood Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1033,7 +1032,7 @@ Mods: {
 			}
 
 			DarkWoodSlingShot: {
-				DisplayName: Рогатка из тенистого дерева
+				// DisplayName: Shadewood SlingShot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1042,7 +1041,7 @@ Mods: {
 			}
 
 			GreenGemSlingshot: {
-				DisplayName: Изумрудная рогатка
+				// DisplayName: Emerald Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gems
@@ -1051,7 +1050,7 @@ Mods: {
 			}
 
 			JellySlingshot: {
-				DisplayName: Желейная рогатка
+				// DisplayName: Jelly Slingshot
 				/* Tooltip:
 					'''
 					{Mods.Everglow.Common.LegendWeapon}
@@ -1061,7 +1060,7 @@ Mods: {
 			}
 
 			JungleSlingshot: {
-				DisplayName: Рогатка джунглей
+				// DisplayName: Jungle Slingshot
 				/* Tooltip:
 					'''
 					Shoots flouroscent poisonous balls
@@ -1070,7 +1069,7 @@ Mods: {
 			}
 
 			PalmWoodSlingshot: {
-				DisplayName: Рогатка из пальмового дерева
+				// DisplayName: Palm Wood Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1079,7 +1078,7 @@ Mods: {
 			}
 
 			PearlWoodSlingshot: {
-				DisplayName: Жемчужная рогатка
+				// DisplayName: Pearlwood Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1088,7 +1087,7 @@ Mods: {
 			}
 
 			PurpleGemSlingshot: {
-				DisplayName: Аметистовая рогатка
+				// DisplayName: Amethyst Purple Gem Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gems
@@ -1097,7 +1096,7 @@ Mods: {
 			}
 
 			RedGemSlingshot: {
-				DisplayName: Рубиновая рогатка
+				// DisplayName: Ruby Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gems
@@ -1106,7 +1105,7 @@ Mods: {
 			}
 
 			RedWoodSlingshot: {
-				DisplayName: Драгоценная Рогатка из Красного дерева
+				// DisplayName: Rich Mahogany Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1115,7 +1114,7 @@ Mods: {
 			}
 
 			StarSlingshot: {
-				DisplayName: Звёздная рогатка
+				// DisplayName: Star Slingshot
 				/* Tooltip:
 					'''
 					Shoots a gloaming star, dealing AOE damage
@@ -1126,7 +1125,7 @@ Mods: {
 			}
 
 			WhiteGemSlingshot: {
-				DisplayName: Алмазная рогатка
+				// DisplayName: Diamond Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gems
@@ -1135,7 +1134,7 @@ Mods: {
 			}
 
 			WoodSlingshot: {
-				DisplayName: Деревянная рогатка
+				// DisplayName: Wood Slingshot
 				/* Tooltip:
 					'''
 					Shoots little pebbles
@@ -1144,7 +1143,7 @@ Mods: {
 			}
 
 			YellowGemSlingshot: {
-				DisplayName: Топазовая рогатка
+				// DisplayName: Topaz Slingshot
 				/* Tooltip:
 					'''
 					Shoots energized gem
@@ -1153,57 +1152,57 @@ Mods: {
 			}
 
 			BloodyBoneYoyo: {
-				DisplayName: Кровавые кости
-				Tooltip: Выпускает гвозди из клыков при каждых 5 попаданиях
+				// DisplayName: Bloody Bone Yoyo
+				// Tooltip: Releases tusk nails on every 5 hits
 			}
 
 			SpineGun: {
-				DisplayName: Позвоночный мушкет
-				Tooltip: Стреляет пулями, которые расщепляются при обнаружении врагов
+				// DisplayName: Spine Musket
+				// Tooltip: Fires bullets which split upon detecting enemies
 			}
 
 			ToothKnfe: {
-				DisplayName: Клинок-бивень
+				// DisplayName: Tusk Blade
 				// Tooltip: ""
 			}
 
 			ToothMagicBall: {
-				DisplayName: Сангвинический Шар
+				// DisplayName: Sanguine Orb
 				// Tooltip: ""
 			}
 
 			ToothStaff: {
-				DisplayName: Посох бивня
+				// DisplayName: Tusk Staff
 				// Tooltip: Raises tusks from the ground
 			}
 
-			Acropora.DisplayName: Акропора
-			Alcyonarian.DisplayName: Альционариец
-			Barnacle.DisplayName: Ракушка
-			BarrelSponge.DisplayName: Бочкообразная губка
-			Basalt.DisplayName: Базальт
-			BlueAcropora.DisplayName: Синяя Акропора
-			BlueTreeCoral.DisplayName: Голубой Древесный Коралл
-			BubbleCoral.DisplayName: Пузырчатый коралл
-			DragonScaleWood.DisplayName: Дерево из драконьей чешуи
-			GoldGorgonianBranch.DisplayName: Золотая Ветвь Горгоны
-			GorgonianPiece.DisplayName: Кусочек Горгоны
-			LargeBlueStarfish.DisplayName: Большая синяя морская звезда
-			LargeOrangeStarfish.DisplayName: Большая оранжевая морская звезда
+			// Acropora.DisplayName: Acropora
+			// Alcyonarian.DisplayName: Alcyonarian
+			// Barnacle.DisplayName: Barnacle
+			// BarrelSponge.DisplayName: Barrel Sponge
+			// Basalt.DisplayName: Basalt
+			// BlueAcropora.DisplayName: Blue Acropora
+			// BlueTreeCoral.DisplayName: BlueTree Coral
+			// BubbleCoral.DisplayName: Bubble Coral
+			// DragonScaleWood.DisplayName: Dragon Scale Wood
+			// GoldGorgonianBranch.DisplayName: GoldGorgonianBranch
+			// GorgonianPiece.DisplayName: Gorgonian Piece
+			// LargeBlueStarfish.DisplayName: Large Blue Starfish
+			// LargeOrangeStarfish.DisplayName: Large Orange Starfish
 			// MarbleCono.DisplayName: MarbleCono
-			OceanWorld.DisplayName: Океанский мир(Не работает)
-			OldMoss.DisplayName: Мох
-			ReefSharkSpecimen.DisplayName: Образец рифовой акулы
+			// OceanWorld.DisplayName: Ocean World(Not working)
+			// OldMoss.DisplayName: Moss
+			// ReefSharkSpecimen.DisplayName: Reefshark Specimen
 			// TerrariaContinent.DisplayName: Terraria Continent(Not working)
-			DarkSeaBar.DisplayName: Слиток бездный
-			DarkSeaOre.DisplayName: Руда бездный
+			// DarkSeaBar.DisplayName: Abyssal Bar
+			// DarkSeaOre.DisplayName: Abyssal Ore
 			// OceanBlueBar.DisplayName: Current Bar
 			// OceanBlueOre.DisplayName: Current Ore
-			Chinalamp1.DisplayName: Традиционная лампа
-			Chinalamp2.DisplayName: Традиционная лампа
-			LanternCrystal.DisplayName: Пилон Королевского города
-			LanternPost1.DisplayName: Фонарный столб
-			LanternPost2.DisplayName: Фонарный столб
+			// Chinalamp1.DisplayName: Traditional Lamp
+			// Chinalamp2.DisplayName: Traditional Lamp
+			// LanternCrystal.DisplayName: Royal City Pylon
+			// LanternPost1.DisplayName: Lantern Post
+			// LanternPost2.DisplayName: Lantern Post
 
 			EkandaBrick: {
 				// DisplayName: Ekanda Brick
@@ -1226,7 +1225,7 @@ Mods: {
 			}
 
 			DurableAxe: {
-				DisplayName: Прочный Топор
+				// DisplayName: Durable Axe
 				// Tooltip: ""
 			}
 
@@ -1236,17 +1235,17 @@ Mods: {
 			}
 
 			BrokenPick: {
-				DisplayName: Сломанная кирка
+				// DisplayName: Broken Pickaxe
 				// Tooltip: ""
 			}
 
 			BloodGoldBayonet: {
-				DisplayName: Багряная рапира
+				// DisplayName: Crimson Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			DreamStar: {
-				DisplayName: Звезда мечты
+				// DisplayName: Star of Dream
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
@@ -1256,27 +1255,27 @@ Mods: {
 			}
 
 			GoldenStabbingSword: {
-				DisplayName: Золотая рапира
+				// DisplayName: Gold Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			IronStabbingSword: {
-				DisplayName: Железная рапира
+				// DisplayName: Iran Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			LeadStabbingSword: {
-				DisplayName: Свинцовая рапира
+				// DisplayName: Lead Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			PlatinumStabbingSword: {
-				DisplayName: Платиновая рапира
+				// DisplayName: Platinum Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			PrisonFireBayonet: {
-				DisplayName: Литая рапира
+				// DisplayName: Molten Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
@@ -1286,29 +1285,29 @@ Mods: {
 			}
 
 			SilverStabbingSword: {
-				DisplayName: Серебряная рапира
+				// DisplayName: Silver Rapier
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			VegetationBayonet: {
-				DisplayName: Травинистая рапира
+				// DisplayName: Rapier of Grass
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			TDMT: {
-				DisplayName: Катастрофическая молния
+				// DisplayName: Catastrophic Lightning
 				// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 			}
 
 			CrystalSkull: {
 				// DisplayName: Crystal Skull
-				Tooltip:
+				/* Tooltip:
 					'''
-					Unleashes the true power of vanilla and Everglow spellbooks
+					Unleashes the true power of the Vanilla and Everglow spellbooks
 					As the fruit of wisdom of the Wizards, most of the runes that were written on magic tomes are complex and unreadable.
 					However, when you use this crystal skull which was designed by the Witch-king and imbued with the power of true sight,
-					even the most ignorat apprentice can easily understand the wisdom of ancient wizards.
-					'''
+					even the most ignorant apprentice can easily understand the wisdom of ancient wizards.
+					''' */
 			}
 
 			# 流萤系列物品
@@ -1329,26 +1328,30 @@ Mods: {
 			}
 
 			EvilChrysalis: {
-				DisplayName: Посох-кокон
-				Tooltip:
+				// DisplayName: Cocoon Staff
+				/* Tooltip:
 					'''
-					Призывает маленьких черных мотыльков сражаться за вас
-					Наносит 400% урона ближайшим врагам во время призыва
-					'''
+					Summoms little black moths to fight for you
+					Deal 400% damage to nearby enemies while summoning
+					''' */
 			}
 
 			PhosphorescenceGun: {
-				DisplayName: Чешуйчатый дробовик
+				// DisplayName: Scale Shotgun
 				// Tooltip: Shoots out shots and blue scale bullets which deal 36% damage
 			}
 
 			ScaleWingBlade: {
-				DisplayName: Чешуекрылый Клинок
-				Tooltip: TODO
+				// DisplayName: Lepidoptera Blade
+				/* Tooltip:
+					'''
+					Striking enemies with this blade or swinging this blade while near enemies will spawn moths that home in on said enemies
+					Right click to charge a more powerful swing and to spawn more moths on impact
+					''' */
 			}
 
 			ShadowWingBow: {
-				DisplayName: Закрывающие крылья
+				// DisplayName: Occulting Wings
 				/* Tooltip:
 					'''
 					Hold to charge to  increase damage, capped at +200%, and additionally fires Blue Butterfly Arrows.
@@ -1387,7 +1390,7 @@ Mods: {
 			// BlackStarShrub.DisplayName: Black Star Shrub
 			// DarkCocoon.DisplayName: Black Cocoon
 			// DarkCocoonWall.DisplayName: Black Cocoon Wall
-			EvilCocoon.DisplayName: Магический Кокон
+			// EvilCocoon.DisplayName: Magical Cocoon
 
 			FireflyCapital: {
 				// DisplayName: "'An Illusion of The Firefly'"
@@ -1468,155 +1471,139 @@ Mods: {
 				# Modded items
 				# Modded drink items
 				// DisplayName: B_52
-				Tooltip:
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Greatly increases launchers' speed, damage and crit chance
-					'Bomber'
-					'''
+					'轰炸机！！！'
+					''' */
 			}
 
 			BlueHawaii: {
-				DisplayName: Blue Hawaii
+				// DisplayName: 蓝色夏威夷
 				# Modded items
 				# Modded drink items
-				Tooltip:
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Increases speed of your projectiles
-					'Sea wind breezes'
-					'''
+					'海风吹拂'
+					''' */
 			}
 
 			DreamYearning: {
-				DisplayName: Yearning Dream
-				Tooltip:
+				// DisplayName: 魂牵梦萦
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Increases speed of your projectiles
-					'Thinking of thou and missing thou, yearning in intoxicated dream
-					browpowder fades, frangrance dissipates, sobriety suffers more'
-					'''
+					'思君忆君，魂牵梦萦，翠销香暖云屏，更哪堪酒醒。'
+					''' */
 			}
 
 			DryMartini: {
-				DisplayName: Dry Martini
-				Tooltip:
+				// DisplayName: 干马提尼
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Greatly increases damage
-					'Classic'
-					'''
+					'经典之作'
+					''' */
 			}
 
 			GreenStorm: {
-				DisplayName: Green Storm
-				Tooltip:
+				// DisplayName: 绿色风暴
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Shoots chlorophyte crystals and spore clouds in succession
-					'Don't think grasses are cheap, they're more expensive than apples and walnuts until mass production'
-					'''
+					'别以为草便宜,没上规模前,它比苹果核桃什么的都贵。'
+					''' */
 			}
 
 			KiwiJuice: {
-				DisplayName: Kiwi Juice
-				Tooltip:
+				// DisplayName: 猕猴桃果汁
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Greatly increases weapon size
-					'Concentrated Kiwi power'
-					'''
+					'浓缩的奇异之力'
+					''' */
 			}
 
 			LonelyJellyfish: {
-				DisplayName: A Lonely Jellyfish
-				Tooltip:
+				// DisplayName: 孤独的水母
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Makes you invisible and summon jellyfish electrspheres
-					'Toss it off after appreciating'
-					'''
+					'观赏完就一饮而尽吧'
+					''' */
 			}
 
 			OrangeJuice: {
-				DisplayName: Orange Juice
-				Tooltip:
+				// DisplayName: 橙汁
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Grants you invincibility
-					'Emm, kind of like LCL'
-					'''
+					'嗯，有点像LCL'
+					''' */
 			}
 
 			PiercoldWind: {
-				DisplayName: Piercingly Cold Winds
-				Tooltip:
+				// DisplayName: 寒风凛冽
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Lantern Moon enemies
-					'长啸出原野, 凛然寒风生'
-					'''
+					'长啸出原野，凛然寒风生。'
+					''' */
 			}
 
 			PurpleHooter: {
-				DisplayName: Purple Hooter
-				Tooltip:
+				// DisplayName: 紫色汽笛
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Blood Moon enemies
-					'Nobleness and profoundness'
-					'''
+					'高贵与深沉'
+					''' */
 			}
 
 			QuinceMarry: {
-				DisplayName: Quince Marry
-				Tooltip:
+				// DisplayName: 榅桲玛丽
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Pumpkin Moon enemies
-					'Hotness and gentleness'
-					'''
+					'炙热与温柔'
+					''' */
 			}
 
 			RedWine: {
-				DisplayName: Red Wine
-				Tooltip:
+				// DisplayName: 红酒
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Frost Moon enemies
-					'The upper class and elegance'
-					'''
+					'上流与优雅'
+					''' */
 			}
 
 			Sunrise: {
-				DisplayName: Sunrise
-				Tooltip:
+				// DisplayName: 日出
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Solar Eclipse enemies
-					'Sunshine and brightness'
-					'''
+					'阳光与明媚'
+					''' */
 			}
 
 			Tricolour: {
-				DisplayName: Tricoloured
-				Tooltip:
+				// DisplayName: 三色旗
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against bosses' minions
-					'Complexity and specificity'
-					'''
+					'复杂与专一'
+					''' */
 			}
 
 			WaterMelonJuice: {
-				DisplayName: Watermelon Juice
-				Tooltip:
+				// DisplayName: 西瓜汁
+				/* Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Greatly increases crit chance and knockback
-					'Focused striking force'
-					'''
+					'浓缩的打击力度'
+					''' */
 			}
 
 			ArcticshellfishWarship: {
@@ -1866,7 +1853,7 @@ Mods: {
 			// LiftLamp.DisplayName: Lift Indicator
 
 			TestItem: {
-				DisplayName: Деревянный Подъемник
+				// DisplayName: Wooden Lift
 				# LiftLamp
 				// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 			}
@@ -1908,14 +1895,13 @@ Mods: {
 
 			WoodShield: {
 				# Shields
-				DisplayName: Wooden Shield
+				// DisplayName: WoodShield
 				# Shields
-				Tooltip:
+				/* Tooltip:
 					'''
-					Left click to attack
-					Right click to defend
-					'Just a normal shield, no one would use it for offense, would you?'
-					'''
+					左键攻击，右键防御
+					"只是一面普通的盾牌，不会有人想用盾牌去打人吧"
+					''' */
 			}
 
 			Hepuyuan: {
@@ -2684,7 +2670,7 @@ Mods: {
 			}
 
 			PizzaBuff: {
-				DisplayName: Пицца
+				// DisplayName: Pizza
 				/* Description:
 					'''
 					10 increased armor penetration
@@ -2702,7 +2688,7 @@ Mods: {
 			}
 
 			PotatoChipsBuff: {
-				DisplayName: Картофельные чипсы
+				// DisplayName: Potato Chips
 				/* Description:
 					'''
 					4 increased defense amd 8% increased damage
@@ -2720,7 +2706,7 @@ Mods: {
 			}
 
 			PumpkinPieBuff: {
-				DisplayName: Тыквенный пирог
+				// DisplayName: Pumpkin Pie
 				/* Description:
 					'''
 					50 increased max life
@@ -2729,7 +2715,7 @@ Mods: {
 			}
 
 			RambutanBuff: {
-				DisplayName: Рамбутан
+				// DisplayName: Rambutan
 				/* Description:
 					'''
 					Immune to Poisoned, Acid Venom and debuffs which the Ankh Shield is immune to
@@ -2738,7 +2724,7 @@ Mods: {
 			}
 
 			RoastedBirdBuff: {
-				DisplayName: Жареная птица
+				// DisplayName: Roasted Bird
 				/* Description:
 					'''
 					Increased flying ability
@@ -2747,7 +2733,7 @@ Mods: {
 			}
 
 			RoastedDuckBuff: {
-				DisplayName: Жареная утка
+				// DisplayName: Roasted Duck
 				/* Description:
 					'''
 					Increased flying ability, you can walk on water, press DOWN to enter water
@@ -2756,7 +2742,7 @@ Mods: {
 			}
 
 			SakeBuff: {
-				DisplayName: Сакэ
+				// DisplayName: Sake
 				/* Description:
 					'''
 					18 decreased defense but greatly increased melee ability
@@ -2765,7 +2751,7 @@ Mods: {
 			}
 
 			SashimiBuff: {
-				DisplayName: Сашими
+				// DisplayName: Sashimi
 				/* Description:
 					'''
 					Move like normal in water, you can breathe in water
@@ -2785,11 +2771,11 @@ Mods: {
 
 			SeafoodDinnerBuff: {
 				// DisplayName: Seafood Dinner
-				Description:
+				/* Description:
 					'''
-					6% increased damage, crit chance and attack speed
+					12% increased damage, crit chance and attack speed
 					'Raw enough!'
-					'''
+					''' */
 			}
 
 			ShrimpPoBoyBuff: {
@@ -2802,7 +2788,7 @@ Mods: {
 			}
 
 			ShuckedOysterBuff: {
-				DisplayName: Очищенная устрица
+				// DisplayName: Shucked Oyster
 				/* Description:
 					'''
 					10 increased armor penetration but 5 decreased defense, you lose 3 life per second
@@ -2811,7 +2797,7 @@ Mods: {
 			}
 
 			SmoothieofDarknessBuff: {
-				DisplayName: Смузи из темноты
+				// DisplayName: Smoothie of Darkness
 				/* Description:
 					'''
 					50% increased dodge chance
@@ -2820,7 +2806,7 @@ Mods: {
 			}
 
 			SpaghettiBuff: {
-				DisplayName: Спагетти
+				// DisplayName: Spaghetti
 				/* Description:
 					'''
 					1 increased max minion
@@ -2829,7 +2815,7 @@ Mods: {
 			}
 
 			StarfruitBuff: {
-				DisplayName: Звёздный фрукт
+				// DisplayName: Starfruit
 				/* Description:
 					'''
 					Shotguns shot one more bullet
@@ -2838,7 +2824,7 @@ Mods: {
 			}
 
 			SteakBuff: {
-				DisplayName: Стейк
+				// DisplayName: Steak
 				/* Description:
 					'''
 					33% reduced mana consumption
@@ -2847,7 +2833,7 @@ Mods: {
 			}
 
 			SugarCookieBuff: {
-				DisplayName: Сахарное печенье
+				// DisplayName: Sugar Cookie
 				/* Description:
 					'''
 					5% increased ranged damage
@@ -2856,7 +2842,7 @@ Mods: {
 			}
 
 			TeacupBuff: {
-				DisplayName: Чайная чашка
+				// DisplayName: Teacup
 				/* Description:
 					'''
 					Greatly increased mana regen, magic damage and magic crit chance
@@ -2865,7 +2851,7 @@ Mods: {
 			}
 
 			TropicalSmoothieBuff: {
-				DisplayName: Тропический Смузи
+				// DisplayName: Tropical Smoothie
 				/* Description:
 					'''
 					Greatly increased magic damage and magic crit chance, your mana cost is reduced to 1
