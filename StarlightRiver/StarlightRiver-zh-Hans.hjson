@@ -1405,10 +1405,10 @@ Mods.StarlightRiver:
     VitricMediumCrystalItem: The slot this Item is in changes the type placed
     VitricSmallCrystalItem: The slot this Item is in changes the type placed
     VitricSpikeItem: 好痛!
-    VitricBossBarrierItem: debug item
-    GlassweaverBossBarrierItem: debug item
-    CombatShrineBarrierItem: debug item
-    EvasionShrineBarrierItem: debug item
+    VitricBossBarrierItem: 调试物品
+    GlassweaverBossBarrierItem: 调试物品
+    CombatShrineBarrierItem: 调试物品
+    EvasionShrineBarrierItem: 调试物品
   }
   ProjectileName:
   {
