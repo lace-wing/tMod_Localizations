@@ -47,7 +47,7 @@ Mods.StarlightRiver:
     DesertArtifact6Item: 远古化石
     DesertArtifact7Item: 远古化石
     ExoticGeodeArtifactItem: 奇异晶洞
-    PerfectlyGenericArtifactItem: 绝对普通的物品
+    PerfectlyGenericArtifactItem: 完美通用物品
     PirateChestArtifactItem: 海盗箱
     RainTotemArtifactItem: 暴雨图腾
     WindTotemArtifactItem: 烈风图腾
@@ -596,14 +596,14 @@ Mods.StarlightRiver:
       充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
       '''
     ExoticGeodeArtifactItem: "'Incredibly shiny'"
-    PerfectlyGenericArtifactItem: 召唤一个绝对普通的宠物
+    PerfectlyGenericArtifactItem: 召唤一个完美通用的宠物
     PirateChestArtifactItem:
       '''
       右键打开
       'Sought after for centuries'
       '''
-    RainTotemArtifactItem: 开始或停止大风暴
-    WindTotemArtifactItem: 开始或停止大风
+    RainTotemArtifactItem: 唤起或终止暴雨
+    WindTotemArtifactItem: 唤起或终止大风
     DebugModerEnabler: 启用调试模式
     DebugStick: 具有需要的任何效果
     DefiledAnkh:
@@ -1459,7 +1459,7 @@ Mods.StarlightRiver:
     ArchaeologistsWhip_Whip: Archaeologist's Whip
     AztecDeathSaxophoneHoldout: Aztec Death Saxophone
     AztecDeathSaxophoneSoundwave: Aztec Death Saxophone Soundwave
-    PerfectlyGenericPet: Perfectly Generic Object
+    PerfectlyGenericPet: 完美通用宠物
     CloudstrikeShot: Electro Shock
     SkullBomb: Skull Bomb
     SkullBusterBullet: Bullet
@@ -1747,7 +1747,7 @@ Mods.StarlightRiver:
   }
   BuffName:
   {
-    GlassweaverDot: Incineration
+    GlassweaverDot: 焚烧
     Claustrophobia: 幽闭恐惧症
     CoughDropsBuff: 止咳糖浆
     FerrofluidDraftBuff: 磁流体牵引
@@ -1765,25 +1765,25 @@ Mods.StarlightRiver:
     Rage: 暴怒
     Slimed: 黏滑
     Squash: 压扁
-    StaticShock: Static Shock
-    GrayGooSummonBuff: Gray Goo
-    PalestoneSummonBuff: Pale Knight
-    SupplyBeaconDamage: Supply Beacon
-    SupplyBeaconDefense: Supply Beacon
-    SupplyBeaconHeal: Supply Beacon
+    StaticShock: 静电震击
+    GrayGooSummonBuff: 灰蛊
+    PalestoneSummonBuff: 苍白骑士
+    SupplyBeaconDamage: 信标增益：伤害
+    SupplyBeaconDefense: 信标增益：防御
+    SupplyBeaconHeal: 信标增益：治疗
     ArchaeologistsBuff: Treasure buff
-    PerfectlyGenericPetBuff: Perfectly Generic Pet
-    WolfBleeding: Gored
-    ShovelQuickFall: Quick fall
-    ShovelSlowFall: Slow fall
-    SoulSuck: Soul Suck
-    BarbedKnifeBleed: Deep gash
-    BizarrePotionPoisonDebuff: Bizarre Poison
-    BrokenGlassesBuff: Broken Glasses
-    CoachDebuff: Coach Debuff
-    CorpseflowerBuff: Corpseflowered
-    FiletFrenzyBuff: Blood Frenzy
-    ImpactSMGBuff: Heated Up!
+    PerfectlyGenericPetBuff: 完美通用宠物
+    WolfBleeding: 戳伤
+    ShovelQuickFall: 速降
+    ShovelSlowFall: 羽落
+    SoulSuck: 灵魂汲取
+    BarbedKnifeBleed: 深度创伤
+    BizarrePotionPoisonDebuff: 奇异毒素
+    BrokenGlassesBuff: 碎玻璃
+    CoachDebuff: 特训
+    CorpseflowerBuff: 尸魔花诅咒
+    FiletFrenzyBuff: 血脉冰封
+    ImpactSMGBuff: 高热！
     IronheartBuff: 钢铁之心
     PlexusChaliceBuff: Plexus Resistance
     RadculasRapierCooldown: Radcula's Teleport Cooldown
