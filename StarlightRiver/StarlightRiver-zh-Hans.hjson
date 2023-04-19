@@ -145,7 +145,7 @@ Mods.StarlightRiver:
     Cheapskates: 廉价溜冰鞋
     CoachGun: 护骑霰弹枪
     CopperCoil: 铜质线圈
-    Corpseflower: 尸花
+    Corpseflower: 尸魔花
     CoughDrops: 止咳糖
     CutlassBus: 弯刀之魂
     DiceAmmo: 骰子
@@ -1760,7 +1760,7 @@ Mods.StarlightRiver:
     IvySnare: 陷阱
     MossRegen: 再生苔藓
     Overcharge: 过充
-    PrismaticDrown: 流光溺水
+    PrismaticDrown: 棱光之溺
     ProtectiveShard: 护佑碎片
     Rage: 暴怒
     Slimed: 黏滑
@@ -1782,30 +1782,30 @@ Mods.StarlightRiver:
     BrokenGlassesBuff: 碎玻璃
     CoachDebuff: 特训
     CorpseflowerBuff: 尸魔花诅咒
-    FiletFrenzyBuff: 血脉冰封
+    FiletFrenzyBuff: 血液冰封
     ImpactSMGBuff: 高热！
     IronheartBuff: 钢铁之心
     PlexusChaliceBuff: Plexus Resistance
-    RadculasRapierCooldown: Radcula's Teleport Cooldown
-    MoonfuryDebuff: Dreamfire
-    AuroraThroneMountMinionDebuff: Inked
+    RadculasRapierCooldown: Radcula的传送冷却
+    MoonfuryDebuff: 梦境炽焰
+    AuroraThroneMountMinionDebuff: 墨染
     UrnFreeze: Urn Freeze
     InoculationPotionBuff: Inoculated
     NoShieldPot: Barrier Sickness
     ShieldDegenReduction: Barrier Affinity
-    CogwheelBuff: Cogwheel
+    CogwheelBuff: 齿轮
     Exposed: Exposed
-    PhoenixStormSummonBuff: Phoenix Minion
+    PhoenixStormSummonBuff: 凤凰风暴
     RefractiveBladeBuff: 融化
-    SwelteredDeBuff: Sweltered
+    SwelteredDeBuff: 中暑
     Fogbinded: Fogbinded
   }
   BuffDescription:
   {
-    GlassweaverDot: Burning incredibly fast!
-    Claustrophobia: Stuck in wisp form!
-    CoughDropsBuff: Your speed and damage are boosted
-    FerrofluidDraftBuff: Nearby Items gravitate towards you
+    GlassweaverDot: 以难以置信的速度燃烧！
+    Claustrophobia: 困于丝线之中
+    CoughDropsBuff: 你的速度和伤害得到提升
+    FerrofluidDraftBuff: 附近的物品将会被你吸引
     FoodBuff:
       '''
       Nourised by rich food, granting:
@@ -1813,8 +1813,8 @@ Mods.StarlightRiver:
       '''
     ForestTonic:
       '''
-      Immunity to poision
-      Slowly regenerate life
+      对中毒免疫
+      缓慢再生生命
       '''
     Full: Cannot consume any more rich food
     HotspringHeal: The hot springs restore your body and mind
@@ -1827,7 +1827,7 @@ Mods.StarlightRiver:
     ProtectiveShard: Incoming Damage reduced by 25%
     Rage: Increased damage and greatly increased knockback
     Slimed: eww
-    Squash: You're flat now.
+    Squash: 你被压扁了
     StaticShock: Lowered Defense
     GrayGooSummonBuff: Nanomachines, son!
     PalestoneSummonBuff: The Pale Knight Will Protect You!
