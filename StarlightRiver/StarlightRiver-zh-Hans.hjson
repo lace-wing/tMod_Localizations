@@ -1412,37 +1412,37 @@ Mods.StarlightRiver:
   }
   ProjectileName:
   {
-    ArtifactItemProj: Artifact
-    BurningGround: Burning Ground
+    ArtifactItemProj: 人工制品
+    BurningGround: 燃烬
     GlassBubble: Volatile Bubble
-    GlassBubbleFragment: Glass Shard
-    GlassHammer: Woven Hammer
-    GlassJavelin: Glass Javelin
+    GlassBubbleFragment: 玻璃碎片
+    GlassHammer: 编织之锤
+    GlassJavelin: 琉璃枪
     GlassRaiseSpike: Raised Glass Structure
     GlassSpear: Woven Hammer
-    GlassSword: Glass Sword
-    GlassweaverDoor: Glassweaver Door
+    GlassSword: 琉璃剑
+    GlassweaverDoor: 织璃门
     LavaLob: Hot Lob
-    Whirlwind: Spinning Blades
-    AuroraWaterSplash: Aurora Water Splash
-    DoorBomb: Door Bomb
-    InkBlob: Rainbow Ink
-    InkBlobGravity: Rainbow Ink
-    Laser: Laser
-    SpewBlob: Aurora Shard
-    SqueezeTell: Tentacle Warning
-    TentacleTell: Tentacle Warning
-    TentacleTrail: Trail
-    CrystalWave: Crystal Wave
-    FinalLaser: Raging Fire
-    FireCone: Fire Cone
-    FireRingHostile: Fire Ring Hostile
-    GlassSpike: Glass Spike
+    Whirlwind: 旋刃
+    AuroraWaterSplash: 极光漩
+    DoorBomb: 门炸弹
+    InkBlob: 虹墨
+    InkBlobGravity: 虹墨
+    Laser: 激光
+    SpewBlob: 极光碎片
+    SqueezeTell: 触须警告
+    TentacleTell: 触须警告
+    TentacleTrail: 触须之痕
+    CrystalWave: 水晶
+    FinalLaser: 怒火
+    FireCone: 炎锥
+    FireRingHostile: 火焰指环
+    GlassSpike: 琉璃尖刺
     GlassVolley: Glass Volley
     GlassVolleyShard: Glass Volley Shard
-    LavaDart: Magma Shot
-    SpikeMine: Spike Mine
-    TelegraphedGlassSpike: Glass Spike
+    LavaDart: 熔岩弹丸
+    SpikeMine: 尖刺地雷
+    TelegraphedGlassSpike: 琉璃尖刺
     VitricBomb: Vitric Bomb
     LightningNode: Lightning Node
     BreachCannonSentry: Breach Cannon
@@ -1490,23 +1490,23 @@ Mods.StarlightRiver:
     GravediggerSlam: Grave digger
     GravediggerSwing: Grave digger
     PoltergeistMinion: Haunted Weapon
-    CopperObol: Obol
-    GoldObol: Obol
+    CopperObol: 铜币
+    GoldObol: 金币
     ObolImpact: Obol Star
-    PlatinumObol: Obol
-    SilverObol: Obol
+    PlatinumObol: 铂金币
+    SilverObol: 银币
     GrayGooProj: Gray Goo
     ThunderBeadsProj: Thunder Beads
     ThunderbussBall: Thunderbuss Ball
     ThunderbussShot: Electro Shock
-    BalloonGunBalloon: Balloon
-    BizarreIce: Bizarre Potion
+    BalloonGunBalloon: 气球
+    BizarreIce: 奇异药水
     BizarreLightning: Bizarre Lightning
     BizarreLightningOrb: Bizarre Lightning Orb
-    BizarrePotionPoisonCloud: Bizarre Potion Poison Cloud
-    BizarrePotionProj: Bizarre Potion
-    BladesawSwungBlade: Bladesaw
-    BloodAmuletBolt: Ghoul
+    BizarrePotionPoisonCloud: 奇异药水毒云
+    BizarrePotionProj: 奇异药水
+    BladesawSwungBlade: 锯刃
+    BloodAmuletBolt: 食尸鬼
     CoachGunBomb: Dynamite
     CoachGunEmber: Ember
     CoachGunMuzzleFlash: Muzzle Flash
@@ -1521,9 +1521,9 @@ Mods.StarlightRiver:
     DualCrossHeld: Double Cross
     ElectroArrowProjectile: Electro Arrow
     FiletSlash: Slash
-    FryingPanBonk: Frying Pan
-    FryingPanProj: Frying Pan
-    FryingPanThrownProj: Frying Pan Thrown Proj
+    FryingPanBonk: 煎锅
+    FryingPanProj: 煎锅
+    FryingPanThrownProj: 煎锅射弹
     GeodeBowExplosion: Geode Explosion
     GeodeBowGrowth: Geode Growth
     GeodeBowProj: Geode Bow
