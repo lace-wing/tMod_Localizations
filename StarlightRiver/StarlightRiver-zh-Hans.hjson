@@ -486,32 +486,32 @@ Mods.StarlightRiver:
     TestWhipImprint: 无效果
     Astral:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry more speed
+      禁断之风灌注
+      冲刺的距离更远且保留较多速度
       耐力消耗乘以1.3倍
       '''
     Astral2:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry even more speed
+      禁断之风灌注
+      冲刺的距离更远且保留更多速度
       耐力消耗乘以1.6倍
       '''
     Astral3:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry the most speed
+      禁断之风灌注
+      冲刺的距离更远且保留最多速度
       耐力消耗乘以2倍
       '''
-    AstralImprint: Dash farther and carry more speed
+    AstralImprint: 冲刺的距离更远且保留更多速度
     Blink:
       '''
-      Forbidden Winds Infusion
+      禁断之风灌注
       立即传送到前方一小段距离，闪避敌人及其攻击
       '''
     BlinkImprint: 立即传送到前方一小段距离，闪避敌人及其攻击
     Pulse:
       '''
-      Forbidden Winds Infusion
+      禁断之风灌注
       冲刺会被一种短暂、频繁且强力的速度爆发替代
       减少0.25耐力消耗
       '''
@@ -950,8 +950,8 @@ Mods.StarlightRiver:
       魔法攻击击中敌人时有25%几率使你回复部分等同于此次伤害量的魔力值
       '''
     MagmaGun: 喷射一股熔岩急流，会粘在物块和敌人身上
-    PandorasDagger: 擦弹时会释放失谐弹幕，会造成可叠加的Volatile减益
-    PandorasShield: 擦弹时会使你获得部分等同于部分等同于弹幕伤害量的屏障
+    PandorasDagger: 擦弹时会释放能够造成可叠加的Volatile减益的失谐弹幕
+    PandorasShield: 擦弹时会使你获得部分等同于弹幕伤害量的屏障
     PhilosophersMortar: 拾取红心会缩短10秒药水疾病的持续时间，但治疗量同样会减半
     PowerCell: NaN
     PulseBoots: 使你获得方向固定的二段跳
