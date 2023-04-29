@@ -1,4 +1,4 @@
-# Loclaization Approch
+# Localization Approch
 
 Developer team of Starlight River has decided to not adopt built-in translations, instead translators should use patch mods.  
 Hence the translations are put here instead of in a fork repo from SLR. 

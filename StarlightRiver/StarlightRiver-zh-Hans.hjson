@@ -15,7 +15,6 @@ Mods.StarlightRiver:
     BasicInfusion: 空白石板
     CauldronItem: 坩埚
     MixingStick: 搅拌棒
-    AstrofloraFlail: 星华链球
     BaseBarrierDye: 基础屏障染料
     MoonstoneBarrierDye: 月长石染剂
     VitricBossBarrierDye: 哨卫染剂
@@ -39,6 +38,7 @@ Mods.StarlightRiver:
     AWhip_GreenGem: 宝藏
     AWhip_Necklace: 宝藏
     AWhip_RedGem: 宝藏
+    AztecDeathSaxophone: Aztec Death Saxophone
     DesertArtifact1Item: 远古化石
     DesertArtifact2Item: 远古化石
     DesertArtifact3Item: 远古化石
@@ -47,7 +47,7 @@ Mods.StarlightRiver:
     DesertArtifact6Item: 远古化石
     DesertArtifact7Item: 远古化石
     ExoticGeodeArtifactItem: 奇异晶洞
-    PerfectlyGenericArtifactItem: 绝对普通的物品
+    PerfectlyGenericArtifactItem: 完美通用物品
     PirateChestArtifactItem: 海盗箱
     RainTotemArtifactItem: 暴雨图腾
     WindTotemArtifactItem: 烈风图腾
@@ -126,8 +126,6 @@ Mods.StarlightRiver:
     PoltergeistHead: 作祟兜帽
     PoltergeistLegs: 作祟袍靴
     CharonsObol: 卡戎的银币
-    HellKey: 焦狱钥匙
-    MagmaSword: "[PH]岩浆剑"
     GrayGoo: 灰色粘质
     ThunderBeads: 电鞭磁珠
     Thunderbuss: 雷筒
@@ -141,12 +139,13 @@ Mods.StarlightRiver:
     BloodAmulet: 鲜血护符
     BloodlessAmulet: 无血战士的护符
     BricklayersMallet: 砖瓦匠的槌子
-    BuffChalice: 强化圣杯
+    BrokenGlasses: Broken Glasses
+    BuffChalice: 强化圣杯 
     CasualMirror: 因果镜
     Cheapskates: 廉价溜冰鞋
     CoachGun: 护骑霰弹枪
     CopperCoil: 铜质线圈
-    Corpseflower: 尸花
+    Corpseflower: 尸魔花
     CoughDrops: 止咳糖
     CutlassBus: 弯刀之魂
     DiceAmmo: 骰子
@@ -181,6 +180,7 @@ Mods.StarlightRiver:
     PhilosophersMortar: 哲学家的研钵
     PowerCell: 电池
     PulseBoots: 脉冲靴
+    RadculasRapier: Radcula's Rapier
     RhythmicResonator: 共振节拍器
     Sandscript: 沙痕
     SanitizerSpray: 消毒喷雾
@@ -279,6 +279,7 @@ Mods.StarlightRiver:
     IgnitionGauntlets: 起爆手套
     MagmaArrow: 熔岩箭
     MagmaCore: 熔岩核心
+    MagmiteBomb: 熔滴螨炸弹
     MagmiteBottle: 瓶中熔滴螨
     MagmiteVacpack: 熔滴螨加农炮
     Needler: 热熔晶针枪
@@ -287,6 +288,8 @@ Mods.StarlightRiver:
     RefractiveBlade: 折射尖刃
     SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
+    TempleEntranceKey: Large forge key
+    TempleKey: Small forge key
     VitricBossBag: 宝藏袋（塞洛斯）
     VitricBow: 琉璃弓
     VitricBulletItem: 琉璃弹
@@ -321,7 +324,7 @@ Mods.StarlightRiver:
     StaminaOrbItem: 耐力球
     DisplayCaseFriendlyItem: 展示柜
     RatTentItem: 奇怪的帐篷
-    JellyShroomItem: 蓝色水母菇 # neta深海迷航, 但我没找到中译名
+    JellyShroomItem: 蓝色果冻菇 # 蓝色水母菇，neta深海迷航, 但我没找到中译名
     LumishroomItem: 荧光蘑菇
     VibeshroomItem: 颤颤蘑菇
     BlueTorchOvergrowItem: 蓝仙女火炬
@@ -351,7 +354,8 @@ Mods.StarlightRiver:
     TouchstoneItem: 引光冰石
     TouchstoneLootboxItem: Touchstone Chest Placer
     AuroracleTrophyItem: Auroracle Trophy
-    CeirosTrophyItem: 碎晶哨卫纪念章
+    CeirosTrophyItem: 塞洛斯纪念章
+    CombatShrineItem: Combat shrine placer
     HotspringFountainItem: Hotspring Source
     MagmiteShrineItem: The Boi
     DashBarrierItem: Dash Barrier
@@ -368,15 +372,19 @@ Mods.StarlightRiver:
     ForgeDoorItem: 锻炉门
     ForgeInnerDoorItem: 锻炉内门
     RedBannerShortItem: 短飘带
-    DoorHorizontalItem: 水平神殿门
-    DoorVerticalItem: 垂直神殿门
+    CrystalSlimeSpawnerItem: NPC Spawner
+    DashableDoorItem: DashableDoor
+    DoorGearsItem: Gear Puzzle Temple Door
+    DoorVerticalItem: Vertical Temple Door
     EntranceDoorItem: 外门
     GearPuzzleOriginPlacer: 齿轮谜题原点
     GearTilePlacer: 解谜用齿轮
     ObjectiveGearItem: 齿轮谜题定位点
     ReflectorItem: 反射镜
     LowWindBannerItem: 矩形飘带
+    NPCSpawnerItem: NPC Spawner
     OldCeirosShrineItem: 老旧的塞洛斯神龛
+    TallWindowItem: Window Actor
     TempleCandleCrystalItem: 神殿晶体蜡烛
     TempleCandleItem: 神殿蜡烛
     TempleCeirosFountainItem: 神殿哨卫喷泉
@@ -403,14 +411,6 @@ Mods.StarlightRiver:
     VitricSmallCrystalItem: 小型琉璃晶
     VitricSpikeItem: 琉璃刺
     VitricBannerItem: 长飘带
-    RedLaserPointer: 红激光笔
-    OrangeLaserPointer: 橙激光笔
-    YellowLaserPointer: 黄激光笔
-    GreenLaserPointer: 绿激光笔
-    BlueLaserPointer: 蓝激光笔
-    PurpleLaserPointer: 紫激光笔
-    WhiteLaserPointer: 白激光笔
-    PinkLaserPointer: 粉激光笔
     VitricBathtub: 琉璃浴缸
     VitricBed: 琉璃床
     VitricBookcase: 琉璃书架
@@ -428,6 +428,18 @@ Mods.StarlightRiver:
     VitricTable: 琉璃桌
     VitricWorkbench: 琉璃工作台
     VitricDoor: 琉璃门
+    RedLaserPointer: 红色激光笔
+    OrangeLaserPointer: 橙色激光笔
+    YellowLaserPointer: 黄色激光笔
+    GreenLaserPointer: 绿色激光笔
+    BlueLaserPointer: 蓝色激光笔
+    PurpleLaserPointer: 紫色激光笔
+    WhiteLaserPointer: 白色激光笔
+    PinkLaserPointer: 粉色激光笔
+    VitricBossBarrierItem: VitricBossBarrierItem
+    GlassweaverBossBarrierItem: GlassweaverBossBarrierItem
+    CombatShrineBarrierItem: CombatShrineBarrierItem
+    EvasionShrineBarrierItem: EvasionShrineBarrierItem
     TempleChairItem: 神殿椅
     TempleLargeVaseItem: 神殿花瓶
     TempleLargeVaseCrystalItem: 神殿晶体花瓶
@@ -447,8 +459,8 @@ Mods.StarlightRiver:
     VitricPassiveItem: 八音盒（琉璃沙漠）
     VitricTempleItem: 八音盒（琉璃神庙）
     MinibossItem: 八音盒（小Boss）
-    OvergrowItem: Music Box (Overgrow)
-    AuroracleItem: Music Box (Auroracle)
+    OvergrowItem: 八音盒 (Overgrow)
+    AuroracleItem: 八音盒 (Auroracle)
     LeafOvergrowItem: Faerie Leaves
     BrickOvergrowItem: Runic Bricks
     StoneOvergrowItem: Runic Stone
@@ -469,111 +481,111 @@ Mods.StarlightRiver:
     TestWhip:
       '''
       [PH]Whip Infusion
-      No effect
+      无效果
       '''
-    TestWhipImprint: No effect
+    TestWhipImprint: 无效果
     Astral:
       '''
       Forbidden Winds Infusion
       Dash farther and carry more speed
-      Increases stamina cost to 1.3
+      耐力消耗乘以1.3倍
       '''
     Astral2:
       '''
       Forbidden Winds Infusion
       Dash farther and carry even more speed
-      Increases stamina cost to 1.6
+      耐力消耗乘以1.6倍
       '''
     Astral3:
       '''
       Forbidden Winds Infusion
       Dash farther and carry the most speed
-      Increases stamina cost to 2
+      耐力消耗乘以2倍
       '''
     AstralImprint: Dash farther and carry more speed
     Blink:
       '''
       Forbidden Winds Infusion
-      Instantly teleport a short distance ahead, avoiding enemies and their attacks
+      立即传送到前方一小段距离，闪避敌人及其攻击
       '''
-    BlinkImprint: Instantly teleport a short distance ahead, avoiding enemies and their attacks
+    BlinkImprint: 立即传送到前方一小段距离，闪避敌人及其攻击
     Pulse:
       '''
       Forbidden Winds Infusion
-      Dash is replaced by a short, frequent, and potent burst of speed
-      Decreases stamina cost by 0.25
+      冲刺会被一种短暂、频繁且强力的速度爆发替代
+      减少0.25耐力消耗
       '''
-    PulseImprint: Dash is replaced by a short, frequent, and potent burst of speed
+    PulseImprint: 冲刺会被一种短暂、频繁且强力的速度爆发替代
     BasicInfusion:
       '''
       La Tabula Rasa
-      Can be imprinted with challenges at an infusion station
-      Complete challenges to transform into an infusion
-      New infusions become available as you progress
+      可以在灌注站刻印挑战
+      完成挑战后会转化为灌注
+      随着进度的推荐，你可以使用新的灌注
       '''
-    CauldronItem: Alchemic Cauldron
+    CauldronItem: 炼金锅
     MixingStick:
       '''
-      Mixing Stick
-      Use this to finalize alchemy recipes to craft them.
+      搅拌棒
+      用这个来完成炼金配方并制作它们。
       '''
     AstrofloraFlail: Spinning the flail releases toxic spores that ignite when the flail is thrown
     BaseBarrierDye: ""
     MoonstoneBarrierDye:
       '''
-      Causes barrier to reflect the light of the moon
-      Equipable
-      Vanity Item
+      使屏障能够反射月光
+      可装备
+      装饰性物品
       '''
     VitricBossBarrierDye:
       '''
-      Causes barrier effect to mimic the shield of the Shattered Sentinel
-      Equipable
-      Vanity Item
+      使屏障能够模仿Shattered Sentinel的护盾效果
+      可装备
+      装饰性物品
       '''
     SeaglassRing:
       '''
-      +10 barrier
-      Barrier recharge starts slightly faster
+      +10点屏障
+      小幅度增加屏障开始再生的速度
       'The battering waves have not diminished its shine'
       '''
     BreachCannon:
       '''
-      Summons a sentry that shoots a laser towards the cursor 
-      These lasers can combine
+      召唤一个会向你光标位置发射激光的哨兵
+      这些激光可以互相融合
       '''
-    BreacherChest: 10% increased ranged damage
-    BreacherHead: 15% increased ranged critical strike damage
-    BreacherLegs: up to 20% ranged critical strike damage based on speed
-    FlareBreacher: Fires explosive flares that embed in enemies, blasting shrapnel through and behind them
+    BreacherChest: 增加10%远程伤害
+    BreacherHead: 增加15%远程暴击伤害
+    BreacherLegs: 基于速度增加远程暴击率，至多增加20%远程暴击率
+    FlareBreacher: 发射会嵌入敌人体内的爆破照明弹，爆炸成的弹片会穿透并冲击敌人的身后
     ReactivePlating:
       '''
-      Gain brief damage resistance after taking several hits
+      在多次受击后获得短暂的伤害抗性
       'The shielding activates, but only after... repeated triggers.'
       '''
     ScrappodItem:
       '''
-      Shatters into scrapnel after reaching the mouse cursor
-      Is only able to shatter after a short period of time
+      到达光标位置时碎裂成弹片
+      无法在射击时立刻碎裂
       '''
     Scrapshot:
       '''
-      Right click to hook your enemies and pull closer
-      Fire while hooked to reduce spread and go flying
+      右键钩住你的敌人并拉进距离
+      钩住敌人时射击会减少扩散并向后回退
       '''
     SupplyBeacon:
       '''
-      Taking over 50 damage summons a supply drop 
-      Stand near the supply drop to buff either damage, regeneration, or defense 
-      10 second cooldown
+      受到超过50点伤害时会召唤空降补给
+      站在补给点附近会获得伤害、再生或防御加成
+      10秒冷却时间
       '''
-    Ivy: A common, yet versatile herb
-    IvySeeds: Can grow in hanging planters
-    PotionForest: Provides regenration and immunity to poision
+    Ivy: 一种常见但有着多种用途的草药
+    IvySeeds: 可以种植在吊挂盆中
+    PotionForest: 提供生命再生并使你免疫中毒减益
     ArchaeologistsWhip:
       '''
-      Strike enemies to make them drop treasure 
-      Collect treasure to empower minions
+      打击敌人会使其掉落宝藏
+      收集宝藏会强化召唤物
       '''
     AWhip_BlueGem: You shouldn't see this
     AWhip_Cloud: You shouldn't see this
@@ -588,61 +600,62 @@ Mods.StarlightRiver:
     DesertArtifact5Item: ""
     DesertArtifact6Item: ""
     DesertArtifact7Item: ""
+    AztecDeathSaxophone:
+      '''
+      受到伤害或击杀敌人时会为萨克斯充能
+      充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
+      '''
     ExoticGeodeArtifactItem: "'Incredibly shiny'"
-    PerfectlyGenericArtifactItem: Summons a Perfectly Generic Pet
+    PerfectlyGenericArtifactItem: 召唤一个完美通用的宠物
     PirateChestArtifactItem:
       '''
-      Right click to open
+      右键打开
       'Sought after for centuries'
       '''
-    RainTotemArtifactItem: Starts or stops the force of the great storms
-    WindTotemArtifactItem: Starts or stops the force of the great winds
-    DebugModerEnabler:
-      '''
-      Enables debug mode which does... stuff!
-      Hold Y to make bosses go at ludicrous speed.
-      '''
-    DebugStick: Developer item
+    RainTotemArtifactItem: 唤起或终止暴雨
+    WindTotemArtifactItem: 唤起或终止大风
+    DebugModerEnabler: 启用调试模式
+    DebugStick: 具有需要的任何效果
     DefiledAnkh:
       '''
-      Cursed : Your Barrier protects against twenty-five percent less damage
-      You cannot gain any debuff besides Potion, Barrier and Mana Sickness while Barrier is active
-      +40 max Barrier
+      诅咒：你的屏障拥有25%伤害减免
+      当屏障存在时，除了药水、屏障和魔力疾病外，你无法获得任何减益
+      +40点屏障
       '''
     AquaSapphire:
       '''
-      Barrier negates 5% more damage 
-      +10 Barrier
+      屏障会抵消5%额外伤害
+      +10点屏障
       '''
     Cloudstrike:
       '''
-      Accumulate electrical charge while not firing
-      Damage and range of your next shot increases with charge
+      不攻击时积蓄电能
+      下次射击的伤害和距离会随着电能的积蓄而增加
       'Meet this storm of sound and fury, till thunder-clashes fade to silence'
       '''
     InertStaff: ‘This broken artifact still holds some latent astral energy’
     SkullBuster:
       '''
-      Right click to throw 4 skullbombs 
-      Release right click to shoot them all in quick succession
+      右键扔出四个烟雾弹
+      松开右键会在短时间内快速向烟雾弹射击
       '''
     StarlightPendant:
       '''
-      Barrier boosts mana regen by 1% per point of currently active barrier 
-      Consuming mana boosts barrier regen by 1% per 4 points of mana consumed in the past 5 seconds 
-      -10 barrier
+      每点屏障增加1%魔力再生速度
+      在过去5秒内每消耗4点魔力值都会增加1%屏障再生速度
+      -10点屏障
       '''
     ThousandthDegree:
       '''
-      Melts through enemies to build up heat
-      Releasing launches the blazing wheel, melting through enemies and sliding on tiles before returning
+      融化被接触的敌人并加热
+      松开以发射炽热火轮，在返回前会融化被接触的敌人并在物块上滑动
       'Rip and tear'
       '''
     Eraser: Death
     ReplicantCells:
       '''
-      +15% DoT Resist
-      Health regeneration starts slightly faster
+      +15%持续伤害抗性
+      小幅度增加生命开始再生的速度
       '''
     ExampleCombatMountItem: ""
     BlackPepper: "\n\n"
@@ -662,7 +675,7 @@ Mods.StarlightRiver:
     Lettuce: "\n\n"
     MahoganyRoot: "\n\n"
     ManaExtract: "\n\n"
-    Meal: Rich food that provides these buffs:
+    Meal: 丰富的食物提供了下列增益：
     Milk: "\n\n"
     Rabbit: "\n\n"
     SeaSalt: "\n\n"
@@ -675,44 +688,44 @@ Mods.StarlightRiver:
     Toast: "\n\n"
     Vinegar: "\n\n"
     WhippedCream: "\n\n"
-    AcornSprout: Killing summon tagged enemies summons acorns to fall on nearby enemies
+    AcornSprout: 击杀具有召唤标记的敌人会召唤橡子落在附近敌人的头上
     DustyAmulet:
       '''
-      +20 maximum life
-      +20 maximum mana
-      0.8x critical strike chance
+      +20点最大生命值
+      +20点最大魔力值
+      暴击率乘以0.8
       'An old heirloom with an inscription lost to time'
       '''
     FeralWolfMountItem:
       '''
-      Summons a feral wolf combat mount
-      Inflicts bleeding with powerful bites
-      Right click to howl and boost the speed of minions
+      召唤一只野狼战斗坐骑
+      用强力的撕咬造成流血减益
+      右键嚎叫并强化召唤物的速度
       '''
     OldWhetstone:
       '''
-      +1 to all damage
+      +1点伤害
       'Why in tarnation are you sharpening your wand?!'
       '''
     Trowel:
       '''
-      Extends blocks in a straight line
-      Direction is based on your position
-      Hold SHIFT for reverse direction
-      30 block range
+      在一条直线上延伸物块
+      方向基于你光标的方向
+      长按SHIFT键翻转方向
+      30格物块距离
       '''
     Trowel2:
       '''
-      Extends blocks in a straight line extremely quickly
-      Direction is based on your position
-      Hold SHIFT for reverse direction
-      40 block range
+      在一条直线上以极快的速度延伸物块
+      方向基于你光标的方向
+      长按SHIFT键翻转方向
+      40格物块距离
       'The perfect tool for every esteemed bridgebuilder!'
       '''
-    ForestIvyBlowdart: On hit, builds up poisonous vines on enemies, dealing contact damage and spreading to other enemies.
-    ForestIvyChest: 2% increased ranged critical strike change
-    ForestIvyHead: 2% increased ranged critical strike change
-    ForestIvyLegs: Slightly increased movement speed
+    ForestIvyBlowdart: 击中敌人时会在其身上逐渐长出藤蔓，造成接触伤害并传播附近的敌人
+    ForestIvyChest: 增加2%远程暴击率
+    ForestIvyHead: 增加2%远程暴击率
+    ForestIvyLegs: 小幅度增加移动速度
     EmeraldHeart: You shouldn't see this
     GeoAmethyst: You shouldn't see this
     GeoDiamond: You shouldn't see this
@@ -720,12 +733,12 @@ Mods.StarlightRiver:
     GeomancerHood: ""
     GeomancerItemDummy:
       '''
-      Diamond: Critical strikes partially ignore armor, with increased chance for missing enemy HP 
-      Topaz: +100 barrier. Gain a shield that points to your cursor and blocks attacks, consuming barrier 
-      Emerald: Immediately heal 20 hp. Hits have a chance to create a 5 HP life heart 
-      Sapphire: Immediately refill mana. Hits have a chance to create 1 to 3 mana stars 
-      Amethyst: All strikes inflict Toxic Amethyst, a stacking poison debuff 
-      Ruby: Hits have a chance to summon a Ruby Dagger to seek the struck enemy for 20% of the hit's damage
+      钻石：暴击无视部分防御，基于敌人已损失的生命值增加暴击率
+      黄玉：+100点屏障。获得一个指向你光标方向的护盾，消耗屏障来抵挡伤害
+      翡翠：立即回复20点生命值。击中敌人时有几率生成一个回复5点生命值的心
+      蓝宝石：立即补充魔力值。击中敌人时有几率生成一到三个魔力星
+      紫晶：使用攻击都会造成可叠加的剧毒紫晶减益
+      红玉：击中敌人时有几率召唤一个搜寻敌人的红玉匕首，造成20%伤害
       '''
     GeomancerPants: ""
     GeomancerRobe: ""
@@ -735,500 +748,499 @@ Mods.StarlightRiver:
     RainbowCycleDye: ""
     RainbowCycleDye2: ""
     SapphireStar: You shouldn't see this
-    SparklingBullet: Regenerates on a successful hit
+    SparklingBullet: 成功击中敌人时会再次获得该弹药
     BloodBolter:
       '''
-      Converts wooden arrows into bloodbolts 
-      Bloodbolts impale dead fleshy enemies, exploding them on surfaces
+      将木箭转化为血矢
+      血矢会刺穿被击杀的敌人的血肉，并在接触到表面时爆炸
       '''
-    Gluttony: Suck the soul out of your enemies!
+    Gluttony: 吸取你敌人的灵魂！
     GravediggerItem:
       '''
-      Strikes enemies up into the air 
-      Hit enemies in the air for more damage
+      将敌人挑向空中
+      击中空中的敌人会造成更多的伤害
       '''
     LivingBlood: ""
     PoltergeistChest:
       '''
-      5% increased magic damage
+      增加5%魔法伤害
       +15% Inoculation
       '''
-    PoltergeistHead: 15% increased magic critical strike damage
-    PoltergeistLegs: +40 maximum mana
+    PoltergeistHead: 增加15%魔法暴击伤害
+    PoltergeistLegs: +40点最大魔力值
     CharonsObol:
       '''
-      Converts all dropped money to reflective coins, which ricochet projectiles off themselves
-      Coins lose their power when they contact any surface
+      将附近掉落的金钱转化为反射钱币，命中钱币的弹幕会被反弹
+      钱币会在接触任何表面时失去效果
       'Money is the root of all evil'
       '''
-    HellKey: Opens a hellscorch chest
-    MagmaSword: Launches blobs of burning magma
-    GrayGoo: Summons a swarm of nanomachines to devour enemies
+    GrayGoo: 召唤纳米机器群吞噬你的敌人
     ThunderBeads:
       '''
-      Whip enemies to stick the beads to them 
-      Repeatedly click to shock affected enemies
+      鞭打敌人会把珠子粘在敌人身上
+      反复电击以电击被粘住的敌人
       '''
     Thunderbuss:
       '''
-      Fires powerful lightning at enemies in a cone
-      Right click to fire a lightning orb
-      Shooting at the orb zaps all enemies near it
-      The orb explodes on impact, and only one may be active at once
+      在锥形范围发射强大的闪电
+      右键发射一个闪电球
+      箱球体射击会电击附近的所有敌人
+      球体会在碰撞时爆炸，同时至多存在一个球体
       'Crush the path of most resistance'
       '''
     AlchemistShackles:
       '''
-      Mana and health potions are more effective when your health and mana are lower 
-      Cursed : Potion sickness effects last 15 seconds longer
+      当你的魔力值和生命值较低时，魔力和生命药水会更加有效
+      诅咒：延长15秒药水疾病减益的时间
       '''
-    ArchaeologistsMap: Reveals the location of one nearby artifact
-    BalloonGun: Attach balloons to enemies to make them float away
+    ArchaeologistsMap: 揭露附近古物的位置
+    BalloonGun: 将气球绑在敌人身上，使其飘走
     BalloonInABalloon:
       '''
-      Increases jump height 
-      Increases mid air maneuverability
-      Hold up to fall slower
+      增加跳跃高度
+      增加空中机动性
+      长按上键缓降
       '''
-    BarbedKnife: Critical strikes apply a bleeding debuff that stacks up to five times
-    BizarrePotion: Throws a random potion with random damaging effects
+    BarbedKnife: 暴击时会造成流血减益，可叠加至多5次
+    BizarrePotion: 投掷具有随机效果的随机药水
     Bladesaw:
       '''
-      Slashes with a combo heavy swings
-      Slows down on hit, shredding anything unlucky enough to be caught in the way
-      Striking enemies inflicts them with stacks of Shredded, and heats up the blade... er saw
-      The bladesaw does more damage depending on how heated it is, to a maximum of 18%
-      <right> to cause the blade to slice through trees
-      'What are you, some kind of Chainsaw Man?'
+      粉碎敌人
+      反复击中敌人会将其撕裂并过热电锯，过热会增加伤害
+      右键当做工具使用
       '''
     BloodAmulet:
       '''
-      Every 25 damage taken releases a homing bloodbolt 
-      These bolts damage enemies and guaruntee they drop life hearts on death
+      每受到25点伤害便会释放一个追踪血矢
+      血矢会伤害敌人并且使它们在死亡时必定掉落红心
       '''
     BloodlessAmulet:
       '''
-      +100 Maximum Barrier
-      Unaffected by damage over time
-      Barrier absorbs ALL damage
-      You can survive without life
-      Cursed : You cannot have life
-        Slightly reduced barrier recharge
-        Healing grants a decaying damage boost instead of life
+      +100点屏障
+      不再受到持续伤害的英雄
+      屏障会吸收所有伤害
+      你可以在没有生命值的情况下存活
+      诅咒：你无法拥有生命值
+      大幅度降低屏障再生速度
+      治疗会使你获得一个持续衰减的伤害加成，而非回复生命值
       'Leave your flesh behind, for your rage is all you need'
       '''
     BricklayersMallet:
       '''
-      Doubles block placement and tool range
-      Decreases mining speed by 50% for blocks outside your original range
+      翻倍物块放置距离和工具距离
+      挖掘超过原先距离的物块时降低50%挖掘速度
       '''
-    BuffChalice: Inflicting debuffs temporarily increases debuff resistance
+    BrokenGlasses: 持续伤害效果能够造成暴击
+    BuffChalice: 造成减益时会短暂增加减益抗性
     CasualMirror:
       '''
-      Regenerate life when you would take damage-over-time.
-      Cursed : take damage-over-time when you would regenerate life.
-      This includes natural regeneration
+      受到持续伤害时再生生命
+      诅咒：再生生命时受到持续伤害
+      这包括自然的生命再生
       '''
     Cheapskates:
       '''
-      Maximum movement speed is doubled
-      Take up to 25% more damage while moving over default speed
-      Acceleration is reduced by 75% when over default speed
+      奔跑速度翻倍
+      当速度超过默认速度时会受到25%额外伤害
+      当速度超过默认速度时会降低75%加速度
       '''
     CoachGun:
       '''
-      M2 to throw out a lit bundle of dynamite
-      Explodes in 2.5 seconds, dealing DoT and weakening enemies
-      Shoot it to detonate it early
+      右键扔出一捆被引燃的炸药
+      炸药会在2.5秒后爆炸，造成持续伤害并削弱敌人
+      射击炸药可提前将其引爆
       'My business, my rules'
       '''
-    CopperCoil: Strikes nearby enemies with static electricity
+    CopperCoil: 用静电打击附近的敌人
     Corpseflower:
       '''
-      All damage dealt is converted into damage over time
-      Damage is decreased by 66%
-      You are unable to critically strike while equipped
+      造成的伤害会转化为持续的伤害
+      降低66%伤害
+      装备后无法再造成暴击
       '''
-    CoughDrops: When debuffs wear off, gain a temporary speed and damage boost
+    CoughDrops: 当减益消失时，使你获得临时的移动速度和伤害加成
     CutlassBus: egshels update this lol
-    DiceAmmo: Every shot randomizes
+    DiceAmmo: 每次射击都是随机的
     DisinfectantKit:
       '''
-      Combined effects of the Disinfectant Wipes and Sanitizer Spray
-      10% increased critical strike chance when a debuff is active
+      Disinfectant Wipes和Sanitizer Spray的组合效果
+      当至少拥有一种减益时增加10%伤害
       '''
     DisinfectantWipes:
       '''
-      Critical strikes have a 10% chance to reduce all debuff durations by 3 seconds
-      Does not affect potion sickness debuffs
+      暴击时有10%几率缩短3秒所有减益的持续时间
+      药水疾病减益不会受到影响
       '''
-    DualCross: Shoots your highest two ammo slots at once
-    DullBlade: Doesn't seem very sharp... yet
+    DualCross: 同时发射你背包中位置较高的两种子弹
+    DullBlade: 看起来不是很锋利...但是嘛...
     ElectroArrow:
       '''
-      Chains to nearby enemies
-      Inflicts overcharge, greatly lowering enemy defense
+      链锁附近的敌人
+      会造成过充减益，大幅度降低敌人的移动速度
       '''
-    FiletGiblet1: You shouldn't see this
-    FiletGiblet2: You shouldn't see this
-    FiletGiblet3: You shouldn't see this
+    FiletGiblet1: 你不应该看到这个
+    FiletGiblet2: 你不应该看到这个
+    FiletGiblet3: 你不应该看到这个
     FiletKnife:
       '''
-      Critical strikes carve chunks of flesh from enemies
-      Devour chunks to heal and gain Blood Frenzy
-      Blood Frenzy grants increased attack speed and decreased critical strike chance
+      暴击时会从敌人身上切下肉块
+      吞食肉块会获得治疗和Blood Frenzy增益
+      Blood Frenzy会增加攻击速度但会降低暴击率
       '''
     FryingPan:
       '''
-      Attacks in close-range melee before being thrown to ring some chrome domes
+      在投掷前近距离攻击敌人会用煎锅重重敲打敌人的头部
       'Evil-looking runes are inscribed on the bottom'
       '''
     GeodeBow:
       '''
-      Hit enemies to create crystal growths 
-      Shoot these growths to deal massive damage
+      击中敌人时会在其身上长出晶体
+      向晶体射击会造成大量伤害
       '''
-    GlassArrowhead: Critical strikes cause fired arrows to shatter into glass shards
+    GlassArrowhead: 暴击时会使箭矢破碎成琉璃碎片
     GraveBuster:
       '''
-      Destroys nearby graves 
-      Favorite it to prevent yourself from dropping graves on death 
+      摧毁附近的墓碑
       'You like the taste of brains, we don't like zombies'
       '''
     Guillotine:
       '''
-      Critical strikes gain power as your foes lose health
-      Executes normal enemies on low health
+      基于敌人已损失的生命值使你的暴击获得力量
+      普通敌人在生命值较低时会被处决
       '''
     Gunchucks: ""
     GunstrapBoots:
       '''
-      All double jumps now shoot out a shotgun blast of bullets below you
-      Using wings fires constant rounds of machine gun fire
+      进行二段跳时会向下方发射子弹
+      使用翅膀飞行时将持续发射子弹
       '''
     HermesVow:
       '''
-      Cursed
-      Massively increased acceleration and movement speed
-      Increased jump height and max movement speed
-      You are unable to use wings
+      诅咒
+      大幅度增加移动速度和加速度
+      增加跳跃高度和奔跑速度
+      你无法再使用翅膀
       '''
-    HolyAmulet: Releases bursts of homing energy for every 25 HP healed
+    HolyAmulet: 每回复25点生命值便会释放一次追踪的爆破能量
     HungryStomach:
       '''
-      Restore stamina by damaging foes
-      Melee weapons are twice as effective
-      Cursed: Disables natural stamina regenration
+      通过伤害敌人来恢复耐力
+      近战武器的会使上述效果翻倍
+      诅咒：禁用自然的耐力再生
       '''
     ImpactSMG:
       '''
-      Hold <left> to rapidly fire high impact bullets, heating over time
-      Release to boomerang the gun
-      Hitting an enemy while its not overheated grants you a stacking buff to the Impact SMG's damage
-      Hitting an enemy while its overheated causes it to consume all stacks for a deadly explosion
+      长按左键快速发射高速冲击弹，随时间流逝加热
+      松开以将枪械以回旋镖方式投掷
+      在未过热时投掷并击中敌人会使你获得可叠加的增益，增加冲撞冲锋枪的伤害
+      在过热时投掷并击中敌人会消耗所有的增益层数，并产生致命爆炸
       '''
-    ImpulseThruster: Converts all wingtime into a burst of energy
-    Ironheart: Melee damage generates decaying barrier and defense
+    ImpulseThruster: 将所有的飞行时间转化为能量爆发
+    Ironheart: 近战伤害会使你获得衰减的屏障和防御
     LostCollar:
       '''
       +40% Inoculation
-      Debuffs you inflict are inflicted on you
-      +5% movement and attack speed per debuff affecting you
-      Cursed : Lose all debuff immunities
+      你会获得你对敌人造成的减益
+      你每获得一个减益，都会增加5%的移动速度和攻击速度
+      诅咒：失去所有减益免疫效果
       '''
     Magebane:
       '''
-      Mana replenishing items cannot be used
-      Magic attacks have a twenty-five percent chance to leech a large portion of damage as mana on hit
+      无法使用补充魔力的物品
+      魔法攻击击中敌人时有25%几率使你回复部分等同于此次伤害量的魔力值
       '''
-    MagmaGun: Blasts a torrential stream of lava that sticks to tiles and enemies
-    MonkSpade: ""
-    PandorasDagger: Grazes release Discordant Bolts, that inflict stacks of Volatile
-    PandorasShield: Grazes grant a portion of the projectiles' damage as barrier
-    PhilosophersMortar: Life hearts decrease duration of Potion Sickness by 10 seconds, but heal half as much
+    MagmaGun: 喷射一股熔岩急流，会粘在物块和敌人身上
+    PandorasDagger: 擦弹时会释放失谐弹幕，会造成可叠加的Volatile减益
+    PandorasShield: 擦弹时会使你获得部分等同于部分等同于弹幕伤害量的屏障
+    PhilosophersMortar: 拾取红心会缩短10秒药水疾病的持续时间，但治疗量同样会减半
     PowerCell: NaN
-    PulseBoots: Grants a directionally boosted double jump
+    PulseBoots: 使你获得方向固定的二段跳
+    RadculasRapier:
+      '''
+      快速戳刺敌人，造成致命的流血效果
+      右键传送至光标位置，斩击在路径上的所有东西
+      基于击中敌人时流血的效力增加伤害并治疗玩家
+      你在传送时斩击的敌人越多，冷却时间越短
+      '''
     RhythmicResonator:
       '''
-      Attack in rhythm with your weapon to gradually increase damage and knockback
-      Disables autoswing
+      用你的武器有节奏的攻击会逐渐增加伤害和击退
+      禁用自动使用
       '''
     Sandscript:
       '''
-      Manifests a blade of sand
+      挥洒刃形沙
       `This lost tablet contains a fragment of the Epic of Yeremy
       ...The writing is sorta ameteurish for an ancient relic`
       '''
-    SanitizerSpray: Critical strikes have a 25% chance to transfer partial debuff duration to nearby enemies
+    SanitizerSpray: 暴击时有25%几率转移部分在持续时间内的减益至附近的敌人身上
     ShockAbsorber:
       '''
-      Dropping from great heights creates a shockwave
-      Nullifies fall damage
+      从高处坠落时会产生冲击波
+      无效化摔落伤害
       '''
     Sling:
       '''
-      Sling seeds, stones, and mushrooms at your enemies
-      Seeds have increase velocity
-      Stones have less velocity but deal more damage and knockback
-      Mushrooms deal less damage but inflict Poisoned
-      75% chance to not consume ammo
+      向敌人发射种子、石块和蘑菇
+      种子的速度更快
+      石块的速度更慢但会造成更多的伤害和击退
+      蘑菇会造成更少的伤害，但会造成中毒减益
+      75%几率不消耗弹药
       '''
-    Slitherring: Whips have a chance to shoot out a smaller, snake whip
+    Slitherring: 鞭子有几率打出较小的蛇鞭
     Soilgun:
       '''
-      Hold <left> to charge up a volley of soil
-      Release to fire the soil at high velocities
-      Can use many different types of soils
+      长按左键充能并发射一排土块
+      释放高速土块
+      可使用不同种类的土块
       'Soiled it! SOILED IT!'
       '''
     SojournersScarf:
       '''
-      20% increased movement speed
-      50% decreased life regeneration while stationary
+      增加20%移动速度
+      站定不动时降低50%生命再生速度
       '''
     Sorcerwrench:
       '''
-      Select an area of blocks to be broken
-      Consumes 2 mana per block broken
+      选择要破坏的物块的范围
+      每个被破坏的物块都会消耗2点魔力值
       '''
     SoulOfFrog:
       '''
-      Frogs are resurrected on death, growing stronger with each return from the brink.
-      Killing other critters has a chance to reveal them as actually being a frog the whole time
-      They will then be resurrected as if they were a frog the whole time, because they were
+      青蛙会在死亡时复活，每次复活时都会更加强大。
+      击杀其他动物时有几率揭露它们其实一直是青蛙
+      然后，它们会像青蛙一样复活，因为它们一直是青蛙
       '''
     SpikedMail:
       '''
-      Barrier damage is applied to attackers as thorns 
-      +20 barrier
+      屏障受到伤害时会反弹给攻击者
+      +20点屏障
       '''
     StaminaGel: ""
     StaminaPickup: ""
-    StaminaRing: Slowly regenerates stamina
-    StaminaUp: Increased maximum stamina by 1
+    StaminaRing: 缓慢的再生耐力
+    StaminaUp: 增加1点最大耐力
     StarlightShuriken:
       '''
-      Toss a volley of magical shurikens
-      Landing every shuriken decreases the amount thrown by 1
-      Throw a powerful glaive when you would throw only 1 shuriken
+      投掷一排魔法手里剑
+      每命中一次，投掷数量减少1
+      手里剑数量只剩1时会掷出一个强大的利刃
       '''
     SwordBook:
       '''
-      Allows execution of combos with broadswords
-      Right click to parry with a broadsword
+      允许阔剑进行连斩
+      右键用阔剑进行格挡
       '''
     TaintedGreataxe:
       '''
-      Cursed
-      Summons an Ethereal Greataxe, which embeds itself near enemies who were just critically striked
-      The enemy that the Greataxe embeds itself in becomes Focused
-      <right> on the Greataxe whilst it is Embedded and it will un-embed itself
+      诅咒
+      召唤一柄以太巨斧，巨斧会嵌入最近被暴击的敌人身上
+      被巨斧嵌入的敌人会被聚焦
+      <right>被嵌入的敌人会使巨斧取消嵌入
       '''
-    TinCoil: Strikes nearby enemies with static electricity
+    TinCoil: 用静电打击附近的敌人
     TwistSword:
       '''
-      Hold to unleash a whirling slash
-      Hold jump while slashing to accelerate upward
+      长按释放回旋斩
+      释放回旋斩时长按跳跃键会向上加速
       '''
     Ultrapills:
       '''
-      Cursed: You cannot restore health by normal means
-      Striking enemies occasionally leeches life
-      Killing enemies causes them to explode into healing blood
+      诅咒：你无法通过正常方式再生生命值
+      打击敌人时会偶尔汲血
+      击杀敌人时会爆发出治疗之血
       '''
     WardedMail:
       '''
-      Barrier damage is applied to attackers as thorns 
-      +Barrier negates 10% more damage 
-      +40 barrier
+      屏障受到伤害时会反弹给攻击者
+      屏障会抵消10%额外伤害
+      +40点屏障
       '''
     CrescentQuarterstaff: Update this egshels
-    Datsuzei: Unleash the moon
+    Datsuzei: 释放月亮
     DianesPendant:
       '''
-      Something about a crescent idk 
-      +20 barrier
+      某些关于新月的事，我不道
+      +20点屏障
       '''
     Moonfury:
       '''
-      Call down a shard of moonstone, afflicting enemies with Dreamfire
-      Afflicted enemies take extra damage on hit from Moonfury
+      召唤月长石碎片从天而降，用Dreamfire折磨敌人
+      被Dreamfire折磨的敌人会受到来自月怒的额外伤害
       '''
-    MoonstoneArrow: Gains speed and power as it travels
-    MoonstoneBarItem: "'Shimmering with Beautiful Light'"
-    MoonstoneChest: +35 Barrier
-    MoonstoneHamaxe: Press <right> to charge up a slam that destroys walls
+    MoonstoneArrow: 随移动距离获得速度和力量
+    MoonstoneBarItem: "'闪耀着美丽的光芒'"
+    MoonstoneChest: +35点屏障
+    MoonstoneHamaxe: <right>充能并挥舞，能够摧毁墙壁
     MoonstoneHead:
       '''
-      2% increased melee critical strike chance
-      +20 Barrier
+      增加2%近战暴击率
+      +20点屏障
       '''
     MoonstoneLegs:
       '''
-      Improved acceleration
-        +25 Barrier
+      改进加速度
+      +25点屏障
       '''
-    MoonstoneOreItem: ""
-    Shaker: ""
-    PalestoneNail: Summons the Pale Knight
+    PalestoneNail: 召唤苍白骑士
     AuroraBell:
       '''
-      Summons a sentry bell 
-      Hit the bell with a whip to ring it
+      召唤一个哨兵铃铛
+      使用鞭子鞭打铃铛时会敲响铃铛
       '''
     AuroraThroneMountItem:
       '''
-      Summons an aurora throne combat mount
-      Lashes out with whip-like apendages
-      Right click to summon explosive auroralings
+      召唤一只极光宝座战斗坐骑
+      发射鞭类触手抽打敌人
+      右键召唤爆破极光流
       '''
-    BookOfFrost: Melee critical strikes cause an icy explosion
+    BookOfFrost: 近战暴击会造成冰寒爆破
     Frostball:
       '''
-      Strike enemies to build aurora power
-      Heals players near the yoyo based on aurora power
-      Gives you regeneration when retrieved based on aurora power
+      打击敌人会积蓄极光之力
+      基于极光之力治疗附近的玩家
+      收回悠悠球时会基于极光之力给予你再生
       '''
     Octogun:
       '''
-      Converts Musket Balls into Auroracle Ink
-      Critical hits and kills cause Tentapistols to sprout out from you, that fire at your cursor
+      将火枪子弹转化为Auroracle Ink
+      造成暴击或击杀敌人时会使触手从你的体内长出来，向你的光标方向发射弹幕
       '''
     OverflowingUrn:
       '''
-      Unleashes a torrent of chilling winds
-      Prolonged use will freeze you
-      You have greatly increased defense while frozen
+      释放寒风激流
+      长时间使用时会对你造成霜冻减益
       '''
     SquidBossBag: ""
     SquidBossSpawn: Drop in prismatic waters to summon the one the Squiddites worship
     SquidBossSpawnEndless:
       '''
       Drop in prismatic waters to summon the one the Squiddites worship
-      Infinite uses
+      无限使用
       '''
-    SquidFins: Allows you to swim like a jellysquid
-    TentacleHook: Move your mouse to hook around objects
+    SquidFins: 允许你像jellysquid一样游泳
+    TentacleHook: 移动你的鼠标以钩住周围的对象
     Tentalance:
       '''
-      Launches a shimmering tentacle lance
-      Charge to fire up to 4 more lances at once
+      发射闪光的触手长枪
+      可充能并一次性发射至多5支长枪
       '''
     WaterStaff:
       '''
-      Places and removes aurora water
-      Left click to place
-      Right click to remove
+      放置或移除流光水  
+      左键放置
+      右键移除
       '''
     GreaterBarrierPotion:
       '''
-      Grants 120 barrier
-      Greatly reduces overcharge barrier loss for 5 seconds
+      使你获得120点屏障
+      大幅度减缓过量屏障的损失速度5秒
       '''
     InoculationPotion: +30% Inoculation
     LesserBarrierPotion:
       '''
-      Grants 40 barrier
-      Greatly reduces overcharge barrier loss for 3 seconds
+      使你获得40点屏障
+      大幅度减缓过量barrier的损失速度4秒
       '''
     RegularBarrierPotion:
       '''
-      Grants 80 barrier
-      Greatly reduces overcharge barrier loss for 4 seconds
+      使你获得80点屏障
+      大幅度减缓过量barrier的损失速度3秒
       '''
     BloodCrystal:
       '''
-      Debuffs you inflict are inflicted onto you 
-      All debuffs you inflict stack and last longer
+      你会获得你对敌人造成的减益
+      你所造成的减益的持续时间延长
       '''
     AquamarinePendant:
       '''
-      +15 Barrier 
-      Losing all of your barrier releases ice shards
+      +15点屏障
+      失去所有屏障时释放寒冰碎片
       '''
-    MeadHorn: Potions last 50% longer
+    MeadHorn: 药水效果延长50%
     Astroscrap: ‘Alloy salvaged from the wreckage of your world’s invaders’
-    StarwoodBoomerang: Hold LMB to channel the boomerang, causing it to release an explosion
-    StarwoodBoots: 5% increased magic critial strike chance
+    StarwoodBoomerang: 长按左键引导回旋镖, 使其释放爆炸
+    StarwoodBoots: 左键5%魔法暴击率
     StarwoodCharm:
       '''
-      Critical strikes generate mana stars
-      -3% critical strike chance
-      +3% critical strike chance when empowered
+      暴击时生成魔力星
+      -3%暴击率
+      强化后+3%暴击率
       '''
-    StarwoodChest: Increases max mana by 20
-    StarwoodHat: 5% increased magic damage
+    StarwoodChest: 增加20点最大魔力值
+    StarwoodHat: 增加5%魔法伤害
     StarwoodSlingshot:
       '''
-      Weaves together fallen stars 
-      Consumes ammo every 50 shots
+      将坠落之星编织在一起
+      每射击50次, 消耗一次弹药
       '''
     StarwoodStaff:
       '''
-      Creates a burst of small stars
-      Striking an enemy with every star causes a larger star to drop on them
+      创造一些小星星
+      小星星击中敌人时会召唤一颗大星星打击敌人
       '''
     AncientGear: ""
     Buzzsaw:
       '''
-      Strike enemies to build up pressure
-      Release to vent the pressure, launching the sawblade
+      打击敌人以积蓄压力
+      松开以释放压力, 并发射锯刃
       'The right tool for the wrong job'
       '''
     CogAmmoItem:
       '''
-      Bounces up to five times
-      Halves damage on hit
+      可弹跳至多五次
+      命中后伤害减半
       '''
-    Cogwheel: Summons a ridable Cogwheel mount
+    Cogwheel: 召唤一个可骑乘的齿轮坐骑
     Jetwelder:
       '''
-      Collect scrap from damaging enemies 
-      Right click to use scrap to summon robots
+      收集伤害敌人时产生的碎片
+      右键消耗碎片并制造机器人
       '''
-    JetwelderScrap1: You shouldn't see this
-    JetwelderScrap2: You shouldn't see this
-    JetwelderScrap3: You shouldn't see this
-    JetwelderScrap4: You shouldn't see this
+    JetwelderScrap1: 你不应该看到这个
+    JetwelderScrap2: 你不应该看到这个
+    JetwelderScrap3: 你不应该看到这个
+    JetwelderScrap4: 你不应该看到这个
     RebarLauncher:
       '''
-      Impales enemies 
-      Shoot rebar to drive it deeper into enemies
+      刺穿敌人
+      射击钢筋会使其更加深入的刺穿敌人
       '''
     RuneStaff:
       '''
-      Hold to summon up to 3 explosive runes
-      Releasing will fire the runes towards your cursor
-      Continuing to hold will detonate them for increased damage around you
+      长按召唤至多三个爆破符文
+      释放时会将符文向你的光标方向发射
+      持续长按会引爆符文, 并且造成的伤害会增加
       '''
     TempleLens:
       '''
-      Critical strikes cause enemies around the struck enemy to glow
-      +3% critical strike chance
+      对一名敌人造成暴击时会使其周围的敌人发光
+      +3%暴击率
+      +10%暴击伤害
       '''
     TempleLensUpgrade:
       '''
-      Critical strikes expose enemies near the struck enemy
-      Exposed enemies take significantly more damage on the first hit
-      +4% critical strike chance
-      +10% critical strike damage
+      对一名被曝光的敌人造成暴击时会使其周围的敌人曝光
+      被曝光的敌人在被首次命中时会额外受到20%伤害
+      +4%暴击率
+      +10%暴击伤害
       '''
-    TemplePick: Hold right click to charge up a spinning pickaxe dash
-    TempleRune: +20 maximum barrier
+    TemplePick: 长按右键充能并释放十字镐冲锋
+    TempleRune: +20点屏障
     TempleSpear:
       '''
-      Struck enemies glow
-      Slain enemies leave behind a bright light
+      打击敌人会使其发光
+      击杀敌人会留下明亮的光
       '''
     ArmorBag:
       '''
-      Stores armor for quick use
-      Contains:
+      储存盔甲以快速使用
+      包含:
       '''
-    ChefBag: Stores lots of every ingredient
+    ChefBag: 储存大量的各种原材料
     CurseRemover:
       '''
-      Place over an equipped cursed Item to destroy it
+      放置于被装备的诅咒物品上以将其摧毁
       'There's no turning back, most of the time'
       '''
     AncientStarwoodBoots: ""
@@ -1241,316 +1253,232 @@ Mods.StarlightRiver:
     WardenRobe: "[c/198E12:???]"
     CoachGunUpgrade:
       '''
-      Press <right> to throw out an unstable crystal bomb
-      Explodes shortly after, causing all other crystal bombs to also explode
-      Shoot to detonate it early, if detonated early enough, it will explode into a cone of crystal shards
-      If a crystal bomb is detonated by another crystal bomb, its damage is increased by 50%
-      Explosions and crystal shards increase targets Exposure by 35% and inflict Sweltered
-      'Ultrakill style'
+      右键投掷一颗可被连锁引爆的不稳定水晶爆弹
+      射击水晶可提前将其引爆，造成更暴力的后果
+      How does he manage to nuke like that?
       '''
     Coalescence:
       '''
-      Charge for a volley of brilliant magic
-      Fully charged shots leech mana when they collide
+      充能并发射一排绚烂魔法
+      完全充能时发射的魔法会汲取魔力
       '''
     FacetAndLattice:
       '''
-      Right click to guard
-      Attacks are empowered after a guard
-      Empowerment is more effective with better guard timing
+      右键防卫
+      在防卫后强会化攻击
+      在合适的时机防卫会使强化更有效
       '''
     GlassIdol: Used to worship a powerful guardian.
     GlassIdolEndless:
       '''
       Used to worship a powerful guardian.
-      Infinite uses
+      可无限使用
       '''
     IgnitionGauntlets:
       '''
-      Rapidly barrages enemies with your fists while building Ignition Charge
-      Hold RMB to consume charge, propelling yourself forward at escape velocity
-      Attack while still flying to vent remaining charge in a large blast cone|n'Heroes always arrive from the skies'
+      用你的拳头快速殴打敌人并积蓄起爆充能
+      长按右键消耗充能, 松开后将你以逃逸速度向前推进
+      在飞行时攻击会消耗剩余推进时间并向前释放爆破冲击|n'Heroes always arrive from the skies'
       '''
-    MagmaArrow: Becomes more cooled as it travels
-    MagmaCore: A sample of the hot stuff.
-    MagmiteBottle: Why would you do this to him?!
+    MagmaArrow: 在飞行过程中会逐渐变凉
+    MagmaCore: 很热的东西的样本.
+    MagmiteBomb:
+      '''
+      一颗可爱的球变成了一个毁灭机械
+      你个怪物...
+      '''
+    MagmiteBottle: 你为什么要对他做这个?!
     MagmiteVacpack:
       '''
-      Blasts out Magmites that stick to enemies
-      For each Magmite an enemy has stuck on them, they take 10 damage per second, and 3 summon tag damage, up to a maximum of three Magmites
-      Magmites bounce off, and deal 50% more damage to enemies with the max amount of Magmites
+      发射会粘在敌人身上的熔岩螨
+      每条粘在敌人身上的熔岩都会使其每秒受到10点伤害, 和3点召唤标记伤害, 每名敌人身上最多粘住三条熔岩螨
+      熔岩螨会在击中身上粘住三条熔岩螨的敌人时反弹并额外造成50%伤害
       '''
     Needler:
       '''
-      Stick spikes to enemies to build up heat 
-      Overheated enemies explode, dealing massive damage
+      扎在敌人身上的尖刺会逐渐增加热量
+      过热的敌人会发生爆炸, 造成大量伤害
       '''
-    PhoenixStorm: Summons a storm of phoenixes that periodically swoops in on enemies
+    PhoenixStorm: 召唤周期性向敌人俯冲的凤凰风暴
     RecursiveFocus:
       '''
-      Summons an infernal crystal
-      The infernal crystal locks onto enemies, ramping up damage overtime
-      Press <right> to cause the crystal to target multiple enemies, at the cost of causing all beams to not ramp up, dealing less damage
+      召唤一颗地狱晶体
+      地狱晶体会锁定敌人, 伤害会随着时间流逝而逐渐增加
+      <right>可使晶体同时瞄准多个敌人, 但伤害不再会随着时间流逝而逐渐增加且造成的伤害减少
       '''
     RefractiveBlade:
       '''
-      Hold RMB down to charge a laser
-      Enemies struck by the laser have 25% increased melee Exposure
+      长按右键充能并释放一道激光
+      被激光击中的敌人的近战曝光增加25%
       '''
     SandstoneChunk: ""
     ShatteredAegis:
       '''
-      Releases a burning ring when damaged
+      受到伤害时释放燃火环
       'Meet your foes head-on, and give them a scorching embrace'
       '''
     VitricBossBag: ""
-    VitricBow: Could use a rework
+    TempleEntranceKey: Opens a door to the vitric forge.
+    TempleKey: Opens a door inside the vitric forge.
+    VitricBow: 可能需要重制
     VitricBulletItem:
       '''
-      Causes crystals to grow out of hit enemies
-      Strike crystals to shatter them, dealing damage
+      击中敌人时会在其身上长出晶体
+      击中晶体会使其碎裂并造成伤害
       '''
-    VitricChest: 5% increased ranged critical strike chance
+    VitricChest: 增加5%远程暴击率
     VitricHamaxe:
       '''
-      Right click to charge heat
-      Heat increases speed
-      Heat dissipates over time
+      右键充能热量
+      热量会增加速度
+      热量会随着时间流逝而衰减
       '''
-    VitricHead: 10% increased ranged damage
-    VitricHook:
-      '''
-      Fires a hook, allowing you to grapple to an enemy and bounce off of them
-      Can only be used while airborn
-      '''
-    VitricLegs: Slightly improved stamina regeneration
-    VitricMagicBook: Summons stabbing spikes on nearby ground
-    VitricOre: ""
+    VitricHead: 增加10%远程伤害
+    VitricLegs: 小幅度改善耐力再生
+    VitricMagicBook: 在附近的地面上召唤尖刺
     VitricPick:
       '''
-      Hellstone does not drop lava
-      Mining hellstone generates heat
-        Heat increases speed
+      狱石不再生成熔岩
+      挖掘狱石会产生热量
+      热量会增加速度
       '''
     VitricSword:
       '''
-      Shatters into enchanted glass shards 
-      Unable to be used while shattered
+      会碎裂成注魔琉璃碎块
+      破碎时无法使用
       '''
-    MagmitePassiveItem: Release him!
+    MagmitePassiveItem: 放了他!
     CodexTileItem: Debug placer for ability pickup
     FaeflameTileItem: Debug placer for ability pickup
-    StaminaShardTileItem: Debug Item
+    StaminaShardTileItem: 调试物品
     WindsTileItem: Debug placer for ability pickup
-    CookStationItem: Right click to prepare meals
-    InfuserItem: Used to imprint infusions
-    AnkhChestItem: ""
-    ForestBerries: ""
-    ForestBerryBushItem: Plant to grow your own berries
+    CookStationItem: 右键准备餐食
+    InfuserItem: 用于刻印灌注
+    ForestBerryBushItem: 用于种植你自己的浆果
     Slimeberry: Ew.
-    SlimeberryBushItem: Places a slimeberry bush
+    SlimeberryBushItem: 放置一个slimeberry bush
     AncientFruit: " "
     GoldenRice: " "
     Rice: " "
     GreenhouseGlassItem:
       '''
-      Speeds up the growth of any plant below it
-      Needs a clear area above it
+      加快下方的植物的生长速度
+      上方需要一个干净的区域
       '''
-    GreenhouseWallItem: Fancy!
+    GreenhouseWallItem: 美妙！
     BouncerItem:
       '''
-      Dash into this to go flying!
-      Resets jump accessories
+      冲刺到此物上以飞向空中！
+      重置跳跃类饰品
       '''
-    StaminaGemItem: Restores stamina when hit with an ability
+    StaminaGemItem: 当用能力造成命中时恢复耐力
     StaminaOrbItem:
       '''
-      Pass through this to gain stamina!
-      5 second cooldown
+      通过这个获得耐力！
+      5秒冷却
       '''
-    DisplayCaseFriendlyItem: Can hold an Item for glamorous display
-    RatTentItem: Whats inside?...
+    DisplayCaseFriendlyItem: 可以放置一个物品并进行展示
+    RatTentItem: 这里面有什么?...
     JellyShroomItem: Boing!
     LumishroomItem: Glowy...
     VibeshroomItem: Vibin'
-    BlueTorchOvergrowItem: Sparkly! and Blue!
-    CrusherOvergrowItem: ""
-    NoxiousNodeItem: Debug item
-    OvergrowthLivingWoodItem: "[PH] make this a wand and stuffs"
-    Rock2x2Item: It places... Rocks
-    SkeletonBrickItem: ""
-    TorchOvergrowItem: Sparkly!
-    WallOvergrowBrickItem: ""
-    WallOvergrowGrassItem: ""
-    WindowSmallItem: Debug Item
-    WispAltarLItem: Debug Item
-    WispAltarRItem: Debug Item
+    BlueTorchOvergrowItem: 闪光的! 并且是蓝的!
+    NoxiousNodeItem: 调试物品
+    OvergrowthLivingWoodItem: "[PH]把这个变成魔杖和法杖"
+    Rock2x2Item: 它会放置...岩石
+    TorchOvergrowItem: 闪光的!
+    WindowSmallItem: 调试物品
+    WispAltarLItem: 调试物品
+    WispAltarRItem: 调试物品
     AuroraclePaintingItem: "'K. Ra'"
     EggCodexPaintingItem: "'K. Ra'"
     RatKingPaintingItem: "'K. Ra'"
-    PalestoneItem: ""
-    AuroraBrickDoorItem: ""
-    AuroraBrickItem: Oooh... Preeetttyyy
-    AuroraBrickWallFriendlyItem: Oooh... Preeetttyyy
-    AuroraBrickWallItem: Oooh... Preeetttyyy
-    AuroraIceBar: A preserved selection of the night sky
-    AuroraIceItem: A preserved piece of the night sky
-    DoorBombShooterItem: ""
-    PermafrostIceItem: ""
-    TouchstoneItem: A guiding light
-    TouchstoneLootboxItem: ""
-    AuroracleTrophyItem: ""
-    CeirosTrophyItem: ""
-    HotspringFountainItem: Transforms nearby water into a hotspring!
-    MagmiteShrineItem: It's him!
-    DashBarrierItem: Debug Item
-    JarTallItem: Debug Item
-    TempleChestPlacer: ""
-    TempleWallBigItem: ""
-    TempleWallItem: ""
-    TestBubble: Debug Item
-    VerletBannerItem: Debug Item
-    AncientSandstonePillarWallItem: ""
-    AncientSandstonePlatformItem: ""
-    AncientSandstoneTorchItem: It has an entrancing glow
-    AncientSandstoneWallItem: ""
-    ForgeDoorItem: Debug Item
-    ForgeInnerDoorItem: Debug Item
-    RedBannerShortItem: Debug Item
-    DoorHorizontalItem: Temple Door, But what if it was horizontal?
-    DoorVerticalItem: Temple Door, But what if it was vertical?
-    EntranceDoorItem: Debug Item
-    GearPuzzleOriginPlacer: Debug Item
-    GearTilePlacer: Debug Item
-    ObjectiveGearItem: Debug Item
-    ReflectorItem: Debug Item
-    LowWindBannerItem: ""
-    OldCeirosShrineItem: Debug Item
-    TempleCandleCrystalItem: ""
-    TempleCandleItem: ""
-    TempleCeirosFountainItem: ""
-    TempleWallCandleItem: ""
-    TutorialDoor1Item: Debug Item
-    TutorialDoor2Item: Debug Item
+    AuroraBrickItem: 哦哦哦...美滴很
+    AuroraBrickWallFriendlyItem: 哦哦哦...美滴很
+    AuroraBrickWallItem: 哦哦哦...美滴很
+    AuroraIceBar: 一部分被保留下来的夜空
+    AuroraIceItem: 一小片被保留下来的夜空
+    TouchstoneItem: 指示灯
+    CombatShrineItem: 调试物品
+    HotspringFountainItem: 将附近的水转化为热泉!
+    MagmiteShrineItem: 是他!
+    DashBarrierItem: 调试物品
+    JarTallItem: 调试物品
+    TestBubble: 调试物品
+    VerletBannerItem: 调试物品
+    AncientSandstoneTorchItem: 它散发着迷人的光芒
+    ForgeDoorItem: 调试物品
+    ForgeInnerDoorItem: 调试物品
+    RedBannerShortItem: 调试物品
+    DashableDoorItem: 调试物品
+    DoorGearsItem: 神殿门, 但如果是水平的呢?
+    DoorVerticalItem: 神殿门, 但如果是垂直的呢?
+    EntranceDoorItem: 调试物品
+    GearPuzzleOriginPlacer: 调试物品
+    GearTilePlacer: 调试物品
+    ObjectiveGearItem: 调试物品
+    ReflectorItem: 调试物品
+    OldCeirosShrineItem: 调试物品
+    TallWindowItem: 调试物品
+    TutorialDoor1Item: 调试物品
+    TutorialDoor2Item: 调试物品
     VitricPillarWallItem: Sturdy
     VitricPillarWallShortItem: Sturdy
     VitricTempleWallItem: Sturdy
-    WindsRoomActorItem: Debug Item
-    VitricBannerSmallItem: ""
-    VitricBossAltarItem: Debug Item
-    VitricBreakableVaseItem: Debug Item
-    VitricFountainItem: Debug Item
+    WindsRoomActorItem: 调试物品
+    VitricBossAltarItem: 调试物品
+    VitricBreakableVaseItem: 调试物品
+    VitricFountainItem: 调试物品
     VitricGiantCrystalItem: The slot this Item is in changes the type placed
     VitricLargeCrystalItem: The slot this Item is in changes the type placed
-    VitricLargeFountainItem: Debug Item
-    VitricLootBoxItem: ""
+    VitricLargeFountainItem: 调试物品
     VitricMediumCrystalItem: The slot this Item is in changes the type placed
     VitricOreFloatItem: ""
     VitricOreItem: ""
     VitricRockItem: ""
     VitricSandWallItem: ""
     VitricSmallCrystalItem: The slot this Item is in changes the type placed
-    VitricSpikeItem: Ouch!
-    VitricBannerItem: ""
-    RedLaserPointer: ""
-    OrangeLaserPointer: ""
-    YellowLaserPointer: ""
-    GreenLaserPointer: ""
-    BlueLaserPointer: ""
-    PurpleLaserPointer: ""
-    WhiteLaserPointer: ""
-    PinkLaserPointer: ""
-    VitricBathtub: ""
-    VitricBed: ""
-    VitricBookcase: ""
-    VitricCandelabra: ""
-    VitricCandle: ""
-    VitricChair: ""
-    VitricChandelier: ""
-    VitricClock: ""
-    VitricDresser: ""
-    VitricLamp: ""
-    VitricLantern: ""
-    VitricPiano: ""
-    VitricSink: ""
-    VitricSofa: ""
-    VitricTable: ""
-    VitricWorkbench: ""
-    VitricDoor: ""
-    TempleChairItem: ""
-    TempleLargeVaseItem: ""
-    TempleLargeVaseCrystalItem: ""
-    TempleWorkbenchItem: ""
-    TempleThroneItem: ""
-    TempleFloorWeaponRackItem: ""
-    TempleTableItem: ""
-    TempleTableCrystalItem: ""
-    TempleWeaponRack0Item: ""
-    TempleWeaponRack1Item: ""
-    TempleWeaponRack2Item: ""
-    TempleWeaponRack3Item: ""
-    TempleThingamajigItem: ""
-    TempleBrickItem: ""
-    VitricBoss1Item: ""
-    VitricBoss2Item: ""
-    VitricPassiveItem: ""
-    VitricTempleItem: ""
-    MinibossItem: ""
-    OvergrowItem: ""
-    AuroracleItem: ""
-    LeafOvergrowItem: ""
-    BrickOvergrowItem: ""
-    StoneOvergrowItem: ""
-    SpringstoneItem: ""
-    ShrineBrazierItem: ""
-    WitTileItem: ""
-    AncientSandstoneItem: ""
-    AncientSandstoneTileItem: ""
-    VitricBrickItem: ""
-    VitricCactusItem: ""
-    VitricGlassItem: ""
-    VitricSandItem: ""
-    VitricSoftSandItem: ""
-    VitricSandPlainItem: ""
+    VitricSpikeItem: 好痛!
+    VitricBossBarrierItem: 调试物品
+    GlassweaverBossBarrierItem: 调试物品
+    CombatShrineBarrierItem: 调试物品
+    EvasionShrineBarrierItem: 调试物品
   }
   ProjectileName:
   {
-    CauldronDummy: ""
-    ArtifactItemProj: Artifact
+    ArtifactItemProj: 人工制品
+    BurningGround: 燃烬
     GlassBubble: Volatile Bubble
-    GlassBubbleFragment: Glass Shard
-    GlassHammer: Woven Hammer
-    GlassJavelin: Glass Javelin
+    GlassBubbleFragment: 玻璃碎片
+    GlassHammer: 编织之锤
+    GlassJavelin: 琉璃枪
     GlassRaiseSpike: Raised Glass Structure
     GlassSpear: Woven Hammer
-    GlassSword: Glass Sword
+    GlassSword: 琉璃剑
+    GlassweaverDoor: 织璃门
     LavaLob: Hot Lob
-    Whirlwind: Spinning Blades
-    AuroraWaterSplash: Aurora Water Splash
-    DoorBomb: Door Bomb
-    InkBlob: Rainbow Ink
-    InkBlobGravity: Rainbow Ink
-    Laser: Laser
-    SpewBlob: Aurora Shard
-    SqueezeTell: Tentacle Warning
-    TentacleTell: Tentacle Warning
-    TentacleTrail: Trail
-    CrystalWave: Crystal Wave
-    FinalLaser: Raging Fire
-    FireCone: Fire Cone
-    FireRingHostile: Fire Ring Hostile
-    GlassSpike: Glass Spike
+    Whirlwind: 旋刃
+    AuroraWaterSplash: 极光漩
+    DoorBomb: 门炸弹
+    InkBlob: 虹墨
+    InkBlobGravity: 虹墨
+    Laser: 激光
+    SpewBlob: 极光碎片
+    SqueezeTell: 触须警告
+    TentacleTell: 触须警告
+    TentacleTrail: 触须之痕
+    CrystalWave: 水晶
+    FinalLaser: 怒火
+    FireCone: 炎锥
+    FireRingHostile: 火焰指环
+    GlassSpike: 琉璃尖刺
     GlassVolley: Glass Volley
     GlassVolleyShard: Glass Volley Shard
-    LavaDart: Magma Shot
-    SpikeMine: Spike Mine
-    TelegraphedGlassSpike: Glass Spike
+    LavaDart: 熔岩弹丸
+    SpikeMine: 尖刺地雷
+    TelegraphedGlassSpike: 琉璃尖刺
     VitricBomb: Vitric Bomb
     LightningNode: Lightning Node
-    AstrofloraGas: Astroflora Gas
-    AstrofloraProj: Astroflora Flail
-    AstrofloraSpark: Astroflora Spark
     BreachCannonSentry: Breach Cannon
     ExplosiveFlare: Explosive Flare
     FlareShrapnel: Explosive Shrapnel
@@ -1563,7 +1491,9 @@ Mods.StarlightRiver:
     SpotterDrone: Breacher Drone
     SupplyBeaconProj: Supply Beacon
     ArchaeologistsWhip_Whip: Archaeologist's Whip
-    PerfectlyGenericPet: Perfectly Generic Object
+    AztecDeathSaxophoneHoldout: Aztec Death Saxophone
+    AztecDeathSaxophoneSoundwave: Aztec Death Saxophone Soundwave
+    PerfectlyGenericPet: 完美通用宠物
     CloudstrikeShot: Electro Shock
     SkullBomb: Skull Bomb
     SkullBusterBullet: Bullet
@@ -1594,25 +1524,23 @@ Mods.StarlightRiver:
     GravediggerSlam: Grave digger
     GravediggerSwing: Grave digger
     PoltergeistMinion: Haunted Weapon
-    CopperObol: Obol
-    GoldObol: Obol
-    MagmaSwordBlob: Magma Sword Blob
-    MagmaSwordBurn: Magma Sword Burn
+    CopperObol: 铜币
+    GoldObol: 金币
     ObolImpact: Obol Star
-    PlatinumObol: Obol
-    SilverObol: Obol
+    PlatinumObol: 铂金币
+    SilverObol: 银币
     GrayGooProj: Gray Goo
     ThunderBeadsProj: Thunder Beads
     ThunderbussBall: Thunderbuss Ball
     ThunderbussShot: Electro Shock
-    BalloonGunBalloon: Balloon
-    BizarreIce: Bizarre Potion
+    BalloonGunBalloon: 气球
+    BizarreIce: 奇异药水
     BizarreLightning: Bizarre Lightning
     BizarreLightningOrb: Bizarre Lightning Orb
-    BizarrePotionPoisonCloud: Bizarre Potion Poison Cloud
-    BizarrePotionProj: Bizarre Potion
-    BladesawSwungBlade: Bladesaw
-    BloodAmuletBolt: Ghoul
+    BizarrePotionPoisonCloud: 奇异药水毒云
+    BizarrePotionProj: 奇异药水
+    BladesawSwungBlade: 锯刃
+    BloodAmuletBolt: 食尸鬼
     CoachGunBomb: Dynamite
     CoachGunEmber: Ember
     CoachGunMuzzleFlash: Muzzle Flash
@@ -1627,9 +1555,9 @@ Mods.StarlightRiver:
     DualCrossHeld: Double Cross
     ElectroArrowProjectile: Electro Arrow
     FiletSlash: Slash
-    FryingPanBonk: Frying Pan
-    FryingPanProj: Frying Pan
-    FryingPanThrownProj: Frying Pan Thrown Proj
+    FryingPanBonk: 煎锅
+    FryingPanProj: 煎锅
+    FryingPanThrownProj: 煎锅射弹
     GeodeBowExplosion: Geode Explosion
     GeodeBowGrowth: Geode Growth
     GeodeBowProj: Geode Bow
@@ -1644,6 +1572,8 @@ Mods.StarlightRiver:
     ImpactSMGShot: Impact SMG Shot
     MagmaGunPhantomProj: Magma Glob
     MonkSpadeProjectile: Monk Spade Projectile
+    RadculasRapierSwungBlade: Radculas Rapier
+    RadculasRapierTeleport: Radculas Rapier
     SandSlash: Sand Slash
     SlingHeldProjectile: Sling
     SlingMushroomProjectile: Shroom
@@ -1742,6 +1672,8 @@ Mods.StarlightRiver:
     IgnitionPunchPhantom: Ignition Gauntlets
     LatticeProjectile: Lattice
     MagmaArrowProj: Magma Arrow
+    MagmaBottleBurn: Magma Bottle Burn
+    MagmiteBombProjectile: Magmite Bomb Projectile
     MagmiteBottleProjectile: Magmite Bottle Projectile
     MagmiteVacpackHoldout: Magmite Vacpack
     MagmiteVacpackProjectile: Bouncy Magmite
@@ -1762,13 +1694,13 @@ Mods.StarlightRiver:
     VitricBulletCrystalExplosion: Explosion
     VitricBulletCrystalProjectile: Vitric Crystal
     VitricBulletProjectile: Vitric Bullet
-    VitricHookProjectile: Vitric Hook Projectile
     VitricSwordProjectile: Enchanted Glass
     AngryCrescentDeathProjectile: Crescent Shard
     DreamprismSlam: Slam
     SnoobelCollider: Snoobel
     FirebugMagma: Molten glass
     ConstructRing: Explosion
+    ConstructSpawner: Construct Spawner
     GauntletSpawner: Gauntlet Spawner
     PelterConstructArrow: Glass Arrow
     PelterConstructArrowLarge: Glass Arrow
@@ -2009,6 +1941,8 @@ Mods.StarlightRiver:
     PermafrostTempleBiome: 极光神殿
     VitricDesertBiome: 琉璃荒漠
     VitricTempleBiome: 琉璃锻炉
+    CombatShrineBiome: 战斗之地
+    EvasionShrineBiome: 闪躲之地
   }
   NPCName:
   {
@@ -2016,17 +1950,14 @@ Mods.StarlightRiver:
     GlassweaverWaiting: Glassweaver
     ArenaActor: ""
     ArenaBlocker: Arena Blocker
-    Auroraborn: Auroraborn
+    Auroraborn: 极光子嗣
     Auroraling: Auroraling
     GoldPlatform: ""
     IcePlatform: ""
     IcePlatformSmall: ""
     SquidBoss: Auroracle
-    Tentacle: Tentacle
+    Tentacle: 触手
     TentacleHurtbox: Tentacle Hurtbox
-    ArenaBottom: ""
-    VitricBackdropLeft: ""
-    VitricBackdropRight: ""
     VitricBoss: 塞洛斯
     VitricBossCrystal: Resonant Crystal
     VitricBossPlatformDown: ""
@@ -2059,6 +1990,7 @@ Mods.StarlightRiver:
     FlyingGruntConstruct: Flying Grunt Construct
     FlyingPelterConstruct: Flying Pelter Construct
     GruntConstruct: Grunt Construct
+    JuggernautConstruct: Juggernaut Construct
     PelterConstruct: Pelter Construct
     ShieldConstruct: Shield Construct
     SupporterConstruct: Supporter Construct
@@ -2066,16 +1998,17 @@ Mods.StarlightRiver:
     LesserFirebug: Lesser Firebug
     MagmitePassive: 小熔滴螨
     Snake: 熔火响尾蛇
-    CodexPickup: Starlight Codex
-    FaeflamePickup: Faeflame
-    ForbiddenWindsPickup: Forbidden Winds
+    CodexPickup: 星光宝典
+    FaeflamePickup: 妖精火焰
+    ForbiddenWindsPickup: 禁断之风
     InfusionSlotPickup: Unnerving Device
     StaminaShardPickup: Stamina Shard Pickup
-    BerrySlime: Slimeberry
-    TouchstoneWisp: Aurora Spirit
+    BerrySlime: 莓果史莱姆
+    TouchstoneWisp: 极光之魂
   }
   BuffName:
   {
+    GlassweaverDot: 焚烧
     Claustrophobia: 幽闭恐惧症
     CoughDropsBuff: 止咳糖浆
     FerrofluidDraftBuff: 磁流体牵引
@@ -2088,47 +2021,52 @@ Mods.StarlightRiver:
     IvySnare: 陷阱
     MossRegen: 再生苔藓
     Overcharge: 过充
-    PrismaticDrown: 流光溺水
+    PrismaticDrown: 溺于流光
     ProtectiveShard: 护佑碎片
     Rage: 暴怒
     Slimed: 黏滑
     Squash: 压扁
-    StaticShock: Static Shock
-    GrayGooSummonBuff: Gray Goo
-    PalestoneSummonBuff: Pale Knight
-    SupplyBeaconDamage: Supply Beacon
-    SupplyBeaconDefense: Supply Beacon
-    SupplyBeaconHeal: Supply Beacon
+    StaticShock: 静电震击
+    GrayGooSummonBuff: 灰蛊
+    PalestoneSummonBuff: 苍白骑士
+    SupplyBeaconDamage: 信标增益：伤害
+    SupplyBeaconDefense: 信标增益：防御
+    SupplyBeaconHeal: 信标增益：治疗
     ArchaeologistsBuff: Treasure buff
-    PerfectlyGenericPetBuff: Perfectly Generic Pet
-    WolfBleeding: Gored
-    ShovelQuickFall: Quick fall
-    ShovelSlowFall: Slow fall
-    SoulSuck: Soul Suck
-    BizarrePotionPoisonDebuff: Bizarre Poison
-    CoachDebuff: Coach Debuff
-    FiletFrenzyBuff: Blood Frenzy
-    ImpactSMGBuff: Heated Up!
+    PerfectlyGenericPetBuff: 完美通用宠物
+    WolfBleeding: 戳伤
+    ShovelQuickFall: 速降
+    ShovelSlowFall: 羽落
+    SoulSuck: 灵魂汲取
+    BarbedKnifeBleed: 深度创伤
+    BizarrePotionPoisonDebuff: 奇异毒素
+    BrokenGlassesBuff: 碎玻璃
+    CoachDebuff: 特训
+    CorpseflowerBuff: 尸魔花诅咒
+    FiletFrenzyBuff: 血液冰封
+    ImpactSMGBuff: 高热！
     IronheartBuff: 钢铁之心
     PlexusChaliceBuff: Plexus Resistance
-    MoonfuryDebuff: Dreamfire
-    AuroraThroneMountMinionDebuff: Inked
+    RadculasRapierCooldown: Radcula的传送冷却
+    MoonfuryDebuff: 梦境炽焰
+    AuroraThroneMountMinionDebuff: 墨染
     UrnFreeze: Urn Freeze
     InoculationPotionBuff: Inoculated
     NoShieldPot: Barrier Sickness
     ShieldDegenReduction: Barrier Affinity
-    CogwheelBuff: Cogwheel
+    CogwheelBuff: 齿轮
     Exposed: Exposed
-    PhoenixStormSummonBuff: Phoenix Minion
+    PhoenixStormSummonBuff: 凤凰风暴
     RefractiveBladeBuff: 融化
-    SwelteredDeBuff: Sweltered
+    SwelteredDeBuff: 中暑
     Fogbinded: Fogbinded
   }
   BuffDescription:
   {
-    Claustrophobia: Stuck in wisp form!
-    CoughDropsBuff: Your speed and damage are boosted
-    FerrofluidDraftBuff: Nearby Items gravitate towards you
+    GlassweaverDot: 以难以置信的速度燃烧！
+    Claustrophobia: 困于丝线之中
+    CoughDropsBuff: 你的速度和伤害得到提升
+    FerrofluidDraftBuff: 附近的物品将会被你吸引
     FoodBuff:
       '''
       Nourised by rich food, granting:
@@ -2136,8 +2074,8 @@ Mods.StarlightRiver:
       '''
     ForestTonic:
       '''
-      Immunity to poision
-      Slowly regenerate life
+      对中毒免疫
+      缓慢再生生命
       '''
     Full: Cannot consume any more rich food
     HotspringHeal: The hot springs restore your body and mind
@@ -2150,7 +2088,7 @@ Mods.StarlightRiver:
     ProtectiveShard: Incoming Damage reduced by 25%
     Rage: Increased damage and greatly increased knockback
     Slimed: eww
-    Squash: You're flat now.
+    Squash: 你被压扁了
     StaticShock: Lowered Defense
     GrayGooSummonBuff: Nanomachines, son!
     PalestoneSummonBuff: The Pale Knight Will Protect You!
@@ -2163,19 +2101,19 @@ Mods.StarlightRiver:
     ShovelQuickFall: You slammin
     ShovelSlowFall: Falling Speed Reduced
     SoulSuck: You getting sucked
+    BarbedKnifeBleed: You're bleeding out!
     BizarrePotionPoisonDebuff: You poisoned
+    BrokenGlassesBuff: You cant see, loser!
     CoachDebuff: 10% increased damage
+    CorpseflowerBuff: You have been cursed by the corpeflower
     FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
     ImpactSMGBuff: ""
     IronheartBuff: you have decaying extra barrier and defense
     PlexusChaliceBuff: +30% Inoculation
+    RadculasRapierCooldown: The rapier's energy seems deminished
     MoonfuryDebuff: Next Moonfury hit has increased damage
     AuroraThroneMountMinionDebuff: You take increased damage
-    UrnFreeze:
-      '''
-      Greatly increased defense
-      But you cant move!
-      '''
+    UrnFreeze: The pot is out of control!
     InoculationPotionBuff: +30% Inoculation
     NoShieldPot: Cannot consume more barrier potions
     ShieldDegenReduction: Barrier sticks to you better
