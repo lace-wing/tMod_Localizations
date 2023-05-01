@@ -288,8 +288,8 @@ Mods.StarlightRiver:
     RefractiveBlade: 折射尖刃
     SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
-    TempleEntranceKey: Large forge key
-    TempleKey: Small forge key
+    TempleEntranceKey: 大号锻炉钥匙
+    TempleKey: 小号锻炉钥匙
     VitricBossBag: 宝藏袋（塞洛斯）
     VitricBow: 琉璃弓
     VitricBulletItem: 琉璃弹
@@ -2000,7 +2000,7 @@ Mods.StarlightRiver:
     Snake: 熔火响尾蛇
     CodexPickup: 星光宝典
     FaeflamePickup: 妖精火焰
-    ForbiddenWindsPickup: 禁断之风
+    ForbiddenWindsPickup: 禁忌之风
     InfusionSlotPickup: Unnerving Device
     StaminaShardPickup: Stamina Shard Pickup
     BerrySlime: 莓果史莱姆
@@ -2090,7 +2090,7 @@ Mods.StarlightRiver:
     Slimed: eww
     Squash: 你被压扁了
     StaticShock: Lowered Defense
-    GrayGooSummonBuff: Nanomachines, son!
+    GrayGooSummonBuff: 纳米机器，小子！
     PalestoneSummonBuff: The Pale Knight Will Protect You!
     SupplyBeaconDamage: Damage increased
     SupplyBeaconDefense: Defense increased
@@ -2104,7 +2104,7 @@ Mods.StarlightRiver:
     BarbedKnifeBleed: You're bleeding out!
     BizarrePotionPoisonDebuff: You poisoned
     BrokenGlassesBuff: You cant see, loser!
-    CoachDebuff: 10% increased damage
+    CoachDebuff: 伤害增加10%
     CorpseflowerBuff: You have been cursed by the corpeflower
     FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
     ImpactSMGBuff: ""
@@ -2121,7 +2121,7 @@ Mods.StarlightRiver:
     Exposed: Taking extra damage!
     PhoenixStormSummonBuff: A fiery bird follows you
     RefractiveBladeBuff: Taking additional melee damage!
-    SwelteredDeBuff: Damage taken increased by 35%
+    SwelteredDeBuff: 受到的伤害增加35%
     Fogbinded: Bound to the fogbinder
   }
   Prefix:
@@ -2281,19 +2281,19 @@ Mods.StarlightRiver:
     TempleFloorWeaponRack: Weapon Rack
     TempleTable: Table
     TempleTableCrystal: Table
-    TempleWeaponRack0: Weapon Rack
-    TempleWeaponRack1: Weapon Rack
-    TempleWeaponRack2: Weapon Rack
-    TempleWeaponRack3: Weapon Rack
-    TempleThingamajig: Weapon Rack
+    TempleWeaponRack0: 武器架
+    TempleWeaponRack1: 武器架
+    TempleWeaponRack2: 武器架
+    TempleWeaponRack3: 武器架
+    TempleThingamajig: 武器架
     TempleBrick: ""
-    VitricBoss1: Music Box
-    VitricBoss2: Music Box
-    VitricPassive: Music Box
-    VitricTemple: Music Box
-    Miniboss: Music Box
-    Overgrow: Music Box
-    Auroracle: Music Box
+    VitricBoss1: 音乐盒
+    VitricBoss2: 音乐盒
+    VitricPassive: 音乐盒
+    VitricTemple: 音乐盒
+    Miniboss: 音乐盒
+    Overgrow: 音乐盒
+    Auroracle: 音乐盒
     LeafOvergrow: ""
     BrickOvergrow: ""
     StoneOvergrow: ""
