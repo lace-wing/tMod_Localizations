@@ -276,7 +276,7 @@ Mods.StarlightRiver:
     FacetAndLattice: 琢面晶格
     GlassIdol: 琉璃圣像
     GlassIdolEndless: 镀金琉璃圣像
-    IgnitionGauntlets: 起爆手套
+    IgnitionGauntlets: 点火手套
     MagmaArrow: 熔岩箭
     MagmaCore: 熔岩核心
     MagmiteBomb: 熔滴螨炸弹
@@ -309,7 +309,7 @@ Mods.StarlightRiver:
     WindsTileItem: 禁忌之风
     CookStationItem: 灶台
     InfuserItem: "[PH]Infuser"
-    AnkhChestItem: 安卡十字宝箱
+    AnkhChestItem: 十字箱
     ForestBerries: 森林莓果
     ForestBerryBushItem: 莓丛
     Slimeberry: 凝胶莓果
@@ -460,7 +460,7 @@ Mods.StarlightRiver:
     VitricTempleItem: 八音盒（琉璃神庙）
     MinibossItem: 八音盒（小Boss）
     OvergrowItem: 八音盒 (Overgrow)
-    AuroracleItem: 八音盒 (Auroracle)
+    AuroracleItem: 八音盒 （极光之触）
     LeafOvergrowItem: Faerie Leaves
     BrickOvergrowItem: Runic Bricks
     StoneOvergrowItem: Runic Stone
