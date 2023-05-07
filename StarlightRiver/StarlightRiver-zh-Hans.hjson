@@ -217,12 +217,12 @@ Mods.StarlightRiver:
     Shaker: 震颤者
     PalestoneNail: 苍白骨钉
     AuroraBell: 极光钟
-    AuroraThroneMountItem: 极光冕
+    AuroraThroneMountItem: 极光王冠
     BookOfFrost: 凄冻之书
     Frostball: 寒丸
     Octogun: 腕足枪
     OverflowingUrn: 溢流瓮
-    SquidBossBag: 宝藏袋（极光鲗）
+    SquidBossBag: 宝藏袋（极光之触）
     SquidBossSpawn: 可疑供品
     SquidBossSpawnEndless: 镀金可疑供品
     SquidFins: 鱿鱼鳍
@@ -234,9 +234,9 @@ Mods.StarlightRiver:
     LesserBarrierPotion: 弱效屏障药水
     RegularBarrierPotion: 屏障药水
     BloodCrystal: 血晶
-    AquamarinePendant: 冰蓝吊坠
-    MeadHorn: 蜜酿号角
-    Astroscrap: 天外陨铁
+    AquamarinePendant: 海蓝宝石吊坠
+    MeadHorn: 角杯蜜酒
+    Astroscrap: 异星合金
     StarwoodBoomerang: 星木回旋镖
     StarwoodBoots: 星木护胫
     StarwoodCharm: 星木护符
@@ -254,7 +254,7 @@ Mods.StarlightRiver:
     JetwelderScrap3: 碎片
     JetwelderScrap4: 碎片
     RebarLauncher: 钢筋发射器
-    RuneStaff: 远古符文杖
+    RuneStaff: 远古符文法杖
     TempleLens: 远古透镜
     TempleLensUpgrade: 真视透镜
     TemplePick: 旋风镐
@@ -262,7 +262,7 @@ Mods.StarlightRiver:
     TempleSpear: 光点
     ArmorBag: 盔甲袋
     ChefBag: 厨师袋
-    CurseRemover: 消弭卷轴
+    CurseRemover: 祛咒卷轴
     AncientStarwoodBoots: 远古星木护胫
     AncientStarwoodChest: 远古星木长袍
     AncientStarwoodHat: 远古星木帽
