@@ -127,7 +127,7 @@ Mods.StarlightRiver:
     PoltergeistLegs: 作祟袍靴
     CharonsObol: 卡戎的银币
     GrayGoo: 灰色粘质
-    ThunderBeads: 磁珠电鞭
+    ThunderBeads: 磁珠电鞭 #原“电鞭磁珠”
     Thunderbuss: 雷筒
     AlchemistShackles: 炼金术士的镣铐
     ArchaeologistsMap: 考古学家的地图
@@ -188,7 +188,7 @@ Mods.StarlightRiver:
     Sling: 弹弓
     Slitherring: 蛇鞭
     Soilgun: 土块枪
-    SojournersScarf: 旅居者的围巾
+    SojournersScarf: 旅居者的围巾 #原“旅居者围脖”
     Sorcerwrench: 巫师扳手
     SoulOfFrog: 青蛙之魂
     SpikedMail: 尖刺锁甲
@@ -284,7 +284,7 @@ Mods.StarlightRiver:
     MagmiteVacpack: 熔滴螨加农炮
     Needler: 热熔晶针枪
     PhoenixStorm: 凤凰风暴
-    RecursiveFocus: 递迴透镜
+    RecursiveFocus: 递归透镜 #原“递迴透镜”
     RefractiveBlade: 折射尖刃
     SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
