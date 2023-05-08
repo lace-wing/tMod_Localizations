@@ -327,13 +327,13 @@ Mods.StarlightRiver:
     JellyShroomItem: 蓝色果冻菇 # 蓝色水母菇，neta深海迷航, 但我没找到中译名
     LumishroomItem: 荧光蘑菇
     VibeshroomItem: 颤颤蘑菇
-    BlueTorchOvergrowItem: 蓝仙女火炬
+    BlueTorchOvergrowItem: 蓝仙女火把 #原“蓝仙女火炬”
     CrusherOvergrowItem: 碾压陷阱
     NoxiousNodeItem: Noxious Node
     OvergrowthLivingWoodItem: 繁茂生命木
     Rock2x2Item: 2x2 rock placer
     SkeletonBrickItem: 骨砖
-    TorchOvergrowItem: 仙女火炬
+    TorchOvergrowItem: 仙女火把 #原“仙女火炬”
     WallOvergrowBrickItem: 符文砖墙
     WallOvergrowGrassItem: 繁茂草墙
     WindowSmallItem: Smol Window
