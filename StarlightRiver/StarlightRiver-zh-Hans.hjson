@@ -602,8 +602,8 @@ Mods.StarlightRiver:
       右键打开
       'Sought after for centuries'
       '''
-    RainTotemArtifactItem: 唤起或终止暴雨
-    WindTotemArtifactItem: 唤起或终止大风
+    RainTotemArtifactItem: 唤起或终止一场暴雨
+    WindTotemArtifactItem: 唤起或终止一场大风
     DebugModerEnabler: 启用调试模式
     DebugStick: 具有需要的任何效果
     DefiledAnkh:
@@ -1739,7 +1739,7 @@ Mods.StarlightRiver:
     Snake: 熔火响尾蛇
     CodexPickup: 星光宝典
     FaeflamePickup: 妖精火焰
-    ForbiddenWindsPickup: 禁断之风
+    ForbiddenWindsPickup: 禁忌之风
     InfusionSlotPickup: Unnerving Device
     StaminaShardPickup: Stamina Shard Pickup
     BerrySlime: 莓果史莱姆
@@ -1808,7 +1808,7 @@ Mods.StarlightRiver:
     FerrofluidDraftBuff: 附近的物品将会被你吸引
     FoodBuff:
       '''
-      Nourised by rich food, granting:
+      被丰富的食物滋养, 你将获得:
 
       '''
     ForestTonic:
@@ -1816,50 +1816,50 @@ Mods.StarlightRiver:
       对中毒免疫
       缓慢再生生命
       '''
-    Full: Cannot consume any more rich food
-    HotspringHeal: The hot springs restore your body and mind
-    Illuminant: Glowing brightly!
-    Ivy: It's rooted in you!
-    IvySnare: You've been caught!
-    MossRegen: Regenerating life quickly!
-    Overcharge: Greatly reduced armor, shocking nearby enemies!
-    PrismaticDrown: You are drowning in prismatic waters!
-    ProtectiveShard: Incoming Damage reduced by 25%
-    Rage: Increased damage and greatly increased knockback
-    Slimed: eww
+    Full: 吃不下更多食物了
+    HotspringHeal: 这口热泉会疗愈你的身心
+    Illuminant: 光彩夺目！
+    Ivy: 它将植根于你！
+    IvySnare: 你是我的了！
+    MossRegen: 快速地恢复生命
+    Overcharge: 大幅减少你的护甲，电击附近的敌人
+    PrismaticDrown: 没入极光的海洋！
+    ProtectiveShard: 你受到的伤害减少25%
+    Rage: 提升伤害并显著提高击退
+    Slimed: 呜呣
     Squash: 你被压扁了
-    StaticShock: Lowered Defense
-    GrayGooSummonBuff: Nanomachines, son!
-    PalestoneSummonBuff: The Pale Knight Will Protect You!
-    SupplyBeaconDamage: Damage increased
-    SupplyBeaconDefense: Defense increased
-    SupplyBeaconHeal: Regeneration increased
-    ArchaeologistsBuff: Your minions do more damage
-    PerfectlyGenericPetBuff: Made of grist
-    WolfBleeding: Gored by a wolf
-    ShovelQuickFall: You slammin
-    ShovelSlowFall: Falling Speed Reduced
+    StaticShock: 降低防御
+    GrayGooSummonBuff: 纳米机器，小子！
+    PalestoneSummonBuff: 苍白骑士将护佑你
+    SupplyBeaconDamage: 提升伤害
+    SupplyBeaconDefense: 提升防御
+    SupplyBeaconHeal: 提升生命再生
+    ArchaeologistsBuff: 你的召唤物的伤害获得增强
+    PerfectlyGenericPetBuff: 由grist制成
+    WolfBleeding: 被狼戳伤了
+    ShovelQuickFall: 砰然坠地
+    ShovelSlowFall: 减缓降落速度
     SoulSuck: You getting sucked
-    BarbedKnifeBleed: You're bleeding out!
-    BizarrePotionPoisonDebuff: You poisoned
-    BrokenGlassesBuff: You cant see, loser!
-    CoachDebuff: 10% increased damage
-    CorpseflowerBuff: You have been cursed by the corpeflower
+    BarbedKnifeBleed: 你正在流血！
+    BizarrePotionPoisonDebuff: 你中毒了
+    BrokenGlassesBuff: 你看不见！loser!
+    CoachDebuff: 伤害提升10%
+    CorpseflowerBuff: 你被尸花诅咒了...
     FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
     IronheartBuff: you have decaying extra barrier and defense
     PlexusChaliceBuff: +30% Inoculation
     RadculasRapierCooldown: The rapier's energy seems deminished
     MoonfuryDebuff: Next Moonfury hit has increased damage
-    AuroraThroneMountMinionDebuff: You take increased damage
-    UrnFreeze: The pot is out of control!
+    AuroraThroneMountMinionDebuff: 增加你造成的伤害
+    UrnFreeze: 这口锅已经不受控制了！
     InoculationPotionBuff: +30% Inoculation
     NoShieldPot: Cannot consume more barrier potions
     ShieldDegenReduction: Barrier sticks to you better
-    CogwheelBuff: They see me rollin'
-    Exposed: Taking extra damage!
-    PhoenixStormSummonBuff: A fiery bird follows you
-    RefractiveBladeBuff: Taking additional melee damage!
-    SwelteredDeBuff: Damage taken increased by 35%
+    CogwheelBuff: 看我车轮滚滚
+    Exposed: 造成额外伤害
+    PhoenixStormSummonBuff: 炽焰之鸟将会跟随你
+    RefractiveBladeBuff: 造成额外近战伤害
+    SwelteredDeBuff: 你的伤害提升35%
     Fogbinded: Bound to the fogbinder
   }
   Prefix:
