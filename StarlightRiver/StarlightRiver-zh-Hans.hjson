@@ -17,7 +17,7 @@ Mods.StarlightRiver:
     MixingStick: 搅拌棒
     BaseBarrierDye: 基础屏障染料
     MoonstoneBarrierDye: 月长石染剂
-    VitricBossBarrierDye: 守卫的染剂
+    VitricBossBarrierDye: 哨卫染剂
     SeaglassRing: 海玻璃指环
     BreachCannon: 破坏者加农炮
     BreacherChest: 破坏者胸甲
@@ -69,7 +69,7 @@ Mods.StarlightRiver:
     Cherry: 樱桃
     Dough: 面团
     Dressing: 调料
-    EaterSteak: 吞噬怪排
+    EaterSteak: 吞噬怪肉排
     FaceSteak: 脸怪肉排
     Gelatine: 明胶
     GelBerry: 胶梅
@@ -108,7 +108,7 @@ Mods.StarlightRiver:
     GeoDiamond: 钻石
     GeoEmerald: 绿宝石
     GeomancerHood: 地卜师的兜帽
-    GeomancerItemDummy: 不同宝石的效果:
+    GeomancerItemDummy: 不同宝石的效果：
     GeomancerPants: 地卜师的护胫
     GeomancerRobe: 地卜师的斗篷
     GeoRuby: 红宝石
@@ -127,7 +127,7 @@ Mods.StarlightRiver:
     PoltergeistLegs: 作祟袍靴
     CharonsObol: 卡戎的银币
     GrayGoo: 灰色粘质
-    ThunderBeads: 电鞭磁珠
+    ThunderBeads: 磁珠电鞭 #原“电鞭磁珠”
     Thunderbuss: 雷筒
     AlchemistShackles: 炼金术士的镣铐
     ArchaeologistsMap: 考古学家的地图
@@ -145,7 +145,7 @@ Mods.StarlightRiver:
     Cheapskates: 廉价溜冰鞋
     CoachGun: 护骑霰弹枪
     CopperCoil: 铜质线圈
-    Corpseflower: 尸魔花
+    Corpseflower: 尸花
     CoughDrops: 止咳糖
     CutlassBus: 弯刀之魂
     DiceAmmo: 骰子
@@ -173,7 +173,7 @@ Mods.StarlightRiver:
     Ironheart: 钢铁之心
     LostCollar: 遗失的颈圈
     Magebane: 法师克星
-    MagmaGun: 熔山喷流
+    MagmaGun: 熔屑喷流
     MonkSpade: 武僧月牙铲
     PandorasDagger: 潘多拉短剑
     PandorasShield: 潘多拉护盾
@@ -181,14 +181,14 @@ Mods.StarlightRiver:
     PowerCell: 电池
     PulseBoots: 脉冲靴
     RadculasRapier: Radcula's Rapier
-    RhythmicResonator: 共振节拍器
+    RhythmicResonator: 节律共振器
     Sandscript: 沙痕
     SanitizerSpray: 消毒喷雾
     ShockAbsorber: 减震器
     Sling: 弹弓
     Slitherring: 蛇鞭
     Soilgun: 土块枪
-    SojournersScarf: 旅居者围脖
+    SojournersScarf: 旅居者的围巾 #原“旅居者围脖”
     Sorcerwrench: 巫师扳手
     SoulOfFrog: 青蛙之魂
     SpikedMail: 尖刺锁甲
@@ -215,14 +215,14 @@ Mods.StarlightRiver:
     MoonstoneLegs: 月长石护胫
     MoonstoneOreItem: 月长石
     Shaker: 震颤者
-    PalestoneNail: 苍白之钉 #subject to change
+    PalestoneNail: 苍白骨钉
     AuroraBell: 极光钟
-    AuroraThroneMountItem: 极光冕
+    AuroraThroneMountItem: 极光王冠
     BookOfFrost: 凄冻之书
     Frostball: 寒丸
     Octogun: 腕足枪
     OverflowingUrn: 溢流瓮
-    SquidBossBag: 宝藏袋（极光鲗）
+    SquidBossBag: 宝藏袋（极光之触）
     SquidBossSpawn: 可疑供品
     SquidBossSpawnEndless: 镀金可疑供品
     SquidFins: 鱿鱼鳍
@@ -234,9 +234,9 @@ Mods.StarlightRiver:
     LesserBarrierPotion: 弱效屏障药水
     RegularBarrierPotion: 屏障药水
     BloodCrystal: 血晶
-    AquamarinePendant: 冰蓝吊坠
-    MeadHorn: 蜜酿号角
-    Astroscrap: 天外陨铁
+    AquamarinePendant: 海蓝宝石吊坠
+    MeadHorn: 角杯蜜酒
+    Astroscrap: 异星合金
     StarwoodBoomerang: 星木回旋镖
     StarwoodBoots: 星木护胫
     StarwoodCharm: 星木护符
@@ -254,7 +254,7 @@ Mods.StarlightRiver:
     JetwelderScrap3: 碎片
     JetwelderScrap4: 碎片
     RebarLauncher: 钢筋发射器
-    RuneStaff: 远古符文杖
+    RuneStaff: 远古符文法杖
     TempleLens: 远古透镜
     TempleLensUpgrade: 真视透镜
     TemplePick: 旋风镐
@@ -262,7 +262,7 @@ Mods.StarlightRiver:
     TempleSpear: 光点
     ArmorBag: 盔甲袋
     ChefBag: 厨师袋
-    CurseRemover: 消弭卷轴
+    CurseRemover: 祛咒卷轴
     AncientStarwoodBoots: 远古星木护胫
     AncientStarwoodChest: 远古星木长袍
     AncientStarwoodHat: 远古星木帽
@@ -276,7 +276,7 @@ Mods.StarlightRiver:
     FacetAndLattice: 琢面晶格
     GlassIdol: 琉璃圣像
     GlassIdolEndless: 镀金琉璃圣像
-    IgnitionGauntlets: 起爆手套
+    IgnitionGauntlets: 点火手套
     MagmaArrow: 熔岩箭
     MagmaCore: 熔岩核心
     MagmiteBomb: 熔滴螨炸弹
@@ -284,22 +284,23 @@ Mods.StarlightRiver:
     MagmiteVacpack: 熔滴螨加农炮
     Needler: 热熔晶针枪
     PhoenixStorm: 凤凰风暴
-    RecursiveFocus: 递迴透镜
+    RecursiveFocus: 递归透镜 #原“递迴透镜”
     RefractiveBlade: 折射尖刃
     SandstoneChunk: 远古陶瓷
     ShatteredAegis: 破碎的神盾
-    TempleEntranceKey: Large forge key
-    TempleKey: Small forge key
+    TempleEntranceKey: 大号锻炉钥匙
+    TempleKey: 小号锻炉钥匙
     VitricBossBag: 宝藏袋（塞洛斯）
     VitricBow: 琉璃弓
     VitricBulletItem: 琉璃弹
     VitricChest: 琉璃胸甲
     VitricHamaxe: 琉璃锤斧
     VitricHead: 琉璃头盔
+    VitricHook: 坼裂钩
     VitricLegs: 琉璃护胫
     VitricMagicBook: 琉璃之书
-    VitricOre: 琉璃裂片
-    VitricPick: 琉璃镐
+    VitricOre: 琉璃碎片
+    VitricPick: 熔璃镐
     VitricSword: 远古琉璃刃
     MagmitePassiveItem: 熔滴螨
     CodexTileItem: 星光宝典
@@ -308,49 +309,49 @@ Mods.StarlightRiver:
     WindsTileItem: 禁忌之风
     CookStationItem: 灶台
     InfuserItem: "[PH]Infuser"
-    AnkhChestItem: Ankh Chest
-    ForestBerries: Forest Berries
-    ForestBerryBushItem: Berry bush
-    Slimeberry: Slimeberry
-    SlimeberryBushItem: Slimeberry Bush
-    AncientFruit: Ancient Fruit
-    GoldenRice: Golden Rice
-    Rice: Rice
+    AnkhChestItem: 十字箱
+    ForestBerries: 森林莓果
+    ForestBerryBushItem: 莓丛
+    Slimeberry: 凝胶莓果
+    SlimeberryBushItem: 史莱姆莓丛
+    AncientFruit: 上古水果
+    GoldenRice: 黄金稻米
+    Rice: 稻米
     GreenhouseGlassItem: 温室玻璃
     GreenhouseWallItem: 温室玻璃墙
     BouncerItem: 晶体弹珠
     StaminaGemItem: 耐力宝石
     StaminaOrbItem: 耐力球
-    DisplayCaseFriendlyItem: Display Case
-    RatTentItem: Strange Tent
-    JellyShroomItem: 蓝色果冻菇
-    LumishroomItem: Lumishroom
-    VibeshroomItem: Vibeshroom
-    BlueTorchOvergrowItem: Blue Faerie Torch
-    CrusherOvergrowItem: Crusher Trap
+    DisplayCaseFriendlyItem: 展示柜
+    RatTentItem: 奇怪的帐篷
+    JellyShroomItem: 蓝色果冻菇 # 蓝色水母菇，neta深海迷航, 但我没找到中译名
+    LumishroomItem: 荧光蘑菇
+    VibeshroomItem: 颤颤蘑菇
+    BlueTorchOvergrowItem: 蓝仙女火把 #原“蓝仙女火炬”
+    CrusherOvergrowItem: 碾压陷阱
     NoxiousNodeItem: Noxious Node
-    OvergrowthLivingWoodItem: Overgrown Living Wood
+    OvergrowthLivingWoodItem: 繁茂生命木
     Rock2x2Item: 2x2 rock placer
-    SkeletonBrickItem: Skeletal Brick
-    TorchOvergrowItem: Faerie Torch
-    WallOvergrowBrickItem: Runic Brick Wall
-    WallOvergrowGrassItem: Overgrowth Grass Wall
+    SkeletonBrickItem: 骨砖
+    TorchOvergrowItem: 仙女火把 #原“仙女火炬”
+    WallOvergrowBrickItem: 符文砖墙
+    WallOvergrowGrassItem: 繁茂草墙
     WindowSmallItem: Smol Window
     WispAltarLItem: Wisp Altar L Placer
     WispAltarRItem: Wisp Altar R Placer
-    AuroraclePaintingItem: 流光水
-    EggCodexPaintingItem: Codex Genesis
-    RatKingPaintingItem: Majestic Hoarder
-    PalestoneItem: Palestone
+    AuroraclePaintingItem: 闪辉虹水
+    EggCodexPaintingItem: 创世神典
+    RatKingPaintingItem: 鼠风流人物
+    PalestoneItem: 苍白石块
     AuroraBrickDoorItem: Debug Brick Placer
     AuroraBrickItem: 极光砖
-    AuroraBrickWallFriendlyItem: Aurora BrickWall
-    AuroraBrickWallItem: Aurora BrickWall
-    AuroraIceBar: Frozen Aurora Bar
-    AuroraIceItem: Frozen Aurora Chunk
+    AuroraBrickWallFriendlyItem: 极光砖墙
+    AuroraBrickWallItem: 极光砖墙
+    AuroraIceBar: 凝冻极光锭
+    AuroraIceItem: 凝冻极光块
     DoorBombShooterItem: Debug Shooter Placer
-    PermafrostIceItem: Permafrost Ice
-    TouchstoneItem: Touchstone
+    PermafrostIceItem: 永冻冰块
+    TouchstoneItem: 引光冰石
     TouchstoneLootboxItem: Touchstone Chest Placer
     AuroracleTrophyItem: Auroracle Trophy
     CeirosTrophyItem: 塞洛斯纪念章
@@ -386,7 +387,7 @@ Mods.StarlightRiver:
     TallWindowItem: Window Actor
     TempleCandleCrystalItem: 神殿晶体蜡烛
     TempleCandleItem: 神殿蜡烛
-    TempleCeirosFountainItem: 神殿守卫喷泉
+    TempleCeirosFountainItem: 神殿哨卫喷泉
     TempleWallCandleItem: 神殿壁挂蜡烛
     TutorialDoor1Item: 教程用门1
     TutorialDoor2Item: 教程用门2
@@ -459,7 +460,7 @@ Mods.StarlightRiver:
     VitricTempleItem: 八音盒（琉璃神庙）
     MinibossItem: 八音盒（小Boss）
     OvergrowItem: 八音盒 (Overgrow)
-    AuroracleItem: 八音盒 (Auroracle)
+    AuroracleItem: 八音盒 （极光之触）
     LeafOvergrowItem: Faerie Leaves
     BrickOvergrowItem: Runic Bricks
     StoneOvergrowItem: Runic Stone
@@ -485,32 +486,32 @@ Mods.StarlightRiver:
     TestWhipImprint: 无效果
     Astral:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry more speed
+      禁忌之风灌注
+      冲刺的距离更远且保留较多速度
       耐力消耗乘以1.3倍
       '''
     Astral2:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry even more speed
+      禁忌之风灌注
+      冲刺的距离更远且保留更多速度
       耐力消耗乘以1.6倍
       '''
     Astral3:
       '''
-      Forbidden Winds Infusion
-      Dash farther and carry the most speed
+      禁忌之风灌注
+      冲刺的距离更远且保留最多速度
       耐力消耗乘以2倍
       '''
-    AstralImprint: Dash farther and carry more speed
+    AstralImprint: 冲刺的距离更远且保留更多速度
     Blink:
       '''
-      Forbidden Winds Infusion
+      禁忌之风灌注
       立即传送到前方一小段距离，闪避敌人及其攻击
       '''
     BlinkImprint: 立即传送到前方一小段距离，闪避敌人及其攻击
     Pulse:
       '''
-      Forbidden Winds Infusion
+      禁忌之风灌注
       冲刺会被一种短暂、频繁且强力的速度爆发替代
       减少0.25耐力消耗
       '''
@@ -528,6 +529,8 @@ Mods.StarlightRiver:
       搅拌棒
       用这个来完成炼金配方并制作它们。
       '''
+    AstrofloraFlail: Spinning the flail releases toxic spores that ignite when the flail is thrown
+    BaseBarrierDye: ""
     MoonstoneBarrierDye:
       '''
       使屏障能够反射月光
@@ -590,6 +593,13 @@ Mods.StarlightRiver:
     AWhip_GreenGem: You shouldn't see this
     AWhip_Necklace: You shouldn't see this
     AWhip_RedGem: You shouldn't see this
+    DesertArtifact1Item: ""
+    DesertArtifact2Item: ""
+    DesertArtifact3Item: ""
+    DesertArtifact4Item: ""
+    DesertArtifact5Item: ""
+    DesertArtifact6Item: ""
+    DesertArtifact7Item: ""
     AztecDeathSaxophone:
       '''
       受到伤害或击杀敌人时会为萨克斯充能
@@ -647,6 +657,7 @@ Mods.StarlightRiver:
       +15%持续伤害抗性
       小幅度增加生命开始再生的速度
       '''
+    ExampleCombatMountItem: ""
     BlackPepper: "\n\n"
     Butter: "\n\n"
     Carrot: "\n\n"
@@ -719,6 +730,7 @@ Mods.StarlightRiver:
     GeoAmethyst: You shouldn't see this
     GeoDiamond: You shouldn't see this
     GeoEmerald: You shouldn't see this
+    GeomancerHood: ""
     GeomancerItemDummy:
       '''
       钻石：暴击无视部分防御，基于敌人已损失的生命值增加暴击率
@@ -728,9 +740,13 @@ Mods.StarlightRiver:
       紫晶：使用攻击都会造成可叠加的剧毒紫晶减益
       红玉：击中敌人时有几率召唤一个搜寻敌人的红玉匕首，造成20%伤害
       '''
+    GeomancerPants: ""
+    GeomancerRobe: ""
     GeoRuby: You shouldn't see this
     GeoSapphire: You shouldn't see this
     GeoTopaz: You shouldn't see this
+    RainbowCycleDye: ""
+    RainbowCycleDye2: ""
     SapphireStar: You shouldn't see this
     SparklingBullet: 成功击中敌人时会再次获得该弹药
     BloodBolter:
@@ -744,6 +760,7 @@ Mods.StarlightRiver:
       将敌人挑向空中
       击中空中的敌人会造成更多的伤害
       '''
+    LivingBlood: ""
     PoltergeistChest:
       '''
       增加5%魔法伤害
@@ -891,6 +908,7 @@ Mods.StarlightRiver:
       基于敌人已损失的生命值使你的暴击获得力量
       普通敌人在生命值较低时会被处决
       '''
+    Gunchucks: ""
     GunstrapBoots:
       '''
       进行二段跳时会向下方发射子弹
@@ -932,8 +950,8 @@ Mods.StarlightRiver:
       魔法攻击击中敌人时有25%几率使你回复部分等同于此次伤害量的魔力值
       '''
     MagmaGun: 喷射一股熔岩急流，会粘在物块和敌人身上
-    PandorasDagger: 擦弹时会释放失谐弹幕，会造成可叠加的Volatile减益
-    PandorasShield: 擦弹时会使你获得部分等同于部分等同于弹幕伤害量的屏障
+    PandorasDagger: 擦弹时会释放能够造成可叠加的Volatile减益的失谐弹幕
+    PandorasShield: 擦弹时会使你获得部分等同于弹幕伤害量的屏障
     PhilosophersMortar: 拾取红心会缩短10秒药水疾病的持续时间，但治疗量同样会减半
     PowerCell: NaN
     PulseBoots: 使你获得方向固定的二段跳
@@ -998,6 +1016,8 @@ Mods.StarlightRiver:
       屏障受到伤害时会反弹给攻击者
       +20点屏障
       '''
+    StaminaGel: ""
+    StaminaPickup: ""
     StaminaRing: 缓慢的再生耐力
     StaminaUp: 增加1点最大耐力
     StarlightShuriken:
@@ -1091,6 +1111,7 @@ Mods.StarlightRiver:
       释放寒风激流
       长时间使用时会对你造成霜冻减益
       '''
+    SquidBossBag: ""
     SquidBossSpawn: Drop in prismatic waters to summon the one the Squiddites worship
     SquidBossSpawnEndless:
       '''
@@ -1158,6 +1179,7 @@ Mods.StarlightRiver:
       创造一些小星星
       小星星击中敌人时会召唤一颗大星星打击敌人
       '''
+    AncientGear: ""
     Buzzsaw:
       '''
       打击敌人以积蓄压力
@@ -1221,6 +1243,12 @@ Mods.StarlightRiver:
       放置于被装备的诅咒物品上以将其摧毁
       'There's no turning back, most of the time'
       '''
+    AncientStarwoodBoots: ""
+    AncientStarwoodChest: ""
+    AncientStarwoodHat: ""
+    MechaChest: ""
+    MechaHead: ""
+    MechaLegs: ""
     WardenHat: "[c/198E12:???]"
     WardenRobe: "[c/198E12:???]"
     CoachGunUpgrade:
@@ -1283,11 +1311,13 @@ Mods.StarlightRiver:
       长按右键充能并释放一道激光
       被激光击中的敌人的近战曝光增加25%
       '''
+    SandstoneChunk: ""
     ShatteredAegis:
       '''
       受到伤害时释放燃火环
       'Meet your foes head-on, and give them a scorching embrace'
       '''
+    VitricBossBag: ""
     TempleEntranceKey: Opens a door to the vitric forge.
     TempleKey: Opens a door inside the vitric forge.
     VitricBow: 可能需要重制
@@ -1403,6 +1433,10 @@ Mods.StarlightRiver:
     VitricLargeCrystalItem: The slot this Item is in changes the type placed
     VitricLargeFountainItem: 调试物品
     VitricMediumCrystalItem: The slot this Item is in changes the type placed
+    VitricOreFloatItem: ""
+    VitricOreItem: ""
+    VitricRockItem: ""
+    VitricSandWallItem: ""
     VitricSmallCrystalItem: The slot this Item is in changes the type placed
     VitricSpikeItem: 好痛!
     VitricBossBarrierItem: 调试物品
@@ -1412,37 +1446,37 @@ Mods.StarlightRiver:
   }
   ProjectileName:
   {
-    ArtifactItemProj: Artifact
-    BurningGround: Burning Ground
+    ArtifactItemProj: 人工制品
+    BurningGround: 燃烬
     GlassBubble: Volatile Bubble
-    GlassBubbleFragment: Glass Shard
-    GlassHammer: Woven Hammer
-    GlassJavelin: Glass Javelin
+    GlassBubbleFragment: 玻璃碎片
+    GlassHammer: 编织之锤
+    GlassJavelin: 琉璃枪
     GlassRaiseSpike: Raised Glass Structure
     GlassSpear: Woven Hammer
-    GlassSword: Glass Sword
-    GlassweaverDoor: Glassweaver Door
+    GlassSword: 琉璃剑
+    GlassweaverDoor: 织璃门
     LavaLob: Hot Lob
-    Whirlwind: Spinning Blades
-    AuroraWaterSplash: Aurora Water Splash
-    DoorBomb: Door Bomb
-    InkBlob: Rainbow Ink
-    InkBlobGravity: Rainbow Ink
-    Laser: Laser
-    SpewBlob: Aurora Shard
-    SqueezeTell: Tentacle Warning
-    TentacleTell: Tentacle Warning
-    TentacleTrail: Trail
-    CrystalWave: Crystal Wave
-    FinalLaser: Raging Fire
-    FireCone: Fire Cone
-    FireRingHostile: Fire Ring Hostile
-    GlassSpike: Glass Spike
+    Whirlwind: 旋刃
+    AuroraWaterSplash: 极光漩
+    DoorBomb: 门炸弹
+    InkBlob: 虹墨
+    InkBlobGravity: 虹墨
+    Laser: 激光
+    SpewBlob: 极光碎片
+    SqueezeTell: 触须警告
+    TentacleTell: 触须警告
+    TentacleTrail: 触须之痕
+    CrystalWave: 水晶
+    FinalLaser: 怒火
+    FireCone: 炎锥
+    FireRingHostile: 火焰指环
+    GlassSpike: 琉璃尖刺
     GlassVolley: Glass Volley
     GlassVolleyShard: Glass Volley Shard
-    LavaDart: Magma Shot
-    SpikeMine: Spike Mine
-    TelegraphedGlassSpike: Glass Spike
+    LavaDart: 熔岩弹丸
+    SpikeMine: 尖刺地雷
+    TelegraphedGlassSpike: 琉璃尖刺
     VitricBomb: Vitric Bomb
     LightningNode: Lightning Node
     BreachCannonSentry: Breach Cannon
@@ -1490,23 +1524,23 @@ Mods.StarlightRiver:
     GravediggerSlam: Grave digger
     GravediggerSwing: Grave digger
     PoltergeistMinion: Haunted Weapon
-    CopperObol: Obol
-    GoldObol: Obol
+    CopperObol: 铜币
+    GoldObol: 金币
     ObolImpact: Obol Star
-    PlatinumObol: Obol
-    SilverObol: Obol
+    PlatinumObol: 铂金币
+    SilverObol: 银币
     GrayGooProj: Gray Goo
     ThunderBeadsProj: Thunder Beads
     ThunderbussBall: Thunderbuss Ball
     ThunderbussShot: Electro Shock
-    BalloonGunBalloon: Balloon
-    BizarreIce: Bizarre Potion
+    BalloonGunBalloon: 气球
+    BizarreIce: 奇异药水
     BizarreLightning: Bizarre Lightning
     BizarreLightningOrb: Bizarre Lightning Orb
-    BizarrePotionPoisonCloud: Bizarre Potion Poison Cloud
-    BizarrePotionProj: Bizarre Potion
-    BladesawSwungBlade: Bladesaw
-    BloodAmuletBolt: Ghoul
+    BizarrePotionPoisonCloud: 奇异药水毒云
+    BizarrePotionProj: 奇异药水
+    BladesawSwungBlade: 锯刃
+    BloodAmuletBolt: 食尸鬼
     CoachGunBomb: Dynamite
     CoachGunEmber: Ember
     CoachGunMuzzleFlash: Muzzle Flash
@@ -1521,9 +1555,9 @@ Mods.StarlightRiver:
     DualCrossHeld: Double Cross
     ElectroArrowProjectile: Electro Arrow
     FiletSlash: Slash
-    FryingPanBonk: Frying Pan
-    FryingPanProj: Frying Pan
-    FryingPanThrownProj: Frying Pan Thrown Proj
+    FryingPanBonk: 煎锅
+    FryingPanProj: 煎锅
+    FryingPanThrownProj: 煎锅射弹
     GeodeBowExplosion: Geode Explosion
     GeodeBowGrowth: Geode Growth
     GeodeBowProj: Geode Bow
@@ -1674,12 +1708,231 @@ Mods.StarlightRiver:
     SnakeSpit: Molten glass
     PinkSeaSaltProjectile: Sea Salt
     TableSaltProjectile: Table Salt
+    CrashPodDummy: ""
+    AnkhChestDummy: ""
+    TwistSwordTileProj: ""
+    MonkSpearDummy: ""
+    BouncerDummy: ""
+    StaminaGemDummy: ""
+    StaminaOrbDummy: ""
+    LootBubbleDummy: ""
+    JellyShroomDummy: ""
+    BossWindowDummy: ""
+    NoxiousNodeDummy: ""
+    WindowSmallDummy: ""
+    BossGateDummy: ""
+    CombatShrineDummy: ""
     Dart: Cursed Dart
     SawbladeSmall: Cursed Sawblade
     Spear: Cursed Spear
+    EvasionShrineDummy: ""
+    HotspringFountainDummy: ""
     SpawnEgg: Spawn Egg
+    WitShrineDummy: ""
+    DashBarrierDummy: ""
+    JarDummy: ""
+    VerletBannerDummy: ""
+    ForgeActorDummy: ""
+    RedBannerShortDummy: ""
+    DynamicGearDummy: ""
+    GearPuzzleOriginDummy: ""
+    ObjectiveGearDummy: ""
+    ReflectorDummy: ""
+    LowWindBannerDummy: ""
+    OldCeirosShrineDummy: ""
+    TutorialDoor1Dummy: ""
+    TutorialDoor2Dummy: ""
+    WindsRoomActorDummy: ""
+    VitricBannerSmallDummy: ""
+    VitricBossAltarDummy: ""
+    VitricGiantDummy: ""
+    VitricLargeDummy: ""
+    VitricMediumDummy: ""
+    VitricOreDummy: ""
+    VitricOreFloatDummy: ""
+    VitricSmallDummy: ""
+    VitricBannerDummy: ""
   }
-  Containers.AnkhChest: Ankh Chest
+  Containers:
+  {
+    CauldronTile: ""
+    SeaglassRingTile: ""
+    CodexPickupTile: ""
+    FaeflamePickupTile: ""
+    ForbiddenWindsPickupTile: ""
+    StaminaShardTile: ""
+    PinkSeaSalt: ""
+    TableSalt: ""
+    CookStation: ""
+    Infuser: ""
+    CrashPod: ""
+    AnkhChest: Ankh Chest
+    TwistSwordTile: ""
+    ForestBerryBush: ""
+    MonkSpear: ""
+    SlimeberryBush: ""
+    ThickTree: ""
+    ThickTreeBase: ""
+    HellChest: ""
+    TallAncientFruit: ""
+    TallGoldenRice: ""
+    TallRice: ""
+    GreenhouseGlass: ""
+    Bouncer: ""
+    StaminaGem: ""
+    StaminaOrb: ""
+    DisplayCase: ""
+    DisplayCaseFriendly: ""
+    RatTent: ""
+    SandscriptTile: ""
+    MoonstoneBar: ""
+    MoonstoneOre: ""
+    JellyShroom: ""
+    Lumishroom: ""
+    Vibeshroom: ""
+    BlueTorchOvergrow: ""
+    BossWindow: ""
+    CrusherTile: ""
+    NoxiousNode: ""
+    OvergrowthLivingWoodTile: ""
+    Rock2x2: ""
+    SetpieceAltar: ""
+    SkeletonBrickTile: ""
+    TorchOvergrow: ""
+    WindowSmall: ""
+    WispAltarL: ""
+    WispAltarR: ""
+    AuroraclePainting: ""
+    EggCodexPainting: ""
+    RatKingPainting: ""
+    Palestone: ""
+    AuroraBrick: ""
+    AuroraBrickDoor: ""
+    AuroraIce: ""
+    BossGate: ""
+    DoorBombShooter: ""
+    PermafrostIce: ""
+    Touchstone: ""
+    TouchstoneLootbox: ""
+    AuroracleTrophy: ""
+    CeirosTrophy: ""
+    CombatShrine: ""
+    EvasionShrine: ""
+    HotspringFountain: ""
+    MagmiteShrine: ""
+    WitShrine: ""
+    DashBarrier: ""
+    JarTall: ""
+    TempleChestSimple: ""
+    TempleLootBubble: ""
+    VerletBanner: ""
+    AncientSandstonePlatform: ""
+    AncientSandstoneTorch: ""
+    ForgeActor: ""
+    ForgeDoor: ""
+    ForgeInnerDoor: ""
+    RedBannerShort: ""
+    SandstoneDoor: ""
+    DoorHorizontal: ""
+    DoorVertical: ""
+    EntranceDoor: ""
+    DynamicGear: ""
+    GearPuzzleOrigin: ""
+    ObjectiveGear: ""
+    Reflector: ""
+    LowWindBanner: ""
+    OldCeirosShrine: ""
+    TempleCandle: ""
+    TempleCandleCrystal: ""
+    TempleCeirosFountain: ""
+    TempleWallCandle: ""
+    TempleWindowSmall: ""
+    TutorialDoor1: ""
+    TutorialDoor2: ""
+    VitricPillarWall: ""
+    VitricPillarWallShort: ""
+    WindsRoomActor: ""
+    VitricBannerSmall: ""
+    VitricBossAltar: ""
+    VitricBossBarrier: ""
+    VitricBreakableVases: ""
+    VitricDecor1x1: ""
+    VitricDecor1x1Inverted: ""
+    VitricDecor1x2: ""
+    VitricDecor1x2Inverted: ""
+    VitricDecor2x1: ""
+    VitricDecor2x1Inverted: ""
+    VitricDecor2x2: ""
+    VitricDecor2x2Inverted: ""
+    VitricFountain: ""
+    VitricGiantCrystal: ""
+    VitricLargeCrystal: ""
+    VitricLargeFountain: ""
+    VitricLootBox: ""
+    VitricMediumCrystal: ""
+    VitricOre: ""
+    VitricOreFloat: ""
+    VitricRock: ""
+    VitricRoundCactus: ""
+    VitricSmallCactus: ""
+    VitricSmallCrystal: ""
+    VitricSpike: ""
+    VitricVine: ""
+    VitricBanner: ""
+    VitricBathtub: ""
+    VitricBed: ""
+    VitricBookcase: ""
+    VitricCandelabra: ""
+    VitricCandle: ""
+    VitricChair: ""
+    VitricChandelier: ""
+    VitricClock: ""
+    VitricDresser: ""
+    VitricLamp: ""
+    VitricLantern: ""
+    VitricPiano: ""
+    VitricSink: ""
+    VitricSofa: ""
+    VitricTable: ""
+    VitricWorkbench: ""
+    VitricDoorClosed: ""
+    VitricDoorOpen: ""
+    TempleChair: ""
+    TempleLargeVase: ""
+    TempleLargeVaseCrystal: ""
+    TempleWorkbench: ""
+    TempleThrone: ""
+    TempleFloorWeaponRack: ""
+    TempleTable: ""
+    TempleTableCrystal: ""
+    TempleWeaponRack0: ""
+    TempleWeaponRack1: ""
+    TempleWeaponRack2: ""
+    TempleWeaponRack3: ""
+    TempleThingamajig: ""
+    TempleBrick: ""
+    VitricBoss1: ""
+    VitricBoss2: ""
+    VitricPassive: ""
+    VitricTemple: ""
+    Miniboss: ""
+    Overgrow: ""
+    Auroracle: ""
+    LeafOvergrow: ""
+    BrickOvergrow: ""
+    StoneOvergrow: ""
+    Springstone: ""
+    ShrineBrazier: ""
+    WitTile: ""
+    AncientSandstone: ""
+    AncientSandstoneTile: ""
+    VitricBrick: ""
+    VitricCactus: ""
+    VitricGlass: ""
+    VitricSand: ""
+    VitricSoftSand: ""
+    VitricSandPlain: ""
+  }
   BiomeName:
   {
     HotspringBiome: 热泉
@@ -1695,14 +1948,22 @@ Mods.StarlightRiver:
   {
     Glassweaver: Glassweaver
     GlassweaverWaiting: Glassweaver
+    ArenaActor: ""
     ArenaBlocker: Arena Blocker
     Auroraborn: 极光子嗣
     Auroraling: Auroraling
+    GoldPlatform: ""
+    IcePlatform: ""
+    IcePlatformSmall: ""
     SquidBoss: Auroracle
     Tentacle: 触手
     TentacleHurtbox: Tentacle Hurtbox
     VitricBoss: 塞洛斯
     VitricBossCrystal: Resonant Crystal
+    VitricBossPlatformDown: ""
+    VitricBossPlatformDownSmall: ""
+    VitricBossPlatformUp: ""
+    VitricBossPlatformUpSmall: ""
     StarlightWaterActor: Starlight Water Actor
     GravityOrbTest: Gravity Orb Test
     Dweller: Dweller
@@ -1760,7 +2021,7 @@ Mods.StarlightRiver:
     IvySnare: 陷阱
     MossRegen: 再生苔藓
     Overcharge: 过充
-    PrismaticDrown: 棱光之溺
+    PrismaticDrown: 溺于流光
     ProtectiveShard: 护佑碎片
     Rage: 暴怒
     Slimed: 黏滑
@@ -1846,6 +2107,7 @@ Mods.StarlightRiver:
     CoachDebuff: 伤害提升10%
     CorpseflowerBuff: 你被尸花诅咒了...
     FiletFrenzyBuff: Increased melee speed, but decreased crit rate on Filet Knife
+    ImpactSMGBuff: ""
     IronheartBuff: you have decaying extra barrier and defense
     PlexusChaliceBuff: +30% Inoculation
     RadculasRapierCooldown: The rapier's energy seems deminished
@@ -1855,11 +2117,11 @@ Mods.StarlightRiver:
     InoculationPotionBuff: +30% Inoculation
     NoShieldPot: Cannot consume more barrier potions
     ShieldDegenReduction: Barrier sticks to you better
-    CogwheelBuff: 看我车轮滚滚
-    Exposed: 造成额外伤害
-    PhoenixStormSummonBuff: 炽焰之鸟将会跟随你
-    RefractiveBladeBuff: 造成额外近战伤害
-    SwelteredDeBuff: 你的伤害提升35%
+    CogwheelBuff: They see me rollin'
+    Exposed: Taking extra damage!
+    PhoenixStormSummonBuff: A fiery bird follows you
+    RefractiveBladeBuff: Taking additional melee damage!
+    SwelteredDeBuff: 受到的伤害增加35%
     Fogbinded: Bound to the fogbinder
   }
   Prefix:
@@ -1882,48 +2144,135 @@ Mods.StarlightRiver:
   MapObject:
   {
     CauldronTile: Alchemic Cauldron
+    SeaglassRingTile: ""
+    CodexPickupTile: ""
+    FaeflamePickupTile: ""
+    ForbiddenWindsPickupTile: ""
+    StaminaShardTile: ""
+    PinkSeaSalt: ""
+    TableSalt: ""
     CookStation: Cooking Station
     Infuser: Infuser
     CrashPod: Crashed Pod
     AnkhChest: Mods.StarlightRiver.MapObject.AnkhChest
     AnkhChest_Locked: Ankh Chest
     TwistSwordTile: Twisted Greatsword
+    ForestBerryBush: ""
     MonkSpear: Monk's Spade
+    SlimeberryBush: ""
     ThickTree: Large Tree
+    ThickTreeBase: ""
+    HellChest: ""
     TallAncientFruit: Ancient Fruit
     TallGoldenRice: Golden Rice
     TallRice: Rice
     GreenhouseGlass: Greenhouse Glass
+    Bouncer: ""
+    StaminaGem: ""
     DisplayCase: Relic Case
     DisplayCaseFriendly: Relic Case
     RatTent: Strange Tent
     MoonstoneBar: Metal Bar
     MoonstoneOre: Moonstone Ore
     JellyShroom: Jelly Shroom
+    Lumishroom: ""
+    Vibeshroom: ""
+    BlueTorchOvergrow: ""
     OvergrowthLivingWoodTile: Overgrown Living Wood
+    Rock2x2: ""
+    SetpieceAltar: ""
     SkeletonBrickTile: Skeleton Brick
+    TorchOvergrow: ""
+    WindowSmall: ""
+    WispAltarL: ""
+    WispAltarR: ""
     AuroraclePainting: Painting
     EggCodexPainting: Painting
     RatKingPainting: Painting
+    AuroraBrick: ""
+    AuroraBrickDoor: ""
+    AuroraIce: ""
+    BossGate: ""
+    DoorBombShooter: ""
+    PermafrostIce: ""
     Touchstone: Touchstone
-    AuroracleTrophy: Trophy
-    CeirosTrophy: Trophy
+    TouchstoneLootbox: ""
+    AuroracleTrophy: 纪念章
+    CeirosTrophy: 纪念章
     CombatShrine: Mysterious Shrine
     EvasionShrine: Mysterious Shrine
+    HotspringFountain: ""
     MagmiteShrine: The Boi
     WitShrine: Mysterious Shrine
+    DashBarrier: ""
     JarTall: Stamina Jar
+    TempleChestSimple: ""
+    TempleLootBubble: ""
+    VerletBanner: ""
+    ForgeActor: ""
     ForgeDoor: Forge Door
     ForgeInnerDoor: Forge Door
+    RedBannerShort: ""
+    SandstoneDoor: ""
+    DoorHorizontal: ""
+    DoorVertical: ""
     EntranceDoor: Vitric Temple Door
-    TempleCandle: Candle
-    TempleCandleCrystal: Candle
-    TempleCeirosFountain: Fountain
-    TempleWallCandle: Candle
-    VitricBossAltar: Ceiro's Altar
-    VitricBreakableVases: Pot
+    DynamicGear: ""
+    GearPuzzleOrigin: ""
+    ObjectiveGear: ""
+    Reflector: ""
+    LowWindBanner: ""
+    OldCeirosShrine: ""
+    TempleCandle: 蜡烛
+    TempleCandleCrystal: 蜡烛
+    TempleCeirosFountain: 喷泉
+    TempleWallCandle: 蜡烛
+    TempleWindowSmall: ""
+    TutorialDoor1: ""
+    TutorialDoor2: ""
+    VitricPillarWall: ""
+    VitricPillarWallShort: ""
+    WindsRoomActor: ""
+    VitricBannerSmall: ""
+    VitricBossAltar: 塞洛斯祭坛
+    VitricBreakableVases: 罐子
+    VitricDecor1x1: ""
+    VitricDecor1x1Inverted: ""
+    VitricDecor1x2: ""
+    VitricDecor1x2Inverted: ""
+    VitricDecor2x1: ""
+    VitricDecor2x1Inverted: ""
+    VitricDecor2x2: ""
+    VitricDecor2x2Inverted: ""
+    VitricGiantCrystal: ""
+    VitricLargeCrystal: ""
+    VitricLootBox: ""
+    VitricMediumCrystal: ""
     VitricOre: Vitric Ore
     VitricOreFloat: Vitric Ore
+    VitricRoundCactus: ""
+    VitricSmallCactus: ""
+    VitricSmallCrystal: ""
+    VitricSpike: ""
+    VitricBanner: ""
+    VitricBathtub: ""
+    VitricBed: ""
+    VitricBookcase: ""
+    VitricCandelabra: ""
+    VitricCandle: ""
+    VitricChair: ""
+    VitricChandelier: ""
+    VitricClock: ""
+    VitricDresser: ""
+    VitricLamp: ""
+    VitricLantern: ""
+    VitricPiano: ""
+    VitricSink: ""
+    VitricSofa: ""
+    VitricTable: ""
+    VitricWorkbench: ""
+    VitricDoorClosed: ""
+    VitricDoorOpen: ""
     TempleChair: Chair
     TempleLargeVase: Large Vase
     TempleLargeVaseCrystal: Large Vase
@@ -1932,17 +2281,32 @@ Mods.StarlightRiver:
     TempleFloorWeaponRack: Weapon Rack
     TempleTable: Table
     TempleTableCrystal: Table
-    TempleWeaponRack0: Weapon Rack
-    TempleWeaponRack1: Weapon Rack
-    TempleWeaponRack2: Weapon Rack
-    TempleWeaponRack3: Weapon Rack
-    TempleThingamajig: Weapon Rack
-    VitricBoss1: Music Box
-    VitricBoss2: Music Box
-    VitricPassive: Music Box
-    VitricTemple: Music Box
-    Miniboss: Music Box
-    Overgrow: Music Box
-    Auroracle: Music Box
+    TempleWeaponRack0: 武器架
+    TempleWeaponRack1: 武器架
+    TempleWeaponRack2: 武器架
+    TempleWeaponRack3: 武器架
+    TempleThingamajig: 武器架
+    TempleBrick: ""
+    VitricBoss1: 音乐盒
+    VitricBoss2: 音乐盒
+    VitricPassive: 音乐盒
+    VitricTemple: 音乐盒
+    Miniboss: 音乐盒
+    Overgrow: 音乐盒
+    Auroracle: 音乐盒
+    LeafOvergrow: ""
+    BrickOvergrow: ""
+    StoneOvergrow: ""
+    Springstone: ""
+    ShrineBrazier: ""
+    WitTile: ""
+    AncientSandstone: ""
+    AncientSandstoneTile: ""
+    VitricBrick: ""
+    VitricCactus: ""
+    VitricGlass: ""
+    VitricSand: ""
+    VitricSoftSand: ""
+    VitricSandPlain: ""
   }
 }

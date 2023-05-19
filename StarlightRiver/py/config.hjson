@@ -1,0 +1,28 @@
+{
+  # 要执行的任务:
+  # change log: 生成更新日志, input较新, old较旧
+  # update: 更新hjson, 将input的文本添加到提取出的extract中, 忽略extract的ldstr部分
+  # uncomment
+  "request": "change log",
+
+  # 要处理的hjson的路径, 和生成的hjson放置的路径
+  "path": "./StarlightRiver/",
+
+  # log放置路径, master分支请加入.gitignore
+  "log path": "./StarlightRiver/Logs/",
+
+  # --比较时-- 生成更新日志的较旧版本
+  "old": "StarlightRiver-zh-Hans_old.hjson",
+
+  # --比较时-- 生成更新日志的较新版本
+  # --更新时-- 已汉化的文件
+  # --删除注释时-- 要删除注释的文件
+  "input": "StarlightRiver-zh-Hans-update.hjson",
+
+  # --更新时-- 作为提取出的文件
+  "extract": "StarlightRiver.hjson",
+
+  # --更新时-- 输出的新文件的文件名
+  # --删除注释时-- 输出的已删除注释文件的文件名
+  "output": "StarlightRiver-zh-Hans-uncomment.hjson"
+}
