@@ -324,12 +324,12 @@ Mods: {
 
 			RainTotemArtifactItem: {
 				DisplayName: 暴雨图腾
-				Tooltip: 唤起或终止暴雨
+				Tooltip: 唤起或终止一场暴雨
 				}
 
 			WindTotemArtifactItem: {
 				DisplayName: 烈风图腾
-				Tooltip: 唤起或终止大风
+				Tooltip: 唤起或终止一场大风
 				}
 
 			DebugModerEnabler: {
@@ -3731,7 +3731,7 @@ Mods: {
 				DisplayName: 滋养
 				Description:
 					'''
-					Nourised by rich food, granting:
+					被丰富的食物滋养，你将获得：
 					
 					'''
 				}
@@ -3747,57 +3747,57 @@ Mods: {
 
 			Full: {
 				DisplayName: 饱腹
-				Description: Cannot consume any more rich food
+				Description: 吃不下更多食物了
 				}
 
 			HotspringHeal: {
 				DisplayName: 提神温泉
-				Description: The hot springs restore your body and mind
+				Description: 这口热泉会疗愈你的身心
 				}
 
 			Illuminant: {
 				DisplayName: 发光体
-				Description: Glowing brightly!
+				Description: 光彩夺目！
 				}
 
 			Ivy: {
 				DisplayName: 常青藤
-				Description: It's rooted in you!
+				Description: 它将植根于你！
 				}
 
 			IvySnare: {
 				DisplayName: 陷阱
-				Description: You've been caught!
+				Description: 你是我的了！
 				}
 
 			MossRegen: {
 				DisplayName: 再生苔藓
-				Description: Regenerating life quickly!
+				Description: 快速地恢复生命
 				}
 
 			Overcharge: {
 				DisplayName: 过充
-				Description: Greatly reduced armor, shocking nearby enemies!
+				Description: 大幅减少你的护甲，电击附近的敌人
 				}
 
 			PrismaticDrown: {
 				DisplayName: 溺于流光
-				Description: You are drowning in prismatic waters!
+				Description: 没入极光的海洋！
 				}
 
 			ProtectiveShard: {
 				DisplayName: 护佑碎片
-				Description: Incoming Damage reduced by 25%
+				Description: 你受到的伤害减少25%
 				}
 
 			Rage: {
 				DisplayName: 暴怒
-				Description: Increased damage and greatly increased knockback
+				Description: 提升伤害并显著提高击退
 				}
 
 			Slimed: {
 				DisplayName: 黏滑
-				Description: eww
+				Description: 呜呣
 				}
 
 			Squash: {
@@ -3807,7 +3807,7 @@ Mods: {
 
 			StaticShock: {
 				DisplayName: 静电震击
-				Description: Lowered Defense
+				Description: 降低防御
 				}
 
 			GrayGooSummonBuff: {
@@ -3817,37 +3817,37 @@ Mods: {
 
 			PalestoneSummonBuff: {
 				DisplayName: 苍白骑士
-				Description: The Pale Knight Will Protect You!
+				Description: 苍白骑士将护佑你
 				}
 
 			SupplyBeaconDamage: {
 				DisplayName: 信标增益：伤害
-				Description: Damage increased
+				Description: 提升伤害
 				}
 
 			SupplyBeaconDefense: {
 				DisplayName: 信标增益：防御
-				Description: Defense increased
+				Description: 提升防御
 				}
 
 			SupplyBeaconHeal: {
 				DisplayName: 信标增益：治疗
-				Description: Regeneration increased
+				Description: 提升生命再生
 				}
 
 			ArchaeologistsBuff: {
 				DisplayName: Treasure buff
-				Description: Your minions do more damage
+				Description: 你的召唤物的伤害获得增强
 				}
 
 			PerfectlyGenericPetBuff: {
 				DisplayName: 完美通用宠物
-				Description: Made of grist
+				Description: 由grist制成
 				}
 
 			WolfBleeding: {
 				DisplayName: 戳伤
-				Description: Gored by a wolf
+				Description: 被狼戳伤了
 				}
 
 			FleshApparationBuff: {
@@ -3857,12 +3857,12 @@ Mods: {
 
 			ShovelQuickFall: {
 				DisplayName: 速降
-				Description: You slammin
+				Description: 砰然坠地
 				}
 
 			ShovelSlowFall: {
 				DisplayName: 羽落
-				Description: Falling Speed Reduced
+				Description: 减缓降落速度
 				}
 
 			SoulSuck: {
@@ -3872,27 +3872,27 @@ Mods: {
 
 			BarbedKnifeBleed: {
 				DisplayName: 深度创伤
-				Description: You're bleeding out!
+				Description: 你正在流血！
 				}
 
 			BizarrePotionPoisonDebuff: {
 				DisplayName: 奇异毒素
-				Description: You poisoned
+				Description: 你中毒了
 				}
 
 			BrokenGlassesBuff: {
 				DisplayName: 碎玻璃
-				Description: You cant see, loser!
+				Description: 你看不见！loser!
 				}
 
 			CoachDebuff: {
 				DisplayName: 特训
-				Description: 伤害增加10%
+				Description: 伤害提升10%
 				}
 
 			CorpseflowerBuff: {
 				DisplayName: 尸魔花诅咒
-				Description: You have been cursed by the corpseflower
+				Description: 你被尸花诅咒了...
 				}
 
 			FiletFrenzyBuff: {
@@ -3932,7 +3932,7 @@ Mods: {
 
 			UrnFreeze: {
 				DisplayName: Urn Freeze
-				Description: The pot is out of control!
+				Description: 这口锅已经不受控制了！
 				}
 
 			InoculationPotionBuff: {
@@ -3952,7 +3952,7 @@ Mods: {
 
 			CogwheelBuff: {
 				DisplayName: 齿轮
-				Description: They see me rollin'
+				Description: 看我车轮滚滚
 				}
 
 			Exposed: {
@@ -3967,7 +3967,7 @@ Mods: {
 
 			PhoenixStormSummonBuff: {
 				DisplayName: 凤凰风暴
-				Description: A fiery bird follows you
+				Description: 炽焰之鸟将会跟随你
 				}
 
 			RefractiveBladeBuff: {

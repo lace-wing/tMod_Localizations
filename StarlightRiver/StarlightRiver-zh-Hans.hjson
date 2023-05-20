@@ -2112,14 +2112,14 @@ Mods.StarlightRiver:
     PlexusChaliceBuff: +30% Inoculation
     RadculasRapierCooldown: The rapier's energy seems deminished
     MoonfuryDebuff: Next Moonfury hit has increased damage
-    AuroraThroneMountMinionDebuff: 增加你造成的伤害
+    AuroraThroneMountMinionDebuff: You take increased damage
     UrnFreeze: 这口锅已经不受控制了！
     InoculationPotionBuff: +30% Inoculation
     NoShieldPot: Cannot consume more barrier potions
     ShieldDegenReduction: Barrier sticks to you better
-    CogwheelBuff: They see me rollin'
+    CogwheelBuff: 看我车轮滚滚
     Exposed: Taking extra damage!
-    PhoenixStormSummonBuff: A fiery bird follows you
+    PhoenixStormSummonBuff: 炽焰之鸟将会跟随你
     RefractiveBladeBuff: Taking additional melee damage!
     SwelteredDeBuff: 受到的伤害增加35%
     Fogbinded: Bound to the fogbinder
