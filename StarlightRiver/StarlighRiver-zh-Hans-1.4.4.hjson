@@ -1,0 +1,4732 @@
+Mods: # MapEntry entries may need to be manually populated
+{
+  Starlightriver:
+  {
+    Items:
+    {
+      TestWhip:
+      {
+        DisplayName: "[PH]测试用鞭"
+        Tooltip:
+          '''
+          [PH]Whip Infusion
+          无效果
+          '''
+      }
+      TestWhipImprint:
+      {
+        DisplayName: "[PH]测试用鞭"
+        Tooltip: 无效果
+      }
+      Astral:
+      {
+        DisplayName: 彗星冲刺I
+        Tooltip:
+          '''
+          禁忌之风灌注
+          冲刺的距离更远且保留较多速度
+          耐力消耗乘以1.3倍
+          '''
+      }
+      Astral2:
+      {
+        DisplayName: 彗星冲刺II
+        Tooltip:
+          '''
+          禁忌之风灌注
+          冲刺的距离更远且保留更多速度
+          耐力消耗乘以1.6倍
+          '''
+      }
+      Astral3:
+      {
+        DisplayName: 彗星冲刺III
+        Tooltip:
+          '''
+          禁忌之风灌注
+          冲刺的距离更远且保留最多速度
+          耐力消耗乘以2倍
+          '''
+      }
+      AstralImprint:
+      {
+        DisplayName: 彗星冲刺
+        Tooltip: 冲刺的距离更远且保留更多速度
+      }
+      Blink:
+      {
+        DisplayName: 闪现
+        Tooltip:
+          '''
+          禁忌之风灌注
+          立即传送到前方一小段距离，闪避敌人及其攻击
+          '''
+      }
+      BlinkImprint:
+      {
+        DisplayName: 闪现
+        Tooltip: 立即传送到前方一小段距离，闪避敌人及其攻击
+      }
+      Pulse:
+      {
+        DisplayName: 脉冲
+        Tooltip:
+          '''
+          禁忌之风灌注
+          冲刺会被一种短暂、频繁且强力的速度爆发替代
+          减少0.25耐力消耗
+          '''
+      }
+      PulseImprint:
+      {
+        DisplayName: 脉冲
+        Tooltip: 冲刺会被一种短暂、频繁且强力的速度爆发替代
+      }
+      BasicInfusion:
+      {
+        DisplayName: 空白石板
+        Tooltip:
+          '''
+          La Tabula Rasa
+          可以在灌注站刻印挑战
+          完成挑战后会转化为灌注
+          随着进度的推荐，你可以使用新的灌注
+          '''
+      }
+      CauldronItem:
+      {
+        DisplayName: 坩埚
+        Tooltip: 炼金锅
+      }
+      MixingStick:
+      {
+        DisplayName: 搅拌棒
+        Tooltip:
+          '''
+          搅拌棒
+          用这个来完成炼金配方并制作它们。
+          '''
+      }
+      BaseBarrierDye:
+      {
+        DisplayName: 基础屏障染料
+      }
+      MoonstoneBarrierDye:
+      {
+        DisplayName: 月长石染剂
+        Tooltip:
+          '''
+          使屏障能够反射月光
+          可装备
+          装饰性物品
+          '''
+      }
+      VitricBossBarrierDye:
+      {
+        DisplayName: 哨卫染剂
+        Tooltip:
+          '''
+          使屏障能够模仿Shattered Sentinel的护盾效果
+          可装备
+          装饰性物品
+          '''
+      }
+      SeaglassRing:
+      {
+        DisplayName: 海玻璃指环
+        Tooltip:
+          '''
+          +10点屏障
+          小幅度增加屏障开始再生的速度
+          'The battering waves have not diminished its shine'
+          '''
+      }
+      BreachCannon:
+      {
+        DisplayName: 破坏者加农炮
+        Tooltip:
+          '''
+          召唤一个会向你光标位置发射激光的哨兵
+          这些激光可以互相融合
+          '''
+      }
+      BreacherChest:
+      {
+        DisplayName: 破坏者胸甲
+        Tooltip: 增加10%远程伤害
+      }
+      BreacherHead:
+      {
+        DisplayName: 破坏者面甲
+        Tooltip: 增加15%远程暴击伤害
+      }
+      BreacherLegs:
+      {
+        DisplayName: 破坏者护胫
+        Tooltip: 基于速度增加远程暴击率，至多增加20%远程暴击率
+      }
+      FlareBreacher:
+      {
+        DisplayName: 耀斑破坏者
+        Tooltip: 发射会嵌入敌人体内的爆破照明弹，爆炸成的弹片会穿透并冲击敌人的身后
+      }
+      ReactivePlating:
+      {
+        DisplayName: 反应镀层
+        Tooltip:
+          '''
+          在多次受击后获得短暂的伤害抗性
+          'The shielding activates, but only after... repeated triggers.'
+          '''
+      }
+      ScrappodItem:
+      {
+        DisplayName: 破片弹
+        Tooltip:
+          '''
+          到达光标位置时碎裂成弹片
+          无法在射击时立刻碎裂
+          '''
+      }
+      Scrapshot:
+      {
+        DisplayName: 锈迹霰弹枪
+        Tooltip:
+          '''
+          右键钩住你的敌人并拉进距离
+          钩住敌人时射击会减少扩散并向后回退
+          '''
+      }
+      SupplyBeacon:
+      {
+        DisplayName: 补给信标
+        Tooltip:
+          '''
+          受到超过50点伤害时会召唤空降补给
+          站在补给点附近会获得伤害、再生或防御加成
+          10秒冷却时间
+          '''
+      }
+      Ivy:
+      {
+        DisplayName: 常青藤
+        Tooltip: 一种常见但有着多种用途的草药
+      }
+      IvySeeds:
+      {
+        DisplayName: 常青藤种子
+        Tooltip: 可以种植在吊挂盆中
+      }
+      PotionForest:
+      {
+        DisplayName: 森林补剂
+        Tooltip: 提供生命再生并使你免疫中毒减益
+      }
+      ArchaeologistsWhip:
+      {
+        DisplayName: 考古学家的鞭子
+        Tooltip:
+          '''
+          打击敌人会使其掉落宝藏
+          收集宝藏会强化召唤物
+          '''
+      }
+      AWhip_BlueGem:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AWhip_Cloud:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AWhip_Coin:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AWhip_GreenGem:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AWhip_Necklace:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AWhip_RedGem:
+      {
+        DisplayName: 宝藏
+        Tooltip: You shouldn't see this
+      }
+      AztecDeathSaxophone:
+      {
+        DisplayName: 阿兹台克死亡萨克斯
+        Tooltip:
+          '''
+          受到伤害或击杀敌人时会为萨克斯充能
+          充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
+          '''
+      }
+      DesertArtifact1Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact2Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact3Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact4Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact5Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact6Item:
+      {
+        DisplayName: 远古化石
+      }
+      DesertArtifact7Item:
+      {
+        DisplayName: 远古化石
+      }
+      ExoticGeodeArtifactItem:
+      {
+        DisplayName: 奇异晶洞
+        Tooltip: "'极其闪亮'"
+      }
+      PerfectlyGenericArtifactItem:
+      {
+        DisplayName: 完美通用物品
+        Tooltip: 召唤一个完美通用的宠物
+      }
+      PirateChestArtifactItem:
+      {
+        DisplayName: 海盗箱
+        Tooltip:
+          '''
+          右键打开
+          'Sought after for centuries'
+          '''
+      }
+      RainTotemArtifactItem:
+      {
+        DisplayName: 暴雨图腾
+        Tooltip: 唤起或终止一场暴雨
+      }
+      WindTotemArtifactItem:
+      {
+        DisplayName: 烈风图腾
+        Tooltip: 唤起或终止一场大风
+      }
+      DebugModerEnabler:
+      {
+        DisplayName: 调试模式
+        Tooltip: 启用调试模式
+      }
+      DebugStick:
+      {
+        DisplayName: 调试棒
+        Tooltip: 具有需要的任何效果
+      }
+      DefiledAnkh:
+      {
+        DisplayName: 亵渎十字章
+        Tooltip:
+          '''
+          诅咒：你的屏障拥有25%伤害减免
+          当屏障存在时，除了药水、屏障和魔力疾病外，你无法获得任何减益
+          +40点屏障
+          '''
+      }
+      AquaSapphire:
+      {
+        DisplayName: 水蓝宝石
+        Tooltip:
+          '''
+          屏障会抵消5%额外伤害
+          +10点屏障
+          '''
+      }
+      Cloudstrike:
+      {
+        DisplayName: 云霄破击 # 命运2 Destiny 2 Cloudstrike Exotic Sniper Rifle
+        Tooltip:
+          '''
+          不攻击时积蓄电能
+          下次射击的伤害和距离会随着电能的积蓄而增加
+          'Meet this storm of sound and fury, till thunder-clashes fade to silence'
+          '''
+      }
+      InertStaff:
+      {
+        DisplayName: 失效的新月法杖
+        Tooltip: ‘This broken artifact still holds some latent astral energy’
+      }
+      SkullBuster:
+      {
+        DisplayName: 颅骨破坏者
+        Tooltip:
+          '''
+          右键扔出四个烟雾弹
+          松开右键会在短时间内快速向烟雾弹射击
+          '''
+      }
+      StarlightPendant:
+      {
+        DisplayName: 星光吊坠
+        Tooltip:
+          '''
+          每点屏障增加1%魔力再生速度
+          在过去5秒内每消耗4点魔力值都会增加1%屏障再生速度
+          -10点屏障
+          '''
+      }
+      ThousandthDegree:
+      {
+        DisplayName: 千度
+        Tooltip:
+          '''
+          融化被接触的敌人并加热
+          松开以发射炽热火轮，在返回前会融化被接触的敌人并在物块上滑动
+          'Rip and tear'
+          '''
+      }
+      Eraser:
+      {
+        DisplayName: 抹除器
+        Tooltip: Death
+      }
+      ReplicantCells:
+      {
+        DisplayName: 复制细胞
+        Tooltip:
+          '''
+          +15%持续伤害抗性
+          小幅度增加生命开始再生的速度
+          '''
+      }
+      ExampleCombatMountItem:
+      {
+        DisplayName: 示例战斗宠物
+      }
+      BlackPepper:
+      {
+        DisplayName: 黑胡椒
+        Tooltip: "\n\n"
+      }
+      Butter:
+      {
+        DisplayName: 黄油
+        Tooltip: "\n\n"
+      }
+      Carrot:
+      {
+        DisplayName: 胡萝卜
+        Tooltip: "\n\n"
+      }
+      Cherry:
+      {
+        DisplayName: 樱桃
+        Tooltip: "\n\n"
+      }
+      Dough:
+      {
+        DisplayName: 面团
+        Tooltip: "\n\n"
+      }
+      Dressing:
+      {
+        DisplayName: 调料
+        Tooltip: "\n\n"
+      }
+      EaterSteak:
+      {
+        DisplayName: 吞噬怪肉排
+        Tooltip: "\n\n"
+      }
+      FaceSteak:
+      {
+        DisplayName: 脸怪肉排
+        Tooltip: "\n\n"
+      }
+      Gelatine:
+      {
+        DisplayName: 明胶
+        Tooltip: "\n\n"
+      }
+      GelBerry:
+      {
+        DisplayName: 胶梅
+        Tooltip: "\n\n"
+      }
+      Greens:
+      {
+        DisplayName: 绿色蔬菜
+        Tooltip: "\n\n"
+      }
+      HealthExtract:
+      {
+        DisplayName: 生命精华
+        Tooltip: "\n\n"
+      }
+      HoneySyrup:
+      {
+        DisplayName: 蜂蜜糖浆
+        Tooltip: "\n\n"
+      }
+      IvySalad:
+      {
+        DisplayName: 常青藤沙拉
+        Tooltip: "\n\n"
+      }
+      Lettuce:
+      {
+        DisplayName: 生菜
+        Tooltip: "\n\n"
+      }
+      MahoganyRoot:
+      {
+        DisplayName: 红木根
+        Tooltip: "\n\n"
+      }
+      ManaExtract:
+      {
+        DisplayName: 魔力精华
+        Tooltip: "\n\n"
+      }
+      Meal:
+      {
+        DisplayName: 大餐
+        Tooltip: 丰富的食物提供了下列增益：
+      }
+      Milk:
+      {
+        DisplayName: 牛奶
+        Tooltip: "\n\n"
+      }
+      Rabbit:
+      {
+        DisplayName: 兔肉
+        Tooltip: "\n\n"
+      }
+      SeaSalt:
+      {
+        DisplayName: 海盐
+        Tooltip: "\n\n"
+      }
+      Slimejelly:
+      {
+        DisplayName: 史莱姆果冻
+        Tooltip: "\n\n"
+      }
+      SupportCookies:
+      {
+        DisplayName: 疗愈曲奇
+        Tooltip: "\n\n"
+      }
+      StarlightWater:
+      {
+        DisplayName: 星光之水
+        Tooltip: "\n\n"
+      }
+      Steak:
+      {
+        DisplayName: 生牛排
+        Tooltip: "\n\n"
+      }
+      Sugar:
+      {
+        DisplayName: 糖
+        Tooltip: "\n\n"
+      }
+      TableSalt:
+      {
+        DisplayName: 食盐
+        Tooltip: "\n\n"
+      }
+      Toast:
+      {
+        DisplayName: 吐司
+        Tooltip: "\n\n"
+      }
+      Vinegar:
+      {
+        DisplayName: 醋
+        Tooltip: "\n\n"
+      }
+      WhippedCream:
+      {
+        DisplayName: 掼奶油
+        Tooltip: "\n\n"
+      }
+      AcornSprout:
+      {
+        DisplayName: 橡子芽
+        Tooltip: 击杀具有召唤标记的敌人会召唤橡子落在附近敌人的头上
+      }
+      DustyAmulet:
+      {
+        DisplayName: 蒙尘护符
+        Tooltip:
+          '''
+          +20点最大生命值
+          +20点最大魔力值
+          暴击率乘以0.8
+          'An old heirloom with an inscription lost to time'
+          '''
+      }
+      FeralWolfMountItem:
+      {
+        DisplayName: 多汁牛排
+        Tooltip:
+          '''
+          召唤一只野狼战斗坐骑
+          用强力的撕咬造成流血减益
+          右键嚎叫并强化召唤物的速度
+          '''
+      }
+      OldWhetstone:
+      {
+        DisplayName: 老旧的磨刀石
+        Tooltip:
+          '''
+          +1点伤害
+          'Why in tarnation are you sharpening your wand?!'
+          '''
+      }
+      Trowel:
+      {
+        DisplayName: 砖瓦匠的抹刀
+        Tooltip:
+          '''
+          在一条直线上延伸物块
+          方向基于你光标的方向
+          长按SHIFT键翻转方向
+          30格物块距离
+          '''
+      }
+      Trowel2:
+      {
+        DisplayName: 自动抹灰器 9000
+        Tooltip:
+          '''
+          在一条直线上以极快的速度延伸物块
+          方向基于你光标的方向
+          长按SHIFT键翻转方向
+          40格物块距离
+          'The perfect tool for every esteemed bridgebuilder!'
+          '''
+      }
+      ForestIvyBlowdart:
+      {
+        DisplayName: 常青藤吹管
+        Tooltip: 击中敌人时会在其身上逐渐长出藤蔓，造成接触伤害并传播附近的敌人
+      }
+      ForestIvyChest:
+      {
+        DisplayName: 常青藤胸甲
+        Tooltip: 增加2%远程暴击率
+      }
+      ForestIvyHead:
+      {
+        DisplayName: 常青藤头盔
+        Tooltip: 增加2%远程暴击率
+      }
+      ForestIvyLegs:
+      {
+        DisplayName: 常青藤护胫
+        Tooltip: 小幅度增加移动速度
+      }
+      EmeraldHeart:
+      {
+        DisplayName: 绿宝石之心
+        Tooltip: You shouldn't see this
+      }
+      GeoAmethyst:
+      {
+        DisplayName: 紫水晶
+        Tooltip: You shouldn't see this
+      }
+      GeoDiamond:
+      {
+        DisplayName: 钻石
+        Tooltip: You shouldn't see this
+      }
+      GeoEmerald:
+      {
+        DisplayName: 绿宝石
+        Tooltip: You shouldn't see this
+      }
+      GeomancerHood:
+      {
+        DisplayName: 地卜师的兜帽
+      }
+      GeomancerItemDummy:
+      {
+        DisplayName: 不同宝石的效果：
+        Tooltip:
+          '''
+          钻石：暴击无视部分防御，基于敌人已损失的生命值增加暴击率
+          黄玉：+100点屏障。获得一个指向你光标方向的护盾，消耗屏障来抵挡伤害
+          翡翠：立即回复20点生命值。击中敌人时有几率生成一个回复5点生命值的心
+          蓝宝石：立即补充魔力值。击中敌人时有几率生成一到三个魔力星
+          紫晶：使用攻击都会造成可叠加的剧毒紫晶减益
+          红玉：击中敌人时有几率召唤一个搜寻敌人的红玉匕首，造成20%伤害
+          '''
+      }
+      GeomancerPants:
+      {
+        DisplayName: 地卜师的护胫
+      }
+      GeomancerRobe:
+      {
+        DisplayName: 地卜师的斗篷
+      }
+      GeoRuby:
+      {
+        DisplayName: 红宝石
+        Tooltip: You shouldn't see this
+      }
+      GeoSapphire:
+      {
+        DisplayName: 蓝宝石
+        Tooltip: You shouldn't see this
+      }
+      GeoTopaz:
+      {
+        DisplayName: 黄水晶
+        Tooltip: You shouldn't see this
+      }
+      RainbowCycleDye:
+      {
+        DisplayName: 彩轮染料
+      }
+      RainbowCycleDye2:
+      {
+        DisplayName: 彩轮染料2
+      }
+      SapphireStar:
+      {
+        DisplayName: 蓝宝石星星
+        Tooltip: You shouldn't see this
+      }
+      SparklingBullet:
+      {
+        DisplayName: 闪耀弹
+        Tooltip: 成功击中敌人时会再次获得该弹药
+      }
+      BloodBolter:
+      {
+        DisplayName: 血爆
+        Tooltip:
+          '''
+          将木箭转化为血矢
+          血矢会刺穿被击杀的敌人的血肉，并在接触到表面时爆炸
+          '''
+      }
+      Gluttony:
+      {
+        DisplayName: 暴食
+        Tooltip: 吸取你敌人的灵魂！
+      }
+      GravediggerItem:
+      {
+        DisplayName: 坟墓粉碎者
+        Tooltip:
+          '''
+          将敌人挑向空中
+          击中空中的敌人会造成更多的伤害
+          '''
+      }
+      LivingBlood:
+      {
+        DisplayName: 不死之血
+      }
+      PoltergeistChest:
+      {
+        DisplayName: 作祟胸甲
+        Tooltip:
+          '''
+          增加5%魔法伤害
+          +15% Inoculation
+          '''
+      }
+      PoltergeistHead:
+      {
+        DisplayName: 作祟兜帽
+        Tooltip: 增加15%魔法暴击伤害
+      }
+      PoltergeistLegs:
+      {
+        DisplayName: 作祟袍靴
+        Tooltip: +40点最大魔力值
+      }
+      CharonsObol:
+      {
+        DisplayName: 卡戎的银币
+        Tooltip:
+          '''
+          将附近掉落的金钱转化为反射钱币，命中钱币的弹幕会被反弹
+          钱币会在接触任何表面时失去效果
+          'Money is the root of all evil'
+          '''
+      }
+      GrayGoo:
+      {
+        DisplayName: 灰色粘质
+        Tooltip: 召唤纳米机器群吞噬你的敌人
+      }
+      ThunderBeads:
+      {
+        DisplayName: 磁珠电鞭 #原“电鞭磁珠”
+        Tooltip:
+          '''
+          鞭打敌人会把珠子粘在敌人身上
+          反复电击以电击被粘住的敌人
+          '''
+      }
+      Thunderbuss:
+      {
+        DisplayName: 雷筒
+        Tooltip:
+          '''
+          在锥形范围发射强大的闪电
+          右键发射一个闪电球
+          箱球体射击会电击附近的所有敌人
+          球体会在碰撞时爆炸，同时至多存在一个球体
+          'Crush the path of most resistance'
+          '''
+      }
+      AlchemistShackles:
+      {
+        DisplayName: 炼金术士的镣铐
+        Tooltip:
+          '''
+          当你的魔力值和生命值较低时，魔力和生命药水会更加有效
+          诅咒：延长15秒药水疾病减益的时间
+          '''
+      }
+      ArchaeologistsMap:
+      {
+        DisplayName: 考古学家的地图
+        Tooltip: 揭露附近古物的位置
+      }
+      BalloonGun:
+      {
+        DisplayName: 气球枪
+        Tooltip: 将气球绑在敌人身上，使其飘走
+      }
+      BalloonInABalloon:
+      {
+        DisplayName: 套娃气球
+        Tooltip:
+          '''
+          增加跳跃高度
+          增加空中机动性
+          长按上键缓降
+          '''
+      }
+      BarbedKnife:
+      {
+        DisplayName: 带刺血刃
+        Tooltip: 暴击时会造成流血减益，可叠加至多5次
+      }
+      BizarrePotion:
+      {
+        DisplayName: 奇异药水
+        Tooltip: 投掷具有随机效果的随机药水
+      }
+      Bladesaw:
+      {
+        DisplayName: 刃锯
+        Tooltip:
+          '''
+          粉碎敌人
+          反复击中敌人会将其撕裂并过热电锯，过热会增加伤害
+          右键当做工具使用
+          '''
+      }
+      BloodAmulet:
+      {
+        DisplayName: 鲜血护符
+        Tooltip:
+          '''
+          每受到25点伤害便会释放一个追踪血矢
+          血矢会伤害敌人并且使它们在死亡时必定掉落红心
+          '''
+      }
+      BloodlessAmulet:
+      {
+        DisplayName: 无血战士的护符
+        Tooltip:
+          '''
+          +100点屏障
+          不再受到持续伤害的英雄
+          屏障会吸收所有伤害
+          你可以在没有生命值的情况下存活
+          诅咒：你无法拥有生命值
+          大幅度降低屏障再生速度
+          治疗会使你获得一个持续衰减的伤害加成，而非回复生命值
+          'Leave your flesh behind, for your rage is all you need'
+          '''
+      }
+      BricklayersMallet:
+      {
+        DisplayName: 砖瓦匠的槌子
+        Tooltip:
+          '''
+          翻倍物块放置距离和工具距离
+          挖掘超过原先距离的物块时降低50%挖掘速度
+          '''
+      }
+      BrokenGlasses:
+      {
+        DisplayName: Broken Glasses
+        Tooltip: 持续伤害效果能够造成暴击
+      }
+      BuffChalice:
+      {
+        DisplayName: 强化圣杯
+        Tooltip: 造成减益时会短暂增加减益抗性
+      }
+      CasualMirror:
+      {
+        DisplayName: 因果镜
+        Tooltip:
+          '''
+          受到持续伤害时再生生命
+          诅咒：再生生命时受到持续伤害
+          这包括自然的生命再生
+          '''
+      }
+      Cheapskates:
+      {
+        DisplayName: 廉价溜冰鞋
+        Tooltip:
+          '''
+          奔跑速度翻倍
+          当速度超过默认速度时会受到25%额外伤害
+          当速度超过默认速度时会降低75%加速度
+          '''
+      }
+      CoachGun:
+      {
+        DisplayName: 护骑霰弹枪
+        Tooltip:
+          '''
+          右键扔出一捆被引燃的炸药
+          炸药会在2.5秒后爆炸，造成持续伤害并削弱敌人
+          射击炸药可提前将其引爆
+          'My business, my rules'
+          '''
+      }
+      CopperCoil:
+      {
+        DisplayName: 铜质线圈
+        Tooltip: 用静电打击附近的敌人
+      }
+      Corpseflower:
+      {
+        DisplayName: 尸花
+        Tooltip:
+          '''
+          造成的伤害会转化为持续的伤害
+          降低66%伤害
+          装备后无法再造成暴击
+          '''
+      }
+      CoughDrops:
+      {
+        DisplayName: 止咳糖
+        Tooltip: 当减益消失时，使你获得临时的移动速度和伤害加成
+      }
+      CutlassBus:
+      {
+        DisplayName: 弯刀之魂
+        Tooltip: egshels update this lol
+      }
+      DiceAmmo:
+      {
+        DisplayName: 骰子
+        Tooltip: 每次射击都是随机的
+      }
+      DisinfectantKit:
+      {
+        DisplayName: 消毒试剂箱
+        Tooltip:
+          '''
+          Disinfectant Wipes和Sanitizer Spray的组合效果
+          当至少拥有一种减益时增加10%伤害
+          '''
+      }
+      DisinfectantWipes:
+      {
+        DisplayName: 消毒湿巾
+        Tooltip:
+          '''
+          暴击时有10%几率缩短3秒所有减益的持续时间
+          药水疾病减益不会受到影响
+          '''
+      }
+      DualCross:
+      {
+        DisplayName: 双发十字弩
+        Tooltip: 同时发射你背包中位置较高的两种子弹
+      }
+      DullBlade:
+      {
+        DisplayName: 钝刃
+        Tooltip: 看起来不是很锋利...但是嘛...
+      }
+      ElectroArrow:
+      {
+        DisplayName: 电弧箭
+        Tooltip:
+          '''
+          链锁附近的敌人
+          会造成过充减益，大幅度降低敌人的移动速度
+          '''
+      }
+      FiletGiblet1:
+      {
+        DisplayName: 内脏
+        Tooltip: 你不应该看到这个
+      }
+      FiletGiblet2:
+      {
+        DisplayName: 内脏
+        Tooltip: 你不应该看到这个
+      }
+      FiletGiblet3:
+      {
+        DisplayName: 内脏
+        Tooltip: 你不应该看到这个
+      }
+      FiletKnife:
+      {
+        DisplayName: 剔骨刀
+        Tooltip:
+          '''
+          暴击时会从敌人身上切下肉块
+          吞食肉块会获得治疗和Blood Frenzy增益
+          Blood Frenzy会增加攻击速度但会降低暴击率
+          '''
+      }
+      FryingPan:
+      {
+        DisplayName: 煎锅
+        Tooltip:
+          '''
+          在投掷前近距离攻击敌人会用煎锅重重敲打敌人的头部
+          'Evil-looking runes are inscribed on the bottom'
+          '''
+      }
+      GeodeBow:
+      {
+        DisplayName: 晶洞弓
+        Tooltip:
+          '''
+          击中敌人时会在其身上长出晶体
+          向晶体射击会造成大量伤害
+          '''
+      }
+      GlassArrowhead:
+      {
+        DisplayName: 玻璃箭头
+        Tooltip: 暴击时会使箭矢破碎成琉璃碎片
+      }
+      GraveBuster:
+      {
+        DisplayName: 坟墓破坏者
+        Tooltip:
+          '''
+          摧毁附近的墓碑
+          'You like the taste of brains, we don't like zombies'
+          '''
+      }
+      Guillotine:
+      {
+        DisplayName: 黄金断头台
+        Tooltip:
+          '''
+          基于敌人已损失的生命值使你的暴击获得力量
+          普通敌人在生命值较低时会被处决
+          '''
+      }
+      Gunchucks:
+      {
+        DisplayName: 双截猎枪
+      }
+      GunstrapBoots:
+      {
+        DisplayName: 绑着枪的靴子
+        Tooltip:
+          '''
+          进行二段跳时会向下方发射子弹
+          使用翅膀飞行时将持续发射子弹
+          '''
+      }
+      HermesVow:
+      {
+        DisplayName: 赫尔墨斯誓约
+        Tooltip:
+          '''
+          诅咒
+          大幅度增加移动速度和加速度
+          增加跳跃高度和奔跑速度
+          你无法再使用翅膀
+          '''
+      }
+      HolyAmulet:
+      {
+        DisplayName: 神圣护身符
+        Tooltip: 每回复25点生命值便会释放一次追踪的爆破能量
+      }
+      HungryStomach:
+      {
+        DisplayName: 辘辘饥肠
+        Tooltip:
+          '''
+          通过伤害敌人来恢复耐力
+          近战武器的会使上述效果翻倍
+          诅咒：禁用自然的耐力再生
+          '''
+      }
+      ImpactSMG:
+      {
+        DisplayName: 冲撞冲锋枪
+        Tooltip:
+          '''
+          长按左键快速发射高速冲击弹，随时间流逝加热
+          松开以将枪械以回旋镖方式投掷
+          在未过热时投掷并击中敌人会使你获得可叠加的增益，增加冲撞冲锋枪的伤害
+          在过热时投掷并击中敌人会消耗所有的增益层数，并产生致命爆炸
+          '''
+      }
+      ImpulseThruster:
+      {
+        DisplayName: 脉冲推进器
+        Tooltip: 将所有的飞行时间转化为能量爆发
+      }
+      Ironheart:
+      {
+        DisplayName: 钢铁之心
+        Tooltip: 近战伤害会使你获得衰减的屏障和防御
+      }
+      LostCollar:
+      {
+        DisplayName: 遗失的颈圈
+        Tooltip:
+          '''
+          +40% Inoculation
+          你会获得你对敌人造成的减益
+          你每获得一个减益，都会增加5%的移动速度和攻击速度
+          诅咒：失去所有减益免疫效果
+          '''
+      }
+      Magebane:
+      {
+        DisplayName: 法师克星
+        Tooltip:
+          '''
+          无法使用补充魔力的物品
+          魔法攻击击中敌人时有25%几率使你回复部分等同于此次伤害量的魔力值
+          '''
+      }
+      MagmaGun:
+      {
+        DisplayName: 熔屑喷流
+        Tooltip: 喷射一股熔岩急流，会粘在物块和敌人身上
+      }
+      MonkSpade:
+      {
+        DisplayName: 武僧月牙铲
+      }
+      PandorasDagger:
+      {
+        DisplayName: 潘多拉短剑
+        Tooltip: 擦弹时会释放能够造成可叠加的Volatile减益的失谐弹幕
+      }
+      PandorasShield:
+      {
+        DisplayName: 潘多拉护盾
+        Tooltip: 擦弹时会使你获得部分等同于弹幕伤害量的屏障
+      }
+      PhilosophersMortar:
+      {
+        DisplayName: 哲学家的研钵
+        Tooltip: 拾取红心会缩短10秒药水疾病的持续时间，但治疗量同样会减半
+      }
+      PowerCell:
+      {
+        DisplayName: 电池
+        Tooltip: NaN
+      }
+      PulseBoots:
+      {
+        DisplayName: 脉冲靴
+        Tooltip: 使你获得方向固定的二段跳
+      }
+      RadculasRapier:
+      {
+        DisplayName: 拉德库拉的长剑
+        Tooltip:
+          '''
+          快速戳刺敌人，造成致命的流血效果
+          右键传送至光标位置，斩击在路径上的所有东西
+          基于击中敌人时流血的效力增加伤害并治疗玩家
+          你在传送时斩击的敌人越多，冷却时间越短
+          '''
+      }
+      RhythmicResonator:
+      {
+        DisplayName: 节律共振器
+        Tooltip:
+          '''
+          用你的武器有节奏的攻击会逐渐增加伤害和击退
+          禁用自动使用
+          '''
+      }
+      Sandscript:
+      {
+        DisplayName: 沙痕
+        Tooltip:
+          '''
+          挥洒刃形沙
+          `This lost tablet contains a fragment of the Epic of Yeremy
+          ...The writing is sorta ameteurish for an ancient relic`
+          '''
+      }
+      SanitizerSpray:
+      {
+        DisplayName: 消毒喷雾
+        Tooltip: 暴击时有25%几率转移部分在持续时间内的减益至附近的敌人身上
+      }
+      ShockAbsorber:
+      {
+        DisplayName: 减震器
+        Tooltip:
+          '''
+          从高处坠落时会产生冲击波
+          无效化摔落伤害
+          '''
+      }
+      Sling:
+      {
+        DisplayName: 弹弓
+        Tooltip:
+          '''
+          向敌人发射种子、石块和蘑菇
+          种子的速度更快
+          石块的速度更慢但会造成更多的伤害和击退
+          蘑菇会造成更少的伤害，但会造成中毒减益
+          75%几率不消耗弹药
+          '''
+      }
+      Slitherring:
+      {
+        DisplayName: 蛇鞭
+        Tooltip: 鞭子有几率打出较小的蛇鞭
+      }
+      Soilgun:
+      {
+        DisplayName: 土块枪
+        Tooltip:
+          '''
+          长按左键充能并发射一排土块
+          释放高速土块
+          可使用不同种类的土块
+          'Soiled it! SOILED IT!'
+          '''
+      }
+      SojournersScarf:
+      {
+        DisplayName: 旅居者的围巾 #原“旅居者围脖”
+        Tooltip:
+          '''
+          增加20%移动速度
+          站定不动时降低50%生命再生速度
+          '''
+      }
+      Sorcerwrench:
+      {
+        DisplayName: 巫师扳手
+        Tooltip:
+          '''
+          选择要破坏的物块的范围
+          每个被破坏的物块都会消耗2点魔力值
+          '''
+      }
+      SoulOfFrog:
+      {
+        DisplayName: 青蛙之魂
+        Tooltip:
+          '''
+          青蛙会在死亡时复活，每次复活时都会更加强大。
+          击杀其他动物时有几率揭露它们其实一直是青蛙
+          然后，它们会像青蛙一样复活，因为它们一直是青蛙
+          '''
+      }
+      SpikedMail:
+      {
+        DisplayName: 尖刺锁甲
+        Tooltip:
+          '''
+          屏障受到伤害时会反弹给攻击者
+          +20点屏障
+          '''
+      }
+      StaminaGel:
+      {
+        DisplayName: 耐力凝胶
+      }
+      StaminaPickup:
+      {
+        DisplayName: 耐力掉落物
+      }
+      StaminaRing:
+      {
+        DisplayName: 耐力腰带
+        Tooltip: 缓慢的再生耐力
+      }
+      StaminaUp:
+      {
+        DisplayName: 琉璃耐力容器
+        Tooltip: 增加1点最大耐力
+      }
+      StarlightShuriken:
+      {
+        DisplayName: 星光手里剑
+        Tooltip:
+          '''
+          投掷一排魔法手里剑
+          每命中一次，投掷数量减少1
+          手里剑数量只剩1时会掷出一个强大的利刃
+          '''
+      }
+      SwordBook:
+      {
+        DisplayName: 螳螂格斗术
+        Tooltip:
+          '''
+          允许阔剑进行连斩
+          右键用阔剑进行格挡
+          '''
+      }
+      TaintedGreataxe:
+      {
+        DisplayName: 被玷污的战斧
+        Tooltip:
+          '''
+          诅咒
+          召唤一柄以太巨斧，巨斧会嵌入最近被暴击的敌人身上
+          被巨斧嵌入的敌人会被聚焦
+          <right>被嵌入的敌人会使巨斧取消嵌入
+          '''
+      }
+      TinCoil:
+      {
+        DisplayName: 锡质线圈
+        Tooltip: 用静电打击附近的敌人
+      }
+      TwistSword:
+      {
+        DisplayName: 环旋重剑
+        Tooltip:
+          '''
+          长按释放回旋斩
+          释放回旋斩时长按跳跃键会向上加速
+          '''
+      }
+      Ultrapills:
+      {
+        DisplayName: ULTRAPILLS
+        Tooltip:
+          '''
+          诅咒：你无法通过正常方式再生生命值
+          打击敌人时会偶尔汲血
+          击杀敌人时会爆发出治疗之血
+          '''
+      }
+      WardedMail:
+      {
+        DisplayName: 格挡锁甲
+        Tooltip:
+          '''
+          屏障受到伤害时会反弹给攻击者
+          屏障会抵消10%额外伤害
+          +40点屏障
+          '''
+      }
+      CrescentQuarterstaff:
+      {
+        DisplayName: 新月四分杖
+        Tooltip: Update this egshels
+      }
+      Datsuzei:
+      {
+        DisplayName: 大津贅沢
+        Tooltip: 释放月亮
+      }
+      DianesPendant:
+      {
+        DisplayName: 狄阿娜的吊坠
+        Tooltip:
+          '''
+          某些关于新月的事，我不道
+          +20点屏障
+          '''
+      }
+      Moonfury:
+      {
+        DisplayName: 月怒
+        Tooltip:
+          '''
+          召唤月长石碎片从天而降，用Dreamfire折磨敌人
+          被Dreamfire折磨的敌人会受到来自月怒的额外伤害
+          '''
+      }
+      MoonstoneArrow:
+      {
+        DisplayName: 月耀箭
+        Tooltip: 随移动距离获得速度和力量
+      }
+      MoonstoneBarItem:
+      {
+        DisplayName: 月长石锭
+        Tooltip: "'闪耀着美丽的光芒'"
+      }
+      MoonstoneChest:
+      {
+        DisplayName: 月长石胸甲
+        Tooltip: +35点屏障
+      }
+      MoonstoneHamaxe:
+      {
+        DisplayName: 月长石锤斧
+        Tooltip: <right>充能并挥舞，能够摧毁墙壁
+      }
+      MoonstoneHead:
+      {
+        DisplayName: 月长石头盔
+        Tooltip:
+          '''
+          增加2%近战暴击率
+          +20点屏障
+          '''
+      }
+      MoonstoneLegs:
+      {
+        DisplayName: 月长石护胫
+        Tooltip:
+          '''
+          改进加速度
+          +25点屏障
+          '''
+      }
+      MoonstoneOreItem:
+      {
+        DisplayName: 月长石
+      }
+      Shaker:
+      {
+        DisplayName: 震颤者
+      }
+      PalestoneNail:
+      {
+        DisplayName: 苍白骨钉
+        Tooltip: 召唤苍白骑士
+      }
+      AuroraBell:
+      {
+        DisplayName: 极光钟
+        Tooltip:
+          '''
+          召唤一个哨兵铃铛
+          使用鞭子鞭打铃铛时会敲响铃铛
+          '''
+      }
+      AuroraThroneMountItem:
+      {
+        DisplayName: 极光王冠
+        Tooltip:
+          '''
+          召唤一只极光宝座战斗坐骑
+          发射鞭类触手抽打敌人
+          右键召唤爆破极光流
+          '''
+      }
+      BookOfFrost:
+      {
+        DisplayName: 凄冻之书
+        Tooltip: 近战暴击会造成冰寒爆破
+      }
+      Frostball:
+      {
+        DisplayName: 寒丸
+        Tooltip:
+          '''
+          打击敌人会积蓄极光之力
+          基于极光之力治疗附近的玩家
+          收回悠悠球时会基于极光之力给予你再生
+          '''
+      }
+      Octogun:
+      {
+        DisplayName: 腕足枪
+        Tooltip:
+          '''
+          将火枪子弹转化为Auroracle Ink
+          造成暴击或击杀敌人时会使触手从你的体内长出来，向你的光标方向发射弹幕
+          '''
+      }
+      OverflowingUrn:
+      {
+        DisplayName: 溢流瓮
+        Tooltip:
+          '''
+          释放寒风激流
+          长时间使用时会对你造成霜冻减益
+          '''
+      }
+      SquidBossBag:
+      {
+        DisplayName: 宝藏袋（极光之触）
+      }
+      SquidBossSpawn:
+      {
+        DisplayName: 可疑供品
+        Tooltip: Drop in prismatic waters to summon the one the Squiddites worship
+      }
+      SquidBossSpawnEndless:
+      {
+        DisplayName: 镀金可疑供品
+        Tooltip:
+          '''
+          Drop in prismatic waters to summon the one the Squiddites worship
+          无限使用
+          '''
+      }
+      SquidFins:
+      {
+        DisplayName: 鱿鱼鳍
+        Tooltip: 允许你像jellysquid一样游泳
+      }
+      TentacleHook:
+      {
+        DisplayName: 腕足钩
+        Tooltip: 移动你的鼠标以钩住周围的对象
+      }
+      Tentalance:
+      {
+        DisplayName: 五爪矛
+        Tooltip:
+          '''
+          发射闪光的触手长枪
+          可充能并一次性发射至多5支长枪
+          '''
+      }
+      WaterStaff:
+      {
+        DisplayName: 波纹法杖
+        Tooltip:
+          '''
+          放置或移除流光水  
+          左键放置
+          右键移除
+          '''
+      }
+      GreaterBarrierPotion:
+      {
+        DisplayName: 强效屏障药水
+        Tooltip:
+          '''
+          使你获得120点屏障
+          大幅度减缓过量屏障的损失速度5秒
+          '''
+      }
+      InoculationPotion:
+      {
+        DisplayName: 疫苗药水
+        Tooltip: +30% Inoculation
+      }
+      LesserBarrierPotion:
+      {
+        DisplayName: 弱效屏障药水
+        Tooltip:
+          '''
+          使你获得40点屏障
+          大幅度减缓过量barrier的损失速度4秒
+          '''
+      }
+      RegularBarrierPotion:
+      {
+        DisplayName: 屏障药水
+        Tooltip:
+          '''
+          使你获得80点屏障
+          大幅度减缓过量barrier的损失速度3秒
+          '''
+      }
+      BloodCrystal:
+      {
+        DisplayName: 血晶
+        Tooltip:
+          '''
+          你会获得你对敌人造成的减益
+          你所造成的减益的持续时间延长
+          '''
+      }
+      AquamarinePendant:
+      {
+        DisplayName: 海蓝宝石吊坠
+        Tooltip:
+          '''
+          +15点屏障
+          失去所有屏障时释放寒冰碎片
+          '''
+      }
+      MeadHorn:
+      {
+        DisplayName: 角杯蜜酒
+        Tooltip: 药水效果延长50%
+      }
+      Astroscrap:
+      {
+        DisplayName: 异星合金
+        Tooltip: ‘Alloy salvaged from the wreckage of your world’s invaders’
+      }
+      StarwoodBoomerang:
+      {
+        DisplayName: 星木回旋镖
+        Tooltip: 长按左键引导回旋镖, 使其释放爆炸
+      }
+      StarwoodBoots:
+      {
+        DisplayName: 星木护胫
+        Tooltip: 左键5%魔法暴击率
+      }
+      StarwoodCharm:
+      {
+        DisplayName: 星木护符
+        Tooltip:
+          '''
+          暴击时生成魔力星
+          -3%暴击率
+          强化后+3%暴击率
+          '''
+      }
+      StarwoodChest:
+      {
+        DisplayName: 星木长袍
+        Tooltip: 增加20点最大魔力值
+      }
+      StarwoodHat:
+      {
+        DisplayName: 星木帽
+        Tooltip: 增加5%魔法伤害
+      }
+      StarwoodSlingshot:
+      {
+        DisplayName: 星木弹弓
+        Tooltip:
+          '''
+          将坠落之星编织在一起
+          每射击50次, 消耗一次弹药
+          '''
+      }
+      StarwoodStaff:
+      {
+        DisplayName: 星木法杖
+        Tooltip:
+          '''
+          创造一些小星星
+          小星星击中敌人时会召唤一颗大星星打击敌人
+          '''
+      }
+      AncientGear:
+      {
+        DisplayName: 远古齿轮
+      }
+      Buzzsaw:
+      {
+        DisplayName: 蒸汽圆锯
+        Tooltip:
+          '''
+          打击敌人以积蓄压力
+          松开以释放压力, 并发射锯刃
+          'The right tool for the wrong job'
+          '''
+      }
+      CogAmmoItem:
+      {
+        DisplayName: 齿轮弹
+        Tooltip:
+          '''
+          可弹跳至多五次
+          命中后伤害减半
+          '''
+      }
+      Cogwheel:
+      {
+        DisplayName: 齿轮车
+        Tooltip: 召唤一个可骑乘的齿轮坐骑
+      }
+      Jetwelder:
+      {
+        DisplayName: 喷射焊机
+        Tooltip:
+          '''
+          收集伤害敌人时产生的碎片
+          右键消耗碎片并制造机器人
+          '''
+      }
+      JetwelderScrap1:
+      {
+        DisplayName: 碎片
+        Tooltip: 你不应该看到这个
+      }
+      JetwelderScrap2:
+      {
+        DisplayName: 碎片
+        Tooltip: 你不应该看到这个
+      }
+      JetwelderScrap3:
+      {
+        DisplayName: 碎片
+        Tooltip: 你不应该看到这个
+      }
+      JetwelderScrap4:
+      {
+        DisplayName: 碎片
+        Tooltip: 你不应该看到这个
+      }
+      RebarLauncher:
+      {
+        DisplayName: 钢筋发射器
+        Tooltip:
+          '''
+          刺穿敌人
+          射击钢筋会使其更加深入的刺穿敌人
+          '''
+      }
+      RuneStaff:
+      {
+        DisplayName: 远古符文法杖
+        Tooltip:
+          '''
+          长按召唤至多三个爆破符文
+          释放时会将符文向你的光标方向发射
+          持续长按会引爆符文, 并且造成的伤害会增加
+          '''
+      }
+      TempleLens:
+      {
+        DisplayName: 远古透镜
+        Tooltip:
+          '''
+          对一名敌人造成暴击时会使其周围的敌人发光
+          +3%暴击率
+          +10%暴击伤害
+          '''
+      }
+      TempleLensUpgrade:
+      {
+        DisplayName: 真视透镜
+        Tooltip:
+          '''
+          对一名被曝光的敌人造成暴击时会使其周围的敌人曝光
+          被曝光的敌人在被首次命中时会额外受到20%伤害
+          +4%暴击率
+          +10%暴击伤害
+          '''
+      }
+      TemplePick:
+      {
+        DisplayName: 旋风镐
+        Tooltip: 长按右键充能并释放十字镐冲锋
+      }
+      TempleRune:
+      {
+        DisplayName: 护佑符文
+        Tooltip: +20点屏障
+      }
+      TempleSpear:
+      {
+        DisplayName: 光点
+        Tooltip:
+          '''
+          打击敌人会使其发光
+          击杀敌人会留下明亮的光
+          '''
+      }
+      ArmorBag:
+      {
+        DisplayName: 盔甲袋
+        Tooltip:
+          '''
+          储存盔甲以快速使用
+          包含:
+          '''
+      }
+      ChefBag:
+      {
+        DisplayName: 厨师袋
+        Tooltip: 储存大量的各种原材料
+      }
+      CurseRemover:
+      {
+        DisplayName: 祛咒卷轴
+        Tooltip:
+          '''
+          放置于被装备的诅咒物品上以将其摧毁
+          'There's no turning back, most of the time'
+          '''
+      }
+      AncientStarwoodBoots:
+      {
+        DisplayName: 远古星木护胫
+      }
+      AncientStarwoodChest:
+      {
+        DisplayName: 远古星木长袍
+      }
+      AncientStarwoodHat:
+      {
+        DisplayName: 远古星木帽
+      }
+      MechaChest:
+      {
+        DisplayName: 机甲躯
+      }
+      MechaHead:
+      {
+        DisplayName: 机甲盔
+      }
+      MechaLegs:
+      {
+        DisplayName: 机甲腿
+      }
+      WardenHat:
+      {
+        DisplayName: 监守者兜帽
+        Tooltip: "[c/198E12:???]"
+      }
+      WardenRobe:
+      {
+        DisplayName: 监守者长袍
+        Tooltip: "[c/198E12:???]"
+      }
+      CoachGunUpgrade:
+      {
+        DisplayName: 熔岩护骑霰弹枪
+        Tooltip:
+          '''
+          右键投掷一颗可被连锁引爆的不稳定水晶爆弹
+          射击水晶可提前将其引爆，造成更暴力的后果
+          How does he manage to nuke like that?
+          '''
+      }
+      Coalescence:
+      {
+        DisplayName: 聚萤
+        Tooltip:
+          '''
+          充能并发射一排绚烂魔法
+          完全充能时发射的魔法会汲取魔力
+          '''
+      }
+      FacetAndLattice:
+      {
+        DisplayName: 琢面晶格
+        Tooltip:
+          '''
+          右键防卫
+          在防卫后强会化攻击
+          在合适的时机防卫会使强化更有效
+          '''
+      }
+      GlassIdol:
+      {
+        DisplayName: 琉璃圣像
+        Tooltip: Used to worship a powerful guardian.
+      }
+      GlassIdolEndless:
+      {
+        DisplayName: 镀金琉璃圣像
+        Tooltip:
+          '''
+          Used to worship a powerful guardian.
+          可无限使用
+          '''
+      }
+      IgnitionGauntlets:
+      {
+        DisplayName: 点火手套
+        Tooltip:
+          '''
+          用你的拳头快速殴打敌人并积蓄起爆充能
+          长按右键消耗充能, 松开后将你以逃逸速度向前推进
+          在飞行时攻击会消耗剩余推进时间并向前释放爆破冲击|n'Heroes always arrive from the skies'
+          '''
+      }
+      MagmaArrow:
+      {
+        DisplayName: 熔岩箭
+        Tooltip: 在飞行过程中会逐渐变凉
+      }
+      MagmaCore:
+      {
+        DisplayName: 熔岩核心
+        Tooltip: 很热的东西的样本.
+      }
+      MagmiteBomb:
+      {
+        DisplayName: 熔滴螨炸弹
+        Tooltip:
+          '''
+          一颗可爱的球变成了一个毁灭机械
+          你个怪物...
+          '''
+      }
+      MagmiteBottle:
+      {
+        DisplayName: 瓶中熔滴螨
+        Tooltip: 你为什么要对他做这个?!
+      }
+      MagmiteVacpack:
+      {
+        DisplayName: 熔滴螨加农炮
+        Tooltip:
+          '''
+          发射会粘在敌人身上的熔岩螨
+          每条粘在敌人身上的熔岩都会使其每秒受到10点伤害, 和3点召唤标记伤害, 每名敌人身上最多粘住三条熔岩螨
+          熔岩螨会在击中身上粘住三条熔岩螨的敌人时反弹并额外造成50%伤害
+          '''
+      }
+      Needler:
+      {
+        DisplayName: 热熔晶针枪
+        Tooltip:
+          '''
+          扎在敌人身上的尖刺会逐渐增加热量
+          过热的敌人会发生爆炸, 造成大量伤害
+          '''
+      }
+      PhoenixStorm:
+      {
+        DisplayName: 凤凰风暴
+        Tooltip: 召唤周期性向敌人俯冲的凤凰风暴
+      }
+      RecursiveFocus:
+      {
+        DisplayName: 递归透镜 #原“递迴透镜”
+        Tooltip:
+          '''
+          召唤一颗地狱晶体
+          地狱晶体会锁定敌人, 伤害会随着时间流逝而逐渐增加
+          <right>可使晶体同时瞄准多个敌人, 但伤害不再会随着时间流逝而逐渐增加且造成的伤害减少
+          '''
+      }
+      RefractiveBlade:
+      {
+        DisplayName: 折射尖刃
+        Tooltip:
+          '''
+          长按右键充能并释放一道激光
+          被激光击中的敌人的近战曝光增加25%
+          '''
+      }
+      SandstoneChunk:
+      {
+        DisplayName: 远古陶瓷
+      }
+      ShatteredAegis:
+      {
+        DisplayName: 破碎的神盾
+        Tooltip:
+          '''
+          受到伤害时释放燃火环
+          'Meet your foes head-on, and give them a scorching embrace'
+          '''
+      }
+      TempleEntranceKey:
+      {
+        DisplayName: 大号锻炉钥匙
+        Tooltip: Opens a door to the vitric forge.
+      }
+      TempleKey:
+      {
+        DisplayName: 小号锻炉钥匙
+        Tooltip: Opens a door inside the vitric forge.
+      }
+      VitricBossBag:
+      {
+        DisplayName: 宝藏袋（塞洛斯）
+      }
+      VitricBow:
+      {
+        DisplayName: 琉璃弓
+        Tooltip: 可能需要重制
+      }
+      VitricBulletItem:
+      {
+        DisplayName: 琉璃弹
+        Tooltip:
+          '''
+          击中敌人时会在其身上长出晶体
+          击中晶体会使其碎裂并造成伤害
+          '''
+      }
+      VitricChest:
+      {
+        DisplayName: 琉璃胸甲
+        Tooltip: 增加5%远程暴击率
+      }
+      VitricHamaxe:
+      {
+        DisplayName: 琉璃锤斧
+        Tooltip:
+          '''
+          右键充能热量
+          热量会增加速度
+          热量会随着时间流逝而衰减
+          '''
+      }
+      VitricHead:
+      {
+        DisplayName: 琉璃头盔
+        Tooltip: 增加10%远程伤害
+      }
+      VitricHook:
+      {
+        DisplayName: 坼裂钩
+      }
+      VitricLegs:
+      {
+        DisplayName: 琉璃护胫
+        Tooltip: 小幅度改善耐力再生
+      }
+      VitricMagicBook:
+      {
+        DisplayName: 琉璃之书
+        Tooltip: 在附近的地面上召唤尖刺
+      }
+      VitricOre:
+      {
+        DisplayName: 琉璃碎片
+      }
+      VitricPick:
+      {
+        DisplayName: 熔璃镐
+        Tooltip:
+          '''
+          狱石不再生成熔岩
+          挖掘狱石会产生热量
+          热量会增加速度
+          '''
+      }
+      VitricSword:
+      {
+        DisplayName: 远古琉璃刃
+        Tooltip:
+          '''
+          会碎裂成注魔琉璃碎块
+          破碎时无法使用
+          '''
+      }
+      MagmitePassiveItem:
+      {
+        DisplayName: 熔滴螨
+        Tooltip: 放了他!
+      }
+      CodexTileItem:
+      {
+        DisplayName: 星光宝典
+        Tooltip: Debug placer for ability pickup
+      }
+      FaeflameTileItem:
+      {
+        DisplayName: 妖火
+        Tooltip: Debug placer for ability pickup
+      }
+      StaminaShardTileItem:
+      {
+        DisplayName: 耐力碎片
+        Tooltip: 调试物品
+      }
+      WindsTileItem:
+      {
+        DisplayName: 禁忌之风
+        Tooltip: Debug placer for ability pickup
+      }
+      CookStationItem:
+      {
+        DisplayName: 灶台
+        Tooltip: 右键准备餐食
+      }
+      InfuserItem:
+      {
+        DisplayName: "[PH]注魔器"
+        Tooltip: 用于刻印灌注
+      }
+      AnkhChestItem:
+      {
+        DisplayName: 十字箱
+      }
+      ForestBerries:
+      {
+        DisplayName: 森林莓果
+      }
+      ForestBerryBushItem:
+      {
+        DisplayName: 莓丛
+        Tooltip: 用于种植你自己的浆果
+      }
+      Slimeberry:
+      {
+        DisplayName: 凝胶莓果
+        Tooltip: Ew.
+      }
+      SlimeberryBushItem:
+      {
+        DisplayName: 史莱姆莓丛
+        Tooltip: 放置一个slimeberry bush
+      }
+      AncientFruit:
+      {
+        DisplayName: 上古水果
+        Tooltip: " "
+      }
+      GoldenRice:
+      {
+        DisplayName: 黄金稻米
+        Tooltip: " "
+      }
+      Rice:
+      {
+        DisplayName: 稻米
+        Tooltip: " "
+      }
+      GreenhouseGlassItem:
+      {
+        DisplayName: 温室玻璃
+        Tooltip:
+          '''
+          加快下方的植物的生长速度
+          上方需要一个干净的区域
+          '''
+      }
+      GreenhouseWallItem:
+      {
+        DisplayName: 温室玻璃墙
+        Tooltip: 美妙！
+      }
+      BouncerItem:
+      {
+        DisplayName: 晶体弹珠
+        Tooltip:
+          '''
+          冲刺到此物上以飞向空中！
+          重置跳跃类饰品
+          '''
+      }
+      StaminaGemItem:
+      {
+        DisplayName: 耐力宝石
+        Tooltip: 当用能力造成命中时恢复耐力
+      }
+      StaminaOrbItem:
+      {
+        DisplayName: 耐力球
+        Tooltip:
+          '''
+          通过这个获得耐力！
+          5秒冷却
+          '''
+      }
+      DisplayCaseFriendlyItem:
+      {
+        DisplayName: 展示柜
+        Tooltip: 可以放置一个物品并进行展示
+      }
+      RatTentItem:
+      {
+        DisplayName: 奇怪的帐篷
+        Tooltip: 这里面有什么?...
+      }
+      JellyShroomItem:
+      {
+        DisplayName: 蓝色果冻菇 # 蓝色水母菇，neta深海迷航, 但我没找到中译名
+        Tooltip: Boing!
+      }
+      LumishroomItem:
+      {
+        DisplayName: 荧光蘑菇
+        Tooltip: Glowy...
+      }
+      VibeshroomItem:
+      {
+        DisplayName: 颤颤蘑菇
+        Tooltip: Vibin'
+      }
+      BlueTorchOvergrowItem:
+      {
+        DisplayName: 蓝仙女火把 #原“蓝仙女火炬”
+        Tooltip: 闪光的! 并且是蓝的!
+      }
+      CrusherOvergrowItem:
+      {
+        DisplayName: 碾压陷阱
+      }
+      NoxiousNodeItem:
+      {
+        DisplayName: 剧毒茎节
+        Tooltip: 调试物品
+      }
+      OvergrowthLivingWoodItem:
+      {
+        DisplayName: 繁茂生命木
+        Tooltip: "[PH]把这个变成魔杖和法杖"
+      }
+      Rock2x2Item:
+      {
+        DisplayName: 2x2石头放置器
+        Tooltip: 它会放置...石头
+      }
+      SkeletonBrickItem:
+      {
+        DisplayName: 骨砖
+      }
+      TorchOvergrowItem:
+      {
+        DisplayName: 仙女火把 #原“仙女火炬”
+        Tooltip: 闪光的!
+      }
+      WallOvergrowBrickItem:
+      {
+        DisplayName: 符文砖墙
+      }
+      WallOvergrowGrassItem:
+      {
+        DisplayName: 繁茂草墙
+      }
+      WindowSmallItem:
+      {
+        DisplayName: 小窗
+        Tooltip: 调试物品
+      }
+      WispAltarLItem:
+      {
+        DisplayName: Wisp Altar L Placer
+        Tooltip: 调试物品
+      }
+      WispAltarRItem:
+      {
+        DisplayName: Wisp Altar R Placer
+        Tooltip: 调试物品
+      }
+      AuroraclePaintingItem:
+      {
+        DisplayName: 闪辉虹水
+        Tooltip: "'K. Ra'"
+      }
+      EggCodexPaintingItem:
+      {
+        DisplayName: 创世神典
+        Tooltip: "'K. Ra'"
+      }
+      RatKingPaintingItem:
+      {
+        DisplayName: 鼠风流人物
+        Tooltip: "'K. Ra'"
+      }
+      PalestoneItem:
+      {
+        DisplayName: 苍白石块
+      }
+      AuroraBrickDoorItem:
+      {
+        DisplayName: Debug Brick Placer
+      }
+      AuroraBrickItem:
+      {
+        DisplayName: 极光砖
+        Tooltip: 哦哦哦...美滴很
+      }
+      AuroraBrickWallFriendlyItem:
+      {
+        DisplayName: 极光砖墙
+        Tooltip: 哦哦哦...美滴很
+      }
+      AuroraBrickWallItem:
+      {
+        DisplayName: 极光砖墙
+        Tooltip: 哦哦哦...美滴很
+      }
+      AuroraIceBar:
+      {
+        DisplayName: 凝冻极光锭
+        Tooltip: 一部分被保留下来的夜空
+      }
+      AuroraIceItem:
+      {
+        DisplayName: 凝冻极光块
+        Tooltip: 一小片被保留下来的夜空
+      }
+      DoorBombShooterItem:
+      {
+        DisplayName: Debug Shooter Placer
+      }
+      PermafrostIceItem:
+      {
+        DisplayName: 永冻冰块
+      }
+      TouchstoneItem:
+      {
+        DisplayName: 引光冰石
+        Tooltip: 指示灯
+      }
+      TouchstoneLootboxItem:
+      {
+        DisplayName: Touchstone Chest Placer
+      }
+      AuroracleTrophyItem:
+      {
+        DisplayName: 极光之触纪念章
+      }
+      CeirosTrophyItem:
+      {
+        DisplayName: 塞洛斯纪念章
+      }
+      CombatShrineItem:
+      {
+        DisplayName: Combat shrine placer
+        Tooltip: 调试物品
+      }
+      HotspringFountainItem:
+      {
+        DisplayName: Hotspring Source
+        Tooltip: 将附近的水转化为热泉!
+      }
+      MagmiteShrineItem:
+      {
+        DisplayName: The Boi
+        Tooltip: 是他!
+      }
+      DashBarrierItem:
+      {
+        DisplayName: Dash Barrier
+        Tooltip: 调试物品
+      }
+      JarTallItem:
+      {
+        DisplayName: Stamina Jar Placer (Tall)
+        Tooltip: 调试物品
+      }
+      TempleChestPlacer:
+      {
+        DisplayName: Temple Chest Placer
+      }
+      TempleWallBigItem:
+      {
+        DisplayName: 大古庙砖墙
+      }
+      TempleWallItem:
+      {
+        DisplayName: 古庙砖墙
+      }
+      TestBubble:
+      {
+        DisplayName: 泡泡
+        Tooltip: 调试物品
+      }
+      VerletBannerItem:
+      {
+        DisplayName: Verlet banner
+        Tooltip: 调试物品
+      }
+      AncientSandstonePillarWallItem:
+      {
+        DisplayName: 远古砂岩墙
+      }
+      AncientSandstonePlatformItem:
+      {
+        DisplayName: 远古砂岩平台
+      }
+      AncientSandstoneTorchItem:
+      {
+        DisplayName: 远古水晶灯
+        Tooltip: 它散发着迷人的光芒
+      }
+      AncientSandstoneWallItem:
+      {
+        DisplayName: 远古砂岩墙
+      }
+      ForgeDoorItem:
+      {
+        DisplayName: 锻炉门
+        Tooltip: 调试物品
+      }
+      ForgeInnerDoorItem:
+      {
+        DisplayName: 锻炉内门
+        Tooltip: 调试物品
+      }
+      RedBannerShortItem:
+      {
+        DisplayName: 短飘带
+        Tooltip: 调试物品
+      }
+      CrystalSlimeSpawnerItem:
+      {
+        DisplayName: NPC Spawner
+      }
+      DashableDoorItem:
+      {
+        DisplayName: DashableDoor
+        Tooltip: 调试物品
+      }
+      DoorGearsItem:
+      {
+        DisplayName: Gear Puzzle Temple Door
+        Tooltip: 神殿门, 但如果是水平的呢?
+      }
+      DoorVerticalItem:
+      {
+        DisplayName: Vertical Temple Door
+        Tooltip: 神殿门, 但如果是垂直的呢?
+      }
+      EntranceDoorItem:
+      {
+        DisplayName: 外门
+        Tooltip: 调试物品
+      }
+      GearPuzzleOriginPlacer:
+      {
+        DisplayName: 齿轮谜题原点
+        Tooltip: 调试物品
+      }
+      GearTilePlacer:
+      {
+        DisplayName: 解谜用齿轮
+        Tooltip: 调试物品
+      }
+      ObjectiveGearItem:
+      {
+        DisplayName: 齿轮谜题定位点
+        Tooltip: 调试物品
+      }
+      ReflectorItem:
+      {
+        DisplayName: 反射镜
+        Tooltip: 调试物品
+      }
+      LowWindBannerItem:
+      {
+        DisplayName: 矩形飘带
+      }
+      NPCSpawnerItem:
+      {
+        DisplayName: NPC Spawner
+      }
+      OldCeirosShrineItem:
+      {
+        DisplayName: 老旧的塞洛斯神龛
+        Tooltip: 调试物品
+      }
+      TallWindowItem:
+      {
+        DisplayName: Window Actor
+        Tooltip: 调试物品
+      }
+      TempleCandleCrystalItem:
+      {
+        DisplayName: 神殿晶体蜡烛
+      }
+      TempleCandleItem:
+      {
+        DisplayName: 神殿蜡烛
+      }
+      TempleCeirosFountainItem:
+      {
+        DisplayName: 神殿哨卫喷泉
+      }
+      TempleWallCandleItem:
+      {
+        DisplayName: 神殿壁挂蜡烛
+      }
+      TutorialDoor1Item:
+      {
+        DisplayName: 教程用门1
+        Tooltip: 调试物品
+      }
+      TutorialDoor2Item:
+      {
+        DisplayName: 教程用门2
+        Tooltip: 调试物品
+      }
+      VitricPillarWallItem:
+      {
+        DisplayName: 琉璃锻炉支柱
+        Tooltip: Sturdy
+      }
+      VitricPillarWallShortItem:
+      {
+        DisplayName: 低矮琉璃锻炉支柱
+        Tooltip: Sturdy
+      }
+      VitricTempleWallItem:
+      {
+        DisplayName: 琉璃锻炉砖墙
+        Tooltip: Sturdy
+      }
+      WindsRoomActorItem:
+      {
+        DisplayName: Winds Room Actor
+        Tooltip: 调试物品
+      }
+      VitricBannerSmallItem:
+      {
+        DisplayName: 短飘带
+      }
+      VitricBossAltarItem:
+      {
+        DisplayName: 塞洛斯祭坛
+        Tooltip: 调试物品
+      }
+      VitricBreakableVaseItem:
+      {
+        DisplayName: 琉璃花瓶
+        Tooltip: 调试物品
+      }
+      VitricFountainItem:
+      {
+        DisplayName: 琉璃喷泉
+        Tooltip: 调试物品
+      }
+      VitricGiantCrystalItem:
+      {
+        DisplayName: 巨型琉璃晶
+        Tooltip: The slot this Item is in changes the type placed
+      }
+      VitricLargeCrystalItem:
+      {
+        DisplayName: 大型琉璃晶
+        Tooltip: The slot this Item is in changes the type placed
+      }
+      VitricLargeFountainItem:
+      {
+        DisplayName: 大型琉璃喷泉
+        Tooltip: 调试物品
+      }
+      VitricLootBoxItem:
+      {
+        DisplayName: 琉璃晶匣
+      }
+      VitricMediumCrystalItem:
+      {
+        DisplayName: 中型琉璃晶
+        Tooltip: The slot this Item is in changes the type placed
+      }
+      VitricOreFloatItem:
+      {
+        DisplayName: 飘浮琉璃矿
+      }
+      VitricOreItem:
+      {
+        DisplayName: 琉璃矿
+      }
+      VitricRockItem:
+      {
+        DisplayName: 琉璃岩
+      }
+      VitricSandWallItem:
+      {
+        DisplayName: 琉璃砂墙
+      }
+      VitricSmallCrystalItem:
+      {
+        DisplayName: 小型琉璃晶
+        Tooltip: The slot this Item is in changes the type placed
+      }
+      VitricSpikeItem:
+      {
+        DisplayName: 琉璃刺
+        Tooltip: 好痛!
+      }
+      VitricBannerItem:
+      {
+        DisplayName: 长飘带
+      }
+      VitricBathtub:
+      {
+        DisplayName: 琉璃浴缸
+      }
+      VitricBed:
+      {
+        DisplayName: 琉璃床
+      }
+      VitricBookcase:
+      {
+        DisplayName: 琉璃书架
+      }
+      VitricCandelabra:
+      {
+        DisplayName: 琉璃烛台
+      }
+      VitricCandle:
+      {
+        DisplayName: 琉璃蜡烛
+      }
+      VitricChair:
+      {
+        DisplayName: 琉璃椅
+      }
+      VitricChandelier:
+      {
+        DisplayName: 琉璃吊灯
+      }
+      VitricClock:
+      {
+        DisplayName: 琉璃时钟
+      }
+      VitricDresser:
+      {
+        DisplayName: 琉璃梳妆台
+      }
+      VitricLamp:
+      {
+        DisplayName: 琉璃灯
+      }
+      VitricLantern:
+      {
+        DisplayName: 琉璃灯笼
+      }
+      VitricPiano:
+      {
+        DisplayName: 琉璃钢琴
+      }
+      VitricSink:
+      {
+        DisplayName: 琉璃水槽
+      }
+      VitricSofa:
+      {
+        DisplayName: 琉璃沙发
+      }
+      VitricTable:
+      {
+        DisplayName: 琉璃桌
+      }
+      VitricWorkbench:
+      {
+        DisplayName: 琉璃工作台
+      }
+      VitricDoor:
+      {
+        DisplayName: 琉璃门
+      }
+      RedLaserPointer:
+      {
+        DisplayName: 红色激光笔
+      }
+      OrangeLaserPointer:
+      {
+        DisplayName: 橙色激光笔
+      }
+      YellowLaserPointer:
+      {
+        DisplayName: 黄色激光笔
+      }
+      GreenLaserPointer:
+      {
+        DisplayName: 绿色激光笔
+      }
+      BlueLaserPointer:
+      {
+        DisplayName: 蓝色激光笔
+      }
+      PurpleLaserPointer:
+      {
+        DisplayName: 紫色激光笔
+      }
+      WhiteLaserPointer:
+      {
+        DisplayName: 白色激光笔
+      }
+      PinkLaserPointer:
+      {
+        DisplayName: 粉色激光笔
+      }
+      VitricBossBarrierItem:
+      {
+        DisplayName: VitricBossBarrierItem
+        Tooltip: 调试物品
+      }
+      GlassweaverBossBarrierItem:
+      {
+        DisplayName: GlassweaverBossBarrierItem
+        Tooltip: 调试物品
+      }
+      CombatShrineBarrierItem:
+      {
+        DisplayName: CombatShrineBarrierItem
+        Tooltip: 调试物品
+      }
+      EvasionShrineBarrierItem:
+      {
+        DisplayName: EvasionShrineBarrierItem
+        Tooltip: 调试物品
+      }
+      TempleChairItem:
+      {
+        DisplayName: 神殿椅
+      }
+      TempleLargeVaseItem:
+      {
+        DisplayName: 神殿花瓶
+      }
+      TempleLargeVaseCrystalItem:
+      {
+        DisplayName: 神殿晶体花瓶
+      }
+      TempleWorkbenchItem:
+      {
+        DisplayName: 神殿工作台
+      }
+      TempleThroneItem:
+      {
+        DisplayName: 神殿王座
+      }
+      TempleFloorWeaponRackItem:
+      {
+        DisplayName: 神殿落地武器架
+      }
+      TempleTableItem:
+      {
+        DisplayName: 神殿桌
+      }
+      TempleTableCrystalItem:
+      {
+        DisplayName: 神殿晶体桌
+      }
+      TempleWeaponRack0Item:
+      {
+        DisplayName: 神殿武器架A
+      }
+      TempleWeaponRack1Item:
+      {
+        DisplayName: 神殿武器架B
+      }
+      TempleWeaponRack2Item:
+      {
+        DisplayName: 神殿武器架C
+      }
+      TempleWeaponRack3Item:
+      {
+        DisplayName: 神殿武器架D
+      }
+      TempleThingamajigItem:
+      {
+        DisplayName: 神殿大型武器架
+      }
+      TempleBrickItem:
+      {
+        DisplayName: 远古砖
+      }
+      VitricBoss1Item:
+      {
+        DisplayName: 八音盒（塞洛斯 1）
+      }
+      VitricBoss2Item:
+      {
+        DisplayName: 八音盒（塞洛斯 2）
+      }
+      VitricPassiveItem:
+      {
+        DisplayName: 八音盒（琉璃沙漠）
+      }
+      VitricTempleItem:
+      {
+        DisplayName: 八音盒（琉璃神庙）
+      }
+      MinibossItem:
+      {
+        DisplayName: 八音盒（小Boss）
+      }
+      OvergrowItem:
+      {
+        DisplayName: 八音盒 (Overgrow)
+      }
+      AuroracleItem:
+      {
+        DisplayName: 八音盒 （极光之触）
+      }
+      LeafOvergrowItem:
+      {
+        DisplayName: 妖精叶
+      }
+      BrickOvergrowItem:
+      {
+        DisplayName: 符文砖
+      }
+      StoneOvergrowItem:
+      {
+        DisplayName: 符文石
+      }
+      SpringstoneItem:
+      {
+        DisplayName: 温泉石
+      }
+      ShrineBrazierItem:
+      {
+        DisplayName: 神秘火盆
+      }
+      WitTileItem:
+      {
+        DisplayName: 智砖
+      }
+      AncientSandstoneItem:
+      {
+        DisplayName: 远古砂岩
+      }
+      AncientSandstoneTileItem:
+      {
+        DisplayName: 远古砂岩瓷砖
+      }
+      VitricBrickItem:
+      {
+        DisplayName: 琉璃砖
+      }
+      VitricCactusItem:
+      {
+        DisplayName: 琉璃仙人掌
+      }
+      VitricGlassItem:
+      {
+        DisplayName: 琉璃
+      }
+      VitricSandItem:
+      {
+        DisplayName: 琉璃沙块
+      }
+      VitricSoftSandItem:
+      {
+        DisplayName: 柔软琉璃沙块
+      }
+      VitricSandPlainItem:
+      {
+        DisplayName: 软沙块
+      }
+      AstrofloraFlail:
+      {
+        DisplayName: " Astroflora Flail"
+        Tooltip: Spinning the flail releases toxic spores that ignite when the flail is thrown
+      }
+    }
+    Projectiles:
+    {
+      ArtifactItemProj:
+      {
+        DisplayName: 人工制品
+      }
+      BurningGround:
+      {
+        DisplayName: 燃烬
+      }
+      GlassBubble:
+      {
+        DisplayName: 不稳定泡泡
+      }
+      GlassBubbleFragment:
+      {
+        DisplayName: 玻璃碎片
+      }
+      GlassHammer:
+      {
+        DisplayName: 编织之锤
+      }
+      GlassJavelin:
+      {
+        DisplayName: 琉璃枪
+      }
+      GlassRaiseSpike:
+      {
+        DisplayName: Raised Glass Structure
+      }
+      GlassSpear:
+      {
+        DisplayName: Woven Hammer
+      }
+      GlassSword:
+      {
+        DisplayName: 琉璃剑
+      }
+      GlassweaverDoor:
+      {
+        DisplayName: 织璃门
+      }
+      LavaLob:
+      {
+        DisplayName: Hot Lob
+      }
+      Whirlwind:
+      {
+        DisplayName: 旋刃
+      }
+      AuroraWaterSplash:
+      {
+        DisplayName: 极光漩
+      }
+      DoorBomb:
+      {
+        DisplayName: 门炸弹
+      }
+      InkBlob:
+      {
+        DisplayName: 虹墨
+      }
+      InkBlobGravity:
+      {
+        DisplayName: 虹墨
+      }
+      Laser:
+      {
+        DisplayName: 激光
+      }
+      SpewBlob:
+      {
+        DisplayName: 极光碎片
+      }
+      SqueezeTell:
+      {
+        DisplayName: 触须警告
+      }
+      TentacleTell:
+      {
+        DisplayName: 触须警告
+      }
+      TentacleTrail:
+      {
+        DisplayName: 触须之痕
+      }
+      CrystalWave:
+      {
+        DisplayName: 水晶
+      }
+      FinalLaser:
+      {
+        DisplayName: 怒火
+      }
+      FireCone:
+      {
+        DisplayName: 炎锥
+      }
+      FireRingHostile:
+      {
+        DisplayName: 火焰指环
+      }
+      GlassSpike:
+      {
+        DisplayName: 琉璃尖刺
+      }
+      GlassVolley:
+      {
+        DisplayName: 琉璃齐射
+      }
+      GlassVolleyShard:
+      {
+        DisplayName: 琉璃齐射碎片
+      }
+      LavaDart:
+      {
+        DisplayName: 熔岩弹丸
+      }
+      SpikeMine:
+      {
+        DisplayName: 尖刺地雷
+      }
+      TelegraphedGlassSpike:
+      {
+        DisplayName: 琉璃尖刺
+      }
+      VitricBomb:
+      {
+        DisplayName: Vitric Bomb
+      }
+      LightningNode:
+      {
+        DisplayName: Lightning Node
+      }
+      BreachCannonSentry:
+      {
+        DisplayName: Breach Cannon
+      }
+      ExplosiveFlare:
+      {
+        DisplayName: Explosive Flare
+      }
+      FlareShrapnel:
+      {
+        DisplayName: Explosive Shrapnel
+      }
+      OrbitalStrike:
+      {
+        DisplayName: Orbital Strike
+      }
+      OrbitalStrikeRing:
+      {
+        DisplayName: Orbital Strike
+      }
+      ScrappodProjectile:
+      {
+        DisplayName: Scrappod
+      }
+      ScrappodScrapnel:
+      {
+        DisplayName: Scrapnel
+      }
+      ScrapshotHook:
+      {
+        DisplayName: Scrapshot Hook
+      }
+      ScrapshotShrapnel:
+      {
+        DisplayName: Explosive Shrapnel
+      }
+      SpotterDrone:
+      {
+        DisplayName: Breacher Drone
+      }
+      SupplyBeaconProj:
+      {
+        DisplayName: Supply Beacon
+      }
+      ArchaeologistsWhip_Whip:
+      {
+        DisplayName: Archaeologist's Whip
+      }
+      AztecDeathSaxophoneHoldout:
+      {
+        DisplayName: Aztec Death Saxophone
+      }
+      AztecDeathSaxophoneSoundwave:
+      {
+        DisplayName: Aztec Death Saxophone Soundwave
+      }
+      PerfectlyGenericPet:
+      {
+        DisplayName: 完美通用物品
+      }
+      CloudstrikeShot:
+      {
+        DisplayName: Electro Shock
+      }
+      SkullBomb:
+      {
+        DisplayName: Skull Bomb
+      }
+      SkullBusterBullet:
+      {
+        DisplayName: Bullet
+      }
+      SkullBusterProj:
+      {
+        DisplayName: Skull Buster
+      }
+      SkullBusterReload:
+      {
+        DisplayName: Skull Buster
+      }
+      SkullbusterSkull:
+      {
+        DisplayName: Skullbomb
+      }
+      ThousandthDegreeProjectile:
+      {
+        DisplayName: Thousandth Degree
+      }
+      ThousandthDegreeProjectileFired:
+      {
+        DisplayName: Blazing Wheel
+      }
+      Acorn:
+      {
+        DisplayName: Acorn
+      }
+      FeralWolfMountBite:
+      {
+        DisplayName: Crushing Jaws
+      }
+      AmethystShard:
+      {
+        DisplayName: Amethyst Shard
+      }
+      GeoAmethystProj:
+      {
+        DisplayName: Geo Amethyst Proj
+      }
+      GeoDiamondProj:
+      {
+        DisplayName: Geo Diamond Proj
+      }
+      GeoEmeraldProj:
+      {
+        DisplayName: Geo Emerald Proj
+      }
+      GeoRubyProj:
+      {
+        DisplayName: Geo Ruby Proj
+      }
+      GeoSapphireProj:
+      {
+        DisplayName: Geo Sapphire Proj
+      }
+      GeoTopazProj:
+      {
+        DisplayName: Geo Topaz Proj
+      }
+      RubyDagger:
+      {
+        DisplayName: Ruby Dagger
+      }
+      SparklingBulletProj:
+      {
+        DisplayName: Sparkling Bullet
+      }
+      TopazShard:
+      {
+        DisplayName: Topaz Shard
+      }
+      TopazShield:
+      {
+        DisplayName: Topaz Shield
+      }
+      TopazShieldFade:
+      {
+        DisplayName: Topaz Shield
+      }
+      BloodBolt:
+      {
+        DisplayName: Blood Bolt
+      }
+      BloodBolterExplosion:
+      {
+        DisplayName: Blood Bolter
+      }
+      BloodBolterHeldProj:
+      {
+        DisplayName: Blood bolter
+      }
+      GluttonyGhoul:
+      {
+        DisplayName: Ghoul
+      }
+      GluttonyHandle:
+      {
+        DisplayName: Gluttony
+      }
+      GravediggerSlam:
+      {
+        DisplayName: Grave digger
+      }
+      GravediggerSwing:
+      {
+        DisplayName: Grave digger
+      }
+      PoltergeistMinion:
+      {
+        DisplayName: Haunted Weapon
+      }
+      CopperObol:
+      {
+        DisplayName: 铜币
+      }
+      GoldObol:
+      {
+        DisplayName: 金币
+      }
+      ObolImpact:
+      {
+        DisplayName: Obol Star
+      }
+      PlatinumObol:
+      {
+        DisplayName: 铂金币
+      }
+      SilverObol:
+      {
+        DisplayName: 银币
+      }
+      GrayGooProj:
+      {
+        DisplayName: Gray Goo
+      }
+      ThunderBeadsProj:
+      {
+        DisplayName: Thunder Beads
+      }
+      ThunderbussBall:
+      {
+        DisplayName: Thunderbuss Ball
+      }
+      ThunderbussShot:
+      {
+        DisplayName: Electro Shock
+      }
+      BalloonGunBalloon:
+      {
+        DisplayName: 气球
+      }
+      BizarreIce:
+      {
+        DisplayName: 奇异药水
+      }
+      BizarreLightning:
+      {
+        DisplayName: Bizarre Lightning
+      }
+      BizarreLightningOrb:
+      {
+        DisplayName: Bizarre Lightning Orb
+      }
+      BizarrePotionPoisonCloud:
+      {
+        DisplayName: 奇异药水毒云
+      }
+      BizarrePotionProj:
+      {
+        DisplayName: 奇异药水
+      }
+      BladesawSwungBlade:
+      {
+        DisplayName: 锯刃
+      }
+      BloodAmuletBolt:
+      {
+        DisplayName: 食尸鬼
+      }
+      CoachGunBomb:
+      {
+        DisplayName: Dynamite
+      }
+      CoachGunEmber:
+      {
+        DisplayName: Ember
+      }
+      CoachGunMuzzleFlash:
+      {
+        DisplayName: Muzzle Flash
+      }
+      CoachGunRing:
+      {
+        DisplayName: Coach Bomb
+      }
+      CoilStaticShock:
+      {
+        DisplayName: Static Shock
+      }
+      CopperCoilWhip:
+      {
+        DisplayName: Copper Coil
+      }
+      CutlassBusFlash:
+      {
+        DisplayName: Cutlassbus
+      }
+      CutlassBusHeldProj:
+      {
+        DisplayName: Cutlassbus
+      }
+      CutlassBusProj:
+      {
+        DisplayName: Cutlassbus
+      }
+      DiceProj:
+      {
+        DisplayName: Dice
+      }
+      DiscordantBolt:
+      {
+        DisplayName: Discordant Bolt
+      }
+      DualCrossHeld:
+      {
+        DisplayName: Double Cross
+      }
+      ElectroArrowProjectile:
+      {
+        DisplayName: Electro Arrow
+      }
+      FiletSlash:
+      {
+        DisplayName: Slash
+      }
+      FryingPanBonk:
+      {
+        DisplayName: 煎锅
+      }
+      FryingPanProj:
+      {
+        DisplayName: 煎锅
+      }
+      FryingPanThrownProj:
+      {
+        DisplayName: 煎锅射弹
+      }
+      GeodeBowExplosion:
+      {
+        DisplayName: Geode Explosion
+      }
+      GeodeBowGrowth:
+      {
+        DisplayName: Geode Growth
+      }
+      GeodeBowProj:
+      {
+        DisplayName: Geode Bow
+      }
+      GeodeBowShrapnel:
+      {
+        DisplayName: Geode Shrapnel
+      }
+      GraveBusterHeld:
+      {
+        DisplayName: Grave Buster
+      }
+      GraveSlash:
+      {
+        DisplayName: Slash
+      }
+      GuillotineVFX:
+      {
+        DisplayName: Guillotine V F X
+      }
+      GunchuckProj:
+      {
+        DisplayName: Sanguine Flayer
+      }
+      HolyAmuletOrb:
+      {
+        DisplayName: Holy Amulet Orb
+      }
+      ImpactSMGExplosion:
+      {
+        DisplayName: Explosion
+      }
+      ImpactSMGHoldout:
+      {
+        DisplayName: Impact SMG
+      }
+      ImpactSMGShot:
+      {
+        DisplayName: Impact SMG Shot
+      }
+      MagmaGunPhantomProj:
+      {
+        DisplayName: Magma Glob
+      }
+      MonkSpadeProjectile:
+      {
+        DisplayName: Monk Spade Projectile
+      }
+      RadculasRapierSwungBlade:
+      {
+        DisplayName: 拉德库拉的长剑
+      }
+      RadculasRapierTeleport:
+      {
+        DisplayName: 拉德库拉的长剑
+      }
+      SandSlash:
+      {
+        DisplayName: Sand Slash
+      }
+      SlingHeldProjectile:
+      {
+        DisplayName: Sling
+      }
+      SlingMushroomProjectile:
+      {
+        DisplayName: Shroom
+      }
+      SlingSeedProjectile:
+      {
+        DisplayName: Seed
+      }
+      SlingStoneProjectile:
+      {
+        DisplayName: Stone
+      }
+      SlitherringWhip:
+      {
+        DisplayName: Slither Whip
+      }
+      HauntedSoul:
+      {
+        DisplayName: Soul
+      }
+      SoilgunCoinsProjectile:
+      {
+        DisplayName: Coin
+      }
+      SoilgunCrimsandSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunDirtSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunEbonsandSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunExplosion:
+      {
+        DisplayName: Explosion
+      }
+      SoilgunHoldout:
+      {
+        DisplayName: Soilgun
+      }
+      SoilgunIcicleProj:
+      {
+        DisplayName: Icicle
+      }
+      SoilgunLifeSteal:
+      {
+        DisplayName: Lifesteal Orb
+      }
+      SoilgunMudSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunPearlsandSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunSandGrain:
+      {
+        DisplayName: Sand Grain
+      }
+      SoilgunSandSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunSiltSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunSlushSoil:
+      {
+        DisplayName: Soil
+      }
+      SoilgunVitricCrystals:
+      {
+        DisplayName: Volatile Crystal
+      }
+      SoilgunVitricSandSoil:
+      {
+        DisplayName: Soil
+      }
+      SorcerwrenchProjectile:
+      {
+        DisplayName: Sorcerwrench Projectile
+      }
+      StarGlaive:
+      {
+        DisplayName: Star Glaive
+      }
+      StarShuriken:
+      {
+        DisplayName: Star Shuriken
+      }
+      SwordBookProjectile:
+      {
+        DisplayName: Sword Book Projectile
+      }
+      TaintedGreataxeProjectile:
+      {
+        DisplayName: Ethereal Greataxe
+      }
+      ThrusterEmber:
+      {
+        DisplayName: Thruster
+      }
+      TinCoilWhip:
+      {
+        DisplayName: Tin Coil
+      }
+      TwistSwordProjectile:
+      {
+        DisplayName: Twist Sword Projectile
+      }
+      UltrapillBlood:
+      {
+        DisplayName: Ultrapill Blood
+      }
+      CrescentQuarterstaffProj:
+      {
+        DisplayName: Crescent Quarterstaff
+      }
+      DatsuzeiProjectile:
+      {
+        DisplayName: Datsuzei Projectile
+      }
+      DianeCrescant:
+      {
+        DisplayName: Crescant
+      }
+      MoonfuryProj:
+      {
+        DisplayName: Moonfury Spike
+      }
+      MoonfuryRing:
+      {
+        DisplayName: Orbital Strike
+      }
+      MoonstoneArrowProj:
+      {
+        DisplayName: Moonlit Arrow
+      }
+      MoonstoneArrowRing:
+      {
+        DisplayName: Orbital Strike
+      }
+      MoonstoneHamaxeHoldout:
+      {
+        DisplayName: Moonstone Hamaxe
+      }
+      MoonstoneHamaxeRing:
+      {
+        DisplayName: Explosion
+      }
+      QuarterOrb:
+      {
+        DisplayName: Lunar Orb
+      }
+      ShakerBall:
+      {
+        DisplayName: Shaker
+      }
+      PaleKnight:
+      {
+        DisplayName: Pale Knight
+      }
+      PalestoneSlash:
+      {
+        DisplayName: Pale Slash
+      }
+      AuroraBellProj:
+      {
+        DisplayName: Aurora Bell
+      }
+      AuroraBellRing:
+      {
+        DisplayName: Aurora Bell
+      }
+      AuroraBellRingSmall:
+      {
+        DisplayName: Aurora Bell
+      }
+      AuroracleInkBullet:
+      {
+        DisplayName: Auroracle Ink
+      }
+      AuroraThroneMountMinion:
+      {
+        DisplayName: Aurora Throne Mount Minion
+      }
+      AuroraThroneMountWhip:
+      {
+        DisplayName: Tentacle
+      }
+      FrostballProjectile:
+      {
+        DisplayName: Frostball Projectile
+      }
+      FrostExplosion:
+      {
+        DisplayName: Frost Explosion
+      }
+      OctogunTentapistol:
+      {
+        DisplayName: Tentapistol
+      }
+      OverflowingUrnProj:
+      {
+        DisplayName: Overflowing Urn
+      }
+      TentacleHookProj:
+      {
+        DisplayName: Tentacle Hook
+      }
+      TentalanceProjectile:
+      {
+        DisplayName: Tentalance Projectile
+      }
+      StarwoodBoomerangProjectile:
+      {
+        DisplayName: Starwood Boomerang
+      }
+      StarwoodSlingshotFragment:
+      {
+        DisplayName: Star Fragment
+      }
+      StarwoodSlingshotProj:
+      {
+        DisplayName: Starwood Slingshot Proj
+      }
+      StarwoodSlingshotStar:
+      {
+        DisplayName: Shooting Star
+      }
+      StarwoodStaffFallingStar:
+      {
+        DisplayName: Falling Star
+      }
+      StarwoodStaffProjectile:
+      {
+        DisplayName: Starshot
+      }
+      BuzzsawBlood1:
+      {
+        DisplayName: Buzzsaw
+      }
+      BuzzsawProj:
+      {
+        DisplayName: Steamsaw
+      }
+      BuzzsawProj2:
+      {
+        DisplayName: Buzzsaw
+      }
+      CogAmmoProjectile:
+      {
+        DisplayName: Cog
+      }
+      CogwheelHitbox:
+      {
+        DisplayName: Cogwheel
+      }
+      JetwelderCrawler:
+      {
+        DisplayName: Crawler
+      }
+      JetwelderFinal:
+      {
+        DisplayName: Bomber
+      }
+      JetwelderFinalMissle:
+      {
+        DisplayName: Rocket
+      }
+      JetwelderFlame:
+      {
+        DisplayName: Jetwelder
+      }
+      JetwelderGatler:
+      {
+        DisplayName: Gatler
+      }
+      JetwelderJumper:
+      {
+        DisplayName: Jumper
+      }
+      JetwelderJumperExplosion:
+      {
+        DisplayName: Rocket
+      }
+      JetwelderJumperMissle:
+      {
+        DisplayName: Grenade
+      }
+      JetwelderSelector:
+      {
+        DisplayName: Jetwelder
+      }
+      PhantomBuzzsaw:
+      {
+        DisplayName: Buzzsaw
+      }
+      RebarProj:
+      {
+        DisplayName: Rebar
+      }
+      RuneStaffExplosion:
+      {
+        DisplayName: Rune Staff Explosion
+      }
+      RuneStaffProjectile:
+      {
+        DisplayName: Rune Staff Projectile
+      }
+      TempleSpearLight:
+      {
+        DisplayName: Temple Spear Light
+      }
+      TempleSpearProjectile:
+      {
+        DisplayName: Temple Spear Projectile
+      }
+      LaserPointerProjectile:
+      {
+        DisplayName: Laser Pointer Projectile
+      }
+      ArrowMagma:
+      {
+        DisplayName: Magma Arrow
+      }
+      CoachGunUpgradeBomb:
+      {
+        DisplayName: Crystal Bomb
+      }
+      CoachGunUpgradeExplosion:
+      {
+        DisplayName: Coach Gun Upgrade Explosion
+      }
+      CoachGunUpgradeShards:
+      {
+        DisplayName: Crystal Shards
+      }
+      FacetProjectile:
+      {
+        DisplayName: Facet
+      }
+      FireRing:
+      {
+        DisplayName: Fire Ring
+      }
+      IgnitionGauntletCharge:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      IgnitionGauntletCone:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      IgnitionGauntletLaunch:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      IgnitionGauntletsImpactRing:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      IgnitionPunch:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      IgnitionPunchPhantom:
+      {
+        DisplayName: Ignition Gauntlets
+      }
+      LatticeProjectile:
+      {
+        DisplayName: Lattice
+      }
+      MagmaArrowProj:
+      {
+        DisplayName: Magma Arrow
+      }
+      MagmaBottleBurn:
+      {
+        DisplayName: Magma Bottle Burn
+      }
+      MagmiteBombProjectile:
+      {
+        DisplayName: Magmite Bomb Projectile
+      }
+      MagmiteBottleProjectile:
+      {
+        DisplayName: Magmite Bottle Projectile
+      }
+      MagmiteVacpackHoldout:
+      {
+        DisplayName: Magmite Vacpack
+      }
+      MagmiteVacpackProjectile:
+      {
+        DisplayName: Bouncy Magmite
+      }
+      NeedlerEmber:
+      {
+        DisplayName: Needle
+      }
+      NeedlerExplosion:
+      {
+        DisplayName: Needle
+      }
+      NeedlerProj:
+      {
+        DisplayName: Needle
+      }
+      PhoenixStormMinion:
+      {
+        DisplayName: Phoenix
+      }
+      RecursiveFocusProjectile:
+      {
+        DisplayName: Infernal Crystal
+      }
+      RefractiveBladeLaser:
+      {
+        DisplayName: Refractive Blade Laser
+      }
+      RefractiveBladeProj:
+      {
+        DisplayName: Refractive Blade Proj
+      }
+      VitricArmorProjectile:
+      {
+        DisplayName: Enchanted Glass
+      }
+      VitricArmorProjectileIdle:
+      {
+        DisplayName: Enchanted Glass
+      }
+      VitricBookProjectile:
+      {
+        DisplayName: Vitric Book 1
+      }
+      VitricBookProjectiletileCheck:
+      {
+        DisplayName: Vitric Book 2
+      }
+      VitricBookSpikeTrap:
+      {
+        DisplayName: Vitric Spike Trap
+      }
+      VitricBowProjectile:
+      {
+        DisplayName: Vitric Bow Projectile
+      }
+      VitricBowShard:
+      {
+        DisplayName: Vitric Bow Shard
+      }
+      VitricBulletCrystalExplosion:
+      {
+        DisplayName: Explosion
+      }
+      VitricBulletCrystalProjectile:
+      {
+        DisplayName: Vitric Crystal
+      }
+      VitricBulletProjectile:
+      {
+        DisplayName: Vitric Bullet
+      }
+      VitricSwordProjectile:
+      {
+        DisplayName: Enchanted Glass
+      }
+      AngryCrescentDeathProjectile:
+      {
+        DisplayName: Crescent Shard
+      }
+      DreamprismSlam:
+      {
+        DisplayName: Slam
+      }
+      SnoobelCollider:
+      {
+        DisplayName: Snoobel
+      }
+      FirebugMagma:
+      {
+        DisplayName: Molten glass
+      }
+      ConstructRing:
+      {
+        DisplayName: Explosion
+      }
+      ConstructSpawner:
+      {
+        DisplayName: Construct Spawner
+      }
+      GauntletSpawner:
+      {
+        DisplayName: Gauntlet Spawner
+      }
+      PelterConstructArrow:
+      {
+        DisplayName: Glass Arrow
+      }
+      PelterConstructArrowLarge:
+      {
+        DisplayName: Glass Arrow
+      }
+      KettleMortar:
+      {
+        DisplayName: Magma Shot
+      }
+      SnakeSpit:
+      {
+        DisplayName: Molten glass
+      }
+      PinkSeaSaltProjectile:
+      {
+        DisplayName: Sea Salt
+      }
+      TableSaltProjectile:
+      {
+        DisplayName: Table Salt
+      }
+      Dart:
+      {
+        DisplayName: Cursed Dart
+      }
+      SawbladeSmall:
+      {
+        DisplayName: Cursed Sawblade
+      }
+      Spear:
+      {
+        DisplayName: Cursed Spear
+      }
+      SpawnEgg:
+      {
+        DisplayName: Spawn Egg
+      }
+    }
+    Tiles:
+    {
+      CauldronTile:
+      {
+        MapEntry: Alchemic Cauldron
+      }
+      CookStation:
+      {
+        MapEntry: Cooking Station
+      }
+      Infuser:
+      {
+        MapEntry: Infuser
+      }
+      CrashPod:
+      {
+        MapEntry: Crashed Pod
+      }
+      AnkhChest:
+      {
+        MapEntry: 十字箱
+        ContainerName: 十字箱
+      }
+      TwistSwordTile:
+      {
+        MapEntry: Twisted Greatsword
+      }
+      MonkSpear:
+      {
+        MapEntry: Monk's Spade
+      }
+      ThickTree:
+      {
+        MapEntry: Large Tree
+      }
+      TallAncientFruit:
+      {
+        MapEntry: Ancient Fruit
+      }
+      TallGoldenRice:
+      {
+        MapEntry: Golden Rice
+      }
+      TallRice:
+      {
+        MapEntry: Rice
+      }
+      GreenhouseGlass:
+      {
+        MapEntry: Greenhouse Glass
+      }
+      DisplayCase:
+      {
+        MapEntry: Relic Case
+      }
+      DisplayCaseFriendly:
+      {
+        MapEntry: Relic Case
+      }
+      RatTent:
+      {
+        MapEntry: Strange Tent
+      }
+      MoonstoneBar:
+      {
+        MapEntry: Metal Bar
+      }
+      MoonstoneOre:
+      {
+        MapEntry: Moonstone Ore
+      }
+      JellyShroom:
+      {
+        MapEntry: Jelly Shroom
+      }
+      OvergrowthLivingWoodTile:
+      {
+        MapEntry: Overgrown Living Wood
+      }
+      SkeletonBrickTile:
+      {
+        MapEntry: Skeleton Brick
+      }
+      AuroraclePainting:
+      {
+        MapEntry: Painting
+      }
+      EggCodexPainting:
+      {
+        MapEntry: Painting
+      }
+      RatKingPainting:
+      {
+        MapEntry: Painting
+      }
+      Touchstone:
+      {
+        MapEntry: Touchstone
+      }
+      AuroracleTrophy:
+      {
+        MapEntry: 纪念章
+      }
+      CeirosTrophy:
+      {
+        MapEntry: 纪念章
+      }
+      CombatShrine:
+      {
+        MapEntry: Mysterious Shrine
+      }
+      EvasionShrine:
+      {
+        MapEntry: Mysterious Shrine
+      }
+      MagmiteShrine:
+      {
+        MapEntry: The Boi
+      }
+      WitShrine:
+      {
+        MapEntry: Mysterious Shrine
+      }
+      JarTall:
+      {
+        MapEntry: Stamina Jar
+      }
+      ForgeDoor:
+      {
+        MapEntry: Forge Door
+      }
+      ForgeInnerDoor:
+      {
+        MapEntry: Forge Door
+      }
+      EntranceDoor:
+      {
+        MapEntry: Vitric Temple Door
+      }
+      TempleCandle:
+      {
+        MapEntry: 蜡烛
+      }
+      TempleCandleCrystal:
+      {
+        MapEntry: 蜡烛
+      }
+      TempleCeirosFountain:
+      {
+        MapEntry: 喷泉
+      }
+      TempleWallCandle:
+      {
+        MapEntry: 蜡烛
+      }
+      VitricBossAltar:
+      {
+        MapEntry: 塞洛斯祭坛
+      }
+      VitricBreakableVases:
+      {
+        MapEntry: 罐子
+      }
+      VitricOre:
+      {
+        MapEntry: Vitric Ore
+      }
+      VitricOreFloat:
+      {
+        MapEntry: Vitric Ore
+      }
+      TempleChair:
+      {
+        MapEntry: Chair
+      }
+      TempleLargeVase:
+      {
+        MapEntry: Large Vase
+      }
+      TempleLargeVaseCrystal:
+      {
+        MapEntry: Large Vase
+      }
+      TempleWorkbench:
+      {
+        MapEntry: Workbench
+      }
+      TempleThrone:
+      {
+        MapEntry: Throne
+      }
+      TempleFloorWeaponRack:
+      {
+        MapEntry: Weapon Rack
+      }
+      TempleTable:
+      {
+        MapEntry: Table
+      }
+      TempleTableCrystal:
+      {
+        MapEntry: Table
+      }
+      TempleWeaponRack0:
+      {
+        MapEntry: 武器架
+      }
+      TempleWeaponRack1:
+      {
+        MapEntry: 武器架
+      }
+      TempleWeaponRack2:
+      {
+        MapEntry: 武器架
+      }
+      TempleWeaponRack3:
+      {
+        MapEntry: 武器架
+      }
+      TempleThingamajig:
+      {
+        MapEntry: 武器架
+      }
+      VitricBoss1:
+      {
+        MapEntry: 音乐盒
+      }
+      VitricBoss2:
+      {
+        MapEntry: 音乐盒
+      }
+      VitricPassive:
+      {
+        MapEntry: 音乐盒
+      }
+      VitricTemple:
+      {
+        MapEntry: 音乐盒
+      }
+      Miniboss:
+      {
+        MapEntry: 音乐盒
+      }
+      Overgrow:
+      {
+        MapEntry: 音乐盒
+      }
+      Auroracle:
+      {
+        MapEntry: 音乐盒
+      }
+      AnkhChest_Locked:
+      {
+        MapEntry: 上锁十字箱
+      }
+    }
+    Biomes:
+    {
+      HotspringBiome:
+      {
+        DisplayName: 热泉
+      }
+      MoonstoneBiome:
+      {
+        DisplayName: 月光岩地
+      }
+      OvergrowBiome:
+      {
+        DisplayName: "[PH]繁茂之地"
+      }
+      PermafrostTempleBiome:
+      {
+        DisplayName: 极光神殿
+      }
+      VitricDesertBiome:
+      {
+        DisplayName: 琉璃荒漠
+      }
+      VitricTempleBiome:
+      {
+        DisplayName: 琉璃锻炉
+      }
+      CombatShrineBiome:
+      {
+        DisplayName: 战斗之地
+      }
+      EvasionShrineBiome:
+      {
+        DisplayName: 闪躲之地
+      }
+    }
+    NPCs:
+    {
+      Glassweaver:
+      {
+        DisplayName: 织璃匠
+      }
+      GlassweaverWaiting:
+      {
+        DisplayName: 织璃匠
+      }
+      ArenaBlocker:
+      {
+        DisplayName: Arena Blocker # 不可见, 功能性NPC
+      }
+      Auroraborn:
+      {
+        DisplayName: 极光之子
+      }
+      Auroraling:
+      {
+        DisplayName: 小极光
+      }
+      SquidBoss:
+      {
+        DisplayName: 极光之触
+      }
+      Tentacle:
+      {
+        DisplayName: 触手
+      }
+      TentacleHurtbox:
+      {
+        DisplayName: Tentacle Hurtbox # 不可见, 功能性NPC
+      }
+      VitricBoss:
+      {
+        DisplayName: 塞洛斯
+      }
+      VitricBossCrystal:
+      {
+        DisplayName: 谐振水晶
+      }
+      StarlightWaterActor:
+      {
+        DisplayName: Starlight Water Actor
+      }
+      GravityOrbTest:
+      {
+        DisplayName: Gravity Orb Test
+      }
+      Dweller:
+      {
+        DisplayName: 住客
+      }
+      Stalker:
+      {
+        DisplayName: 追猎者
+      }
+      CrescentCaster:
+      {
+        DisplayName: 新月法师
+      }
+      Blover:
+      {
+        DisplayName: Blover
+      }
+      TreeBat:
+      {
+        DisplayName: 树蝠
+      }
+      Warbanner:
+      {
+        DisplayName: Haunted Warbanner
+      }
+      Fogbinder:
+      {
+        DisplayName: Fogbinder
+      }
+      AngryCrescent:
+      {
+        DisplayName: Angry Crescent
+      }
+      Dreambeast:
+      {
+        DisplayName: Dreambeast
+      }
+      Dreamprism:
+      {
+        DisplayName: Dreamprism
+      }
+      Crusher:
+      {
+        DisplayName: Masher
+      }
+      WaterCube:
+      {
+        DisplayName: Water Cube
+      }
+      Snoobel:
+      {
+        DisplayName: Snoobel
+      }
+      SwordEnemy:
+      {
+        DisplayName: Sky Splicer
+      }
+      EnchantNPC:
+      {
+        DisplayName: Enchant N P C
+      }
+      Voidsmith:
+      {
+        DisplayName: Voidsmith
+      }
+      BoomBug:
+      {
+        DisplayName: Firebug
+      }
+      CrystalPopper:
+      {
+        DisplayName: 沙漠蝙蝠
+      }
+      CrystalSlime:
+      {
+        DisplayName: 琉璃史莱姆
+      }
+      DesertWisp:
+      {
+        DisplayName: Desert Wisp
+      }
+      DesertWisp2:
+      {
+        DisplayName: Desert Wisp2
+      }
+      FlyingGruntConstruct:
+      {
+        DisplayName: Flying Grunt Construct
+      }
+      FlyingPelterConstruct:
+      {
+        DisplayName: Flying Pelter Construct
+      }
+      GruntConstruct:
+      {
+        DisplayName: Grunt Construct
+      }
+      JuggernautConstruct:
+      {
+        DisplayName: Juggernaut Construct
+      }
+      PelterConstruct:
+      {
+        DisplayName: Pelter Construct
+      }
+      ShieldConstruct:
+      {
+        DisplayName: Shield Construct
+      }
+      SupporterConstruct:
+      {
+        DisplayName: Supporter Construct
+      }
+      KettleCreature:
+      {
+        DisplayName: Kettle Kreature
+      }
+      LesserFirebug:
+      {
+        DisplayName: Lesser Firebug
+      }
+      MagmitePassive:
+      {
+        DisplayName: 小熔滴螨
+      }
+      Snake:
+      {
+        DisplayName: 熔火响尾蛇
+      }
+      CodexPickup:
+      {
+        DisplayName: 星光宝典
+      }
+      FaeflamePickup:
+      {
+        DisplayName: 妖精火焰
+      }
+      ForbiddenWindsPickup:
+      {
+        DisplayName: 禁忌之风
+      }
+      InfusionSlotPickup:
+      {
+        DisplayName: Unnerving Device
+      }
+      StaminaShardPickup:
+      {
+        DisplayName: Stamina Shard Pickup
+      }
+      BerrySlime:
+      {
+        DisplayName: 莓果史莱姆
+      }
+      TouchstoneWisp:
+      {
+        DisplayName: 极光之魂
+      }
+    }
+    Buffs:
+    {
+      GlassweaverDot:
+      {
+        DisplayName: 焚烧
+        Description: 以难以置信的速度燃烧！
+      }
+      Claustrophobia:
+      {
+        DisplayName: 幽闭恐惧症
+        Description: 困于丝线之中
+      }
+      CoughDropsBuff:
+      {
+        DisplayName: 止咳糖浆
+        Description: 你的速度和伤害得到提升
+      }
+      FerrofluidDraftBuff:
+      {
+        DisplayName: 磁流体牵引
+        Description: 附近的物品将会被你吸引
+      }
+      FoodBuff:
+      {
+        DisplayName: 滋养
+        Description:
+          '''
+          被丰富的食物滋养, 你将获得:
+
+          '''
+      }
+      ForestTonic:
+      {
+        DisplayName: 森林的补益
+        Description:
+          '''
+          对中毒免疫
+          缓慢再生生命
+          '''
+      }
+      Full:
+      {
+        DisplayName: 饱腹
+        Description: 吃不下更多食物了
+      }
+      HotspringHeal:
+      {
+        DisplayName: 提神温泉
+        Description: 这口热泉会疗愈你的身心
+      }
+      Illuminant:
+      {
+        DisplayName: 发光体
+        Description: 光彩夺目！
+      }
+      Ivy:
+      {
+        DisplayName: 常青藤
+        Description: 它将植根于你！
+      }
+      IvySnare:
+      {
+        DisplayName: 陷阱
+        Description: 你是我的了！
+      }
+      MossRegen:
+      {
+        DisplayName: 再生苔藓
+        Description: 快速地恢复生命
+      }
+      Overcharge:
+      {
+        DisplayName: 过充
+        Description: 大幅减少你的护甲，电击附近的敌人
+      }
+      PrismaticDrown:
+      {
+        DisplayName: 溺于流光
+        Description: 没入极光的海洋！
+      }
+      ProtectiveShard:
+      {
+        DisplayName: 护佑碎片
+        Description: 你受到的伤害减少25%
+      }
+      Rage:
+      {
+        DisplayName: 暴怒
+        Description: 提升伤害并显著提高击退
+      }
+      Slimed:
+      {
+        DisplayName: 黏滑
+        Description: 呜呣
+      }
+      Squash:
+      {
+        DisplayName: 压扁
+        Description: 你被压扁了
+      }
+      StaticShock:
+      {
+        DisplayName: 静电震击
+        Description: 降低防御
+      }
+      GrayGooSummonBuff:
+      {
+        DisplayName: 灰蛊
+        Description: 纳米机器，小子！
+      }
+      PalestoneSummonBuff:
+      {
+        DisplayName: 苍白骑士
+        Description: 苍白骑士将护佑你
+      }
+      SupplyBeaconDamage:
+      {
+        DisplayName: 信标增益：伤害
+        Description: 提升伤害
+      }
+      SupplyBeaconDefense:
+      {
+        DisplayName: 信标增益：防御
+        Description: 提升防御
+      }
+      SupplyBeaconHeal:
+      {
+        DisplayName: 信标增益：治疗
+        Description: 提升生命再生
+      }
+      ArchaeologistsBuff:
+      {
+        DisplayName: Treasure buff
+        Description: 你的召唤物的伤害获得增强
+      }
+      PerfectlyGenericPetBuff:
+      {
+        DisplayName: 完美通用宠物
+        Description: 由谷物制成
+      }
+      WolfBleeding:
+      {
+        DisplayName: 戳伤
+        Description: 被狼戳伤了
+      }
+      ShovelQuickFall:
+      {
+        DisplayName: 速降
+        Description: 砰然坠地
+      }
+      ShovelSlowFall:
+      {
+        DisplayName: 羽落
+        Description: 减缓降落速度
+      }
+      SoulSuck:
+      {
+        DisplayName: 灵魂汲取
+        Description: You getting sucked
+      }
+      BarbedKnifeBleed:
+      {
+        DisplayName: 深度创伤
+        Description: 你正在流血！
+      }
+      BizarrePotionPoisonDebuff:
+      {
+        DisplayName: 奇异毒素
+        Description: 你中毒了
+      }
+      BrokenGlassesBuff:
+      {
+        DisplayName: 碎玻璃
+        Description: 你看不见！loser!
+      }
+      CoachDebuff:
+      {
+        DisplayName: 特训
+        Description: 伤害提升10%
+      }
+      CorpseflowerBuff:
+      {
+        DisplayName: 尸魔花诅咒
+        Description: 你被尸花诅咒了...
+      }
+      FiletFrenzyBuff:
+      {
+        DisplayName: 血液冰封
+        Description: Increased melee speed, but decreased crit rate on Filet Knife
+      }
+      ImpactSMGBuff:
+      {
+        DisplayName: 高热！
+      }
+      IronheartBuff:
+      {
+        DisplayName: 钢铁之心
+        Description: you have decaying extra barrier and defense
+      }
+      PlexusChaliceBuff:
+      {
+        DisplayName: Plexus Resistance
+        Description: +30% Inoculation
+      }
+      RadculasRapierCooldown:
+      {
+        DisplayName: Radcula的传送冷却
+        Description: The rapier's energy seems deminished
+      }
+      MoonfuryDebuff:
+      {
+        DisplayName: 梦境炽焰
+        Description: Next Moonfury hit has increased damage
+      }
+      AuroraThroneMountMinionDebuff:
+      {
+        DisplayName: 墨染
+        Description: You take increased damage
+      }
+      UrnFreeze:
+      {
+        DisplayName: Urn Freeze
+        Description: 这口锅已经不受控制了！
+      }
+      InoculationPotionBuff:
+      {
+        DisplayName: Inoculated
+        Description: +30% Inoculation
+      }
+      NoShieldPot:
+      {
+        DisplayName: Barrier Sickness
+        Description: Cannot consume more barrier potions
+      }
+      ShieldDegenReduction:
+      {
+        DisplayName: Barrier Affinity
+        Description: Barrier sticks to you better
+      }
+      CogwheelBuff:
+      {
+        DisplayName: 齿轮
+        Description: 看我车轮滚滚
+      }
+      Exposed:
+      {
+        DisplayName: Exposed
+        Description: Taking extra damage!
+      }
+      PhoenixStormSummonBuff:
+      {
+        DisplayName: 凤凰风暴
+        Description: 炽焰之鸟将会跟随你
+      }
+      RefractiveBladeBuff:
+      {
+        DisplayName: 融化
+        Description: Taking additional melee damage!
+      }
+      SwelteredDeBuff:
+      {
+        DisplayName: 中暑
+        Description: 受到的伤害增加35%
+      }
+      Fogbinded:
+      {
+        DisplayName: Fogbinded
+        Description: Bound to the fogbinder
+      }
+    }
+    Prefixes:
+    {
+      DefensivePrefix:
+      {
+        DisplayName: 守备的
+      }
+      DoTResistPrefix1:
+      {
+        DisplayName: 健康的
+      }
+      DoTResistPrefix2:
+      {
+        DisplayName: 防护的
+      }
+      DoTResistPrefix3:
+      {
+        DisplayName: 祝福的
+      }
+      LayeredPrefix:
+      {
+        DisplayName: 分层的
+      }
+      PlatedPrefix:
+      {
+        DisplayName: 护板的
+      }
+      ReinforcedPrefix:
+      {
+        DisplayName: 加固的
+      }
+      StaminaPrefix1:
+      {
+        DisplayName: 欢跃的
+      }
+      StaminaPrefix2:
+      {
+        DisplayName: 活力的
+      }
+      StaminaPrefix3:
+      {
+        DisplayName: 强化的
+      }
+      StaminaPrefix4:
+      {
+        DisplayName: 过载的
+      }
+      Feral:
+      {
+        DisplayName: 野性的
+      }
+      Jumpy:
+      {
+        DisplayName: 跳跃的
+      }
+      Tanklike:
+      {
+        DisplayName: 坚守的
+      }
+    }
+  }
+}
