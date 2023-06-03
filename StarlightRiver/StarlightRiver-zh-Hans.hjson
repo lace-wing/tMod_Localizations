@@ -1959,18 +1959,18 @@ DefensiveMods.StarlightRiver:
     Tentacle: 触手
     TentacleHurtbox: Tentacle Hurtbox # 不可见, 功能性NPC
     VitricBoss: 塞洛斯
-    VitricBossCrystal: Resonant Crystal
+    VitricBossCrystal: 谐振水晶
     VitricBossPlatformDown: ""
     VitricBossPlatformDownSmall: ""
     VitricBossPlatformUp: ""
     VitricBossPlatformUpSmall: ""
     StarlightWaterActor: Starlight Water Actor
     GravityOrbTest: Gravity Orb Test
-    Dweller: Dweller
-    Stalker: Stalker
-    CrescentCaster: Crescent Caster
+    Dweller: 住客
+    Stalker: 追猎者
+    CrescentCaster: 新月法师
     Blover: Blover
-    TreeBat: Tree Bat
+    TreeBat: 树蝠
     Warbanner: Haunted Warbanner
     Fogbinder: Fogbinder
     AngryCrescent: Angry Crescent
