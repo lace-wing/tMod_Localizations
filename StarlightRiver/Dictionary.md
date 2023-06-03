@@ -16,7 +16,7 @@
 | Moonstone | 月长石 |  |
 | Starwood | 星木 |  |
 | Ceiros | 塞洛斯 |  |
-| Auroracle | 极光乌贼 |  |
+| Auroracle (SquidBoss) | 极光之触 |  |
 | Leggings | 护胫 | 与原版保持一致 |
 | {BossName} | {Boss名称} | 需要时再带称号, 一般不带 (Boss出场动画中称号另起了一行) |
 | {BossName} Trophy/Relic | {Boss称号}纪念章/圣物 | 纪念章/纪念章气派一点, 用称号而不是名称 |
