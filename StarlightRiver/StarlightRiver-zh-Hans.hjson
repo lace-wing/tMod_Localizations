@@ -1,4 +1,4 @@
-Mods.StarlightRiver:
+DefensiveMods.StarlightRiver:
 {
   ItemName:
   {
@@ -2126,20 +2126,20 @@ Mods.StarlightRiver:
   }
   Prefix:
   {
-    DefensivePrefix: Defensive
-    DoTResistPrefix1: Healthy
-    DoTResistPrefix2: Protected
-    DoTResistPrefix3: Blessed
-    LayeredPrefix: Layered
-    PlatedPrefix: Plated
-    ReinforcedPrefix: Reinforced
-    StaminaPrefix1: Springy
-    StaminaPrefix2: Energetic
-    StaminaPrefix3: Empowered
-    StaminaPrefix4: Overcharged
-    Feral: Feral
-    Jumpy: Jumpy
-    Tanklike: Tanklike
+    DefensivePrefix: 守备的
+    DoTResistPrefix1: 健康的
+    DoTResistPrefix2: 防护的
+    DoTResistPrefix3: 祝福的
+    LayeredPrefix: 分层的
+    PlatedPrefix: 护板的
+    ReinforcedPrefix: 加固的
+    StaminaPrefix1: 欢跃的
+    StaminaPrefix2: 活力的
+    StaminaPrefix3: 强化的
+    StaminaPrefix4: 过载的
+    Feral: 野性的
+    Jumpy: 跳跃的
+    Tanklike: 坚守的
   }
   MapObject:
   {
