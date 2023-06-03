@@ -1766,7 +1766,7 @@ DefensiveMods.StarlightRiver:
     CookStation: ""
     Infuser: ""
     CrashPod: ""
-    AnkhChest: Ankh Chest
+    AnkhChest: 十字箱
     TwistSwordTile: ""
     ForestBerryBush: ""
     MonkSpear: ""
@@ -2154,8 +2154,8 @@ DefensiveMods.StarlightRiver:
     CookStation: Cooking Station
     Infuser: Infuser
     CrashPod: Crashed Pod
-    AnkhChest: Mods.StarlightRiver.MapObject.AnkhChest
-    AnkhChest_Locked: Ankh Chest
+    AnkhChest: 十字箱
+    AnkhChest_Locked: 上锁十字箱
     TwistSwordTile: Twisted Greatsword
     ForestBerryBush: ""
     MonkSpear: Monk's Spade
