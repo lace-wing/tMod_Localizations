@@ -47,7 +47,7 @@ DefensiveMods.StarlightRiver:
     DesertArtifact6Item: 远古化石
     DesertArtifact7Item: 远古化石
     ExoticGeodeArtifactItem: 奇异晶洞
-    PerfectlyGenericArtifactItem: 完全普通的物品
+    PerfectlyGenericArtifactItem: 完美通用物品
     PirateChestArtifactItem: 海盗箱
     RainTotemArtifactItem: 暴雨图腾
     WindTotemArtifactItem: 烈风图腾
@@ -606,7 +606,7 @@ DefensiveMods.StarlightRiver:
       充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
       '''
     ExoticGeodeArtifactItem: "'极其闪亮'"
-    PerfectlyGenericArtifactItem: 召唤一个完全普通的宠物
+    PerfectlyGenericArtifactItem: 召唤一个完美通用的宠物
     PirateChestArtifactItem:
       '''
       右键打开
@@ -1493,7 +1493,7 @@ DefensiveMods.StarlightRiver:
     ArchaeologistsWhip_Whip: Archaeologist's Whip
     AztecDeathSaxophoneHoldout: Aztec Death Saxophone
     AztecDeathSaxophoneSoundwave: Aztec Death Saxophone Soundwave
-    PerfectlyGenericPet: 完全普通的宠物
+    PerfectlyGenericPet: 完美通用物品
     CloudstrikeShot: Electro Shock
     SkullBomb: Skull Bomb
     SkullBusterBullet: Bullet
@@ -2033,7 +2033,7 @@ DefensiveMods.StarlightRiver:
     SupplyBeaconDefense: 信标增益：防御
     SupplyBeaconHeal: 信标增益：治疗
     ArchaeologistsBuff: Treasure buff
-    PerfectlyGenericPetBuff: 完全普通的宠物
+    PerfectlyGenericPetBuff: 完美通用宠物
     WolfBleeding: 戳伤
     ShovelQuickFall: 速降
     ShovelSlowFall: 羽落
