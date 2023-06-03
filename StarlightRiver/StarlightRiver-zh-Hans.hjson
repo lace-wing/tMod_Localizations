@@ -38,7 +38,7 @@ DefensiveMods.StarlightRiver:
     AWhip_GreenGem: 宝藏
     AWhip_Necklace: 宝藏
     AWhip_RedGem: 宝藏
-    AztecDeathSaxophone: Aztec Death Saxophone
+    AztecDeathSaxophone: 阿兹台克死亡萨克斯
     DesertArtifact1Item: 远古化石
     DesertArtifact2Item: 远古化石
     DesertArtifact3Item: 远古化石
@@ -47,7 +47,7 @@ DefensiveMods.StarlightRiver:
     DesertArtifact6Item: 远古化石
     DesertArtifact7Item: 远古化石
     ExoticGeodeArtifactItem: 奇异晶洞
-    PerfectlyGenericArtifactItem: 完美通用物品
+    PerfectlyGenericArtifactItem: 完全普通的物品
     PirateChestArtifactItem: 海盗箱
     RainTotemArtifactItem: 暴雨图腾
     WindTotemArtifactItem: 烈风图腾
@@ -180,7 +180,7 @@ DefensiveMods.StarlightRiver:
     PhilosophersMortar: 哲学家的研钵
     PowerCell: 电池
     PulseBoots: 脉冲靴
-    RadculasRapier: Radcula's Rapier
+    RadculasRapier: 拉德库拉的长剑
     RhythmicResonator: 节律共振器
     Sandscript: 沙痕
     SanitizerSpray: 消毒喷雾
@@ -230,7 +230,7 @@ DefensiveMods.StarlightRiver:
     Tentalance: 五爪矛
     WaterStaff: 波纹法杖
     GreaterBarrierPotion: 强效屏障药水
-    InoculationPotion: Inoculation Potion
+    InoculationPotion: 疫苗药水
     LesserBarrierPotion: 弱效屏障药水
     RegularBarrierPotion: 屏障药水
     BloodCrystal: 血晶
@@ -308,7 +308,7 @@ DefensiveMods.StarlightRiver:
     StaminaShardTileItem: 耐力碎片
     WindsTileItem: 禁忌之风
     CookStationItem: 灶台
-    InfuserItem: "[PH]Infuser"
+    InfuserItem: "[PH]注魔器"
     AnkhChestItem: 十字箱
     ForestBerries: 森林莓果
     ForestBerryBushItem: 莓丛
@@ -329,14 +329,14 @@ DefensiveMods.StarlightRiver:
     VibeshroomItem: 颤颤蘑菇
     BlueTorchOvergrowItem: 蓝仙女火把 #原“蓝仙女火炬”
     CrusherOvergrowItem: 碾压陷阱
-    NoxiousNodeItem: Noxious Node
+    NoxiousNodeItem: 剧毒茎节
     OvergrowthLivingWoodItem: 繁茂生命木
-    Rock2x2Item: 2x2 rock placer
+    Rock2x2Item: 2x2石头放置器
     SkeletonBrickItem: 骨砖
     TorchOvergrowItem: 仙女火把 #原“仙女火炬”
     WallOvergrowBrickItem: 符文砖墙
     WallOvergrowGrassItem: 繁茂草墙
-    WindowSmallItem: Smol Window
+    WindowSmallItem: 小窗
     WispAltarLItem: Wisp Altar L Placer
     WispAltarRItem: Wisp Altar R Placer
     AuroraclePaintingItem: 闪辉虹水
@@ -353,7 +353,7 @@ DefensiveMods.StarlightRiver:
     PermafrostIceItem: 永冻冰块
     TouchstoneItem: 引光冰石
     TouchstoneLootboxItem: Touchstone Chest Placer
-    AuroracleTrophyItem: Auroracle Trophy
+    AuroracleTrophyItem: 极光之触纪念章
     CeirosTrophyItem: 塞洛斯纪念章
     CombatShrineItem: Combat shrine placer
     HotspringFountainItem: Hotspring Source
@@ -361,9 +361,9 @@ DefensiveMods.StarlightRiver:
     DashBarrierItem: Dash Barrier
     JarTallItem: Stamina Jar Placer (Tall)
     TempleChestPlacer: Temple Chest Placer
-    TempleWallBigItem: Large Ancient Temple Brick Wall
-    TempleWallItem: Ancient Temple Brick Wall
-    TestBubble: Bubble
+    TempleWallBigItem: 大古庙砖墙
+    TempleWallItem: 古庙砖墙
+    TestBubble: 泡泡
     VerletBannerItem: Verlet banner
     AncientSandstonePillarWallItem: 远古砂岩墙
     AncientSandstonePlatformItem: 远古砂岩平台
@@ -461,12 +461,12 @@ DefensiveMods.StarlightRiver:
     MinibossItem: 八音盒（小Boss）
     OvergrowItem: 八音盒 (Overgrow)
     AuroracleItem: 八音盒 （极光之触）
-    LeafOvergrowItem: Faerie Leaves
-    BrickOvergrowItem: Runic Bricks
-    StoneOvergrowItem: Runic Stone
-    SpringstoneItem: Springstone
-    ShrineBrazierItem: Mysterious Brazier
-    WitTileItem: Tile of Wit
+    LeafOvergrowItem: 妖精叶
+    BrickOvergrowItem: 符文砖
+    StoneOvergrowItem: 符文石
+    SpringstoneItem: 温泉石
+    ShrineBrazierItem: 神秘火盆
+    WitTileItem: 智砖
     AncientSandstoneItem: 远古砂岩
     AncientSandstoneTileItem: 远古砂岩瓷砖
     VitricBrickItem: 琉璃砖
@@ -605,8 +605,8 @@ DefensiveMods.StarlightRiver:
       受到伤害或击杀敌人时会为萨克斯充能
       充能后，左键释放狂暴乐曲，屠杀任何挡在路上的敌人
       '''
-    ExoticGeodeArtifactItem: "'Incredibly shiny'"
-    PerfectlyGenericArtifactItem: 召唤一个完美通用的宠物
+    ExoticGeodeArtifactItem: "'极其闪亮'"
+    PerfectlyGenericArtifactItem: 召唤一个完全普通的宠物
     PirateChestArtifactItem:
       '''
       右键打开
@@ -1385,7 +1385,7 @@ DefensiveMods.StarlightRiver:
     BlueTorchOvergrowItem: 闪光的! 并且是蓝的!
     NoxiousNodeItem: 调试物品
     OvergrowthLivingWoodItem: "[PH]把这个变成魔杖和法杖"
-    Rock2x2Item: 它会放置...岩石
+    Rock2x2Item: 它会放置...石头
     TorchOvergrowItem: 闪光的!
     WindowSmallItem: 调试物品
     WispAltarLItem: 调试物品
@@ -1448,7 +1448,7 @@ DefensiveMods.StarlightRiver:
   {
     ArtifactItemProj: 人工制品
     BurningGround: 燃烬
-    GlassBubble: Volatile Bubble
+    GlassBubble: 不稳定泡泡
     GlassBubbleFragment: 玻璃碎片
     GlassHammer: 编织之锤
     GlassJavelin: 琉璃枪
@@ -1472,8 +1472,8 @@ DefensiveMods.StarlightRiver:
     FireCone: 炎锥
     FireRingHostile: 火焰指环
     GlassSpike: 琉璃尖刺
-    GlassVolley: Glass Volley
-    GlassVolleyShard: Glass Volley Shard
+    GlassVolley: 琉璃齐射
+    GlassVolleyShard: 琉璃齐射碎片
     LavaDart: 熔岩弹丸
     SpikeMine: 尖刺地雷
     TelegraphedGlassSpike: 琉璃尖刺
@@ -1493,7 +1493,7 @@ DefensiveMods.StarlightRiver:
     ArchaeologistsWhip_Whip: Archaeologist's Whip
     AztecDeathSaxophoneHoldout: Aztec Death Saxophone
     AztecDeathSaxophoneSoundwave: Aztec Death Saxophone Soundwave
-    PerfectlyGenericPet: 完美通用宠物
+    PerfectlyGenericPet: 完全普通的宠物
     CloudstrikeShot: Electro Shock
     SkullBomb: Skull Bomb
     SkullBusterBullet: Bullet
@@ -1572,8 +1572,8 @@ DefensiveMods.StarlightRiver:
     ImpactSMGShot: Impact SMG Shot
     MagmaGunPhantomProj: Magma Glob
     MonkSpadeProjectile: Monk Spade Projectile
-    RadculasRapierSwungBlade: Radculas Rapier
-    RadculasRapierTeleport: Radculas Rapier
+    RadculasRapierSwungBlade: 拉德库拉的长剑
+    RadculasRapierTeleport: 拉德库拉的长剑
     SandSlash: Sand Slash
     SlingHeldProjectile: Sling
     SlingMushroomProjectile: Shroom
@@ -2033,7 +2033,7 @@ DefensiveMods.StarlightRiver:
     SupplyBeaconDefense: 信标增益：防御
     SupplyBeaconHeal: 信标增益：治疗
     ArchaeologistsBuff: Treasure buff
-    PerfectlyGenericPetBuff: 完美通用宠物
+    PerfectlyGenericPetBuff: 完全普通的宠物
     WolfBleeding: 戳伤
     ShovelQuickFall: 速降
     ShovelSlowFall: 羽落
@@ -2096,7 +2096,7 @@ DefensiveMods.StarlightRiver:
     SupplyBeaconDefense: 提升防御
     SupplyBeaconHeal: 提升生命再生
     ArchaeologistsBuff: 你的召唤物的伤害获得增强
-    PerfectlyGenericPetBuff: 由grist制成
+    PerfectlyGenericPetBuff: 由谷物制成
     WolfBleeding: 被狼戳伤了
     ShovelQuickFall: 砰然坠地
     ShovelSlowFall: 减缓降落速度
