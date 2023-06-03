@@ -1949,15 +1949,15 @@ DefensiveMods.StarlightRiver:
     Glassweaver: Glassweaver
     GlassweaverWaiting: Glassweaver
     ArenaActor: ""
-    ArenaBlocker: Arena Blocker
-    Auroraborn: 极光子嗣
-    Auroraling: Auroraling
+    ArenaBlocker: Arena Blocker # 不可见, 功能性NPC  
+    Auroraborn: 极光之子
+    Auroraling: 小极光
     GoldPlatform: ""
     IcePlatform: ""
     IcePlatformSmall: ""
-    SquidBoss: Auroracle
+    SquidBoss: 极光之触
     Tentacle: 触手
-    TentacleHurtbox: Tentacle Hurtbox
+    TentacleHurtbox: Tentacle Hurtbox # 不可见, 功能性NPC
     VitricBoss: 塞洛斯
     VitricBossCrystal: Resonant Crystal
     VitricBossPlatformDown: ""
