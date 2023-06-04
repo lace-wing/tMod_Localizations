@@ -1,8 +1,10 @@
 Mods: {
 	StarlightRiver: {
 		Keybinds: {
-			"Forbidden Winds.DisplayName": Mods.StarlightRiver.Keybinds.Forbidden Winds.DisplayName
-			Faeflame.DisplayName: Mods.StarlightRiver.Keybinds.Faeflame.DisplayName
+			"[PH]Hint.DisplayName": "[ P H] Hint"
+			"Forbidden Winds.DisplayName": Forbidden  Winds
+			Faeflame.DisplayName: Faeflame
+			Starsight.DisplayName: Starsight
 		}
 
 		Items: {
@@ -26,7 +28,7 @@ Mods: {
 					'''
 					Forbidden Winds Infusion
 					Dash farther and carry more speed
-					Increases stamina cost to 1.3
+					Increases starlight cost to 1.3
 					'''
 			}
 
@@ -36,7 +38,7 @@ Mods: {
 					'''
 					Forbidden Winds Infusion
 					Dash farther and carry even more speed
-					Increases stamina cost to 1.6
+					Increases starlight cost to 1.6
 					'''
 			}
 
@@ -46,7 +48,7 @@ Mods: {
 					'''
 					Forbidden Winds Infusion
 					Dash farther and carry the most speed
-					Increases stamina cost to 2
+					Increases starlight cost to 2
 					'''
 			}
 
@@ -75,7 +77,7 @@ Mods: {
 					'''
 					Forbidden Winds Infusion
 					Dash is replaced by a short, frequent, and potent burst of speed
-					Decreases stamina cost by 0.25
+					Decreases starlight cost by 0.25
 					'''
 			}
 
@@ -96,8 +98,8 @@ Mods: {
 			}
 
 			CauldronItem: {
-				Tooltip: Alchemic Cauldron
-				DisplayName: Cauldron Item
+				DisplayName: Alchemic Cauldron
+				Tooltip: Places an Alchemic Cauldron
 			}
 
 			MixingStick: {
@@ -352,6 +354,16 @@ Mods: {
 				DisplayName: Defiled Ankh
 			}
 
+			Sandscript: {
+				DisplayName: Sandscript
+				Tooltip:
+					'''
+					Manifests a blade of sand
+					`This lost tablet contains a fragment of the Epic of Yeremy
+					...The writing is sorta ameteurish for an ancient relic`
+					'''
+			}
+
 			AquaSapphire: {
 				DisplayName: Aqua Sapphire
 				Tooltip:
@@ -403,6 +415,25 @@ Mods: {
 					'Rip and tear'
 					'''
 				DisplayName: Thousandth Degree
+			}
+
+			TwistSword: {
+				DisplayName: Twisted Greatsword
+				Tooltip:
+					'''
+					Hold to unleash a whirling slash
+					Hold jump while slashing to accelerate upward
+					'''
+			}
+
+			WardedMail: {
+				DisplayName: Warded Mail
+				Tooltip:
+					'''
+					Barrier damage is applied to attackers as thorns 
+					+Barrier negates 10% more damage 
+					+40 barrier
+					'''
 			}
 
 			ReplicantCells: {
@@ -684,6 +715,15 @@ Mods: {
 				Tooltip: Killing summon tagged enemies summons acorns to fall on nearby enemies
 			}
 
+			BricklayersMallet: {
+				DisplayName: Bricklayer's Mallet
+				Tooltip:
+					'''
+					Doubles block placement and tool range
+					Decreases mining speed by 50% for blocks outside your original range
+					'''
+			}
+
 			DustyAmulet: {
 				DisplayName: Dusty Amulet
 				Tooltip:
@@ -830,6 +870,15 @@ Mods: {
 				Tooltip: Regenerates on a successful hit
 			}
 
+			BloodAmulet: {
+				DisplayName: Blood Amulet
+				Tooltip:
+					'''
+					Every 25 damage taken releases a homing bloodbolt 
+					These bolts damage enemies and guaruntee they drop life hearts on death
+					'''
+			}
+
 			BloodBolter: {
 				DisplayName: Bloodbolter
 				Tooltip:
@@ -895,6 +944,21 @@ Mods: {
 					Coins lose their power when they contact any surface
 					'Money is the root of all evil'
 					'''
+			}
+
+			Corpseflower: {
+				Tooltip:
+					'''
+					All damage dealt is converted into damage over time
+					Damage is decreased by 66%
+					You are unable to critically strike while equipped
+					'''
+				DisplayName: Corpseflower
+			}
+
+			Slitherring: {
+				DisplayName: Slitherring
+				Tooltip: Whips have a chance to shoot out a smaller, snake whip
 			}
 
 			ChargedMagnet: {
@@ -992,15 +1056,6 @@ Mods: {
 					'''
 			}
 
-			BloodAmulet: {
-				DisplayName: Blood Amulet
-				Tooltip:
-					'''
-					Every 25 damage taken releases a homing bloodbolt 
-					These bolts damage enemies and guaruntee they drop life hearts on death
-					'''
-			}
-
 			BloodlessAmulet: {
 				DisplayName: Amulet of the Bloodless Warrior
 				Tooltip:
@@ -1013,15 +1068,6 @@ Mods: {
 					 Slightly reduced barrier recharge
 					 Healing grants a decaying damage boost instead of life
 					'Leave your flesh behind, for your rage is all you need'
-					'''
-			}
-
-			BricklayersMallet: {
-				DisplayName: Bricklayer's Mallet
-				Tooltip:
-					'''
-					Doubles block placement and tool range
-					Decreases mining speed by 50% for blocks outside your original range
 					'''
 			}
 
@@ -1069,16 +1115,6 @@ Mods: {
 			CopperCoil: {
 				DisplayName: Copper Coil
 				Tooltip: Strikes nearby enemies with static electricity
-			}
-
-			Corpseflower: {
-				Tooltip:
-					'''
-					All damage dealt is converted into damage over time
-					Damage is decreased by 66%
-					You are unable to critically strike while equipped
-					'''
-				DisplayName: Corpseflower
 			}
 
 			CoughDrops: {
@@ -1186,11 +1222,6 @@ Mods: {
 					'''
 			}
 
-			GlassArrowhead: {
-				DisplayName: Glass Arrowhead
-				Tooltip: Critical strikes cause fired arrows to shatter into glass shards
-			}
-
 			GraveBuster: {
 				DisplayName: Gravebuster
 				Tooltip:
@@ -1242,9 +1273,9 @@ Mods: {
 			HungryStomach: {
 				Tooltip:
 					'''
-					Restore stamina by damaging foes
+					Restore starlight by damaging foes
 					Melee weapons are twice as effective
-					Cursed: Disables natural stamina regenration
+					Cursed: Disables natural starlight regenration
 					'''
 				DisplayName: Hungry Stomach
 			}
@@ -1305,6 +1336,16 @@ Mods: {
 				Tooltip: Blasts a torrential stream of lava that sticks to tiles and enemies
 			}
 
+			MartialBook: {
+				DisplayName: Martial Encyclopedia
+				Tooltip:
+					'''
+					Combined effects of Tiger, Snake, and Mantis Techniques
+					+10% melee critical damage
+					Quit, don't quit... Noodles, don't noodles.
+					'''
+			}
+
 			PandorasDagger: {
 				DisplayName: Pandora's Dagger
 				Tooltip: Grazes release Discordant Bolts, that inflict stacks of Volatile
@@ -1350,16 +1391,6 @@ Mods: {
 					'''
 			}
 
-			Sandscript: {
-				DisplayName: Sandscript
-				Tooltip:
-					'''
-					Manifests a blade of sand
-					`This lost tablet contains a fragment of the Epic of Yeremy
-					...The writing is sorta ameteurish for an ancient relic`
-					'''
-			}
-
 			SanitizerSpray: {
 				DisplayName: Sanitizer Spray
 				Tooltip: Critical strikes have a 25% chance to transfer partial debuff duration to nearby enemies
@@ -1384,11 +1415,6 @@ Mods: {
 					75% chance to not consume ammo
 					'''
 				DisplayName: Sling
-			}
-
-			Slitherring: {
-				DisplayName: Slitherring
-				Tooltip: Whips have a chance to shoot out a smaller, snake whip
 			}
 
 			Soilgun: {
@@ -1430,6 +1456,16 @@ Mods: {
 					'''
 			}
 
+			SpearBook: {
+				DisplayName: Snake Technique
+				Tooltip:
+					'''
+					Allows execution of combos with spears
+					Last combo attack has increased critical strike chance and damage
+					Right click to deter enemies with a flurry of stabs
+					'''
+			}
+
 			SpikedMail: {
 				DisplayName: Spiked Mail
 				Tooltip:
@@ -1445,23 +1481,8 @@ Mods: {
 			}
 
 			StaminaRing: {
-				DisplayName: Band of Endurance
-				Tooltip: Slowly regenerates stamina
-			}
-
-			StaminaUp: {
-				DisplayName: Glass Stamina Vessel
-				Tooltip: Increased maximum stamina by 1
-			}
-
-			StarlightShuriken: {
-				DisplayName: Starlight Shuriken
-				Tooltip:
-					'''
-					Toss a volley of magical shurikens
-					Landing every shuriken decreases the amount thrown by 1
-					Throw a powerful glaive when you would throw only 1 shuriken
-					'''
+				DisplayName: Band of Starlight
+				Tooltip: Slowly regenerates starlight
 			}
 
 			SwordBook: {
@@ -1489,15 +1510,6 @@ Mods: {
 				Tooltip: Strikes nearby enemies with static electricity
 			}
 
-			TwistSword: {
-				DisplayName: Twisted Greatsword
-				Tooltip:
-					'''
-					Hold to unleash a whirling slash
-					Hold jump while slashing to accelerate upward
-					'''
-			}
-
 			Ultrapills: {
 				DisplayName: ULTRAPILLS
 				Tooltip:
@@ -1508,19 +1520,14 @@ Mods: {
 					'''
 			}
 
-			WardedMail: {
-				DisplayName: Warded Mail
-				Tooltip:
-					'''
-					Barrier damage is applied to attackers as thorns 
-					+Barrier negates 10% more damage 
-					+40 barrier
-					'''
-			}
-
 			CrescentQuarterstaff: {
 				DisplayName: Crescent Quarterstaff
-				Tooltip: Update this egshels
+				Tooltip:
+					'''
+					Striking enemies charges the staff with lunar energy
+					Condenses collected energy into a lunar orb when the final slam hits the ground
+					Update this egshels (sfx needed)
+					'''
 			}
 
 			Datsuzei: {
@@ -1587,6 +1594,16 @@ Mods: {
 			MoonstoneOreItem: {
 				DisplayName: Moonstone
 				Tooltip: ""
+			}
+
+			StarlightShuriken: {
+				DisplayName: Starlight Shuriken
+				Tooltip:
+					'''
+					Toss a volley of magical shurikens
+					Landing every shuriken decreases the amount thrown by 1
+					Throw a powerful glaive when you would throw only 1 shuriken
+					'''
 			}
 
 			Shaker: {
@@ -2016,6 +2033,11 @@ Mods: {
 					'''
 			}
 
+			GlassArrowhead: {
+				DisplayName: Glass Arrowhead
+				Tooltip: Critical strikes cause fired arrows to shatter into glass shards
+			}
+
 			GlassIdol: {
 				Tooltip: Used to worship a powerful guardian.
 				DisplayName: Glass Idol
@@ -2121,6 +2143,11 @@ Mods: {
 					'''
 			}
 
+			StaminaUp: {
+				DisplayName: Glass Starlight Vessel
+				Tooltip: Increased maximum starlight by 1
+			}
+
 			TempleEntranceKey: {
 				DisplayName: Large forge key
 				Tooltip: Opens a door to the vitric forge.
@@ -2172,7 +2199,7 @@ Mods: {
 
 			VitricLegs: {
 				DisplayName: Vitric Greaves
-				Tooltip: Slightly improved stamina regeneration
+				Tooltip: Slightly improved starlight regeneration
 			}
 
 			VitricMagicBook: {
@@ -2204,14 +2231,14 @@ Mods: {
 					'''
 			}
 
+			CoolmiteItem: {
+				DisplayName: Coolmite
+				Tooltip: Fragile! Please handle with care.
+			}
+
 			MagmitePassiveItem: {
 				DisplayName: Magmite
 				Tooltip: Release him!
-			}
-
-			CodexTileItem: {
-				DisplayName: Starlight Codex
-				Tooltip: Debug placer for ability pickup
 			}
 
 			FaeflameTileItem: {
@@ -2220,7 +2247,7 @@ Mods: {
 			}
 
 			StaminaShardTileItem: {
-				DisplayName: Stamina Shard
+				DisplayName: Starlight Shard
 				Tooltip: Debug Item
 			}
 
@@ -2242,6 +2269,16 @@ Mods: {
 			AnkhChestItem: {
 				DisplayName: Ankh Chest
 				Tooltip: ""
+			}
+
+			DesertMonolithFlippedItem: {
+				DisplayName: Flipped Desert Monolith
+				Tooltip: Places a section of flipped desert monolith
+			}
+
+			DesertMonolithItem: {
+				DisplayName: Desert Monolith
+				Tooltip: Places a section of desert monolith
 			}
 
 			ForestBerryBushItem: {
@@ -2298,15 +2335,15 @@ Mods: {
 			}
 
 			StaminaGemItem: {
-				DisplayName: Stamina Gem
-				Tooltip: Restores stamina when hit with an ability
+				DisplayName: Starlight Gem
+				Tooltip: Restores starlight when hit with an ability
 			}
 
 			StaminaOrbItem: {
-				DisplayName: Stamina Orb
+				DisplayName: Starlight Orb
 				Tooltip:
 					'''
-					Pass through this to gain stamina!
+					Pass through this to gain starlight!
 					5 second cooldown
 					'''
 			}
@@ -2546,6 +2583,11 @@ Mods: {
 				Tooltip: ""
 			}
 
+			DestructableGlassItem: {
+				DisplayName: Breakable vitric crystal
+				Tooltip: A chunk of vitric crystal susceptible to the force of forbidden winds
+			}
+
 			ForgeDoorItem: {
 				DisplayName: Forge Door
 				Tooltip: Debug Item
@@ -2601,6 +2643,16 @@ Mods: {
 				Tooltip: Debug Item
 			}
 
+			LightActorItem: {
+				DisplayName: Light actor placer
+				Tooltip: Debug item
+			}
+
+			LensItem: {
+				DisplayName: Reflector Lens
+				Tooltip: Debug Item
+			}
+
 			ReflectorItem: {
 				DisplayName: Reflector
 				Tooltip: Debug Item
@@ -2609,6 +2661,11 @@ Mods: {
 			LowWindBannerItem: {
 				DisplayName: Rectangular Flowing Banner
 				Tooltip: ""
+			}
+
+			MainForgeItem: {
+				DisplayName: Main forge
+				Tooltip: Debug item
 			}
 
 			NPCSpawnerItem: {
@@ -2621,8 +2678,18 @@ Mods: {
 				Tooltip: Debug Item
 			}
 
+			TallWindowCrystalItem: {
+				DisplayName: Crystal Window Actor
+				Tooltip: Debug Item
+			}
+
 			TallWindowItem: {
 				DisplayName: Window Actor
+				Tooltip: Debug Item
+			}
+
+			TallWindowLavaItem: {
+				DisplayName: Lava Window Actor
 				Tooltip: Debug Item
 			}
 
@@ -2656,8 +2723,18 @@ Mods: {
 				Tooltip: Debug Item
 			}
 
+			VitricPillarWallCrystalItem: {
+				DisplayName: Crystal Vitric Forge Pillar
+				Tooltip: Sturdy
+			}
+
 			VitricPillarWallItem: {
 				DisplayName: Vitric Forge Pillar
+				Tooltip: Sturdy
+			}
+
+			VitricPillarWallLavaItem: {
+				DisplayName: Lava Vitric Forge Pillar
 				Tooltip: Sturdy
 			}
 
@@ -2667,7 +2744,12 @@ Mods: {
 			}
 
 			VitricTempleWallItem: {
-				DisplayName: Vitric Forge Brick Wall
+				DisplayName: Vitric Forge Brick Wall (Danger)
+				Tooltip: Debug item
+			}
+
+			VitricTempleWallSafeItem: {
+				DisplayName: Vitric Forge Brick Wall (Safe)
 				Tooltip: Sturdy
 			}
 
@@ -2754,16 +2836,6 @@ Mods: {
 			VitricBannerItem: {
 				DisplayName: Long Flowing Banner
 				Tooltip: ""
-			}
-
-			VitricBossBarrierItem: {
-				DisplayName: VitricBossBarrierItem
-				Tooltip: debug item
-			}
-
-			GlassweaverBossBarrierItem: {
-				DisplayName: GlassweaverBossBarrierItem
-				Tooltip: debug item
 			}
 
 			CombatShrineBarrierItem: {
@@ -2859,6 +2931,16 @@ Mods: {
 			VitricDoor: {
 				DisplayName: Vitric Door
 				Tooltip: ""
+			}
+
+			VitricBossBarrierItem: {
+				DisplayName: VitricBossBarrierItem
+				Tooltip: debug item
+			}
+
+			GlassweaverBossBarrierItem: {
+				DisplayName: GlassweaverBossBarrierItem
+				Tooltip: debug item
 			}
 
 			TempleChairItem: {
@@ -3036,6 +3118,26 @@ Mods: {
 				Tooltip: ""
 			}
 
+			DoorLasersItem: {
+				DisplayName: Laser Puzzle Temple Door
+				Tooltip: Temple Door, Opens if laser puzzle is solved
+			}
+
+			VitricDoorClosed: {
+				DisplayName: Vitric Door
+				Tooltip: ""
+			}
+
+			"": {
+				Tooltip: ""
+				DisplayName: ""
+			}
+
+			TarnishedRing: {
+				DisplayName: Tarnished Ring
+				Tooltip: "'Ancient and heavily tarnished, but still solid. You could sculpt this into something useful..."
+			}
+
 			BaseBarrierDye: {
 				DisplayName: Base Barrier Dye
 				Tooltip: ""
@@ -3046,6 +3148,11 @@ Mods: {
 				Tooltip: ""
 			}
 
+			MonkSpade: {
+				DisplayName: Monk Spade
+				Tooltip: ""
+			}
+
 			RainbowCycleDye: {
 				DisplayName: Rainbow Cycle Dye
 				Tooltip: ""
@@ -3053,11 +3160,6 @@ Mods: {
 
 			RainbowCycleDye2: {
 				DisplayName: Rainbow Cycle Dye2
-				Tooltip: ""
-			}
-
-			MonkSpade: {
-				DisplayName: Monk Spade
 				Tooltip: ""
 			}
 
@@ -3110,29 +3212,6 @@ Mods: {
 				DisplayName: Pink Laser Pointer
 				Tooltip: ""
 			}
-
-			SpearBook: {
-				DisplayName: Snake Technique
-				Tooltip:
-					'''
-					Allows execution of combos with spears
-					Right click to deter enemies with a flurry of stabs
-					'''
-			}
-
-			MartialBook: {
-				DisplayName: Martial Encyclopedia
-				Tooltip:
-					'''
-					Effects of Tiger, Snake, and Mantis Techniques
-					+10% melee critical damage
-					'''
-			}
-
-			CoolmiteItem: {
-				DisplayName: Magmite
-				Tooltip: Release him!
-			}
 		}
 
 		Projectiles: {
@@ -3184,6 +3263,7 @@ Mods: {
 			TopazShard.DisplayName: Topaz Shard
 			TopazShield.DisplayName: Topaz Shield
 			TopazShieldFade.DisplayName: Topaz Shield
+			BloodAmuletBolt.DisplayName: Ghoul
 			BloodBolt.DisplayName: Blood Bolt
 			BloodBolterExplosion.DisplayName: Blood Bolter
 			BloodBolterHeldProj.DisplayName: Blood bolter
@@ -3198,6 +3278,7 @@ Mods: {
 			ObolImpact.DisplayName: Obol Star
 			PlatinumObol.DisplayName: Obol
 			SilverObol.DisplayName: Obol
+			SlitherringWhip.DisplayName: Slither Whip
 			GrayGooProj.DisplayName: Gray Goo
 			ThunderBeadsProj.DisplayName: Thunder Beads
 			ThunderbussShot.DisplayName: Electro Shock
@@ -3205,7 +3286,6 @@ Mods: {
 			BizarreIce.DisplayName: Bizarre Potion
 			BizarrePotionProj.DisplayName: Bizarre Potion
 			BladesawSwungBlade.DisplayName: Bladesaw
-			BloodAmuletBolt.DisplayName: Ghoul
 			CoachGunBomb.DisplayName: Dynamite
 			CoachGunEmber.DisplayName: Ember
 			CoachGunMuzzleFlash.DisplayName: Muzzle Flash
@@ -3241,7 +3321,6 @@ Mods: {
 			SlingMushroomProjectile.DisplayName: Shroom
 			SlingSeedProjectile.DisplayName: Seed
 			SlingStoneProjectile.DisplayName: Stone
-			SlitherringWhip.DisplayName: Slither Whip
 			HauntedSoul.DisplayName: Soul
 			SoilgunCoinsProjectile.DisplayName: Coin
 			SoilgunCrimsandSoil.DisplayName: Soil
@@ -3262,6 +3341,7 @@ Mods: {
 			TaintedGreataxeProjectile.DisplayName: Ethereal Greataxe
 			ThrusterEmber.DisplayName: Thruster
 			TinCoilWhip.DisplayName: Tin Coil
+			CrescentOrb.DisplayName: Lunar Orb
 			CrescentQuarterstaffProj.DisplayName: Crescent Quarterstaff
 			DianeCrescant.DisplayName: Crescant
 			MoonfuryProj.DisplayName: Moonfury Spike
@@ -3270,7 +3350,6 @@ Mods: {
 			MoonstoneArrowRing.DisplayName: Orbital Strike
 			MoonstoneHamaxeHoldout.DisplayName: Moonstone Hamaxe
 			MoonstoneHamaxeRing.DisplayName: Explosion
-			QuarterOrb.DisplayName: Lunar Orb
 			ShakerBall.DisplayName: Shaker
 			PaleKnight.DisplayName: Pale Knight
 			PalestoneSlash.DisplayName: Pale Slash
@@ -3375,11 +3454,16 @@ Mods: {
 			DynamicGearDummy.DisplayName: ""
 			GearPuzzleOriginDummy.DisplayName: ""
 			ObjectiveGearDummy.DisplayName: ""
+			LightActorDummy.DisplayName: ""
+			LensDummy.DisplayName: ""
 			ReflectorDummy.DisplayName: ""
 			LowWindBannerDummy.DisplayName: ""
+			MainForgeDummy.DisplayName: ""
 			NPCSpawnerDummy.DisplayName: ""
 			OldCeirosShrineDummy.DisplayName: ""
+			TallWindowCrystalDummy.DisplayName: ""
 			TallWindowDummy.DisplayName: ""
+			TallWindowLavaDummy.DisplayName: ""
 			TutorialDoor1Dummy.DisplayName: ""
 			TutorialDoor2Dummy.DisplayName: ""
 			WindsRoomActorDummy.DisplayName: ""
@@ -3392,9 +3476,11 @@ Mods: {
 			VitricOreFloatDummy.DisplayName: ""
 			VitricSmallDummy.DisplayName: ""
 			VitricBannerDummy.DisplayName: ""
+			HintText.DisplayName: Hint Text
 			BurningGround.DisplayName: Burning Ground
 			GlassJavelin.DisplayName: Glass Javelin
 			GlassweaverDoor.DisplayName: Glassweaver Door
+			Glint.DisplayName: Glint
 			AuroraWaterSplash.DisplayName: Aurora Water Splash
 			DoorBomb.DisplayName: Door Bomb
 			Laser.DisplayName: Laser
@@ -3409,7 +3495,10 @@ Mods: {
 			LightningNode.DisplayName: Lightning Node
 			ScrapshotHook.DisplayName: Scrapshot Hook
 			AztecDeathSaxophoneSoundwave.DisplayName: Aztec Death Saxophone Soundwave
+			SandSlash.DisplayName: Sand Slash
+			TwistSwordProjectile.DisplayName: Twist Sword Projectile
 			Acorn.DisplayName: Acorn
+			MonkSpadeProjectile.DisplayName: Monk Spade Projectile
 			GeoAmethystProj.DisplayName: Geo Amethyst Proj
 			GeoDiamondProj.DisplayName: Geo Diamond Proj
 			GeoEmeraldProj.DisplayName: Geo Emerald Proj
@@ -3424,16 +3513,15 @@ Mods: {
 			FryingPanThrownProj.DisplayName: Frying Pan Thrown Proj
 			GuillotineVFX.DisplayName: Guillotine V F X
 			HolyAmuletOrb.DisplayName: Holy Amulet Orb
-			MonkSpadeProjectile.DisplayName: Monk Spade Projectile
-			SandSlash.DisplayName: Sand Slash
 			SorcerwrenchProjectile.DisplayName: Sorcerwrench Projectile
-			StarGlaive.DisplayName: Star Glaive
-			StarShuriken.DisplayName: Star Shuriken
+			SpearBookProjectile.DisplayName: Spear Book Projectile
+			SwordBookParry.DisplayName: Sword Book Parry
 			SwordBookProjectile.DisplayName: Sword Book Projectile
 			ThrownAxeProjectile.DisplayName: Thrown Axe Projectile
-			TwistSwordProjectile.DisplayName: Twist Sword Projectile
 			UltrapillBlood.DisplayName: Ultrapill Blood
 			DatsuzeiProjectile.DisplayName: Datsuzei Projectile
+			StarGlaive.DisplayName: Star Glaive
+			StarShuriken.DisplayName: Star Shuriken
 			AuroraThroneMountMinion.DisplayName: Aurora Throne Mount Minion
 			FrostballProjectile.DisplayName: Frostball Projectile
 			FrostExplosion.DisplayName: Frost Explosion
@@ -3441,6 +3529,7 @@ Mods: {
 			StarwoodSlingshotProj.DisplayName: Starwood Slingshot Proj
 			RuneStaffExplosion.DisplayName: Rune Staff Explosion
 			RuneStaffProjectile.DisplayName: Rune Staff Projectile
+			TemplePickProjectile.DisplayName: Temple Pick Projectile
 			TempleSpearLight.DisplayName: Temple Spear Light
 			LaserPointerProjectile.DisplayName: Laser Pointer Projectile
 			CoachGunUpgradeExplosion.DisplayName: Coach Gun Upgrade Explosion
@@ -3451,17 +3540,15 @@ Mods: {
 			RefractiveBladeProj.DisplayName: Refractive Blade Proj
 			VitricBowProjectile.DisplayName: Vitric Bow Projectile
 			VitricBowShard.DisplayName: Vitric Bow Shard
+			BossRushOrbGoreProjectile.DisplayName: Boss Rush Orb Gore Projectile
 			ConstructSpawner.DisplayName: Construct Spawner
 			GauntletSpawner.DisplayName: Gauntlet Spawner
 			SpawnEgg.DisplayName: Spawn Egg
-			CrescentOrb.DisplayName: Lunar Orb
-			SpearBookProjectile.DisplayName: Spear Book Projectile
 		}
 
 		Tiles: {
 			CauldronTile.MapEntry: Alchemic Cauldron
 			SeaglassRingTile.MapEntry: ""
-			CodexPickupTile.MapEntry: ""
 			FaeflamePickupTile.MapEntry: ""
 			ForbiddenWindsPickupTile.MapEntry: ""
 			StaminaShardTile.MapEntry: ""
@@ -3469,6 +3556,8 @@ Mods: {
 			Infuser.MapEntry: Infuser
 			CrashPod.MapEntry: Crashed Pod
 			AnkhChest.MapEntry: Ankh Chest
+			DesertMonolith.MapEntry: ""
+			DesertMonolithFlipped.MapEntry: ""
 			TwistSwordTile.MapEntry: Twisted Greatsword
 			PinkSeaSalt.MapEntry: ""
 			TableSalt.MapEntry: ""
@@ -3525,6 +3614,7 @@ Mods: {
 			TempleChestSimple.MapEntry: ""
 			TempleLootBubble.MapEntry: ""
 			VerletBanner.MapEntry: ""
+			DestructableGlass.MapEntry: ""
 			ForgeActor.MapEntry: ""
 			ForgeDoor.MapEntry: Forge Door
 			ForgeInnerDoor.MapEntry: Forge Door
@@ -3538,11 +3628,17 @@ Mods: {
 			DynamicGear.MapEntry: ""
 			GearPuzzleOrigin.MapEntry: ""
 			ObjectiveGear.MapEntry: ""
+			LightActor.MapEntry: ""
+			Lens.MapEntry: ""
+			LightGoal.MapEntry: ""
 			Reflector.MapEntry: ""
 			LowWindBanner.MapEntry: ""
+			MainForge.MapEntry: ""
 			NPCSpawner.MapEntry: ""
 			OldCeirosShrine.MapEntry: ""
 			TallWindow.MapEntry: ""
+			TallWindowCrystal.MapEntry: ""
+			TallWindowLava.MapEntry: ""
 			TempleCandle.MapEntry: Candle
 			TempleCandleCrystal.MapEntry: Candle
 			TempleCeirosFountain.MapEntry: Fountain
@@ -3550,6 +3646,8 @@ Mods: {
 			TutorialDoor1.MapEntry: ""
 			TutorialDoor2.MapEntry: ""
 			VitricPillarWall.MapEntry: ""
+			VitricPillarWallCrystal.MapEntry: ""
+			VitricPillarWallLava.MapEntry: ""
 			VitricPillarWallShort.MapEntry: ""
 			WindsRoomActor.MapEntry: ""
 			VitricBannerSmall.MapEntry: ""
@@ -3564,15 +3662,15 @@ Mods: {
 			VitricDecor2x1Inverted.MapEntry: ""
 			VitricDecor2x2.MapEntry: ""
 			VitricDecor2x2Inverted.MapEntry: ""
-			VitricGiantCrystal.MapEntry: ""
-			VitricLargeCrystal.MapEntry: ""
+			// VitricGiantCrystal.MapEntry: ""
+			// VitricLargeCrystal.MapEntry: ""
 			VitricLootBox.MapEntry: ""
-			VitricMediumCrystal.MapEntry: ""
+			// VitricMediumCrystal.MapEntry: ""
 			VitricOre.MapEntry: Vitric Ore
 			VitricOreFloat.MapEntry: Vitric Ore
 			VitricRoundCactus.MapEntry: ""
 			VitricSmallCactus.MapEntry: ""
-			VitricSmallCrystal.MapEntry: ""
+			// VitricSmallCrystal.MapEntry: ""
 			VitricSpike.MapEntry: ""
 			VitricBathtub.MapEntry: ""
 			VitricBed.MapEntry: ""
@@ -3625,22 +3723,76 @@ Mods: {
 			VitricSand.MapEntry: ""
 			VitricSoftSand.MapEntry: ""
 			VitricSandPlain.MapEntry: ""
+			PatreonPlaque.MapEntry: ""
+			DoorLasers.MapEntry: ""
+			LightBlocker.MapEntry: ""
+			EmptyHolder.MapEntry: ""
+			VitricGiantCrystal.MapEntry: Vitric Giant Crystal
+			VitricLargeCrystal.MapEntry: Vitric Large Crystal
+			VitricMediumCrystal.MapEntry: Vitric Medium Crystal
+			VitricSmallCrystal.MapEntry: Vitric Small Crystal
 		}
 
 		Biomes: {
-			HotspringBiome.DisplayName: Hotsprings
-			MoonstoneBiome.DisplayName: Moonstone
-			OvergrowBiome.DisplayName: "[PH]Overgrowth"
-			PermafrostTempleBiome.DisplayName: Auroracle Temple
-			VitricDesertBiome.DisplayName: Vitric Desert
-			VitricTempleBiome.DisplayName: Vitric Forge
-			CombatShrineBiome.DisplayName: Combat Shrine Biome
-			EvasionShrineBiome.DisplayName: Evasion Shrine Biome
+			HotspringBiome: {
+				DisplayName: Hotsprings
+				TownNPCDialogueName: the Hotspring Biome
+			}
+
+			MoonstoneBiome: {
+				DisplayName: Moonstone
+				TownNPCDialogueName: the Moonstone Biome
+			}
+
+			OvergrowBiome: {
+				DisplayName: "[PH]Overgrowth"
+				TownNPCDialogueName: the Overgrow Biome
+			}
+
+			PermafrostTempleBiome: {
+				DisplayName: Auroracle Temple
+				TownNPCDialogueName: the Permafrost Temple Biome
+			}
+
+			VitricDesertBiome: {
+				DisplayName: Vitric Desert
+				TownNPCDialogueName: the Vitric Desert Biome
+			}
+
+			VitricTempleBiome: {
+				DisplayName: Vitric Forge
+				TownNPCDialogueName: the Vitric Temple Biome
+			}
+
+			CombatShrineBiome: {
+				DisplayName: Combat Shrine Biome
+				TownNPCDialogueName: the Combat Shrine Biome
+			}
+
+			EvasionShrineBiome: {
+				DisplayName: Evasion Shrine Biome
+				TownNPCDialogueName: the Evasion Shrine Biome
+			}
 		}
 
 		NPCs: {
 			Glassweaver.DisplayName: Glassweaver
-			GlassweaverWaiting.DisplayName: Glassweaver
+
+			GlassweaverWaiting: {
+				DisplayName: Glassweaver
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
 			ArenaActor.DisplayName: ""
 			GoldPlatform.DisplayName: ""
 			IcePlatform.DisplayName: ""
@@ -3649,7 +3801,13 @@ Mods: {
 			ArenaBottom.DisplayName: ""
 			VitricBackdropLeft.DisplayName: ""
 			VitricBackdropRight.DisplayName: ""
-			VitricBoss.DisplayName: Ceiros
+
+			VitricBoss: {
+				DisplayName: Ceiros
+				DropConditionText: Dropped on the first kill
+				FirstKillRule: Dropped on first kill
+			}
+
 			VitricBossCrystal.DisplayName: Resonant Crystal
 			VitricBossPlatformDown.DisplayName: ""
 			VitricBossPlatformDownSmall.DisplayName: ""
@@ -3665,7 +3823,24 @@ Mods: {
 			Crusher.DisplayName: Masher
 			Snoobel.DisplayName: Snoobel
 			SwordEnemy.DisplayName: Sky Splicer
+
+			Crow: {
+				DisplayName: ???
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
 			BoomBug.DisplayName: Firebug
+			Coolmite.DisplayName: Coolmite
 			CrystalPopper.DisplayName: Sand Bat
 			CrystalSlime.DisplayName: Crystal Slime
 			DesertWisp.DisplayName: Desert Wisp
@@ -3680,12 +3855,12 @@ Mods: {
 			LesserFirebug.DisplayName: Lesser Firebug
 			MagmitePassive.DisplayName: Small Magmite
 			Snake.DisplayName: Spittin' Snek
-			CodexPickup.DisplayName: Starlight Codex
 			FaeflamePickup.DisplayName: Faeflame
 			ForbiddenWindsPickup.DisplayName: Forbidden Winds
 			InfusionSlotPickup.DisplayName: Unnerving Device
 			BerrySlime.DisplayName: Slimeberry
 			TouchstoneWisp.DisplayName: Aurora Spirit
+			BossRushOrb.DisplayName: ???
 			ArenaBlocker.DisplayName: Arena Blocker
 			Auroraborn.DisplayName: Auroraborn
 			Auroraling.DisplayName: Auroraling
@@ -3694,16 +3869,43 @@ Mods: {
 			StarlightWaterActor.DisplayName: Starlight Water Actor
 			GravityOrbTest.DisplayName: Gravity Orb Test
 			BossRushGoal.DisplayName: Boss Rush Goal
-			BossRushLock.DisplayName: Boss Rush Lock
 			Dweller.DisplayName: Dweller
 			Stalker.DisplayName: Stalker
 			Dreambeast.DisplayName: Dreambeast
 			WaterCube.DisplayName: Water Cube
-			EnchantNPC.DisplayName: Enchant N P C
-			Voidsmith.DisplayName: Voidsmith
+
+			EnchantNPC: {
+				DisplayName: Enchant N P C
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
+			Voidsmith: {
+				DisplayName: Voidsmith
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+
 			DesertWisp2.DisplayName: Desert Wisp2
 			StaminaShardPickup.DisplayName: Stamina Shard Pickup
-			Coolmite.DisplayName: Coolmite
 		}
 
 		Buffs: {
@@ -3870,6 +4072,11 @@ Mods: {
 				Description: You getting sucked
 			}
 
+			CorpseflowerBuff: {
+				DisplayName: Corpseflowered
+				Description: You have been cursed by the corpseflower
+			}
+
 			BarbedKnifeBleed: {
 				DisplayName: Deep gash
 				Description: You're bleeding out!
@@ -3888,11 +4095,6 @@ Mods: {
 			CoachDebuff: {
 				DisplayName: Coach Debuff
 				Description: 10% increased damage
-			}
-
-			CorpseflowerBuff: {
-				DisplayName: Corpseflowered
-				Description: You have been cursed by the corpseflower
 			}
 
 			FiletFrenzyBuff: {
@@ -3994,13 +4196,166 @@ Mods: {
 			LayeredPrefix.DisplayName: Layered
 			PlatedPrefix.DisplayName: Plated
 			ReinforcedPrefix.DisplayName: Reinforced
-			StaminaPrefix1.DisplayName: Springy
-			StaminaPrefix2.DisplayName: Energetic
-			StaminaPrefix3.DisplayName: Empowered
-			StaminaPrefix4.DisplayName: Overcharged
+			StaminaPrefix1.DisplayName: Sparkling
+			StaminaPrefix2.DisplayName: Shining
+			StaminaPrefix3.DisplayName: Glowing
+			StaminaPrefix4.DisplayName: Radiant
 			Feral.DisplayName: Feral
 			Jumpy.DisplayName: Jumpy
 			Tanklike.DisplayName: Tanklike
+		}
+
+		Configs: {
+			AudioConfig: {
+				DisplayName: Audio Config
+
+				InvSounds: {
+					Label: Custom Inventory Sounds
+					Tooltip: If custom inventory sounds should play for all Items, select few, or none.
+				}
+			}
+
+			CustomSounds: {
+				Tooltip: ""
+				All.Label: All
+				Specific.Label: Specific
+				None.Label: None
+			}
+
+			GraphicsConfig: {
+				DisplayName: Graphics Config
+
+				ScreenshakeMult: {
+					Label: Screenshake
+					Tooltip: Modifies the intensity of screen shake effects
+				}
+
+				LightingPollRate: {
+					Label: Lighting Buffer Poll Rate
+					Tooltip:
+						'''
+						Changes how often the lighting buffer polls for data. 
+						Higher values increase performance but make lighting update slower on some objects. 
+						Lower values result in smoother moving light but may hurt performance.
+						'''
+				}
+
+				ScrollingLightingPoll: {
+					Label: Scrolling Lighting Buffer Building
+					Tooltip:
+						'''
+						Causes the lighting buffer to be built over its poll rate instead of all at once. 
+						May help normalize lag spikes but cause strange lighting artifacts.
+						'''
+				}
+
+				ParticlesActive: {
+					Label: Extra Particles
+					Tooltip:
+						'''
+						Enables/Disables special particles. 
+						Disable this if you have performance issues.
+						'''
+				}
+
+				HighQualityLighting: {
+					Label: High quality lit textures
+					Tooltip:
+						'''
+						Enables/Disables fancy lighting on large textures. 
+						Disable this if you have performance issues.
+						'''
+				}
+
+				ReflectionConfig: {
+					Label: Background Reflections
+					Tooltip:
+						'''
+						Configures what is rendered for background reflections. 
+						Disable this if you have performance issues.
+						'''
+				}
+			}
+
+			ReflectionSubConfig: {
+				Tooltip: ""
+
+				ReflectionsOn: {
+					Label: Background Reflections
+					Tooltip:
+						'''
+						This will Enable/Disable the background reflections system entirely. 
+						If this is off, the other settings in this block are ignored. 
+						Disable this if you have performance issues.
+						'''
+				}
+
+				PlayerReflectionsOn: {
+					Label: Reflect Players
+					Tooltip:
+						'''
+						This will Enable/Disable reflecting Players.
+						 low performance impact.
+						'''
+				}
+
+				NpcReflectionsOn: {
+					Label: Reflect NPCs
+					Tooltip:
+						'''
+						This will Enable/Disable reflecting NPCs.
+						 low performance impact.
+						'''
+				}
+
+				ProjReflectionsOn: {
+					Label: Reflect Projectiles
+					Tooltip:
+						'''
+						This will Enable/Disable reflecting Projectiles.
+						 high performance impact.
+						'''
+				}
+
+				DustReflectionsOn: {
+					Label: Reflect Particles
+					Tooltip:
+						'''
+						This will Enable/Disable reflecting Particles, gores and dusts.
+						 high performance impact.
+						'''
+				}
+			}
+
+			GUIConfig: {
+				DisplayName: G U I Config
+
+				OverheadStaminaState: {
+					Label: Overhead Starlight Display
+					Tooltip: When/If the overhead starlight meter should display
+				}
+
+				KeywordStyle: {
+					Label: Keyword Style
+					Tooltip: How keywords should be displayed in tooltips
+				}
+			}
+
+			OverlayState: {
+				Tooltip: ""
+				AlwaysOn.Label: Always On
+				WhileNotFull.Label: While Not Full
+				WhileUsing.Label: While Using
+				Never.Label: Never
+			}
+
+			KeywordStyle: {
+				Tooltip: ""
+				Colors.Label: Colors
+				Brackets.Label: Brackets
+				Both.Label: Both
+				Neither.Label: Neither
+			}
 		}
 	}
 }
