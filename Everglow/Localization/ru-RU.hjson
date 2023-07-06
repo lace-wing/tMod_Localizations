@@ -1530,62 +1530,62 @@ Mods: {
 			}
 
 			LonelyJellyfish: {
-				DisplayName: A Lonely Jellyfish
+				DisplayName: Одинокая медуза
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Makes you invisible and summon jellyfish electrspheres
-					'Toss it off after appreciating'
+					Делает вас невидимым и вызывает электросферу медуз
+					'Выбросьте его, оценив по достоинству'
 					'''
 			}
 
 			OrangeJuice: {
-				DisplayName: Orange Juice
+				DisplayName: Апельсиновый сок
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Grants you invincibility
-					'Emm, kind of like LCL'
+					Дарует вам непобедимость
+					'Эм, похоже на LCL'
 					'''
 			}
 
 			PiercoldWind: {
-				DisplayName: Piercingly Cold Winds
+				DisplayName: Пронительно холодные ветры
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Lantern Moon enemies
+					Эффективно против врагов Лунного Фонаря
 					'长啸出原野, 凛然寒风生'
 					'''
 			}
 
 			PurpleHooter: {
-				DisplayName: Purple Hooter
+				DisplayName: Фиолетовый гудок
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Blood Moon enemies
-					'Nobleness and profoundness'
+					Эффективно против врагов Кровавой Луны
+					'Благородство и глубина'
 					'''
 			}
 
 			QuinceMarry: {
-				DisplayName: Quince Marry
+				DisplayName: Айвовый брак
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Pumpkin Moon enemies
-					'Hotness and gentleness'
+					Эффективно против врагов Тыквенной Луны
+					'Горячность и нежность'
 					'''
 			}
 
 			RedWine: {
-				DisplayName: Red Wine
+				DisplayName: Красное вино
 				Tooltip:
 					'''
 					{$CommonItemTooltip.MediumStats}
-					Effectively against the Frost Moon enemies
-					'The upper class and elegance'
+					Эффективно против врагов Морозной Луны
+					'Высший класс и элегантность'
 					'''
 			}
 
